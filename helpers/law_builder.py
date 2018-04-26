@@ -325,8 +325,8 @@ class LawBuilder(BaseBuilder):
         full_src_path = self.site.get_src_path(src_path)
 
         repo_url = self.site.config.get('repo-url')
-        edit_url = '{}/tree/{}/{}'.format(repo_url, self.site.src_path, src_path)
-        new_url = '{}/tree/README.md#{}'.format(repo_url, name)
+        edit_url = '{}/blob/master/{}/{}'.format(repo_url, self.site.src_path, src_path)
+        new_url = '{}/blob/master/README.md#{}'.format(repo_url, name)
 
         vars = {
             'article' : article['data'],

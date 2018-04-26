@@ -14,17 +14,23 @@ quick-access:
   de: Schnellzugriff
   en: Quick Access
 articles-overview:
-  de: DSGVO
-  en: GDPR
+  de: § DSGVO
+  en: § GDPR
 index-overview:
   de: Glossar
   en: Glossary 
 summary:
-  de: Zusammenfassung
+  de: Überblick
   en: Summary
 wiki:
   de: Wiki
   en: Wiki
+new-summary:
+  de: Neue Zusammenfassung schreiben
+  en: Create new summary
+new-wiki:
+  de: Neuen Wiki-Eintrag schreiben
+  en: Create new Wiki entry
 q-and-a:
   de: Fragen &amp; Antworten
   en: Q &amp; A
@@ -126,7 +132,7 @@ the-law-title:
   de: Der Gesetzestext
   en: The law text
 summaries-title:
-  de: Kurz-Zusammenfassungen
+  de: Zusammenfassung
   en: Short Summaries
 wiki-description:
   de: >
@@ -138,7 +144,7 @@ wiki-description:
     and share relevant information such as links, tutorials or solutions.
 summaries-description:
   de: >
-    Kurzzusammenfassungen der wichtigsten Artikel helfen dir, schnell einen
+    Kurz-Zusammenfassungen der wichtigsten Artikel helfen dir, schnell einen
     Überblick zu erhalten und einschätzen zu können, ob ein bestimmter Artikel
     für dich relevant ist.
   en: >

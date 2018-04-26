@@ -25,7 +25,7 @@ When contributing, please follow this process:
   [individuals](https://github.com/dpkit/gdpr-portal/clas/cla_gdpr_community_portal_individual.pdf) or
   [entities](https://github.com/dpkit/gdpr-portal/clas/cla_gdpr_community_portal_entity.pdf)
   (e.g. companies, organizations). Send the signed agreement (together with
-  your Github username) to **gdpr-portal@dpkit.com**
+  your Github username) [to us via e-mail](#questions)
   and we'll send you back a version signed by us. The agreement will remain
   confidential, we will add your Github username to our public list of contributors
   though to make it easy to verify future contributions by you. Please note that
@@ -50,6 +50,36 @@ When contributing, please follow this process:
 * When all open questions and the collected feedback is addressed, we merge
   your improvement into the master branch and publish it on
   [our portal](https://gdpr.dpkit.com).
+
+The following sections discuss specific types of materials on this portal
+that you can contribute to.
+
+## Wiki
+
+Wiki pages are a great place to collect relevant information about an
+article, definition, topic or recital. Currently we do not have a fixed
+structure for this as we still try to figure out what's the best format, so
+please feel free to structure you content as you see fit and submit it
+for discussion early and often.
+
+To create a new Wiki page for an article, go to the relevant source directory
+(e.g. `src/en/gdpr/chapters/1/sections/0/articles`) and create a file calles
+`[article-number]-wiki.md` (e.g. `1-wiki.md`). The content of the file will
+be picked up during the generation of the site and added to the corresponding
+article.
+
+## Summary
+
+An article summary should help people to quickly grasp the essence of the
+article without being overwhelmed by legalese. Summaries should be short
+(obviously) and be writen in an accessible language. Feel free to make use
+of bullet lists and emphasis (e.g. **bold text**) but try to keep it simple.
+
+To create a new summary page for an article, go to the relevant source directory
+(e.g. `src/en/gdpr/chapters/1/sections/0/articles`) and create a file calles
+`[article-number]-summary.md` (e.g. `1-summary.md`). The content of the file will
+be picked up during the generation of the site and added to the corresponding
+article.
 
 # Contributors
 
@@ -129,8 +159,7 @@ includes but is not limited to texts, images, code and any other assets that
 are provided as part of this project.
 
 The original resources are licensed under a 
-[**Creative Commons Attribution-ShareAlike (CC BY-SA)**]
-(https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+[**Creative Commons Attribution-ShareAlike (CC BY-SA)**](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 license, which allows commercial and non-commercial use of the resources. The
 full text of the license can be viewed on the linked website and is included
 with this project in [German](https://github.com/dpkit/gdpr-portal/LICENSE-DE)
@@ -154,7 +183,7 @@ any third-party resources from this project.
 ## Exceptions / Custom Licences
 
 If you want to use original resources from the GDPR community portal in a way
-that is not allowed by the CC BY-SA license, please contact us (**gdpr-portal@dpkit.com**)
+that is not allowed by the CC BY-SA license, please [contact us][#questions]
 and describe your use case. We might be able to grant you a custom license then
 if you make sure that any added value will be contributed back to this project.
 
@@ -179,7 +208,7 @@ The following third-party resources have been used to build this community porta
 
 We take intellectual property rights very serious. If you think that any
 material on this project may infringe on your copyright or the copyright of a
-third party, please contact us (**gdpr-portal@dpkit.com**) or open an issue.
+third party, please [contact us](#questions) or open an issue.
 
 # Questions?
 
