@@ -188,7 +188,7 @@ Original software code published as part of this project is released under a
 ## Exceptions / Custom Licences
 
 If you want to use original resources from the GDPR community portal in a way
-that is not allowed by the CC BY-SA license, please [contact us][#questions]
+that is not allowed by the CC BY-SA license, please [contact us](#questions)
 and describe your use case. We might be able to grant you a custom license then
 if you make sure that any added value will be contributed back to this project.
 
