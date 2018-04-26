@@ -170,12 +170,14 @@ use original resources from this project you need to attribute them to this
 project in the following way:
 
 * For printed materials (e.g. flyers, books, brochures, ...), you need to
-  include the title and a link to the GDPR community portal (https://gdpr.dpkit.com)
+  include the title and a link to the GDPR community portal (https://gdpr.dpkit.com
+  for the English version and https://dsgvo.dpkit.com for the German version)
   in your title page or first page.
   The information has to be placed prominently and needs to include a notice
   about the original license as stated in the CC-BY-SA license terms.
 * For online content you need to include the title and a link to the GDPR
-  community portal (https://gdpr.dpkit.com) on each page that contains
+  community portal (https://gdpr.dpkit.com for the English version and
+  https://dsgvo.dpkit.com for the German version) on each page that contains
   resources from this project.
 
 Please note that the license agreement does not extend to third-party resources
