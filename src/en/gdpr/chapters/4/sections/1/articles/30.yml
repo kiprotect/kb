@@ -43,8 +43,8 @@ paragraphs:
           and, in the case of transfers referred to in the second subparagraph of
           Article 49(1), the documentation of suitable safeguards;
         index:
-        - personal-data
         - international-organisation
+        - personal-data
       f:
         content: where possible, the envisaged time limits for erasure of the different
           categories of data;
@@ -89,8 +89,8 @@ paragraphs:
           and, in the case of transfers referred to in the second subparagraph of
           Article 49(1), the documentation of suitable safeguards;
         index:
-        - personal-data
         - international-organisation
+        - personal-data
       d:
         content: >-
           where possible, a general description of the technical and organisational
@@ -125,9 +125,9 @@ paragraphs:
       data|index:personal-data} relating to criminal convictions and offences referred
       to in Article 10.
     index:
+    - processing
     - enterprise
     - personal-data
-    - processing
     number: 5
 section: 1
 title: Records of {processing|index:processing} activities

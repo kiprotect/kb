@@ -1,7 +1,7 @@
 chapter: 4
 index:
-- vertreter
 - verantwortlicher
+- vertreter
 number: 27
 paragraphs:
   1:
@@ -9,9 +9,9 @@ paragraphs:
       \ oder der {Auftragsverarbeiter|index:auftragsverarbeiter} schriftlich einen\
       \ {Vertreter|index:vertreter} in der Union."
     index:
-    - auftragsverarbeiter
-    - vertreter
     - verantwortlicher
+    - vertreter
+    - auftragsverarbeiter
     number: 1
   2:
     number: 2
@@ -27,8 +27,8 @@ paragraphs:
           \ zu einem Risiko f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFC\
           rliche-person} f\xFChrt, oder"
         index:
-        - "nat\xFCrliche-person"
         - verarbeitung
+        - "nat\xFCrliche-person"
         - personenbezogene-daten
       b:
         content: "Beh\xF6rden oder \xF6ffentliche Stellen."
@@ -55,12 +55,12 @@ paragraphs:
       \ zur Gew\xE4hrleistung der Einhaltung dieser {Verordnung|index:verordnung}\
       \ als Anlaufstelle zu dienen."
     index:
-    - verordnung
-    - "aufsichtsbeh\xF6rde"
-    - verarbeitung
-    - verantwortlicher
     - auftragsverarbeiter
     - betroffene-person
+    - verarbeitung
+    - verordnung
+    - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     - vertreter
     number: 4
   5:
@@ -70,8 +70,8 @@ paragraphs:
       etwaiger rechtlicher Schritte gegen den {Verantwortlichen|index:verantwortlicher}
       oder den {Auftragsverarbeiter|index:auftragsverarbeiter} selbst.
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     number: 5
 section: 1
 title: >-

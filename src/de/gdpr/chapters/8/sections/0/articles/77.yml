@@ -13,10 +13,10 @@ paragraphs:
       \ {personenbezogenen Daten|index:personenbezogene-daten} gegen diese {Verordnung|index:verordnung}\
       \ verst\xF6\xDFt."
     index:
+    - betroffene-person
+    - verarbeitung
     - verordnung
     - "aufsichtsbeh\xF6rde"
-    - verarbeitung
-    - betroffene-person
     - personenbezogene-daten
     number: 1
   2:

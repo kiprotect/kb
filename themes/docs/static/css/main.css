@@ -228,6 +228,11 @@ footer.footer {
 
 .navbar {
   z-index: auto; }
+  .navbar .navbar-dropdown.is-active {
+    display: block; }
+
+img.country {
+  height: 20px; }
 
 .columns.features .card {
   height: 100%; }
@@ -275,6 +280,9 @@ footer.footer {
   background-color: #2C56A2; }
 .side-menu aside.menu {
   margin-bottom: 15px; }
+  @media (min-width: 1088px) {
+    .side-menu aside.menu.mobile-only {
+      display: none; } }
 @media (max-width: 1087px) {
   .side-menu.is-active {
     z-index: 200;

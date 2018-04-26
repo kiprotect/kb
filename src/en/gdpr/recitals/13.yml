@@ -21,8 +21,8 @@ content: >-
   The notion of micro, small and medium-sized enterprises should draw from Article
   2 of the Annex to Commission Recommendation 2003/361/EC (5).
 index:
-- regulation
-- personal-data
-- natural-person
 - processing
+- regulation
+- natural-person
+- personal-data
 number: 13

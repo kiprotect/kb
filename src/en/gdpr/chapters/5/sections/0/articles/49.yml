@@ -3,9 +3,9 @@ number: 49
 paragraphs:
   1:
     index:
+    - international-organisation
     - binding-corporate-rules
     - personal-data
-    - international-organisation
     number: 1
     points:
       a:
@@ -44,8 +44,8 @@ paragraphs:
           {data subject|index:data-subject} or of other persons, where the {data subject|index:data-subject}
           is physically or legally incapable of giving {consent|index:consent};
         index:
-        - data-subject
         - consent
+        - data-subject
       g:
         content: >-
           the transfer is made from a register which according to Union or Member
@@ -71,12 +71,12 @@ paragraphs:
           {data subject|index:data-subject} of the transfer and on the compelling
           legitimate interests pursued.
         index:
-        - binding-corporate-rules
         - data-subject
+        - binding-corporate-rules
         - controller
         - supervisory-authority
-        - personal-data
         - international-organisation
+        - personal-data
     preamble: >-
       In the absence of an adequacy decision pursuant to Article 45(3), or of appropriate
       safeguards pursuant to Article 46, including {binding corporate rules|index:binding-corporate-rules},
@@ -116,8 +116,8 @@ paragraphs:
       organisation|index:international-organisation}. Member States shall notify such
       provisions to the Commission.
     index:
-    - personal-data
     - international-organisation
+    - personal-data
     number: 5
   6:
     content: >-

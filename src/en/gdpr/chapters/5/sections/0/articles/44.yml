@@ -13,12 +13,12 @@ content: >-
   is not undermined.
 index:
 - regulation
-- controller
-- personal-data
 - processor
+- natural-person
+- controller
 - processing
 - international-organisation
-- natural-person
+- personal-data
 number: 44
 section: 0
 title: General principle for transfers

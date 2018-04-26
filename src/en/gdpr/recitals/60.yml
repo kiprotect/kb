@@ -16,8 +16,8 @@ content: >-
   Where the icons are presented electronically, they should be machine-readable.
 index:
 - data-subject
+- controller
+- processing
 - personal-data
 - profiling
-- processing
-- controller
 number: 60

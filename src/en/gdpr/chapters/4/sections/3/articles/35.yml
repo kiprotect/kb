@@ -12,10 +12,10 @@ paragraphs:
       assessment may address a set of similar {processing|index:processing} operations
       that present similar high risks.
     index:
-    - personal-data
-    - controller
-    - natural-person
     - processing
+    - natural-person
+    - controller
+    - personal-data
     number: 1
   2:
     content: >-
@@ -35,9 +35,9 @@ paragraphs:
           that produce legal effects concerning the {natural person|index:natural-person}
           or similarly significantly affect the {natural person|index:natural-person};
         index:
-        - profiling
         - natural-person
         - processing
+        - profiling
       b:
         content: >-
           {processing|index:processing} on a large scale of special categories of
@@ -45,8 +45,8 @@ paragraphs:
           relating to criminal convictions and offences referred to in Article 10;
           or
         index:
-        - personal-data
         - processing
+        - personal-data
       c:
         content: a systematic monitoring of a publicly accessible area on a large
           scale.
@@ -83,9 +83,9 @@ paragraphs:
       or to the monitoring of their behaviour in several Member States, or may substantially
       affect the free movement of {personal data|index:personal-data} within the Union.
     index:
+    - processing
     - supervisory-authority
     - personal-data
-    - processing
     number: 6
   7:
     number: 7
@@ -116,8 +116,8 @@ paragraphs:
           into account the rights and legitimate interests of data subjects and other
           persons concerned.
         index:
-        - personal-data
         - regulation
+        - personal-data
     preamble: 'The assessment shall contain at least:'
   8:
     content: >-

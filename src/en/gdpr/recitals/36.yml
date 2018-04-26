@@ -33,11 +33,11 @@ content: >-
   of the {group of undertakings|index:group-of-undertakings}, except where the purposes
   and means of {processing|index:processing} are determined by another undertaking.
 index:
-- group-of-undertakings
 - regulation
-- personal-data
 - processor
-- supervisory-authority
-- processing
+- group-of-undertakings
 - controller
+- processing
+- supervisory-authority
+- personal-data
 number: 36

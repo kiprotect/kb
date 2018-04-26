@@ -21,7 +21,7 @@ content: >-
   vital interest of the {data subject|index:data-subject}.
 index:
 - consent
-- data-subject
-- personal-data
 - international-organisation
+- personal-data
+- data-subject
 number: 112

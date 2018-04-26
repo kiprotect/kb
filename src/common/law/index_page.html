@@ -4,6 +4,13 @@
 {% endblock %}
 {%block content%}
 <div class="glossary-definition content">
+    {% if not definition.title %}
+    <div class="message is-warning">
+        <div class="message-body">
+            {{'no-definition-content'|translate}}
+        </div>
+    </div>
+    {% else %}
     <h2 class="title">{{definition.title}}</h2>
     {% if definition['official-description'] is defined %}
         <div class="official-description">
@@ -20,6 +27,7 @@
                 {{definition.description|law_markup(lang)|safe}}
             </p>
         </div>
+    {% endif %}
     {% endif %}
 </div>
 

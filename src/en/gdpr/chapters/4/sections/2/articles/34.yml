@@ -12,9 +12,9 @@ paragraphs:
       breach to the {data subject|index:data-subject} without undue delay.
     index:
     - data-subject
-    - personal-data
-    - controller
     - natural-person
+    - controller
+    - personal-data
     number: 1
   2:
     content: >-
@@ -40,8 +40,8 @@ paragraphs:
           unintelligible to any person who is not authorised to access it, such as
           encryption;
         index:
-        - personal-data
         - controller
+        - personal-data
       b:
         content: >-
           the {controller|index:controller} has taken subsequent measures which ensure
@@ -66,10 +66,10 @@ paragraphs:
       may require it to do so or may decide that any of the conditions referred to
       in paragraph 3 are met.
     index:
-    - data-subject
     - supervisory-authority
-    - personal-data
+    - data-subject
     - controller
+    - personal-data
     number: 4
 section: 2
 title: >-

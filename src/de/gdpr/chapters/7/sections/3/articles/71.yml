@@ -8,8 +8,8 @@ paragraphs:
       \ Der Bericht wird ver\xF6ffentlicht und dem Europ\xE4ischen Parlament, dem\
       \ Rat und der Kommission \xFCbermittelt."
     index:
-    - "nat\xFCrliche-person"
     - verarbeitung
+    - "nat\xFCrliche-person"
     number: 1
   2:
     content: "Der Jahresbericht enth\xE4lt eine \xDCberpr\xFCfung der praktischen\

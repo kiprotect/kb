@@ -11,11 +11,11 @@ definitions:
       \ to the physical, physiological, genetic, mental, economic, cultural or social\
       \ identity of that {natural person|index:natural-person};"
     index:
-    - identifiable
     - data-subject
-    - personal-data
-    - identified
     - natural-person
+    - identified
+    - identifiable
+    - personal-data
     number: 1
   2:
     content: "\u2018{processing|index:processing}\u2019 means any operation or set\
@@ -26,18 +26,18 @@ definitions:
       \ disclosure by transmission, dissemination or otherwise making available, alignment\
       \ or combination, restriction, erasure or destruction;"
     index:
+    - processing
     - personal-data
     - automated-means
-    - processing
     number: 2
   3:
     content: "\u2018{restriction of processing|index:restriction-of-processing}\u2019\
       \ means the marking of stored {personal data|index:personal-data} with the aim\
       \ of limiting their {processing|index:processing} in the future;"
     index:
+    - processing
     - personal-data
     - restriction-of-processing
-    - processing
     number: 3
   4:
     content: "\u2018{profiling|index:profiling}\u2019 means any form of automated\
@@ -48,10 +48,10 @@ definitions:
       \ at work, economic situation, health, personal preferences, interests, reliability,\
       \ behaviour, location or movements;"
     index:
-    - profiling
-    - personal-data
-    - natural-person
     - processing
+    - natural-person
+    - personal-data
+    - profiling
     number: 4
   5:
     content: "\u2018{pseudonymisation|index:pseudonymisation}\u2019 means the {processing|index:processing}\
@@ -64,14 +64,14 @@ definitions:
       \ an {identified|index:identified} or {identifiable|index:identifiable} {natural\
       \ person|index:natural-person};"
     index:
-    - identifiable
+    - pseudonymisation
     - data-subject
+    - natural-person
+    - identified
+    - processing
+    - identifiable
     - technical-and-organisational-measures
     - personal-data
-    - pseudonymisation
-    - processing
-    - identified
-    - natural-person
     number: 5
   6:
     content: "\u2018{filing system|index:filing-system}\u2019 means any structured\
@@ -79,8 +79,8 @@ definitions:
       \ to specific criteria, whether centralised, decentralised or dispersed on a\
       \ functional or geographical basis;"
     index:
-    - personal-data
     - filing-system
+    - personal-data
     number: 6
   7:
     content: "\u2018{controller|index:controller}\u2019 means the natural or legal\
@@ -91,18 +91,18 @@ definitions:
       \ the {controller|index:controller} or the specific criteria for its nomination\
       \ may be provided for by Union or Member State law;"
     index:
-    - personal-data
-    - controller
     - processing
+    - controller
+    - personal-data
     number: 7
   8:
     content: "\u2018{processor|index:processor}\u2019 means a natural or legal person,\
       \ public authority, agency or other body which processes {personal data|index:personal-data}\
       \ on behalf of the {controller|index:controller};"
     index:
-    - personal-data
-    - controller
     - processor
+    - controller
+    - personal-data
     number: 8
   9:
     content: "\u2018{recipient|index:recipient}\u2019 means a natural or legal person,\
@@ -114,10 +114,10 @@ definitions:
       \ of those data by those public authorities shall be in compliance with the\
       \ applicable data protection rules according to the purposes of the {processing|index:processing};"
     index:
-    - recipient
-    - third-party
-    - personal-data
     - processing
+    - recipient
+    - personal-data
+    - third-party
     number: 9
   10:
     content: "\u2018{third party|index:third-party}\u2019 means a natural or legal\
@@ -127,10 +127,10 @@ definitions:
       \ are authorised to process {personal data|index:personal-data};"
     index:
     - data-subject
-    - personal-data
     - processor
-    - third-party
     - controller
+    - personal-data
+    - third-party
     number: 10
   11:
     content: "\u2018{consent|index:consent}\u2019 of the {data subject|index:data-subject}\
@@ -139,10 +139,10 @@ definitions:
       \ action, signifies agreement to the {processing|index:processing} of {personal\
       \ data|index:personal-data} relating to him or her;"
     index:
-    - consent
-    - data-subject
-    - personal-data
     - processing
+    - consent
+    - personal-data
+    - data-subject
     number: 11
   12:
     content: "\u2018{personal data|index:personal-data} breach\u2019 means a breach\
@@ -161,8 +161,8 @@ definitions:
       \ in question;"
     index:
     - genetic-data
-    - personal-data
     - natural-person
+    - personal-data
     number: 13
   14:
     content: "\u2018{biometric data|index:biometric-data}\u2019 means {personal data|index:personal-data}\
@@ -171,10 +171,10 @@ definitions:
       \ which allow or confirm the unique identification of that {natural person|index:natural-person},\
       \ such as facial images or dactyloscopic data;"
     index:
-    - biometric-data
-    - personal-data
-    - natural-person
     - processing
+    - biometric-data
+    - natural-person
+    - personal-data
     number: 14
   15:
     content: "\u2018{data concerning health|index:data-concerning-health}\u2019 means\
@@ -182,9 +182,9 @@ definitions:
       \ of a {natural person|index:natural-person}, including the provision of health\
       \ care services, which reveal information about his or her health status;"
     index:
-    - personal-data
-    - natural-person
     - data-concerning-health
+    - natural-person
+    - personal-data
     number: 15
   16:
     number: 16
@@ -199,9 +199,9 @@ definitions:
           has the power to have such decisions implemented, in which case the establishment
           having taken such decisions is to be considered to be the main establishment;
         index:
-        - personal-data
-        - controller
         - processing
+        - controller
+        - personal-data
       b:
         content: >-
           as regards a {processor|index:processor} with establishments in more than
@@ -225,9 +225,9 @@ definitions:
       \ to their respective obligations under this {Regulation|index:regulation};"
     index:
     - representative
+    - regulation
     - processor
     - controller
-    - regulation
     number: 17
   18:
     content: "\u2018{enterprise|index:enterprise}\u2019 means a natural or legal person\
@@ -252,11 +252,11 @@ definitions:
       \ of undertakings|index:group-of-undertakings}, or group of enterprises engaged\
       \ in a joint economic activity;"
     index:
-    - binding-corporate-rules
-    - group-of-undertakings
-    - personal-data
     - processor
+    - group-of-undertakings
+    - binding-corporate-rules
     - controller
+    - personal-data
     number: 20
   21:
     content: "\u2018{supervisory authority|index:supervisory-authority}\u2019 means\
@@ -267,9 +267,9 @@ definitions:
     number: 21
   22:
     index:
+    - processing
     - supervisory-authority
     - personal-data
-    - processing
     number: 22
     points:
       a:
@@ -309,10 +309,10 @@ definitions:
           in the Union where the {controller|index:controller} or {processor|index:processor}
           is established in more than one Member State; or
         index:
-        - personal-data
-        - controller
-        - processor
         - processing
+        - processor
+        - controller
+        - personal-data
       b:
         content: >-
           {processing|index:processing} of {personal data|index:personal-data} which
@@ -321,10 +321,10 @@ definitions:
           but which substantially affects or is likely to substantially affect data
           subjects in more than one Member State.
         index:
-        - personal-data
-        - controller
-        - processor
         - processing
+        - processor
+        - controller
+        - personal-data
     preamble: "\u2018{cross-border processing|index:cross-border-processing}\u2019\
       \ means either:"
   24:
@@ -339,9 +339,9 @@ definitions:
     index:
     - relevant-and-reasoned-objection
     - regulation
-    - personal-data
     - processor
     - controller
+    - personal-data
     number: 24
   25:
     content: "\u2018{information society service|index:information-society-service}\u2019\

@@ -57,8 +57,8 @@ paragraphs:
       and on the possibility of lodging a complaint with a {supervisory authority|index:supervisory-authority}
       and seeking a judicial remedy.
     index:
-    - data-subject
     - supervisory-authority
+    - data-subject
     - controller
     number: 4
   5:
@@ -94,8 +94,8 @@ paragraphs:
       identity of the {data subject|index:data-subject}.
     index:
     - data-subject
-    - controller
     - natural-person
+    - controller
     number: 6
   7:
     content: >-

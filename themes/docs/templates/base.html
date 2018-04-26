@@ -1,9 +1,11 @@
 
 <!DOCTYPE html>
-<html>
+<html {%if lang %}lang="{{lang}}"{%endif%}>
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  {%if author %}<meta name="author" content="{{author}}">{% endif %}
+  {%if keywords %}<meta name="keywords" content="{{keywords|join(',')}}">{% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{'site-title'|translate}}{% if title is defined %} | {{title}}{%endif%}</title>
   <link rel="stylesheet" type="text/css" href="{{'css/main.css'|file}}">
@@ -28,14 +30,33 @@
             <a class="navbar-item" href="{{'gdpr-articles-overview'|href}}">{{'articles-overview'|translate}}</a>
             <a class="navbar-item" href="{{'gdpr-index-overview'|href}}">{{'index-overview'|translate}}</a>
 
+            <div class="navbar-item has-dropdown">
+                <a class="navbar-link dropdown-toggle" href="#" data-toggle="collapse" data-target="language-dropdown">
+                  <img class="country" src="{{'images/icons/countries/%s.png'|format(lang)|file}}" alt="{{lang}}"/>
+                  </a>
+                  <div class="navbar-dropdown" id="language-dropdown" data-toggle-class="is-active">
+                    {% for language in languages %}
+                      {% if language != lang %}
+                        {% if params.name in site.links[language] %}
+                          {% set href=params.name %}
+                        {% else %}
+                          {% set href='' %}
+                        {% endif %}
+                        <a class="navbar-item" href="{{href|full_href(language=language)}}"><img class="country" src="{{'images/icons/countries/%s.png'|format(language)|file}}" alt="{{language}}"/> &nbsp; {{language}}</a>
+                      {% endif %}
+                    {% endfor %}
+                  </div>      
+            </div>
+    
+
           {% for page in pages %}
             {% if not page.hidden and page.level == 0 %}
               {% if page.children %}
                 <div class="navbar-item has-dropdown">
-                    <a class="navbar-link dropdown-toggle" href="{%if page.src %}{{page.name|href}}{%elif page.href%}{{page.href|href}}{%else%}javascript:void(0){%endif%}">
+                    <a class="navbar-link dropdown-toggle" data-toggle="collapse" data-target="page-{{page.name}}-dropdown" href="{%if page.src %}{{page.name|href}}{%elif page.href%}{{page.href|href}}{%else%}javascript:void(0){%endif%}">
                         {{ page.navtitle or page.title }}
                       </a>
-                      <div class="navbar-dropdown">
+                      <div class="navbar-dropdown" id="page-{{page.name}}-dropdown" data-toggle-class="is-active">
                         {% for child in page.children %}
                           {% if not child.hidden and child.level == 1 %}
                             <a class="navbar-item" href="{{child.name|href}}">{{ child.navtitle or child.title }}</a>

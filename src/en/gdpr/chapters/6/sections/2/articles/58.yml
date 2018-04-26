@@ -25,18 +25,18 @@ paragraphs:
           to notify the {controller|index:controller} or the {processor|index:processor}
           of an alleged infringement of this {Regulation|index:regulation};
         index:
+        - regulation
         - processor
         - controller
-        - regulation
       e:
         content: >-
           to obtain, from the {controller|index:controller} and the {processor|index:processor},
           access to all {personal data|index:personal-data} and to all information
           necessary for the performance of its tasks;
         index:
-        - personal-data
-        - controller
         - processor
+        - controller
+        - personal-data
       f:
         content: >-
           to obtain access to any premises of the {controller|index:controller} and
@@ -81,9 +81,9 @@ paragraphs:
           to comply with the data subject's requests to exercise his or her rights
           pursuant to this {Regulation|index:regulation};
         index:
+        - regulation
         - processor
         - controller
-        - regulation
       d:
         content: >-
           to order the {controller|index:controller} or {processor|index:processor}
@@ -101,8 +101,8 @@ paragraphs:
           breach to the {data subject|index:data-subject};
         index:
         - data-subject
-        - personal-data
         - controller
+        - personal-data
       f:
         content: to impose a temporary or definitive limitation including a ban on
           {processing|index:processing};
@@ -134,8 +134,8 @@ paragraphs:
           to order the suspension of data flows to a {recipient|index:recipient} in
           a third country or to an {international organisation|index:international-organisation}.
         index:
-        - recipient
         - international-organisation
+        - recipient
     preamble: >-
       Each {supervisory authority|index:supervisory-authority} shall have all of the
       following corrective powers:

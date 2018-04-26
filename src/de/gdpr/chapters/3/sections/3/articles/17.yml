@@ -3,9 +3,9 @@ number: 17
 paragraphs:
   1:
     index:
+    - verantwortlicher
     - betroffene-person
     - personenbezogene-daten
-    - verantwortlicher
     number: 1
     points:
       a:
@@ -20,9 +20,9 @@ paragraphs:
           \ 6 Absatz 1 Buchstabe a oder Artikel 9 Absatz 2 Buchstabe a st\xFCtzte,\
           \ und es fehlt an einer anderweitigen Rechtsgrundlage f\xFCr die {Verarbeitung|index:verarbeitung}."
         index:
-        - betroffene-person
         - verarbeitung
         - einwilligung
+        - betroffene-person
       c:
         content: "Die {betroffene Person|index:betroffene-person} legt gem\xE4\xDF\
           \ Artikel 21 Absatz 1 Widerspruch gegen die {Verarbeitung|index:verarbeitung}\
@@ -31,8 +31,8 @@ paragraphs:
           \ legt gem\xE4\xDF Artikel 21 Absatz 2 Widerspruch gegen die {Verarbeitung|index:verarbeitung}\
           \ ein."
         index:
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
       d:
         content: "Die {personenbezogenen Daten|index:personenbezogene-daten} wurden\
           \ unrechtm\xE4\xDFig verarbeitet."
@@ -44,15 +44,15 @@ paragraphs:
           \ oder dem Recht der Mitgliedstaaten erforderlich, dem der {Verantwortliche|index:verantwortlicher}\
           \ unterliegt."
         index:
-        - personenbezogene-daten
         - verantwortlicher
+        - personenbezogene-daten
       f:
         content: "Die {personenbezogenen Daten|index:personenbezogene-daten} wurden\
           \ in Bezug auf angebotene {Dienste der Informationsgesellschaft|index:dienst-der-informationsgesellschaft}\
           \ gem\xE4\xDF Artikel 8 Absatz 1 erhoben."
         index:
-        - personenbezogene-daten
         - dienst-der-informationsgesellschaft
+        - personenbezogene-daten
     preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, von\
       \ dem {Verantwortlichen|index:verantwortlicher} zu verlangen, dass sie betreffende\
       \ {personenbezogene Daten|index:personenbezogene-daten} unverz\xFCglich gel\xF6\
@@ -71,9 +71,9 @@ paragraphs:
       \ oder von Kopien oder Replikationen dieser {personenbezogenen Daten|index:personenbezogene-daten}\
       \ verlangt hat."
     index:
+    - verantwortlicher
     - betroffene-person
     - personenbezogene-daten
-    - verantwortlicher
     number: 2
   3:
     index:

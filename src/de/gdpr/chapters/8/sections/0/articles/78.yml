@@ -21,16 +21,16 @@ paragraphs:
       \ nicht innerhalb von drei Monaten \xFCber den Stand oder das Ergebnis der gem\xE4\
       \xDF Artikel 77 erhobenen Beschwerde in Kenntnis gesetzt hat."
     index:
-    - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - betroffene-person
     number: 2
   3:
     content: "F\xFCr {Verfahren|index:verfahren} gegen eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
       rde} sind die Gerichte des Mitgliedstaats zust\xE4ndig, in dem die {Aufsichtsbeh\xF6\
       rde|index:aufsichtsbeh\xF6rde} ihren Sitz hat."
     index:
-    - verfahren
     - "aufsichtsbeh\xF6rde"
+    - verfahren
     number: 3
   4:
     content: "Kommt es zu einem {Verfahren|index:verfahren} gegen den Beschluss einer\
@@ -39,8 +39,8 @@ paragraphs:
       \ ist, so leitet die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} diese Stellungnahme\
       \ oder diesen Beschluss dem Gericht zu."
     index:
-    - verfahren
     - "aufsichtsbeh\xF6rde"
+    - verfahren
     number: 4
 section: 0
 title: "Recht auf wirksamen gerichtlichen Rechtsbehelf gegen eine {Aufsichtsbeh\xF6\

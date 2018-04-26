@@ -34,12 +34,12 @@ content: "{Personenbezogene Daten|index:personenbezogene-daten}, die ihrem Wesen
   iger T\xE4tigkeiten bestimmter Vereinigungen oder Stiftungen vorgenommen wird, die\
   \ sich f\xFCr die Aus\xFCbung von Grundfreiheiten einsetzen."
 index:
-- "nat\xFCrliche-person"
-- verordnung
+- einwilligung
+- betroffene-person
 - verarbeitung
 - biometrische-daten
-- einwilligung
+- verordnung
+- "nat\xFCrliche-person"
 - verantwortlicher
-- betroffene-person
 - personenbezogene-daten
 number: 51

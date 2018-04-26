@@ -6,9 +6,9 @@ content: >-
   from the {controller|index:controller}, unless required to do so by Union or Member
   State law.
 index:
-- personal-data
-- controller
 - processor
+- controller
+- personal-data
 number: 29
 section: 1
 title: >-

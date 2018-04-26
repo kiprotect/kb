@@ -7,8 +7,8 @@ paragraphs:
   1:
     index:
     - data-subject
-    - personal-data
     - controller
+    - personal-data
     number: 1
     points:
       a:
@@ -26,17 +26,17 @@ paragraphs:
           data|index:personal-data} are intended as well as the legal basis for the
           {processing|index:processing};
         index:
-        - personal-data
         - processing
+        - personal-data
       d:
         content: >-
           where the {processing|index:processing} is based on point (f) of Article
           6(1), the legitimate interests pursued by the {controller|index:controller}
           or by a {third party|index:third-party};
         index:
-        - third-party
         - controller
         - processing
+        - third-party
       e:
         content: the recipients or categories of recipients of the {personal data|index:personal-data},
           if any;
@@ -53,8 +53,8 @@ paragraphs:
           a copy of them or where they have been made available.
         index:
         - international-organisation
-        - personal-data
         - controller
+        - personal-data
     preamble: >-
       Where {personal data|index:personal-data} relating to a {data subject|index:data-subject}
       are collected from the {data subject|index:data-subject}, the {controller|index:controller}
@@ -63,8 +63,8 @@ paragraphs:
   2:
     index:
     - data-subject
-    - personal-data
     - controller
+    - personal-data
     number: 2
     points:
       a:
@@ -82,10 +82,10 @@ paragraphs:
           as well as the right to data portability;
         index:
         - data-subject
+        - controller
+        - processing
         - restriction-of-processing
         - personal-data
-        - processing
-        - controller
       c:
         content: >-
           where the {processing|index:processing} is based on point (a) of Article
@@ -119,8 +119,8 @@ paragraphs:
           subject|index:data-subject}.
         index:
         - data-subject
-        - profiling
         - processing
+        - profiling
     preamble: >-
       In addition to the information referred to in paragraph 1, the {controller|index:controller}
       shall, at the time when {personal data|index:personal-data} are obtained, provide
@@ -135,10 +135,10 @@ paragraphs:
       with information on that other purpose and with any relevant further information
       as referred to in paragraph 2.
     index:
-    - data-subject
-    - personal-data
-    - controller
     - processing
+    - data-subject
+    - controller
+    - personal-data
     number: 3
   4:
     content: >-

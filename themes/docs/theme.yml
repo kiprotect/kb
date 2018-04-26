@@ -36,3 +36,6 @@ translations:
   cookie-notice-ok:
     en: I understand
     de: Verstanden
+  languages:
+    de: Sprachen
+    en: Languages

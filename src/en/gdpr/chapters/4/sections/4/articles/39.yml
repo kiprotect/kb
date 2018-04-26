@@ -25,10 +25,10 @@ paragraphs:
           involved in {processing|index:processing} operations, and the related audits;
         index:
         - regulation
-        - personal-data
         - processor
-        - processing
         - controller
+        - processing
+        - personal-data
       c:
         content: >-
           to provide advice where requested as regards the data protection impact

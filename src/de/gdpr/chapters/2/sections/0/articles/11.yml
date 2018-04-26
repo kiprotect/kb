@@ -1,7 +1,7 @@
 chapter: 2
 index:
-- betroffene-person
 - verarbeitung
+- betroffene-person
 number: 11
 paragraphs:
   1:
@@ -13,10 +13,10 @@ paragraphs:
       \ aufzubewahren, einzuholen oder zu verarbeiten, um die {betroffene Person|index:betroffene-person}\
       \ zu identifizieren."
     index:
+    - verantwortlicher
     - betroffene-person
     - verordnung
     - personenbezogene-daten
-    - verantwortlicher
     number: 1
   2:
     content: "Kann der {Verantwortliche|index:verantwortlicher} in F\xE4llen gem\xE4\
@@ -28,8 +28,8 @@ paragraphs:
       \ zur Aus\xFCbung ihrer in diesen Artikeln niedergelegten Rechte zus\xE4tzliche\
       \ Informationen bereit, die ihre Identifizierung erm\xF6glichen."
     index:
-    - betroffene-person
     - verantwortlicher
+    - betroffene-person
     number: 2
 section: 0
 title: "{Verarbeitung|index:verarbeitung}, f\xFCr die eine Identifizierung der {betroffenen\

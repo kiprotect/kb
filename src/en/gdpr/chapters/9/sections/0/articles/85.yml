@@ -11,9 +11,9 @@ paragraphs:
       for journalistic purposes and the purposes of academic, artistic or literary
       expression.
     index:
+    - processing
     - regulation
     - personal-data
-    - processing
     number: 1
   2:
     content: >-
@@ -27,9 +27,9 @@ paragraphs:
       situations) if they are necessary to reconcile the right to the protection of
       {personal data|index:personal-data} with the freedom of expression and information.
     index:
-    - personal-data
-    - controller
     - processing
+    - controller
+    - personal-data
     number: 2
   3:
     content: >-

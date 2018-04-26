@@ -9,8 +9,8 @@ content: "Jede {Unternehmensgruppe|index:unternehmensgruppe} oder jede Gruppe vo
   \ Kategorien von \xDCbermittlungen {personenbezogener Daten|index:personenbezogene-daten}\
   \ bieten."
 index:
-- unternehmensgruppe
-- personenbezogene-daten
 - verbindliche-interne-datenschutzvorschriften
+- unternehmensgruppe
 - unternehmen
+- personenbezogene-daten
 number: 110

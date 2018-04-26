@@ -10,8 +10,8 @@ paragraphs:
       \ ein angemessenes Schutzniveau bietet. Eine solche Daten\xFCbermittlung bedarf\
       \ keiner besonderen Genehmigung."
     index:
-    - personenbezogene-daten
     - internationale-organisation
+    - personenbezogene-daten
     number: 1
   2:
     number: 2
@@ -34,8 +34,8 @@ paragraphs:
           \ werden,"
         index:
         - betroffene-person
-        - personenbezogene-daten
         - internationale-organisation
+        - personenbezogene-daten
       b:
         content: "die Existenz und die wirksame Funktionsweise einer oder mehrerer\
           \ unabh\xE4ngiger {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} in dem\
@@ -46,9 +46,9 @@ paragraphs:
           \ der Aus\xFCbung ihrer Rechte und f\xFCr die Zusammenarbeit mit den {Aufsichtsbeh\xF6\
           rden|index:aufsichtsbeh\xF6rde} der Mitgliedstaaten zust\xE4ndig sind, und"
         index:
-        - betroffene-person
         - "aufsichtsbeh\xF6rde"
         - internationale-organisation
+        - betroffene-person
       c:
         content: "die von dem betreffenden Drittland bzw. der betreffenden internationalen\
           \ Organisation eingegangenen internationalen Verpflichtungen oder andere\
@@ -118,8 +118,8 @@ paragraphs:
       \ gem\xE4\xDF den Artikeln 46 bis 49 werden durch einen Beschluss nach Absatz\
       \ 5 des vorliegenden Artikels nicht ber\xFChrt."
     index:
-    - personenbezogene-daten
     - internationale-organisation
+    - personenbezogene-daten
     number: 7
   8:
     content: "Die Kommission ver\xF6ffentlicht im Amtsblatt der Europ\xE4ischen Union\

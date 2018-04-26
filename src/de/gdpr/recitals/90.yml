@@ -9,9 +9,9 @@ content: "In derartigen F\xE4llen sollte der {Verantwortliche|index:verantwortli
   \ sichergestellt und die Einhaltung der Bestimmungen dieser {Verordnung|index:verordnung}\
   \ nachgewiesen werden soll."
 index:
-- verordnung
 - verarbeitung
-- verfahren
+- verordnung
 - verantwortlicher
+- verfahren
 - personenbezogene-daten
 number: 90

@@ -15,8 +15,8 @@ paragraphs:
           \ Weise verarbeitet werden (\u201ERechtm\xE4\xDFigkeit, {Verarbeitung|index:verarbeitung}\
           \ nach Treu und Glauben, Transparenz\u201C);"
         index:
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
       b:
         content: "f\xFCr festgelegte, eindeutige und legitime Zwecke erhoben werden\
           \ und d\xFCrfen nicht in einer mit diesen Zwecken nicht zu vereinbarenden\
@@ -69,8 +69,8 @@ paragraphs:
           Integrit\xE4t und Vertraulichkeit\u201C);"
         index:
         - verarbeitung
-        - personenbezogene-daten
         - "technische-und-organisatorische-ma\xDFnahmen"
+        - personenbezogene-daten
     preamble: "{Personenbezogene Daten|index:personenbezogene-daten} m\xFCssen"
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} ist f\xFCr die Einhaltung\

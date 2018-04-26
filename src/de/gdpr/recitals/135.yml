@@ -13,8 +13,8 @@ content: "Um die einheitliche Anwendung dieser {Verordnung|index:verordnung} in 
   \ Ma\xDFnahmen, die die Kommission m\xF6glicherweise in Aus\xFCbung ihrer Befugnisse\
   \ nach den Vertr\xE4gen trifft, unber\xFChrt lassen."
 index:
-- betroffene-person
-- verordnung
 - "aufsichtsbeh\xF6rde"
 - verfahren
+- verordnung
+- betroffene-person
 number: 135

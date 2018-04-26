@@ -15,9 +15,9 @@ content: >-
   the {data subject|index:data-subject} has no genuine or free choice or is unable
   to refuse or withdraw {consent|index:consent} without detriment.
 index:
-- data-subject
-- personal-data
-- processing
 - consent
+- data-subject
 - controller
+- processing
+- personal-data
 number: 42

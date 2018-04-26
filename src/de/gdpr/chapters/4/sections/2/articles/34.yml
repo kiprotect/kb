@@ -1,7 +1,7 @@
 chapter: 4
 index:
-- betroffene-person
 - verletzung-des-schutzes-personenbezogener-daten
+- betroffene-person
 number: 34
 paragraphs:
   1:
@@ -11,10 +11,10 @@ paragraphs:
       \ der {Verantwortliche|index:verantwortlicher} die {betroffene Person|index:betroffene-person}\
       \ unverz\xFCglich von der Verletzung."
     index:
-    - "nat\xFCrliche-person"
-    - betroffene-person
     - verletzung-des-schutzes-personenbezogener-daten
     - verantwortlicher
+    - "nat\xFCrliche-person"
+    - betroffene-person
     number: 1
   2:
     content: "Die in Absatz 1 genannte Benachrichtigung der {betroffenen Person|index:betroffene-person}\
@@ -23,8 +23,8 @@ paragraphs:
       \ und enth\xE4lt zumindest die in Artikel 33 Absatz 3 Buchstaben b, c und d\
       \ genannten Informationen und Ma\xDFnahmen."
     index:
-    - betroffene-person
     - verletzung-des-schutzes-personenbezogener-daten
+    - betroffene-person
     number: 2
   3:
     index:
@@ -40,16 +40,16 @@ paragraphs:
           \ Zugang zu den {personenbezogenen Daten|index:personenbezogene-daten} befugt\
           \ sind, unzug\xE4nglich gemacht werden, etwa durch Verschl\xFCsselung;"
         index:
-        - personenbezogene-daten
         - verantwortlicher
+        - personenbezogene-daten
       b:
         content: "der {Verantwortliche|index:verantwortlicher} durch nachfolgende\
           \ Ma\xDFnahmen sichergestellt hat, dass das hohe Risiko f\xFCr die Rechte\
           \ und Freiheiten der {betroffenen Personen|index:betroffene-person} gem\xE4\
           \xDF Absatz 1 aller Wahrscheinlichkeit nach nicht mehr besteht;"
         index:
-        - betroffene-person
         - verantwortlicher
+        - betroffene-person
       c:
         content: "dies mit einem unverh\xE4ltnism\xE4\xDFigen Aufwand verbunden w\xE4\
           re. In diesem Fall hat stattdessen eine \xF6ffentliche Bekanntmachung oder\
@@ -70,10 +70,10 @@ paragraphs:
       \ verlangen, dies nachzuholen, oder sie kann mit einem Beschluss feststellen,\
       \ dass bestimmte der in Absatz 3 genannten Voraussetzungen erf\xFCllt sind."
     index:
-    - betroffene-person
     - verletzung-des-schutzes-personenbezogener-daten
-    - "aufsichtsbeh\xF6rde"
     - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - betroffene-person
     number: 4
 section: 2
 title: >-

@@ -29,11 +29,11 @@ content: "Zum Schutz der in Bezug auf die {Verarbeitung|index:verarbeitung} {per
   \ Voreinstellungen sollte auch bei \xF6ffentlichen Ausschreibungen Rechnung getragen\
   \ werden."
 index:
-- "nat\xFCrliche-person"
-- verordnung
-- verarbeitung
 - "technische-und-organisatorische-ma\xDFnahmen"
-- verantwortlicher
 - betroffene-person
+- verarbeitung
+- verordnung
+- "nat\xFCrliche-person"
+- verantwortlicher
 - personenbezogene-daten
 number: 78

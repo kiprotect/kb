@@ -18,9 +18,9 @@ content: >-
   and the {data subject|index:data-subject} about the transfer.
 index:
 - data-subject
+- natural-person
+- controller
+- processing
 - supervisory-authority
 - personal-data
-- processing
-- controller
-- natural-person
 number: 113

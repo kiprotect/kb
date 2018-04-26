@@ -13,10 +13,10 @@ paragraphs:
       nge mit \xE4hnlich hohen Risiken kann eine einzige Absch\xE4tzung vorgenommen\
       \ werden."
     index:
-    - "nat\xFCrliche-person"
     - verarbeitung
-    - personenbezogene-daten
     - verantwortlicher
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
     number: 1
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} holt bei der Durchf\xFC\
@@ -37,9 +37,9 @@ paragraphs:
           rliche-person} entfalten oder diese in \xE4hnlich erheblicher Weise beeintr\xE4\
           chtigen;"
         index:
-        - "nat\xFCrliche-person"
-        - profiling
         - verarbeitung
+        - profiling
+        - "nat\xFCrliche-person"
       b:
         content: "umfangreiche {Verarbeitung|index:verarbeitung} besonderer Kategorien\
           \ von {personenbezogenen Daten|index:personenbezogene-daten} gem\xE4\xDF\
@@ -81,9 +81,9 @@ paragraphs:
       \ im Zusammenhang stehen oder die den freien Verkehr {personenbezogener Daten|index:personenbezogene-daten}\
       \ innerhalb der Union erheblich beeintr\xE4chtigen k\xF6nnten."
     index:
-    - "verarbeitungst\xE4tigkeit"
-    - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - betroffene-person
+    - "verarbeitungst\xE4tigkeit"
     - personenbezogene-daten
     number: 6
   7:
@@ -115,8 +115,8 @@ paragraphs:
           \ wird."
         index:
         - betroffene-person
-        - verordnung
         - verfahren
+        - verordnung
         - personenbezogene-daten
     preamble: "Die Folgenabsch\xE4tzung enth\xE4lt zumindest Folgendes:"
   8:
@@ -127,8 +127,8 @@ paragraphs:
       \ insbesondere f\xFCr die Zwecke einer Datenschutz-Folgenabsch\xE4tzung, geb\xFC\
       hrend zu ber\xFCcksichtigen."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     number: 8
   9:
     content: "Der {Verantwortliche|index:verantwortlicher} holt gegebenenfalls den\
@@ -137,10 +137,10 @@ paragraphs:
       \ gewerblicher oder \xF6ffentlicher Interessen oder der Sicherheit der Verarbeitungsvorg\xE4\
       nge ein."
     index:
-    - betroffene-person
-    - vertreter
     - verarbeitung
     - verantwortlicher
+    - vertreter
+    - betroffene-person
     number: 9
   10:
     content: "Falls die {Verarbeitung|index:verarbeitung} gem\xE4\xDF Artikel 6 Absatz\
@@ -154,9 +154,9 @@ paragraphs:
       \ den betreffenden {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}\
       \ eine solche Folgenabsch\xE4tzung durchzuf\xFChren."
     index:
-    - "verarbeitungst\xE4tigkeit"
     - verarbeitung
     - verantwortlicher
+    - "verarbeitungst\xE4tigkeit"
     number: 10
   11:
     content: "Erforderlichenfalls f\xFChrt der {Verantwortliche|index:verantwortlicher}\

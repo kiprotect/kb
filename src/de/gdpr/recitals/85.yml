@@ -21,10 +21,10 @@ content: "Eine {Verletzung des Schutzes personenbezogener Daten|index:verletzung
   \ Verz\xF6gerung angegeben werden m\xFCssen, und die Informationen k\xF6nnen schrittweise\
   \ ohne unangemessene weitere Verz\xF6gerung bereitgestellt werden."
 index:
+- verletzung-des-schutzes-personenbezogener-daten
+- pseudonymisierung
 - "nat\xFCrliche-person"
 - "aufsichtsbeh\xF6rde"
 - verantwortlicher
-- verletzung-des-schutzes-personenbezogener-daten
-- pseudonymisierung
 - personenbezogene-daten
 number: 85

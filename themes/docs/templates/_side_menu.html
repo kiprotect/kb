@@ -1,4 +1,4 @@
-<aside class="menu">
+<aside class="menu mobile-only">
     <p class="menu-label">
         {{'menu'|translate}}
     </p>
@@ -9,6 +9,7 @@
         <li>
             <a href="{{'gdpr-index-overview'|href}}">{{'index-overview'|translate}}</a>
         </li>
+
         {% for pg in pages %}
             {% if pg.in_menu and pg.level == 0 %}
                 <li>
@@ -29,5 +30,25 @@
                 </li>
             {% endif %}
         {% endfor %}
+
+        <li>
+            <a href="#" data-toggle="collapse" data-target="menu-language-dropdown">
+                {{'languages'|translate}}
+            </a>
+            <ul id="menu-language-dropdown" class="is-hidden">
+            {% for language in languages %}
+                {% if params.name in site.links[language] %}
+                    {% set href=params.name %}
+                {% else %}
+                    {% set href='' %}
+                {% endif %}
+                <li>
+                    <a class="{% if lang == language %}is-open is-active{%endif%}" href="{{href|full_href(language=language)}}">
+                        <img class="country" src="{{'images/icons/countries/%s.png'|format(language)|file}}" alt="{{language}}"/> &nbsp; {{language}}
+                    </a>
+                </li>
+            {% endfor %}
+            </ul>      
+        </li>
     </ul>
 </aside>                

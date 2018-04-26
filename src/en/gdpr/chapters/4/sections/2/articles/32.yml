@@ -6,10 +6,10 @@ paragraphs:
   1:
     index:
     - processor
+    - natural-person
+    - controller
     - processing
     - technical-and-organisational-measures
-    - controller
-    - natural-person
     number: 1
     points:
       a:
@@ -54,8 +54,8 @@ paragraphs:
       of, or access to {personal data|index:personal-data} transmitted, stored or
       otherwise processed.
     index:
-    - personal-data
     - processing
+    - personal-data
     number: 2
   3:
     content: >-
@@ -73,10 +73,10 @@ paragraphs:
       except on instructions from the {controller|index:controller}, unless he or
       she is required to do so by Union or Member State law.
     index:
-    - personal-data
-    - controller
-    - processor
     - natural-person
+    - processor
+    - controller
+    - personal-data
     number: 4
 section: 2
 title: Security of {processing|index:processing}

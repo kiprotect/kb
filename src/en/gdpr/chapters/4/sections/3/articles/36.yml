@@ -32,11 +32,11 @@ paragraphs:
       for the purposes of the consultation.
     index:
     - regulation
-    - supervisory-authority
     - processor
-    - processing
     - identified
     - controller
+    - processing
+    - supervisory-authority
     number: 2
   3:
     index:
@@ -50,9 +50,9 @@ paragraphs:
           joint controllers and processors involved in the {processing|index:processing},
           in particular for {processing|index:processing} within a {group of undertakings|index:group-of-undertakings};
         index:
-        - group-of-undertakings
         - controller
         - processing
+        - group-of-undertakings
       b:
         content: the purposes and means of the intended {processing|index:processing};
         index:

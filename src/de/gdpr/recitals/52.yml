@@ -21,7 +21,7 @@ content: "Ausnahmen vom Verbot der {Verarbeitung|index:verarbeitung} besonderer 
   \ oder in einem Verwaltungsverfahren oder einem au\xDFergerichtlichen {Verfahren|index:verfahren},\
   \ geltend zu machen, auszu\xFCben oder zu verteidigen."
 index:
-- verfahren
 - verarbeitung
+- verfahren
 - personenbezogene-daten
 number: 52

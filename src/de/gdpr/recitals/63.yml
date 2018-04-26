@@ -28,10 +28,10 @@ content: "Eine {betroffene Person|index:betroffene-person} sollte ein Auskunftsr
   \ pr\xE4zisiert, auf welche Information oder welche Verarbeitungsvorg\xE4nge sich\
   \ ihr Auskunftsersuchen bezieht, bevor er ihr Auskunft erteilt."
 index:
-- profiling
-- verarbeitung
-- "empf\xE4nger"
-- verantwortlicher
 - betroffene-person
+- verarbeitung
 - personenbezogene-daten
+- profiling
+- verantwortlicher
+- "empf\xE4nger"
 number: 63

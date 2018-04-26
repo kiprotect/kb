@@ -10,11 +10,11 @@ paragraphs:
       \ ihrer {personenbezogenen Daten|index:personenbezogene-daten} eingewilligt\
       \ hat."
     index:
-    - verarbeitung
-    - verantwortlicher
     - einwilligung
     - betroffene-person
+    - verarbeitung
     - personenbezogene-daten
+    - verantwortlicher
     number: 1
   2:
     content: "Erfolgt die {Einwilligung|index:einwilligung} der {betroffenen Person|index:betroffene-person}\
@@ -25,9 +25,9 @@ paragraphs:
       \ Erkl\xE4rung sind dann nicht verbindlich, wenn sie einen Versto\xDF gegen\
       \ diese {Verordnung|index:verordnung} darstellen."
     index:
-    - betroffene-person
-    - verordnung
     - einwilligung
+    - verordnung
+    - betroffene-person
     number: 2
   3:
     content: "Die {betroffene Person|index:betroffene-person} hat das Recht, ihre\
@@ -39,9 +39,9 @@ paragraphs:
       \ Der Widerruf der {Einwilligung|index:einwilligung} muss so einfach wie die\
       \ Erteilung der {Einwilligung|index:einwilligung} sein."
     index:
-    - betroffene-person
     - verarbeitung
     - einwilligung
+    - betroffene-person
     number: 3
   4:
     content: "Bei der Beurteilung, ob die {Einwilligung|index:einwilligung} freiwillig\
@@ -53,8 +53,8 @@ paragraphs:
       \ sind."
     index:
     - verarbeitung
-    - personenbezogene-daten
     - einwilligung
+    - personenbezogene-daten
     number: 4
 section: 0
 title: "Bedingungen f\xFCr die {Einwilligung|index:einwilligung}"

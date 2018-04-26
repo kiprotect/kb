@@ -15,8 +15,8 @@ content: >-
   independent of its source, for example from a physician or other health professional,
   a hospital, a medical device or an in vitro diagnostic test.
 index:
-- genetic-data
 - data-subject
-- personal-data
+- genetic-data
 - natural-person
+- personal-data
 number: 35

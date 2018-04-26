@@ -11,8 +11,8 @@ paragraphs:
       \ die {Verordnung|index:verordnung} (EG) Nr. 1049/2001 des Europ\xE4ischen Parlaments\
       \ und des Rates (21) geregelt."
     index:
-    - verordnung
     - dritter
+    - verordnung
     number: 2
 section: 3
 title: Vertraulichkeit

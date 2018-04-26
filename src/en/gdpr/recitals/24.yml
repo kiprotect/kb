@@ -13,10 +13,10 @@ content: >-
   behaviours and attitudes.
 index:
 - regulation
-- personal-data
 - processor
-- profiling
-- processing
-- controller
 - natural-person
+- controller
+- processing
+- personal-data
+- profiling
 number: 24

@@ -20,9 +20,9 @@ content: >-
   envisages offering goods or services to data subjects in the Union.
 index:
 - regulation
-- personal-data
 - processor
-- processing
-- controller
 - natural-person
+- controller
+- processing
+- personal-data
 number: 23

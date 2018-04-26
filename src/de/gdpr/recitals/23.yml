@@ -24,11 +24,11 @@ content: "Damit einer {nat\xFCrlichen Person|index:nat\xFCrliche-person} der gem
   \ in der Union befinden, darauf hindeuten, dass der {Verantwortliche|index:verantwortlicher}\
   \ beabsichtigt, den Personen in der Union Waren oder Dienstleistungen anzubieten."
 index:
-- "nat\xFCrliche-person"
-- verordnung
-- verarbeitung
-- verantwortlicher
 - auftragsverarbeiter
 - betroffene-person
+- verarbeitung
+- verordnung
+- "nat\xFCrliche-person"
+- verantwortlicher
 - personenbezogene-daten
 number: 23

@@ -1,7 +1,7 @@
 chapter: 2
 index:
-- dienst-der-informationsgesellschaft
 - einwilligung
+- dienst-der-informationsgesellschaft
 number: 8
 paragraphs:
   1:
@@ -18,9 +18,9 @@ paragraphs:
       \ unter dem vollendeten dreizehnten Lebensjahr liegen darf."
     index:
     - verarbeitung
-    - personenbezogene-daten
-    - dienst-der-informationsgesellschaft
     - einwilligung
+    - dienst-der-informationsgesellschaft
+    - personenbezogene-daten
     number: 1
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} unternimmt unter Ber\xFC\
@@ -29,8 +29,8 @@ paragraphs:
       \ durch den Tr\xE4ger der elterlichen Verantwortung f\xFCr das Kind oder mit\
       \ dessen Zustimmung erteilt wurde."
     index:
-    - verantwortlicher
     - einwilligung
+    - verantwortlicher
     number: 2
   3:
     content: "Absatz 1 l\xE4sst das allgemeine Vertragsrecht der Mitgliedstaaten,\

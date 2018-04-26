@@ -16,9 +16,9 @@ paragraphs:
       is not made within 72 hours, it shall be accompanied by reasons for the delay.
     index:
     - supervisory-authority
-    - personal-data
-    - controller
     - natural-person
+    - controller
+    - personal-data
     number: 1
   2:
     content: >-
@@ -26,9 +26,9 @@ paragraphs:
       without undue delay after becoming aware of a {personal data|index:personal-data}
       breach.
     index:
-    - personal-data
-    - controller
     - processor
+    - controller
+    - personal-data
     number: 2
   3:
     number: 3
@@ -56,8 +56,8 @@ paragraphs:
           to address the {personal data|index:personal-data} breach, including, where
           appropriate, measures to mitigate its possible adverse effects.
         index:
-        - personal-data
         - controller
+        - personal-data
     preamble: 'The notification referred to in paragraph 1 shall at least:'
   4:
     content: >-
@@ -73,8 +73,8 @@ paragraphs:
       with this Article.
     index:
     - supervisory-authority
-    - personal-data
     - controller
+    - personal-data
     number: 5
 section: 2
 title: >-

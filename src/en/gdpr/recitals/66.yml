@@ -9,7 +9,7 @@ content: >-
   including technical measures, to inform the controllers which are {processing|index:processing}
   the {personal data|index:personal-data} of the data subject's request.
 index:
-- personal-data
-- controller
 - processing
+- controller
+- personal-data
 number: 66

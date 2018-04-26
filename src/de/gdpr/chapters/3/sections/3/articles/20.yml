@@ -3,9 +3,9 @@ number: 20
 paragraphs:
   1:
     index:
+    - verantwortlicher
     - betroffene-person
     - personenbezogene-daten
-    - verantwortlicher
     number: 1
     points:
       a:
@@ -21,8 +21,8 @@ paragraphs:
           die {Verarbeitung|index:verarbeitung} mithilfe {automatisierter Verfahren|index:automatisiertes-verfahren}
           erfolgt.
         index:
-        - automatisiertes-verfahren
         - verarbeitung
+        - automatisiertes-verfahren
     preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, die\
       \ sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten}, die\
       \ sie einem {Verantwortlichen|index:verantwortlicher} bereitgestellt hat, in\
@@ -38,9 +38,9 @@ paragraphs:
       \ direkt von einem {Verantwortlichen|index:verantwortlicher} einem anderen {Verantwortlichen|index:verantwortlicher}\
       \ \xFCbermittelt werden, soweit dies technisch machbar ist."
     index:
+    - verantwortlicher
     - betroffene-person
     - personenbezogene-daten
-    - verantwortlicher
     number: 2
   3:
     content: "Die Aus\xFCbung des Rechts nach Absatz 1 des vorliegenden Artikels l\xE4\

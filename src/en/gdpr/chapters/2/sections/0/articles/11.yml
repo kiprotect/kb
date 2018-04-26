@@ -12,10 +12,10 @@ paragraphs:
       or process additional information in order to identify the {data subject|index:data-subject}
       for the sole purpose of complying with this {Regulation|index:regulation}.
     index:
-    - data-subject
-    - personal-data
-    - controller
     - regulation
+    - data-subject
+    - controller
+    - personal-data
     number: 1
   2:
     content: >-

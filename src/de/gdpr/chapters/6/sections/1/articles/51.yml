@@ -12,10 +12,10 @@ paragraphs:
       \ in der Union erleichtert wird (im Folgenden \u201E{Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
       rde}\u201C)."
     index:
-    - "nat\xFCrliche-person"
-    - verordnung
-    - "aufsichtsbeh\xF6rde"
     - verarbeitung
+    - verordnung
+    - "nat\xFCrliche-person"
+    - "aufsichtsbeh\xF6rde"
     - personenbezogene-daten
     number: 1
   2:
@@ -24,8 +24,8 @@ paragraphs:
       \ Union. Zu diesem Zweck arbeiten die {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
       rde} untereinander sowie mit der Kommission gem\xE4\xDF Kapitel VII zusammen."
     index:
-    - verordnung
     - "aufsichtsbeh\xF6rde"
+    - verordnung
     number: 2
   3:
     content: "Gibt es in einem Mitgliedstaat mehr als eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
@@ -34,8 +34,8 @@ paragraphs:
       \ ein, mit dem sichergestellt wird, dass die anderen Beh\xF6rden die Regeln\
       \ f\xFCr das Koh\xE4renzverfahren nach Artikel 63 einhalten."
     index:
-    - verfahren
     - "aufsichtsbeh\xF6rde"
+    - verfahren
     number: 3
   4:
     content: "Jeder Mitgliedstaat teilt der Kommission bis sp\xE4testens 25. Mai 2018\

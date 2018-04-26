@@ -6,9 +6,9 @@ number: 14
 paragraphs:
   1:
     index:
+    - verantwortlicher
     - betroffene-person
     - personenbezogene-daten
-    - verantwortlicher
     number: 1
     points:
       a:
@@ -34,8 +34,8 @@ paragraphs:
         content: "gegebenenfalls die {Empf\xE4nger|index:empf\xE4nger} oder Kategorien\
           \ von Empf\xE4ngern der {personenbezogenen Daten|index:personenbezogene-daten};"
         index:
-        - personenbezogene-daten
         - "empf\xE4nger"
+        - personenbezogene-daten
       f:
         content: "gegebenenfalls die Absicht des {Verantwortlichen|index:verantwortlicher},\
           \ die {personenbezogenen Daten|index:personenbezogene-daten} an einen {Empf\xE4\
@@ -46,18 +46,18 @@ paragraphs:
           \ auf die geeigneten oder angemessenen Garantien und die M\xF6glichkeit,\
           \ eine Kopie von ihnen zu erhalten, oder wo sie verf\xFCgbar sind."
         index:
-        - personenbezogene-daten
-        - "empf\xE4nger"
         - verantwortlicher
+        - "empf\xE4nger"
+        - personenbezogene-daten
     preamble: >-
       Werden {personenbezogene Daten|index:personenbezogene-daten} nicht bei der {betroffenen
       Person|index:betroffene-person} erhoben, so teilt der {Verantwortliche|index:verantwortlicher}
       der {betroffenen Person|index:betroffene-person} Folgendes mit:
   2:
     index:
-    - betroffene-person
     - verarbeitung
     - verantwortlicher
+    - betroffene-person
     number: 2
     points:
       a:
@@ -72,8 +72,8 @@ paragraphs:
           f beruht, die berechtigten Interessen, die von dem {Verantwortlichen|index:verantwortlicher}
           oder einem {Dritten|index:dritter} verfolgt werden;
         index:
-        - verantwortlicher
         - verarbeitung
+        - verantwortlicher
         - dritter
       c:
         content: "das Bestehen eines Rechts auf Auskunft seitens des {Verantwortlichen|index:verantwortlicher}\
@@ -84,9 +84,9 @@ paragraphs:
           bertragbarkeit;"
         index:
         - verarbeitung
-        - personenbezogene-daten
-        - "einschr\xE4nkung-der-verarbeitung"
         - verantwortlicher
+        - "einschr\xE4nkung-der-verarbeitung"
+        - personenbezogene-daten
       d:
         content: "wenn die {Verarbeitung|index:verarbeitung} auf Artikel 6 Absatz\
           \ 1 Buchstabe a oder Artikel 9 Absatz 2 Buchstabe a beruht, das Bestehen\
@@ -116,9 +116,9 @@ paragraphs:
           \ Auswirkungen einer derartigen {Verarbeitung|index:verarbeitung} f\xFC\
           r die {betroffene Person|index:betroffene-person}."
         index:
-        - betroffene-person
         - verarbeitung
         - profiling
+        - betroffene-person
     preamble: "Zus\xE4tzlich zu den Informationen gem\xE4\xDF Absatz 1 stellt der\
       \ {Verantwortliche|index:verantwortlicher} der {betroffenen Person|index:betroffene-person}\
       \ die folgenden Informationen zur Verf\xFCgung, die erforderlich sind, um der\
@@ -161,9 +161,9 @@ paragraphs:
       \ alle anderen ma\xDFgeblichen Informationen gem\xE4\xDF Absatz 2 zur Verf\xFC\
       gung."
     index:
+    - verantwortlicher
     - betroffene-person
     - personenbezogene-daten
-    - verantwortlicher
     number: 4
   5:
     number: 5
@@ -188,9 +188,9 @@ paragraphs:
           \ der {betroffenen Person|index:betroffene-person}, einschlie\xDFlich der\
           \ Bereitstellung dieser Informationen f\xFCr die \xD6ffentlichkeit,"
         index:
-        - betroffene-person
         - verarbeitung
         - verantwortlicher
+        - betroffene-person
       c:
         content: "die Erlangung oder Offenlegung durch Rechtsvorschriften der Union\
           \ oder der Mitgliedstaaten, denen der {Verantwortliche|index:verantwortlicher}\
@@ -198,8 +198,8 @@ paragraphs:
           \ Interessen der {betroffenen Person|index:betroffene-person} vorsehen,\
           \ ausdr\xFCcklich geregelt ist oder"
         index:
-        - betroffene-person
         - verantwortlicher
+        - betroffene-person
       d:
         content: "die {personenbezogenen Daten|index:personenbezogene-daten} gem\xE4\
           \xDF dem Unionsrecht oder dem Recht der Mitgliedstaaten dem Berufsgeheimnis,\

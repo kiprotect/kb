@@ -22,9 +22,9 @@ paragraphs:
       \ Bezug auf einen {Verantwortlichen|index:verantwortlicher} oder einen {Auftragsverarbeiter|index:auftragsverarbeiter},\
       \ der in einem anderen Mitgliedstaat niedergelassen ist."
     index:
-    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
     - verantwortlicher
+    - auftragsverarbeiter
     number: 2
   3:
     content: "Die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
@@ -59,9 +59,9 @@ paragraphs:
       \ Stellungnahme vor. Der \xFCberarbeitete Beschlussentwurf wird innerhalb von\
       \ zwei Wochen dem {Verfahren|index:verfahren} nach Absatz 4 unterzogen."
     index:
-    - verfahren
     - "aufsichtsbeh\xF6rde"
     - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
+    - verfahren
     number: 5
   6:
     content: "Legt keine der anderen betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
@@ -85,10 +85,10 @@ paragraphs:
       \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, bei der eine Beschwerde eingereicht\
       \ worden ist, unterrichtet den Beschwerdef\xFChrer \xFCber den Beschluss."
     index:
-    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
-    - hauptniederlassung
     - verantwortlicher
+    - hauptniederlassung
+    - auftragsverarbeiter
     number: 7
   8:
     content: "Wird eine Beschwerde abgelehnt oder abgewiesen, so erl\xE4sst die {Aufsichtsbeh\xF6\
@@ -117,10 +117,10 @@ paragraphs:
       hrer mitteilt und den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
       \ hiervon in Kenntnis setzt."
     index:
-    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
-    - hauptniederlassung
     - verantwortlicher
+    - hauptniederlassung
+    - auftragsverarbeiter
     number: 9
   10:
     content: "Nach der Unterrichtung \xFCber den Beschluss der federf\xFChrenden {Aufsichtsbeh\xF6\
@@ -134,10 +134,10 @@ paragraphs:
       \ diese wiederum unterrichtet die anderen betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
       rde}."
     index:
-    - "verarbeitungst\xE4tigkeit"
-    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
     - verantwortlicher
+    - "verarbeitungst\xE4tigkeit"
+    - auftragsverarbeiter
     number: 10
   11:
     content: "Hat \u2014 in Ausnahmef\xE4llen \u2014 eine betroffene {Aufsichtsbeh\xF6\
@@ -145,8 +145,8 @@ paragraphs:
       \ {betroffener Personen|index:betroffene-person} dringender Handlungsbedarf\
       \ besteht, so kommt das Dringlichkeitsverfahren nach Artikel 66 zur Anwendung."
     index:
-    - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - betroffene-person
     number: 11
   12:
     content: "Die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\

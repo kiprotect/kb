@@ -8,9 +8,9 @@ content: >-
   regard to {processing|index:processing} by Union institutions, bodies, offices and
   agencies and on the free movement of such data.
 index:
-- personal-data
-- natural-person
 - processing
+- natural-person
+- personal-data
 number: 98
 section: 0
 title: Review of other Union legal acts on data protection

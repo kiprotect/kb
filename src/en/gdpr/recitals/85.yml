@@ -18,9 +18,9 @@ content: >-
   delay should accompany the notification and information may be provided in phases
   without undue further delay.
 index:
+- pseudonymisation
+- natural-person
+- controller
 - supervisory-authority
 - personal-data
-- pseudonymisation
-- controller
-- natural-person
 number: 85

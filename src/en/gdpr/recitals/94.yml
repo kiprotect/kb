@@ -21,8 +21,8 @@ content: >-
   envisaged to mitigate the risk to the rights and freedoms of {natural persons|index:natural-person}.
 index:
 - regulation
-- supervisory-authority
-- processing
-- controller
 - natural-person
+- controller
+- processing
+- supervisory-authority
 number: 94

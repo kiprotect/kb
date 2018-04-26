@@ -21,10 +21,10 @@ content: >-
   or where {processing|index:processing} involves a large amount of {personal data|index:personal-data}
   and affects a large number of data subjects.
 index:
-- genetic-data
 - data-concerning-health
-- personal-data
 - pseudonymisation
-- processing
+- genetic-data
 - natural-person
+- processing
+- personal-data
 number: 75

@@ -14,7 +14,7 @@ content: "The {processing|index:processing} of {personal data|index:personal-dat
   \ \u2018denial of service\u2019 attacks and damage to computer and electronic communication\
   \ systems."
 index:
-- personal-data
-- controller
 - processing
+- controller
+- personal-data
 number: 49

@@ -21,8 +21,8 @@ content: >-
   law.
 index:
 - regulation
-- supervisory-authority
 - processor
-- processing
 - controller
+- processing
+- supervisory-authority
 number: 131

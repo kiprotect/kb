@@ -30,10 +30,10 @@ paragraphs:
           of data pursuant to Article 9 and {personal data|index:personal-data} relating
           to criminal convictions and offences referred to in Article 10.
         index:
-        - personal-data
-        - controller
-        - processor
         - processing
+        - processor
+        - controller
+        - personal-data
     preamble: >-
       The {controller|index:controller} and the {processor|index:processor} shall
       designate a data protection officer in any case where:

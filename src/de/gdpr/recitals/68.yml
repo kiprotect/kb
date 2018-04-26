@@ -41,10 +41,10 @@ content: "Um im Fall der {Verarbeitung|index:verarbeitung} {personenbezogener Da
   \ {Verantwortlichen|index:verantwortlicher} einem anderen {Verantwortlichen|index:verantwortlicher}\
   \ \xFCbermittelt werden."
 index:
-- verordnung
-- verarbeitung
 - einwilligung
-- verantwortlicher
 - betroffene-person
+- verarbeitung
+- verordnung
+- verantwortlicher
 - personenbezogene-daten
 number: 68

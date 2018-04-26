@@ -12,8 +12,8 @@ paragraphs:
           \ genannten F\xE4llen unbeschadet der Aufgaben der nationalen {Aufsichtsbeh\xF6\
           rden|index:aufsichtsbeh\xF6rde};"
         index:
-        - verordnung
         - "aufsichtsbeh\xF6rde"
+        - verordnung
       b:
         content: "Beratung der Kommission in allen Fragen, die im Zusammenhang mit\
           \ dem Schutz {personenbezogener Daten|index:personenbezogene-daten} in der\
@@ -28,10 +28,10 @@ paragraphs:
           \ den Auftragsverarbeitern und den {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
           rde} in Bezug auf {verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften};"
         index:
-        - verfahren
-        - "aufsichtsbeh\xF6rde"
         - verbindliche-interne-datenschutzvorschriften
         - verantwortlicher
+        - verfahren
+        - "aufsichtsbeh\xF6rde"
       d:
         content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ zu {Verfahren|index:verfahren} f\xFCr die L\xF6schung gem\xE4\xDF Artikel\
@@ -48,8 +48,8 @@ paragraphs:
           \ bew\xE4hrten {Verfahren|index:verfahren} zwecks Sicherstellung einer einheitlichen\
           \ Anwendung dieser {Verordnung|index:verordnung};"
         index:
-        - verordnung
         - verfahren
+        - verordnung
       f:
         content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zur n\xE4heren Bestimmung\
@@ -68,11 +68,11 @@ paragraphs:
           \ des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
           \ zu melden hat;"
         index:
-        - verfahren
-        - verantwortlicher
         - auftragsverarbeiter
         - verletzung-des-schutzes-personenbezogener-daten
         - personenbezogene-daten
+        - verantwortlicher
+        - verfahren
       h:
         content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zu den Umst\xE4nden,\
@@ -81,9 +81,9 @@ paragraphs:
           rlicher Personen|index:nat\xFCrliche-person} im Sinne des Artikels 34 Absatz\
           \ 1 zur Folge hat;"
         index:
-        - "nat\xFCrliche-person"
         - verletzung-des-schutzes-personenbezogener-daten
         - verfahren
+        - "nat\xFCrliche-person"
       i:
         content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zur n\xE4heren Bestimmung\
@@ -95,11 +95,11 @@ paragraphs:
           \ zum Schutz {personenbezogener Daten|index:personenbezogene-daten} der\
           \ {betroffenen Personen|index:betroffene-person};"
         index:
-        - verbindliche-interne-datenschutzvorschriften
-        - verfahren
-        - verantwortlicher
         - betroffene-person
         - personenbezogene-daten
+        - verbindliche-interne-datenschutzvorschriften
+        - verantwortlicher
+        - verfahren
       j:
         content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zur n\xE4heren Bestimmung\
@@ -127,9 +127,9 @@ paragraphs:
           rliche-person} vorgenommene Meldung von Verst\xF6\xDFen gegen diese {Verordnung|index:verordnung}\
           \ gem\xE4\xDF Artikel 54 Absatz 2;"
         index:
-        - "nat\xFCrliche-person"
-        - verordnung
         - verfahren
+        - verordnung
+        - "nat\xFCrliche-person"
       n:
         content: "F\xF6rderung der Ausarbeitung von Verhaltensregeln und der Einrichtung\
           \ von datenschutzspezifischen Zertifizierungsverfahren sowie Datenschutzsiegeln\
@@ -144,8 +144,8 @@ paragraphs:
           \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} gem\xE4\xDF Artikel\
           \ 42 Absatz 7;"
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
       p:
         content: "Pr\xE4zisierung der in Artikel 43 Absatz 3 genannten Anforderungen\
           \ im Hinblick auf die Akkreditierung von Zertifizierungsstellen gem\xE4\xDF\
@@ -181,8 +181,8 @@ paragraphs:
           \ und multilateralen Austauschs von Informationen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ zwischen den {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde};"
         index:
-        - verfahren
         - "aufsichtsbeh\xF6rde"
+        - verfahren
       v:
         content: "F\xF6rderung von Schulungsprogrammen und Erleichterung des Personalaustausches\
           \ zwischen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} sowie gegebenenfalls\

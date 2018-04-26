@@ -31,10 +31,10 @@ content: "Eine {betroffene Person|index:betroffene-person} sollte ein Recht auf 
   \ Zwecken oder zur Geltendmachung, Aus\xFCbung oder Verteidigung von Rechtsanspr\xFC\
   chen erforderlich ist."
 index:
-- verordnung
-- verarbeitung
 - einwilligung
-- verantwortlicher
 - betroffene-person
+- verarbeitung
+- verordnung
+- verantwortlicher
 - personenbezogene-daten
 number: 65

@@ -7,9 +7,9 @@ paragraphs:
       ensure that the data protection officer is involved, properly and in a timely
       manner, in all issues which relate to the protection of {personal data|index:personal-data}.
     index:
-    - personal-data
-    - controller
     - processor
+    - controller
+    - personal-data
     number: 1
   2:
     content: >-
@@ -19,10 +19,10 @@ paragraphs:
       data|index:personal-data} and {processing|index:processing} operations, and
       to maintain his or her expert knowledge.
     index:
-    - personal-data
-    - controller
-    - processor
     - processing
+    - processor
+    - controller
+    - personal-data
     number: 2
   3:
     content: >-
@@ -42,9 +42,9 @@ paragraphs:
       related to {processing|index:processing} of their {personal data|index:personal-data}
       and to the exercise of their rights under this {Regulation|index:regulation}.
     index:
+    - processing
     - regulation
     - personal-data
-    - processing
     number: 4
   5:
     content: >-

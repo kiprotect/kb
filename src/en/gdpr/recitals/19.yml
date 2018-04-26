@@ -35,8 +35,8 @@ content: >-
   is relevant for instance in the framework of anti-money laundering or the activities
   of forensic laboratories.
 index:
-- regulation
-- personal-data
-- natural-person
 - processing
+- regulation
+- natural-person
+- personal-data
 number: 19

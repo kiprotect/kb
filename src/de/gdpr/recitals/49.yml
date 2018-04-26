@@ -19,6 +19,6 @@ content: "Die {Verarbeitung|index:verarbeitung} von {personenbezogenen Daten|ind
   digungen von Computer- und elektronischen Kommunikationssystemen abzuwehren."
 index:
 - verarbeitung
-- personenbezogene-daten
 - verantwortlicher
+- personenbezogene-daten
 number: 49

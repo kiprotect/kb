@@ -14,10 +14,10 @@ paragraphs:
           to the {processing|index:processing} of his or her {personal data|index:personal-data}
           for one or more specific purposes;
         index:
-        - consent
-        - data-subject
-        - personal-data
         - processing
+        - consent
+        - personal-data
+        - data-subject
       b:
         content: >-
           {processing|index:processing} is necessary for the performance of a contract
@@ -63,10 +63,10 @@ paragraphs:
           in the performance of their tasks.
         index:
         - data-subject
-        - personal-data
-        - processing
-        - third-party
         - controller
+        - processing
+        - personal-data
+        - third-party
     preamble: >-
       {Processing|index:processing} shall be lawful only if and to the extent that
       at least one of the following applies:
@@ -111,19 +111,19 @@ paragraphs:
           an objective of public interest and be proportionate to the legitimate aim
           pursued.
         index:
-        - regulation
-        - personal-data
-        - controller
         - processing
+        - regulation
+        - controller
+        - personal-data
     preamble: >-
       The basis for the {processing|index:processing} referred to in point (c) and
       (e) of paragraph 1 shall be laid down by:
   4:
     index:
-    - consent
-    - personal-data
-    - controller
     - processing
+    - consent
+    - controller
+    - personal-data
     number: 4
     points:
       a:
@@ -131,15 +131,15 @@ paragraphs:
           any link between the purposes for which the {personal data|index:personal-data}
           have been collected and the purposes of the intended further {processing|index:processing};
         index:
-        - personal-data
         - processing
+        - personal-data
       b:
         content: >-
           the context in which the {personal data|index:personal-data} have been collected,
           in particular regarding the relationship between data subjects and the {controller|index:controller};
         index:
-        - personal-data
         - controller
+        - personal-data
       c:
         content: >-
           the nature of the {personal data|index:personal-data}, in particular whether

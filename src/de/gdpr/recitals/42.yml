@@ -17,9 +17,9 @@ content: "Erfolgt die {Verarbeitung|index:verarbeitung} mit {Einwilligung|index:
   \ oder freie Wahl hat und somit in der Lage ist, die {Einwilligung|index:einwilligung}\
   \ zu verweigern oder zur\xFCckzuziehen, ohne Nachteile zu erleiden."
 index:
-- verarbeitung
-- verantwortlicher
 - einwilligung
 - betroffene-person
+- verarbeitung
 - personenbezogene-daten
+- verantwortlicher
 number: 42

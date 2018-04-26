@@ -10,18 +10,18 @@ paragraphs:
       place in the Union or not.
     index:
     - regulation
-    - personal-data
     - processor
-    - processing
     - controller
+    - processing
+    - personal-data
     number: 1
   2:
     index:
     - regulation
-    - personal-data
     - processor
-    - processing
     - controller
+    - processing
+    - personal-data
     number: 2
     points:
       a:
@@ -47,10 +47,10 @@ paragraphs:
       established in the Union, but in a place where Member State law applies by virtue
       of public international law.
     index:
-    - regulation
-    - personal-data
-    - controller
     - processing
+    - regulation
+    - controller
+    - personal-data
     number: 3
 section: 0
 title: Territorial scope

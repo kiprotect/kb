@@ -1,4 +1,37 @@
+#anonymisation: anonymisierung
+#binding-corporate-rules: verbindliche-interne-datenschutzvorschriften
+#biometric-data: biometrische-daten
+#consent: einwilligung
+#cross-border-processing: "grenz\xFCberschreitende-verarbeitung"
+#data-concerning-health: gesundheitsdaten
+#data-subject: betroffene-person
+#enterprise: unternehmen
+#file-system: dateisystem
+#genetic-data: genetische-daten
+#group-of-undertakings: unternehmensgruppe
+#identifiable: identifizierbar
+#identified: identifiziert
+#information-society-service: dienst-der-informationsgesellschaft
+#international-organisation: internationale-organisation
+#main-branch: hauptniederlassung
+#natural-person: natuerliche-person
+#personal-data: personenbezogene-daten
+#personal-data-breach: verletzung-des-schutzes-personenbezogener-daten
+#processing: verfahren
+#processing-activity: "verarbeitungst\xE4tigkeit"
+#processor: verantwortlicher
+#profiling: profiling
+#pseudonymisation: pseudonymisierung
+#recipient: "empf\xE4nger"
+#regulation: verordnung
+#relevant-and-reasoned-objection: "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
+#restriction-of-processing: "einschr\xE4nkung-der-verarbeitung"
+#supervisory-authority: "aufsichtsbeh\xF6rde"
+#technical-and-organisational-measures: "technische-und-organisatorische-ma\xDFnahmen"
+#third-party: dritter
+
 personenbezogene-daten:
+  index-name: personal-data
   title: Personenbezogene Daten
   official-description: "{Personenbezogene Daten|index:personenbezogene-daten} sind alle\
     \ Informationen, die sich auf eine {identifizierte|index:identifiziert} oder\
@@ -19,6 +52,7 @@ personenbezogene-daten:
     - identifiziert
 dritter:
   title: Dritter
+  index-name: third-party
   official-description: "Ein {Dritter|index:dritter} ist eine nat\xFCrliche oder juristische\
       \ Person, Beh\xF6rde, Einrichtung oder andere Stelle, au\xDFer der {betroffenen\
       \ Person|index:betroffene-person}, dem {Verantwortlichen|index:verantwortlicher},\
@@ -33,6 +67,7 @@ dritter:
     - verantwortlicher
     - personenbezogene-daten
 verarbeitung:
+  index-name: processing
   title: Verarbeitung
   official-description: "{Verarbeitung|index:verarbeitung} ist jeder mit oder ohne Hilfe\
       \ {automatisierter Verfahren|index:automatisiertes-verfahren} ausgef\xFChrten\
@@ -47,6 +82,7 @@ verarbeitung:
     - automatisiertes-verfahren
     - verarbeitung
 einschränkung-der-verarbeitung:
+  index-name: restriction-of-processing
   title: Einschränkung der Verarbeitung
   official-description: "{Einschr\xE4nkung der Verarbeitung|index:einschr\xE4nkung-der-verarbeitung}\
       \ ist die Markierung gespeicherter {personenbezogener Daten|index:personenbezogene-daten}\
@@ -58,6 +94,7 @@ einschränkung-der-verarbeitung:
     - verarbeitung
 profiling:
   title: Profiling
+  index-name: profiling
   official-description: "{Profiling|index:profiling} ist jede Art der {automatisierten\
       \ Verarbeitung|index:automatisierte-verarbeitung} {personenbezogener Daten|index:personenbezogene-daten},\
       \ die darin besteht, dass diese {personenbezogenen Daten|index:personenbezogene-daten}\
@@ -74,6 +111,7 @@ profiling:
     - profiling
 pseudonymisierung:
   title: Pseudonymisierung
+  index-name: pseudonymisation
   official-description: "{Pseudonymisierung|index:pseudonymisierung} ist die {Verarbeitung|index:verarbeitung}\
       \ {personenbezogener Daten|index:personenbezogene-daten} in einer Weise, dass\
       \ die {personenbezogenen Daten|index:personenbezogene-daten} ohne Hinzuziehung\

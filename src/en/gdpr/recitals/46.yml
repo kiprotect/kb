@@ -12,8 +12,8 @@ content: >-
   spread or in situations of humanitarian emergencies, in particular in situations
   of natural and man-made disasters.
 index:
-- data-subject
-- personal-data
-- natural-person
 - processing
+- data-subject
+- natural-person
+- personal-data
 number: 46

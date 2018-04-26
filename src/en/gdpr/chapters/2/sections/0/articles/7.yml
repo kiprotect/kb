@@ -9,11 +9,11 @@ paragraphs:
       {controller|index:controller} shall be able to demonstrate that the {data subject|index:data-subject}
       has consented to {processing|index:processing} of his or her {personal data|index:personal-data}.
     index:
-    - data-subject
-    - personal-data
-    - processing
     - consent
+    - data-subject
     - controller
+    - processing
+    - personal-data
     number: 1
   2:
     content: >-
@@ -24,8 +24,8 @@ paragraphs:
       language. Any part of such a declaration which constitutes an infringement of
       this {Regulation|index:regulation} shall not be binding.
     index:
-    - consent
     - regulation
+    - consent
     number: 2
   3:
     content: >-
@@ -35,9 +35,9 @@ paragraphs:
       before its withdrawal. Prior to giving {consent|index:consent}, the {data subject|index:data-subject}
       shall be informed thereof. It shall be as easy to withdraw as to give {consent|index:consent}.
     index:
-    - data-subject
     - consent
     - processing
+    - data-subject
     number: 3
   4:
     content: >-
@@ -47,9 +47,9 @@ paragraphs:
       {processing|index:processing} of {personal data|index:personal-data} that is
       not necessary for the performance of that contract.
     index:
+    - processing
     - consent
     - personal-data
-    - processing
     number: 4
 section: 0
 title: Conditions for {consent|index:consent}

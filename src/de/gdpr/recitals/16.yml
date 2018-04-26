@@ -7,7 +7,7 @@ content: "Diese {Verordnung|index:verordnung} gilt nicht f\xFCr Fragen des Schut
   \ der Union durchgef\xFChrte {Verarbeitung|index:verarbeitung} {personenbezogener\
   \ Daten|index:personenbezogene-daten}."
 index:
-- verordnung
 - verarbeitung
+- verordnung
 - personenbezogene-daten
 number: 16

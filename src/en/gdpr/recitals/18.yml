@@ -8,8 +8,8 @@ content: >-
   applies to controllers or processors which provide the means for {processing|index:processing}
   {personal data|index:personal-data} for such personal or household activities.
 index:
-- regulation
-- personal-data
-- natural-person
 - processing
+- regulation
+- natural-person
+- personal-data
 number: 18

@@ -20,6 +20,6 @@ content: "Zu den personenbezogenen {Gesundheitsdaten|index:gesundheitsdaten} sol
   \ stammen."
 index:
 - "nat\xFCrliche-person"
-- betroffene-person
 - gesundheitsdaten
+- betroffene-person
 number: 35

@@ -24,13 +24,13 @@ content: "Die Grunds\xE4tze des Datenschutzes sollten f\xFCr alle Informationen 
   \ betrifft somit nicht die {Verarbeitung|index:verarbeitung} solcher anonymer Daten,\
   \ auch f\xFCr statistische oder f\xFCr Forschungszwecke."
 index:
-- "nat\xFCrliche-person"
-- verordnung
-- verarbeitung
-- verantwortlicher
+- betroffene-person
 - identifiziert
+- verarbeitung
 - pseudonymisierung
 - identifizierbar
-- betroffene-person
+- verordnung
+- "nat\xFCrliche-person"
+- verantwortlicher
 - personenbezogene-daten
 number: 26

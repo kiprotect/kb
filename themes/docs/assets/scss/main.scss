@@ -158,6 +158,13 @@ footer.footer {
 
 .navbar {
     z-index: auto;
+    .navbar-dropdown.is-active {
+        display: block;
+    }
+}
+
+img.country {
+    height: 20px;
 }
 
 .columns.features {
@@ -232,6 +239,12 @@ section.section, .hero .hero-body {
 
     aside.menu {
         margin-bottom: 15px;
+
+        &.mobile-only {
+            @media(min-width: 1088px){
+                display: none;
+            }
+        }
     }
 
     &.is-active {

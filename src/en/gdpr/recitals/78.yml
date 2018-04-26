@@ -23,9 +23,9 @@ content: >-
 index:
 - regulation
 - data-subject
+- natural-person
+- controller
+- processing
 - technical-and-organisational-measures
 - personal-data
-- processing
-- controller
-- natural-person
 number: 78

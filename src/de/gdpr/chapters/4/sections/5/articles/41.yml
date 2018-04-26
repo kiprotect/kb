@@ -29,9 +29,9 @@ paragraphs:
           \ zu \xFCberwachen und die Anwendung der Verhaltensregeln regelm\xE4\xDF\
           ig zu \xFCberpr\xFCfen;"
         index:
-        - auftragsverarbeiter
-        - verfahren
         - verantwortlicher
+        - verfahren
+        - auftragsverarbeiter
       c:
         content: "{Verfahren|index:verfahren} und Strukturen festgelegt hat, mit denen\
           \ sie Beschwerden \xFCber Verletzungen der Verhaltensregeln oder \xFCber\
@@ -42,9 +42,9 @@ paragraphs:
           \ transparent macht, und"
         index:
         - verantwortlicher
-        - betroffene-person
         - verfahren
         - auftragsverarbeiter
+        - betroffene-person
       d:
         content: "zur Zufriedenheit der zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
           rde} nachgewiesen hat, dass ihre Aufgaben und Pflichten nicht zu einem Interessenkonflikt\
@@ -73,9 +73,9 @@ paragraphs:
       rde|index:aufsichtsbeh\xF6rde} \xFCber solche Ma\xDFnahmen und deren Begr\xFC\
       ndung."
     index:
-    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
     - verantwortlicher
+    - auftragsverarbeiter
     number: 4
   5:
     content: "Die zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} widerruft\
@@ -84,8 +84,8 @@ paragraphs:
       \ die Stelle Ma\xDFnahmen ergreift, die nicht mit dieser {Verordnung|index:verordnung}\
       \ vereinbar sind."
     index:
-    - verordnung
     - "aufsichtsbeh\xF6rde"
+    - verordnung
     number: 5
   6:
     content: "Dieser Artikel gilt nicht f\xFCr die {Verarbeitung|index:verarbeitung}\

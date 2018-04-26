@@ -14,9 +14,9 @@ content: >-
   take place prior to the {processing|index:processing}.
 index:
 - regulation
+- natural-person
+- controller
+- processing
 - supervisory-authority
 - personal-data
-- processing
-- controller
-- natural-person
 number: 84

@@ -16,9 +16,9 @@ content: >-
   State law to which the {controller|index:controller} is subject.
 index:
 - regulation
-- personal-data
 - processor
-- processing
-- controller
 - natural-person
+- controller
+- processing
+- personal-data
 number: 115

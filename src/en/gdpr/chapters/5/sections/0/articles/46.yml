@@ -11,10 +11,10 @@ paragraphs:
       rights and effective legal remedies for data subjects are available.
     index:
     - data-subject
-    - controller
-    - personal-data
     - processor
+    - controller
     - international-organisation
+    - personal-data
     number: 1
   2:
     index:
@@ -75,11 +75,11 @@ paragraphs:
           the third country or {international organisation|index:international-organisation};
           or
         index:
-        - recipient
-        - controller
-        - personal-data
         - processor
+        - controller
         - international-organisation
+        - recipient
+        - personal-data
       b:
         content: >-
           provisions to be inserted into administrative arrangements between public

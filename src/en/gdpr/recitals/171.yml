@@ -12,9 +12,9 @@ content: >-
   decisions adopted and authorisations by supervisory authorities based on Directive
   95/46/EC remain in force until amended, replaced or repealed.
 index:
+- consent
 - regulation
 - data-subject
-- processing
-- consent
 - controller
+- processing
 number: 171

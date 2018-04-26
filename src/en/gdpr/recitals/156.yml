@@ -30,11 +30,11 @@ content: >-
   with other relevant legislation such as on clinical trials.
 index:
 - regulation
-- restriction-of-processing
+- pseudonymisation
 - data-subject
+- controller
+- processing
+- restriction-of-processing
 - technical-and-organisational-measures
 - personal-data
-- pseudonymisation
-- processing
-- controller
 number: 156

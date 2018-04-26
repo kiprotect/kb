@@ -12,7 +12,7 @@ content: "Die {Verordnung|index:verordnung} (EG) Nr. 45/2001 des Europ\xE4ischen
   \ werden, damit sie gleichzeitig mit der vorliegenden {Verordnung|index:verordnung}\
   \ angewandt werden k\xF6nnen."
 index:
-- verordnung
 - verarbeitung
+- verordnung
 - personenbezogene-daten
 number: 17

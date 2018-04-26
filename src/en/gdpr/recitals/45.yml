@@ -24,8 +24,8 @@ content: >-
   such as public health and social protection and the management of health care services,
   by private law, such as a professional association.
 index:
-- regulation
-- personal-data
-- controller
 - processing
+- regulation
+- controller
+- personal-data
 number: 45

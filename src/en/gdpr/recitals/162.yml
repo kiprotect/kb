@@ -17,7 +17,7 @@ content: >-
 index:
 - regulation
 - data-subject
-- personal-data
-- processing
 - natural-person
+- processing
+- personal-data
 number: 162

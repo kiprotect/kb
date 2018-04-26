@@ -22,8 +22,8 @@ paragraphs:
           \ des Mitglieds oder der Mitglieder jeder {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
           rde};"
         index:
-        - verfahren
         - "aufsichtsbeh\xF6rde"
+        - verfahren
       d:
         content: "die Amtszeit des Mitglieds oder der Mitglieder jeder {Aufsichtsbeh\xF6\
           rde|index:aufsichtsbeh\xF6rde} von mindestens vier Jahren; dies gilt nicht\
@@ -60,9 +60,9 @@ paragraphs:
       \ f\xFCr die von {nat\xFCrlichen Personen|index:nat\xFCrliche-person} gemeldeten\
       \ Verst\xF6\xDFen gegen diese {Verordnung|index:verordnung}."
     index:
-    - "nat\xFCrliche-person"
-    - verordnung
     - "aufsichtsbeh\xF6rde"
+    - verordnung
+    - "nat\xFCrliche-person"
     number: 2
 section: 1
 title: "Errichtung der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}"

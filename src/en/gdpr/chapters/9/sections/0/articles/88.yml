@@ -17,8 +17,8 @@ paragraphs:
       benefits related to employment, and for the purpose of the termination of the
       employment relationship.
     index:
-    - personal-data
     - processing
+    - personal-data
     number: 1
   2:
     content: >-
@@ -29,9 +29,9 @@ paragraphs:
       or a group of enterprises engaged in a joint economic activity and monitoring
       systems at the work place.
     index:
-    - group-of-undertakings
-    - personal-data
     - processing
+    - personal-data
+    - group-of-undertakings
     number: 2
   3:
     content: >-

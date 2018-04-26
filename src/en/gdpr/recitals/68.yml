@@ -34,11 +34,11 @@ content: >-
   should have the right to have the {personal data|index:personal-data} transmitted
   directly from one {controller|index:controller} to another.
 index:
+- consent
 - regulation
 - data-subject
-- personal-data
-- automated-means
-- processing
-- consent
 - controller
+- processing
+- automated-means
+- personal-data
 number: 68

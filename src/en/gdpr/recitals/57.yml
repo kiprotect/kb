@@ -13,7 +13,7 @@ content: >-
 index:
 - regulation
 - data-subject
-- personal-data
-- controller
 - natural-person
+- controller
+- personal-data
 number: 57

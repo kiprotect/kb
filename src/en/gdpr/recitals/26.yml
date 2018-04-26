@@ -21,12 +21,12 @@ content: >-
   of such anonymous information, including for statistical or research purposes.
 index:
 - regulation
-- identifiable
-- data-subject
-- personal-data
 - pseudonymisation
+- data-subject
+- natural-person
+- controller
 - processing
 - identified
-- controller
-- natural-person
+- identifiable
+- personal-data
 number: 26

@@ -18,13 +18,13 @@ paragraphs:
       \ gen\xFCgen und die Rechte der {betroffenen Personen|index:betroffene-person}\
       \ zu sch\xFCtzen."
     index:
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - betroffene-person
+    - pseudonymisierung
+    - verarbeitung
     - "nat\xFCrliche-person"
     - verordnung
-    - verarbeitung
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - verantwortlicher
-    - pseudonymisierung
-    - betroffene-person
     number: 1
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} trifft geeignete {technische\
@@ -40,10 +40,10 @@ paragraphs:
       \ Zahl von {nat\xFCrlichen Personen|index:nat\xFCrliche-person} zug\xE4nglich\
       \ gemacht werden."
     index:
-    - "nat\xFCrliche-person"
-    - verarbeitung
-    - verantwortlicher
     - "technische-und-organisatorische-ma\xDFnahmen"
+    - verarbeitung
+    - "nat\xFCrliche-person"
+    - verantwortlicher
     - personenbezogene-daten
     number: 2
   3:

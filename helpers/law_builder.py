@@ -182,10 +182,18 @@ class LawBuilder(BaseBuilder):
         #we also include index entries that are not referenced anywhere...
         definitions = law['index']
         for value, definition in definitions.items():
-            if value in index_objs:
-                continue
-            name = get_index_name(value)
             slug = get_index_slug(value)
+            if 'index-name' in definition:
+                name = get_index_name(definition['index-name'])
+                links[name] = self.site.get_link_dst(slug, language)
+            else:
+                name = get_index_name(value)
+            if value in index_objs:
+                #we prefer the index-name for the page name as this will make
+                #it possible to switch between different languages...
+                if 'index-name' in definition:
+                    index_objs[value]['name'] = name
+                continue
             obj = {
                 'name' : name,
                 'slug' : slug,
@@ -194,7 +202,8 @@ class LawBuilder(BaseBuilder):
                 'value' : value,
             }
             index_objs[value] = obj
-            links[name] = self.site.get_link_dst(slug, language)
+            dst = self.site.get_link_dst(slug, language)
+            links[name] = dst
 
         self.index_by_language[language] = index_objs
         return links
@@ -226,7 +235,7 @@ class LawBuilder(BaseBuilder):
             'law' : law,
             'title' : self.site.translate(language, 'articles-overview')
         }
-        output = self.site.process(input, {'type' : 'html'}, vars, language)
+        output = self.site.process(input, {'type' : 'html', 'name' : 'gdpr-articles-overview'}, vars, language)
         filename = self.site.get_dst(self.slugs_by_language[language]['articles-overview'], language)
         self.site.write(output, filename)
 
@@ -245,10 +254,11 @@ class LawBuilder(BaseBuilder):
             'definition' : {}, #we need a dummy object otherwise Jinja complains
             'definitions' : sorted_definitions,
             'grouped_definitions' : grouped_definitions,
+            
             'law' : law,
             'title' : self.site.translate(language, 'index-overview')
         }
-        output = self.site.process(input, {'type' : 'html'}, vars, language)
+        output = self.site.process(input, {'type' : 'html', 'name' : 'gdpr-index-overview'}, vars, language)
         filename = self.site.get_dst(self.slugs_by_language[language]['index-overview'], language)
         self.site.write(output, filename)
 
@@ -350,6 +360,6 @@ class LawBuilder(BaseBuilder):
             vars['{}_content'.format(name)] = self.site.process(parsed_markdown, {'type': 'html'}, vars, language)
 
         input = self.site.load(law['templates'][name])
-        output = self.site.process(input, {'type' : 'html'}, vars, language)
+        output = self.site.process(input, {'type' : 'html', 'name' : article['{}_name'.format(name)]}, vars, language)
         filename = self.site.get_dst(article['{}_slug'.format(name)], language)
         self.site.write(output, filename)

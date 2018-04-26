@@ -28,11 +28,11 @@ content: "Im Recht der Mitgliedstaaten sollten die Vorschriften \xFCber die frei
   \ die sich auf diese Freiheit beziehen, weit ausgelegt werden."
 index:
 - internationale-organisation
-- verordnung
-- verarbeitung
-- "aufsichtsbeh\xF6rde"
-- verantwortlicher
 - auftragsverarbeiter
 - betroffene-person
+- verarbeitung
+- verordnung
+- "aufsichtsbeh\xF6rde"
+- verantwortlicher
 - personenbezogene-daten
 number: 153

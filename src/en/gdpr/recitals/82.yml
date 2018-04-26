@@ -8,8 +8,8 @@ content: >-
   operations.
 index:
 - regulation
-- supervisory-authority
 - processor
-- processing
 - controller
+- processing
+- supervisory-authority
 number: 82

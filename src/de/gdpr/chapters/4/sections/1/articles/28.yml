@@ -12,11 +12,11 @@ paragraphs:
       \ und den Schutz der Rechte der {betroffenen Person|index:betroffene-person}\
       \ gew\xE4hrleistet."
     index:
-    - verordnung
-    - verarbeitung
-    - verantwortlicher
     - "technische-und-organisatorische-ma\xDFnahmen"
     - betroffene-person
+    - verarbeitung
+    - verordnung
+    - verantwortlicher
     number: 1
   2:
     content: "Der {Auftragsverarbeiter|index:auftragsverarbeiter} nimmt keinen weiteren\
@@ -29,16 +29,16 @@ paragraphs:
       \ wodurch der {Verantwortliche|index:verantwortlicher} die M\xF6glichkeit erh\xE4\
       lt, gegen derartige \xC4nderungen Einspruch zu erheben."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     number: 2
   3:
     index:
-    - verarbeitung
-    - verantwortlicher
     - auftragsverarbeiter
     - betroffene-person
+    - verarbeitung
     - personenbezogene-daten
+    - verantwortlicher
     number: 3
     points:
       a:
@@ -54,11 +54,11 @@ paragraphs:
           \ Recht eine solche Mitteilung nicht wegen eines wichtigen \xF6ffentlichen\
           \ Interesses verbietet;"
         index:
+        - auftragsverarbeiter
         - internationale-organisation
         - verarbeitung
-        - verantwortlicher
-        - auftragsverarbeiter
         - personenbezogene-daten
+        - verantwortlicher
       b:
         content: "gew\xE4hrleistet, dass sich die zur {Verarbeitung|index:verarbeitung}\
           \ der {personenbezogenen Daten|index:personenbezogene-daten} befugten Personen\
@@ -83,10 +83,10 @@ paragraphs:
           \ der in Kapitel III genannten Rechte der {betroffenen Person|index:betroffene-person}\
           \ nachzukommen;"
         index:
-        - verantwortlicher
-        - betroffene-person
         - verarbeitung
+        - verantwortlicher
         - "technische-und-organisatorische-ma\xDFnahmen"
+        - betroffene-person
       f:
         content: "unter Ber\xFCcksichtigung der Art der {Verarbeitung|index:verarbeitung}\
           \ und der ihm zur Verf\xFCgung stehenden Informationen den {Verantwortlichen|index:verantwortlicher}\
@@ -102,8 +102,8 @@ paragraphs:
           \ oder dem Recht der Mitgliedstaaten eine Verpflichtung zur Speicherung\
           \ der {personenbezogenen Daten|index:personenbezogene-daten} besteht;"
         index:
-        - personenbezogene-daten
         - verantwortlicher
+        - personenbezogene-daten
       h:
         content: "dem {Verantwortlichen|index:verantwortlicher} alle erforderlichen\
           \ Informationen zum Nachweis der Einhaltung der in diesem Artikel niedergelegten\
@@ -116,9 +116,9 @@ paragraphs:
           \ diese {Verordnung|index:verordnung} oder gegen andere Datenschutzbestimmungen\
           \ der Union oder der Mitgliedstaaten verst\xF6\xDFt."
         index:
+        - verantwortlicher
         - auftragsverarbeiter
         - verordnung
-        - verantwortlicher
     preamble: >-
       Die {Verarbeitung|index:verarbeitung} durch einen {Auftragsverarbeiter|index:auftragsverarbeiter}
       erfolgt auf der Grundlage eines Vertrags oder eines anderen Rechtsinstruments
@@ -149,12 +149,12 @@ paragraphs:
       \ gegen\xFCber dem {Verantwortlichen|index:verantwortlicher} f\xFCr die Einhaltung\
       \ der Pflichten jenes anderen {Auftragsverarbeiters|index:auftragsverarbeiter}."
     index:
-    - verordnung
-    - verarbeitung
-    - "technische-und-organisatorische-ma\xDFnahmen"
-    - "verarbeitungst\xE4tigkeit"
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verarbeitung
+    - verordnung
+    - "verarbeitungst\xE4tigkeit"
     number: 4
   5:
     content: "Die Einhaltung genehmigter Verhaltensregeln gem\xE4\xDF Artikel 40 oder\
@@ -174,8 +174,8 @@ paragraphs:
       \ einer dem {Verantwortlichen|index:verantwortlicher} oder dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
       \ gem\xE4\xDF den Artikeln 42 und 43 erteilten Zertifizierung sind."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     number: 6
   7:
     content: "Die Kommission kann im Einklang mit dem Pr\xFCfverfahren gem\xE4\xDF\
@@ -203,10 +203,10 @@ paragraphs:
       \ und Mittel der {Verarbeitung|index:verarbeitung} bestimmt, in Bezug auf diese\
       \ {Verarbeitung|index:verarbeitung} als {Verantwortlicher|index:verantwortlicher}."
     index:
-    - auftragsverarbeiter
-    - verordnung
     - verarbeitung
     - verantwortlicher
+    - auftragsverarbeiter
+    - verordnung
     number: 10
 section: 1
 title: '{Auftragsverarbeiter|index:auftragsverarbeiter}'

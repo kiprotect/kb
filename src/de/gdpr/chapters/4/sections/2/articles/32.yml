@@ -5,11 +5,11 @@ number: 32
 paragraphs:
   1:
     index:
-    - "nat\xFCrliche-person"
-    - verarbeitung
-    - verantwortlicher
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - auftragsverarbeiter
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verarbeitung
+    - "nat\xFCrliche-person"
+    - verantwortlicher
     number: 1
     points:
       a:
@@ -36,8 +36,8 @@ paragraphs:
           \ Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDFnahmen} zur Gew\xE4\
           hrleistung der Sicherheit der {Verarbeitung|index:verarbeitung}."
         index:
-        - verfahren
         - verarbeitung
+        - verfahren
         - "technische-und-organisatorische-ma\xDFnahmen"
     preamble: "Unter Ber\xFCcksichtigung des Stands der Technik, der Implementierungskosten\
       \ und der Art, des Umfangs, der Umst\xE4nde und der Zwecke der {Verarbeitung|index:verarbeitung}\
@@ -72,10 +72,10 @@ paragraphs:
       \ verarbeiten, es sei denn, sie sind nach dem Recht der Union oder der Mitgliedstaaten\
       \ zur {Verarbeitung|index:verarbeitung} verpflichtet."
     index:
-    - "nat\xFCrliche-person"
-    - verarbeitung
-    - verantwortlicher
     - auftragsverarbeiter
+    - verarbeitung
+    - "nat\xFCrliche-person"
+    - verantwortlicher
     - unternehmen
     - personenbezogene-daten
     number: 4

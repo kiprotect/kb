@@ -10,8 +10,8 @@ paragraphs:
       nahmen, beispielsweise Ersuchen um vorherige Genehmigungen und eine vorherige\
       \ Konsultation, um Vornahme von Nachpr\xFCfungen und Untersuchungen."
     index:
-    - verordnung
     - "aufsichtsbeh\xF6rde"
+    - verordnung
     number: 1
   2:
     content: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} ergreift alle geeigneten\
@@ -43,8 +43,8 @@ paragraphs:
           \ dem die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, bei der das Ersuchen\
           \ eingeht, unterliegt."
         index:
-        - verordnung
         - "aufsichtsbeh\xF6rde"
+        - verordnung
     preamble: "Die ersuchte {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} lehnt\
       \ das Ersuchen nur ab, wenn"
   5:
@@ -96,8 +96,8 @@ paragraphs:
       \ standardisierte Format, festlegen. Diese Durchf\xFChrungsrechtsakte werden\
       \ gem\xE4\xDF dem in Artikel 93 Absatz 2 genannten Pr\xFCfverfahren erlassen."
     index:
-    - verfahren
     - "aufsichtsbeh\xF6rde"
+    - verfahren
     number: 9
 section: 1
 title: Gegenseitige Amtshilfe

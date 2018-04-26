@@ -14,10 +14,10 @@ paragraphs:
       or for the establishment, exercise or defence of legal claims.
     index:
     - data-subject
+    - controller
+    - processing
     - personal-data
     - profiling
-    - processing
-    - controller
     number: 1
   2:
     content: >-
@@ -27,10 +27,10 @@ paragraphs:
       concerning him or her for such marketing, which includes {profiling|index:profiling}
       to the extent that it is related to such direct marketing.
     index:
+    - processing
     - data-subject
     - personal-data
     - profiling
-    - processing
     number: 2
   3:
     content: >-
@@ -38,9 +38,9 @@ paragraphs:
       for direct marketing purposes, the {personal data|index:personal-data} shall
       no longer be processed for such purposes.
     index:
+    - processing
     - data-subject
     - personal-data
-    - processing
     number: 3
   4:
     content: >-
@@ -71,9 +71,9 @@ paragraphs:
       is necessary for the performance of a task carried out for reasons of public
       interest.
     index:
+    - processing
     - data-subject
     - personal-data
-    - processing
     number: 6
 section: 4
 title: Right to object

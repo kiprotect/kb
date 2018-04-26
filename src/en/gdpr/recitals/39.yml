@@ -31,8 +31,8 @@ content: >-
   including for preventing unauthorised access to or use of {personal data|index:personal-data}
   and the equipment used for the {processing|index:processing}.
 index:
-- personal-data
-- controller
-- natural-person
 - processing
+- natural-person
+- controller
+- personal-data
 number: 39

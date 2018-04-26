@@ -8,9 +8,9 @@ content: "Jede {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:
   \ oder eine Tochtergesellschaft mit eigener Rechtspers\xF6nlichkeit handelt, ist\
   \ dabei nicht ausschlaggebend."
 index:
-- verordnung
-- verarbeitung
-- verantwortlicher
 - auftragsverarbeiter
+- verarbeitung
+- verordnung
+- verantwortlicher
 - personenbezogene-daten
 number: 22

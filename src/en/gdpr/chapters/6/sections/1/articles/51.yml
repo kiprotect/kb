@@ -12,10 +12,10 @@ paragraphs:
       \ authority|index:supervisory-authority}\u2019)."
     index:
     - regulation
+    - natural-person
+    - processing
     - supervisory-authority
     - personal-data
-    - processing
-    - natural-person
     number: 1
   2:
     content: >-

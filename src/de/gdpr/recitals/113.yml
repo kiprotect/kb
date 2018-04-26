@@ -18,10 +18,10 @@ content: "\xDCbermittlungen, die als nicht wiederholt erfolgend gelten k\xF6nnen
   rde|index:aufsichtsbeh\xF6rde} und die {betroffene Person|index:betroffene-person}\
   \ von der \xDCbermittlung in Kenntnis setzen."
 index:
+- betroffene-person
+- verarbeitung
 - "nat\xFCrliche-person"
 - "aufsichtsbeh\xF6rde"
-- verarbeitung
 - verantwortlicher
-- betroffene-person
 - personenbezogene-daten
 number: 113

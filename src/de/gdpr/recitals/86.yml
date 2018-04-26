@@ -19,11 +19,11 @@ content: "Der f\xFCr die {Verarbeitung|index:verarbeitung} {Verantwortliche|inde
   \ oder vergleichbare Verletzungen des Schutzes {personenbezogener Daten|index:personenbezogene-daten}\
   \ zu treffen."
 index:
-- "nat\xFCrliche-person"
+- betroffene-person
+- verletzung-des-schutzes-personenbezogener-daten
 - verarbeitung
+- "nat\xFCrliche-person"
 - "aufsichtsbeh\xF6rde"
 - verantwortlicher
-- verletzung-des-schutzes-personenbezogener-daten
-- betroffene-person
 - personenbezogene-daten
 number: 86

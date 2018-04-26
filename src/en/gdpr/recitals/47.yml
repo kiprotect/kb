@@ -27,8 +27,8 @@ content: >-
   as carried out for a legitimate interest.
 index:
 - data-subject
-- personal-data
-- processing
-- third-party
 - controller
+- processing
+- personal-data
+- third-party
 number: 47

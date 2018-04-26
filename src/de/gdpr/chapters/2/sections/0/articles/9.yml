@@ -14,10 +14,10 @@ paragraphs:
       \ oder Daten zum Sexualleben oder der sexuellen Orientierung einer {nat\xFC\
       rlichen Person|index:nat\xFCrliche-person} ist untersagt."
     index:
-    - "nat\xFCrliche-person"
     - verarbeitung
-    - personenbezogene-daten
+    - "nat\xFCrliche-person"
     - gesundheitsdaten
+    - personenbezogene-daten
     number: 1
   2:
     number: 2
@@ -30,10 +30,10 @@ paragraphs:
           \ Verbot nach Absatz 1 durch die {Einwilligung|index:einwilligung} der {betroffenen\
           \ Person|index:betroffene-person} nicht aufgehoben werden,"
         index:
-        - betroffene-person
         - verarbeitung
-        - personenbezogene-daten
+        - betroffene-person
         - einwilligung
+        - personenbezogene-daten
       b:
         content: "die {Verarbeitung|index:verarbeitung} ist erforderlich, damit der\
           \ {Verantwortliche|index:verantwortlicher} oder die {betroffene Person|index:betroffene-person}\
@@ -45,9 +45,9 @@ paragraphs:
           \ und die Interessen der {betroffenen Person|index:betroffene-person} vorsieht,\
           \ zul\xE4ssig ist,"
         index:
-        - betroffene-person
         - verarbeitung
         - verantwortlicher
+        - betroffene-person
       c:
         content: "die {Verarbeitung|index:verarbeitung} ist zum Schutz lebenswichtiger\
           \ Interessen der {betroffenen Person|index:betroffene-person} oder einer\
@@ -56,10 +56,10 @@ paragraphs:
           \ oder rechtlichen Gr\xFCnden au\xDFerstande, ihre {Einwilligung|index:einwilligung}\
           \ zu geben,"
         index:
-        - "nat\xFCrliche-person"
-        - betroffene-person
         - verarbeitung
         - einwilligung
+        - "nat\xFCrliche-person"
+        - betroffene-person
       d:
         content: "die {Verarbeitung|index:verarbeitung} erfolgt auf der Grundlage\
           \ geeigneter Garantien durch eine politisch, weltanschaulich, religi\xF6\
@@ -73,17 +73,17 @@ paragraphs:
           \ der {betroffenen Personen|index:betroffene-person} nach au\xDFen offengelegt\
           \ werden,"
         index:
-        - betroffene-person
         - verarbeitung
-        - personenbezogene-daten
+        - betroffene-person
         - einwilligung
+        - personenbezogene-daten
       e:
         content: "die {Verarbeitung|index:verarbeitung} bezieht sich auf {personenbezogene\
           \ Daten|index:personenbezogene-daten}, die die {betroffene Person|index:betroffene-person}\
           \ offensichtlich \xF6ffentlich gemacht hat,"
         index:
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
         - personenbezogene-daten
       f:
         content: "die {Verarbeitung|index:verarbeitung} ist zur Geltendmachung, Aus\xFC\
@@ -100,8 +100,8 @@ paragraphs:
           \ vorsieht, aus Gr\xFCnden eines erheblichen \xF6ffentlichen Interesses\
           \ erforderlich,"
         index:
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
       h:
         content: "die {Verarbeitung|index:verarbeitung} ist f\xFCr Zwecke der Gesundheitsvorsorge\
           \ oder der Arbeitsmedizin, f\xFCr die Beurteilung der Arbeitsf\xE4higkeit\
@@ -124,8 +124,8 @@ paragraphs:
           \ Freiheiten der {betroffenen Person|index:betroffene-person}, insbesondere\
           \ des Berufsgeheimnisses, vorsieht, erforderlich, oder"
         index:
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
       j:
         content: "die {Verarbeitung|index:verarbeitung} ist auf der Grundlage des\
           \ Unionsrechts oder des Rechts eines Mitgliedstaats, das in angemessenem\
@@ -136,8 +136,8 @@ paragraphs:
           r wissenschaftliche oder historische Forschungszwecke oder f\xFCr statistische\
           \ Zwecke gem\xE4\xDF Artikel 89 Absatz 1 erforderlich."
         index:
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
     preamble: "Absatz 1 gilt nicht in folgenden F\xE4llen:"
   3:
     content: "Die in Absatz 1 genannten {personenbezogenen Daten|index:personenbezogene-daten}\

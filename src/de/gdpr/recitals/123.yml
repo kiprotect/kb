@@ -8,9 +8,9 @@ content: "Die {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} sollten die Anwen
   \ zwischen den Mitgliedstaaten \xFCber die Leistung von Amtshilfe oder \xFCber eine\
   \ derartige Zusammenarbeit erforderlich w\xE4re."
 index:
-- "nat\xFCrliche-person"
-- verordnung
-- "aufsichtsbeh\xF6rde"
 - verarbeitung
+- verordnung
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
 - personenbezogene-daten
 number: 123

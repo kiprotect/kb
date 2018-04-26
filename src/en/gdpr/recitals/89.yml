@@ -13,8 +13,8 @@ content: >-
   out before by the {controller|index:controller}, or where they become necessary
   in the light of the time that has elapsed since the initial {processing|index:processing}.
 index:
-- personal-data
-- controller
-- natural-person
 - processing
+- natural-person
+- controller
+- personal-data
 number: 89

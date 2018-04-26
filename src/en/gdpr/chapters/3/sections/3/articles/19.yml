@@ -8,11 +8,11 @@ content: >-
   The {controller|index:controller} shall inform the {data subject|index:data-subject}
   about those recipients if the {data subject|index:data-subject} requests it.
 index:
-- recipient
 - data-subject
-- restriction-of-processing
-- personal-data
 - controller
+- restriction-of-processing
+- recipient
+- personal-data
 number: 19
 section: 3
 title: >-

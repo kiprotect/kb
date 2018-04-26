@@ -8,10 +8,10 @@ content: >-
   subject|index:data-subject} is party or in order to take steps at the request of
   the {data subject|index:data-subject} prior to entering into a contract.
 index:
+- consent
 - regulation
 - data-subject
-- personal-data
-- processing
-- consent
 - controller
+- processing
+- personal-data
 number: 40

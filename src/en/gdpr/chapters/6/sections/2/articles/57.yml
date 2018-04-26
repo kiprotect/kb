@@ -39,8 +39,8 @@ paragraphs:
           and, if appropriate, cooperate with the supervisory authorities in other
           Member States to that end;
         index:
-        - data-subject
         - regulation
+        - data-subject
       f:
         content: >-
           handle complaints lodged by a {data subject|index:data-subject}, or by a
@@ -50,8 +50,8 @@ paragraphs:
           a reasonable period, in particular if further investigation or coordination
           with another {supervisory authority|index:supervisory-authority} is necessary;
         index:
-        - data-subject
         - supervisory-authority
+        - data-subject
       g:
         content: >-
           cooperate with, including sharing information and provide mutual assistance
@@ -147,8 +147,8 @@ paragraphs:
       shall be free of charge for the {data subject|index:data-subject} and, where
       applicable, for the data protection officer.
     index:
-    - data-subject
     - supervisory-authority
+    - data-subject
     number: 3
   4:
     content: >-

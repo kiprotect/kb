@@ -28,11 +28,11 @@ content: "Bei Fehlen eines Angemessenheitsbeschlusses sollte der {Verantwortlich
   \ vorgesehen sind."
 index:
 - internationale-organisation
-- verbindliche-interne-datenschutzvorschriften
-- verarbeitung
-- "aufsichtsbeh\xF6rde"
-- verantwortlicher
 - auftragsverarbeiter
 - betroffene-person
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
 - personenbezogene-daten
+- verbindliche-interne-datenschutzvorschriften
+- verantwortlicher
 number: 108

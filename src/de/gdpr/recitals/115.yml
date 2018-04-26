@@ -18,10 +18,10 @@ content: "Manche Drittl\xE4nder erlassen Gesetze, Vorschriften und sonstige Rech
   \ erforderlich ist, das im Unionsrecht oder im Recht des Mitgliedstaats, dem der\
   \ {Verantwortliche|index:verantwortlicher} unterliegt, anerkannt ist."
 index:
-- "nat\xFCrliche-person"
-- verordnung
 - verantwortlicher
-- "verarbeitungst\xE4tigkeit"
 - auftragsverarbeiter
+- verordnung
+- "nat\xFCrliche-person"
+- "verarbeitungst\xE4tigkeit"
 - personenbezogene-daten
 number: 115

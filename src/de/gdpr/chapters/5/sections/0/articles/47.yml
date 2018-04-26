@@ -5,8 +5,8 @@ number: 47
 paragraphs:
   1:
     index:
-    - "aufsichtsbeh\xF6rde"
     - verbindliche-interne-datenschutzvorschriften
+    - "aufsichtsbeh\xF6rde"
     number: 1
     points:
       a:
@@ -16,16 +16,16 @@ paragraphs:
           \ diesen Mitgliedern durchgesetzt werden, und dies auch f\xFCr ihre Besch\xE4\
           ftigten gilt,"
         index:
-        - unternehmensgruppe
         - unternehmen
+        - unternehmensgruppe
       b:
         content: "den {betroffenen Personen|index:betroffene-person} ausdr\xFCcklich\
           \ durchsetzbare Rechte in Bezug auf die {Verarbeitung|index:verarbeitung}\
           \ ihrer {personenbezogenen Daten|index:personenbezogene-daten} \xFCbertragen\
           \ und"
         index:
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
         - personenbezogene-daten
       c:
         content: "die in Absatz 2 festgelegten Anforderungen erf\xFCllen."
@@ -43,8 +43,8 @@ paragraphs:
           \ oder Gruppe von {Unternehmen|index:unternehmen}, die eine gemeinsame Wirtschaftst\xE4\
           tigkeit aus\xFCben, und jedes ihrer Mitglieder;"
         index:
-        - unternehmensgruppe
         - unternehmen
+        - unternehmensgruppe
       b:
         content: "die betreffenden Daten\xFCbermittlungen oder Reihen von Daten\xFC\
           bermittlungen einschlie\xDFlich der betreffenden Arten {personenbezogener\
@@ -83,11 +83,11 @@ paragraphs:
           \ Wiedergutmachung und gegebenenfalls Schadenersatz zu erhalten;"
         index:
         - automatisierte-verarbeitung
-        - verbindliche-interne-datenschutzvorschriften
-        - profiling
+        - betroffene-person
         - "aufsichtsbeh\xF6rde"
         - verarbeitung
-        - betroffene-person
+        - verbindliche-interne-datenschutzvorschriften
+        - profiling
       f:
         content: "die von dem in einem Mitgliedstaat niedergelassenen {Verantwortlichen|index:verantwortlicher}\
           \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} \xFCbernommene Haftung\
@@ -99,10 +99,10 @@ paragraphs:
           \ wenn er nachweist, dass der Umstand, durch den der Schaden eingetreten\
           \ ist, dem betreffenden Mitglied nicht zur Last gelegt werden kann;"
         index:
-        - unternehmensgruppe
-        - auftragsverarbeiter
         - verbindliche-interne-datenschutzvorschriften
         - verantwortlicher
+        - unternehmensgruppe
+        - auftragsverarbeiter
       g:
         content: "die Art und Weise, wie die {betroffenen Personen|index:betroffene-person}\
           \ \xFCber die Bestimmungen der Artikel 13 und 14 hinaus \xFCber die {verbindlichen\
@@ -110,8 +110,8 @@ paragraphs:
           \ und insbesondere \xFCber die unter den Buchstaben d, e und f dieses Absatzes\
           \ genannten Aspekte informiert werden;"
         index:
-        - betroffene-person
         - verbindliche-interne-datenschutzvorschriften
+        - betroffene-person
       h:
         content: "die Aufgaben jedes gem\xE4\xDF Artikel 37 benannten Datenschutzbeauftragten\
           \ oder jeder anderen Person oder Einrichtung, die mit der \xDCberwachung\
@@ -121,9 +121,9 @@ paragraphs:
           \ \xDCberwachung der Schulungsma\xDFnahmen und dem Umgang mit Beschwerden\
           \ befasst ist;"
         index:
-        - unternehmensgruppe
         - verbindliche-interne-datenschutzvorschriften
         - unternehmen
+        - unternehmensgruppe
       i:
         content: die Beschwerdeverfahren;
         index:
@@ -144,18 +144,18 @@ paragraphs:
           rde|index:aufsichtsbeh\xF6rde} auf Anfrage zur Verf\xFCgung gestellt werden;"
         index:
         - unternehmensgruppe
+        - betroffene-person
+        - "aufsichtsbeh\xF6rde"
         - verbindliche-interne-datenschutzvorschriften
         - verfahren
-        - "aufsichtsbeh\xF6rde"
         - unternehmen
-        - betroffene-person
       k:
         content: "die {Verfahren|index:verfahren} f\xFCr die Meldung und Erfassung\
           \ von \xC4nderungen der Vorschriften und ihre Meldung an die {Aufsichtsbeh\xF6\
           rde|index:aufsichtsbeh\xF6rde};"
         index:
-        - verfahren
         - "aufsichtsbeh\xF6rde"
+        - verfahren
       l:
         content: "die {Verfahren|index:verfahren} f\xFCr die Zusammenarbeit mit der\
           \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, die die Befolgung der\
@@ -165,10 +165,10 @@ paragraphs:
           \ Ergebnisse von \xDCberpr\xFCfungen der unter Buchstabe j genannten Ma\xDF\
           nahmen gegen\xFCber der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde};"
         index:
-        - unternehmensgruppe
-        - verfahren
         - "aufsichtsbeh\xF6rde"
+        - verfahren
         - unternehmen
+        - unternehmensgruppe
       m:
         content: "die Meldeverfahren zur Unterrichtung der zust\xE4ndigen {Aufsichtsbeh\xF6\
           rde|index:aufsichtsbeh\xF6rde} \xFCber jegliche f\xFCr ein Mitglied der\
@@ -178,10 +178,10 @@ paragraphs:
           \ auswirken k\xF6nnten, die die {verbindlichen internen Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}\
           \ bieten, und"
         index:
-        - unternehmensgruppe
-        - "aufsichtsbeh\xF6rde"
         - verbindliche-interne-datenschutzvorschriften
         - unternehmen
+        - "aufsichtsbeh\xF6rde"
+        - unternehmensgruppe
       n:
         content: "geeignete Datenschutzschulungen f\xFCr Personal mit st\xE4ndigem\
           \ oder regelm\xE4\xDFigem Zugang zu {personenbezogenen Daten|index:personenbezogene-daten}."
@@ -198,10 +198,10 @@ paragraphs:
       \ festlegen. Diese Durchf\xFChrungsrechtsakte werden gem\xE4\xDF dem Pr\xFC\
       fverfahren nach Artikel 93 Absatz 2 erlassen."
     index:
-    - verfahren
-    - "aufsichtsbeh\xF6rde"
     - verbindliche-interne-datenschutzvorschriften
     - verantwortlicher
+    - verfahren
+    - "aufsichtsbeh\xF6rde"
     number: 3
 section: 0
 title: '{Verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}'

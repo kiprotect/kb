@@ -26,12 +26,12 @@ content: >-
   within the Union when those conditions apply to {cross-border processing|index:cross-border-processing}
   of such data.
 index:
-- genetic-data
 - data-concerning-health
 - regulation
-- personal-data
-- biometric-data
-- processing
-- cross-border-processing
+- genetic-data
 - natural-person
+- processing
+- personal-data
+- cross-border-processing
+- biometric-data
 number: 53

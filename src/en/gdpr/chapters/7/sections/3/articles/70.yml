@@ -19,8 +19,8 @@ paragraphs:
           data|index:personal-data} in the Union, including on any proposed amendment
           of this {Regulation|index:regulation};
         index:
-        - personal-data
         - regulation
+        - personal-data
       c:
         content: >-
           advise the Commission on the format and procedures for the exchange of information
@@ -60,9 +60,9 @@ paragraphs:
           or a {processor|index:processor} is required to notify the {personal data|index:personal-data}
           breach;
         index:
-        - personal-data
-        - controller
         - processor
+        - controller
+        - personal-data
       h:
         content: >-
           issue guidelines, recommendations and best practices in accordance with
@@ -71,8 +71,8 @@ paragraphs:
           rights and freedoms of the {natural persons|index:natural-person} referred
           to in Article 34(1).
         index:
-        - personal-data
         - natural-person
+        - personal-data
       i:
         content: >-
           issue guidelines, recommendations and best practices in accordance with
@@ -110,8 +110,8 @@ paragraphs:
           by {natural persons|index:natural-person} of infringements of this {Regulation|index:regulation}
           pursuant to Article 54(2);
         index:
-        - natural-person
         - regulation
+        - natural-person
       n:
         content: >-
           encourage the drawing-up of codes of conduct and the establishment of data

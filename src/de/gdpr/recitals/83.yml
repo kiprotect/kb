@@ -16,9 +16,9 @@ content: "Zur Aufrechterhaltung der Sicherheit und zur Vorbeugung gegen eine geg
   \ wenn dies zu einem physischen, materiellen oder immateriellen Schaden f\xFChren\
   \ k\xF6nnte."
 index:
-- verordnung
-- verarbeitung
-- verantwortlicher
 - auftragsverarbeiter
+- verarbeitung
+- verordnung
+- verantwortlicher
 - personenbezogene-daten
 number: 83

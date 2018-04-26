@@ -17,17 +17,17 @@ paragraphs:
           to verify the accuracy of the {personal data|index:personal-data};
         index:
         - data-subject
-        - personal-data
         - controller
+        - personal-data
       b:
         content: >-
           the {processing|index:processing} is unlawful and the {data subject|index:data-subject}
           opposes the erasure of the {personal data|index:personal-data} and requests
           the restriction of their use instead;
         index:
+        - processing
         - data-subject
         - personal-data
-        - processing
       c:
         content: >-
           the {controller|index:controller} no longer needs the {personal data|index:personal-data}
@@ -35,10 +35,10 @@ paragraphs:
           by the {data subject|index:data-subject} for the establishment, exercise
           or defence of legal claims;
         index:
-        - data-subject
-        - personal-data
-        - controller
         - processing
+        - data-subject
+        - controller
+        - personal-data
       d:
         content: >-
           the {data subject|index:data-subject} has objected to {processing|index:processing}
@@ -62,9 +62,9 @@ paragraphs:
       natural or legal person or for reasons of important public interest of the Union
       or of a Member State.
     index:
+    - processing
     - consent
     - personal-data
-    - processing
     number: 2
   3:
     content: >-

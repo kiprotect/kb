@@ -31,9 +31,9 @@ content: "Besondere Kategorien {personenbezogener Daten|index:personenbezogene-d
   \ falls die betreffenden Bedingungen f\xFCr die grenz\xFCberschreitende {Verarbeitung|index:verarbeitung}\
   \ solcher Daten gelten."
 index:
-- "nat\xFCrliche-person"
-- verordnung
 - verarbeitung
+- verordnung
 - gesundheitsdaten
+- "nat\xFCrliche-person"
 - personenbezogene-daten
 number: 53

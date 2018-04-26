@@ -18,7 +18,7 @@ content: "Jede {betroffene Person|index:betroffene-person} sollte das Recht habe
   \ wie etwa die Bereitstellung eines Beschwerdeformulars, das auch elektronisch ausgef\xFC\
   llt werden kann, ohne dass andere Kommunikationsmittel ausgeschlossen werden."
 index:
-- betroffene-person
-- verordnung
 - "aufsichtsbeh\xF6rde"
+- verordnung
+- betroffene-person
 number: 141

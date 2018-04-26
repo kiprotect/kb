@@ -4,7 +4,7 @@ content: >-
   regard to the {processing|index:processing} of {personal data|index:personal-data}
   and the rules relating to the free movement of {personal data|index:personal-data}.
 index:
-- personal-data
-- natural-person
 - processing
+- natural-person
+- personal-data
 number: 12

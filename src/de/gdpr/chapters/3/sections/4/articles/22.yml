@@ -11,8 +11,8 @@ paragraphs:
       \ sie in \xE4hnlicher Weise erheblich beeintr\xE4chtigt."
     index:
     - automatisierte-verarbeitung
-    - betroffene-person
     - profiling
+    - betroffene-person
     number: 1
   2:
     number: 2
@@ -22,8 +22,8 @@ paragraphs:
           \ der {betroffenen Person|index:betroffene-person} und dem {Verantwortlichen|index:verantwortlicher}\
           \ erforderlich ist,"
         index:
-        - betroffene-person
         - verantwortlicher
+        - betroffene-person
       b:
         content: "aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten,\
           \ denen der {Verantwortliche|index:verantwortlicher} unterliegt, zul\xE4\
@@ -31,14 +31,14 @@ paragraphs:
           \ der Rechte und Freiheiten sowie der berechtigten Interessen der {betroffenen\
           \ Person|index:betroffene-person} enthalten oder"
         index:
-        - betroffene-person
         - verantwortlicher
+        - betroffene-person
       c:
         content: "mit ausdr\xFCcklicher {Einwilligung|index:einwilligung} der {betroffenen\
           \ Person|index:betroffene-person} erfolgt."
         index:
-        - betroffene-person
         - einwilligung
+        - betroffene-person
     preamble: Absatz 1 gilt nicht, wenn die Entscheidung
   3:
     content: "In den in Absatz 2 Buchstaben a und c genannten F\xE4llen trifft der\
@@ -48,8 +48,8 @@ paragraphs:
       \ seitens des {Verantwortlichen|index:verantwortlicher}, auf Darlegung des eigenen\
       \ Standpunkts und auf Anfechtung der Entscheidung geh\xF6rt."
     index:
-    - betroffene-person
     - verantwortlicher
+    - betroffene-person
     number: 3
   4:
     content: "Entscheidungen nach Absatz 2 d\xFCrfen nicht auf besonderen Kategorien\

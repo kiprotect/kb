@@ -17,9 +17,9 @@ content: "Hat ein mit einem {Verfahren|index:verfahren} gegen die Entscheidung e
   \ Verhandlung und Entscheidung geboten erscheint, um zu vermeiden, dass in getrennten\
   \ {Verfahren|index:verfahren} einander widersprechende Entscheidungen ergehen."
 index:
-- "aufsichtsbeh\xF6rde"
-- verarbeitung
-- verfahren
-- verantwortlicher
 - auftragsverarbeiter
+- verarbeitung
+- "aufsichtsbeh\xF6rde"
+- verantwortlicher
+- verfahren
 number: 144

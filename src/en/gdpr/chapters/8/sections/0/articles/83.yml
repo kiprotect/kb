@@ -37,9 +37,9 @@ paragraphs:
           taking into account {technical and organisational measures|index:technical-and-organisational-measures}
           implemented by them pursuant to Articles 25 and 32;
         index:
+        - technical-and-organisational-measures
         - processor
         - controller
-        - technical-and-organisational-measures
       e:
         content: >-
           any relevant previous infringements by the {controller|index:controller}
@@ -143,9 +143,9 @@ paragraphs:
           in a third country or an {international organisation|index:international-organisation}
           pursuant to Articles 44 to 49;
         index:
+        - international-organisation
         - recipient
         - personal-data
-        - international-organisation
       d:
         content: any obligations pursuant to Member State law adopted under Chapter
           IX;

@@ -14,7 +14,7 @@ content: >-
   is due to the existence of differences in the implementation and application of
   Directive 95/46/EC.
 index:
-- personal-data
-- natural-person
 - processing
+- natural-person
+- personal-data
 number: 9

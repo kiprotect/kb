@@ -26,10 +26,10 @@ content: >-
   from patients or clients by an individual physician, other health care professional
   or lawyer. In such cases, a data protection impact assessment should not be mandatory.
 index:
-- supervisory-authority
-- personal-data
-- profiling
-- biometric-data
-- processing
 - natural-person
+- processing
+- personal-data
+- supervisory-authority
+- biometric-data
+- profiling
 number: 91

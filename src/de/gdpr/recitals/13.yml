@@ -28,12 +28,12 @@ content: "Damit in der Union ein gleichm\xE4\xDFiges Datenschutzniveau f\xFCr {n
   \ sollte Artikel 2 des Anhangs zur Empfehlung 2003/361/EG der Kommission (5) ma\xDF\
   gebend sein."
 index:
-- "nat\xFCrliche-person"
-- verordnung
-- "aufsichtsbeh\xF6rde"
-- verarbeitung
-- verantwortlicher
 - auftragsverarbeiter
+- verarbeitung
+- verordnung
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
+- verantwortlicher
 - unternehmen
 - personenbezogene-daten
 number: 13

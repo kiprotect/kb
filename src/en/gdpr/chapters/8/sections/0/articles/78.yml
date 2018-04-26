@@ -21,8 +21,8 @@ paragraphs:
       not inform the {data subject|index:data-subject} within three months on the
       progress or outcome of the complaint lodged pursuant to Article 77.
     index:
-    - data-subject
     - supervisory-authority
+    - data-subject
     number: 2
   3:
     content: >-

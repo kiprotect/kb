@@ -39,8 +39,8 @@ content: "Jede {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:
   \ Unbefugte keinen Zugang zu den Daten haben und weder die Daten noch die Ger\xE4\
   te, mit denen diese verarbeitet werden, benutzen k\xF6nnen."
 index:
-- "nat\xFCrliche-person"
 - verarbeitung
-- personenbezogene-daten
 - verantwortlicher
+- "nat\xFCrliche-person"
+- personenbezogene-daten
 number: 39

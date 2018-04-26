@@ -26,8 +26,8 @@ content: >-
   activities to which the request relates.
 index:
 - data-subject
+- controller
+- processing
 - personal-data
 - profiling
-- processing
-- controller
 number: 63

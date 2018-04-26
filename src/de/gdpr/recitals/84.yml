@@ -14,10 +14,10 @@ content: "Damit diese {Verordnung|index:verordnung} in F\xE4llen, in denen die V
   \ eind\xE4mmen kann, so sollte die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
   \ vor der {Verarbeitung|index:verarbeitung} konsultiert werden."
 index:
-- "nat\xFCrliche-person"
-- verordnung
-- "aufsichtsbeh\xF6rde"
 - verarbeitung
+- verordnung
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
 - verantwortlicher
 - personenbezogene-daten
 number: 84

@@ -18,9 +18,9 @@ content: "Diese {Verordnung|index:verordnung} sollte auch f\xFCr die {Verarbeitu
   r Ma\xDFnahmen oder Entscheidungen gegen\xFCber einzelnen {nat\xFCrlichen Personen|index:nat\xFC\
   rliche-person} verwendet werden."
 index:
-- "nat\xFCrliche-person"
-- verordnung
-- verarbeitung
 - betroffene-person
+- verarbeitung
+- verordnung
+- "nat\xFCrliche-person"
 - personenbezogene-daten
 number: 162

@@ -10,8 +10,8 @@ content: >-
   persons|index:natural-person}.
 index:
 - regulation
-- personal-data
-- processing
-- controller
 - natural-person
+- controller
+- processing
+- personal-data
 number: 74

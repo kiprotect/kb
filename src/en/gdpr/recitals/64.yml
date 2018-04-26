@@ -6,6 +6,6 @@ content: >-
   able to react to potential requests.
 index:
 - data-subject
-- personal-data
 - controller
+- personal-data
 number: 64

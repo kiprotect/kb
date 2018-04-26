@@ -17,11 +17,11 @@ paragraphs:
       protect the rights of data subjects.
     index:
     - regulation
-    - technical-and-organisational-measures
     - pseudonymisation
-    - processing
-    - controller
     - natural-person
+    - controller
+    - processing
+    - technical-and-organisational-measures
     number: 1
   2:
     content: >-
@@ -35,11 +35,11 @@ paragraphs:
       that by default {personal data|index:personal-data} are not made accessible
       without the individual's intervention to an indefinite number of {natural persons|index:natural-person}.
     index:
-    - personal-data
+    - natural-person
+    - controller
     - processing
     - technical-and-organisational-measures
-    - controller
-    - natural-person
+    - personal-data
     number: 2
   3:
     content: >-

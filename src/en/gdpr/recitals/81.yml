@@ -30,10 +30,10 @@ content: >-
 index:
 - regulation
 - data-subject
+- processor
+- controller
+- processing
 - technical-and-organisational-measures
 - supervisory-authority
 - personal-data
-- processor
-- processing
-- controller
 number: 81

@@ -8,9 +8,9 @@ content: >-
   or a Member State, without prejudice to other grounds for transfer pursuant to this
   Chapter.
 index:
-- personal-data
-- controller
 - processor
+- controller
+- personal-data
 number: 48
 section: 0
 title: Transfers or disclosures not authorised by Union law

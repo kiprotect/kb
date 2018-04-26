@@ -28,13 +28,13 @@ content: >-
   proceedings in the event of non-compliance by the {controller|index:controller}
   or {processor|index:processor}.
 index:
-- representative
 - regulation
 - data-subject
-- personal-data
 - processor
-- supervisory-authority
-- processing
-- controller
+- representative
 - natural-person
+- controller
+- processing
+- supervisory-authority
+- personal-data
 number: 80

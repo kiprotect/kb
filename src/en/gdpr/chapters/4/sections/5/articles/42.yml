@@ -27,8 +27,8 @@ paragraphs:
       to apply those appropriate safeguards, including with regard to the rights of
       data subjects.
     index:
-    - personal-data
     - regulation
+    - personal-data
     number: 2
   3:
     content: The certification shall be voluntary and available via a process that
@@ -42,9 +42,9 @@ paragraphs:
       to the tasks and powers of the supervisory authorities which are competent pursuant
       to Article 55 or 56.
     index:
+    - regulation
     - processor
     - controller
-    - regulation
     number: 4
   5:
     content: >-

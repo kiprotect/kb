@@ -3,7 +3,7 @@ content: "Diese {Verordnung|index:verordnung} gilt nicht f\xFCr die {personenbez
   \ Vorschriften f\xFCr die {Verarbeitung|index:verarbeitung} der {personenbezogenen\
   \ Daten|index:personenbezogene-daten} Verstorbener vorsehen."
 index:
-- verordnung
 - verarbeitung
+- verordnung
 - personenbezogene-daten
 number: 27

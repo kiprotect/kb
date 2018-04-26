@@ -6,10 +6,10 @@ content: "Die {betroffene Person|index:betroffene-person} hat das Recht, von dem
   \ das Recht, die Vervollst\xE4ndigung unvollst\xE4ndiger {personenbezogener Daten|index:personenbezogene-daten}\
   \ \u2014 auch mittels einer erg\xE4nzenden Erkl\xE4rung \u2014 zu verlangen."
 index:
-- betroffene-person
 - verarbeitung
-- personenbezogene-daten
 - verantwortlicher
+- betroffene-person
+- personenbezogene-daten
 number: 16
 section: 3
 title: Recht auf Berichtigung

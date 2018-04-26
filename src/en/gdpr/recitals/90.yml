@@ -8,8 +8,8 @@ content: >-
   the protection of {personal data|index:personal-data} and demonstrating compliance
   with this {Regulation|index:regulation}.
 index:
-- regulation
-- personal-data
-- controller
 - processing
+- regulation
+- controller
+- personal-data
 number: 90

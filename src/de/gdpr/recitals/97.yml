@@ -25,10 +25,10 @@ content: "In F\xE4llen, in denen die {Verarbeitung|index:verarbeitung} durch ein
   \ nicht, ihre Pflichten und Aufgaben in vollst\xE4ndiger Unabh\xE4ngigkeit aus\xFC\
   ben k\xF6nnen."
 index:
-- verordnung
-- verarbeitung
-- verantwortlicher
 - auftragsverarbeiter
 - betroffene-person
+- verarbeitung
+- verordnung
+- verantwortlicher
 - personenbezogene-daten
 number: 97

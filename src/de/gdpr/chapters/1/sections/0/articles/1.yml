@@ -7,9 +7,9 @@ paragraphs:
       \ {personenbezogener Daten|index:personenbezogene-daten} und zum freien Verkehr\
       \ solcher Daten."
     index:
+    - verarbeitung
     - "nat\xFCrliche-person"
     - verordnung
-    - verarbeitung
     - personenbezogene-daten
     number: 1
   2:
@@ -27,8 +27,8 @@ paragraphs:
       rliche-person} bei der {Verarbeitung|index:verarbeitung} {personenbezogener\
       \ Daten|index:personenbezogene-daten} weder eingeschr\xE4nkt noch verboten werden."
     index:
-    - "nat\xFCrliche-person"
     - verarbeitung
+    - "nat\xFCrliche-person"
     - personenbezogene-daten
     number: 3
 section: 0

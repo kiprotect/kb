@@ -24,10 +24,10 @@ paragraphs:
       glich auf das Ersuchen einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
       \ um Teilnahme."
     index:
-    - verantwortlicher
-    - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     - auftragsverarbeiter
+    - betroffene-person
     number: 2
   3:
     content: "Eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} kann gem\xE4\xDF\

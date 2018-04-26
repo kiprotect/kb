@@ -8,10 +8,10 @@ paragraphs:
       of {personal data|index:personal-data} and rules relating to the free movement
       of {personal data|index:personal-data}.
     index:
-    - regulation
-    - personal-data
-    - natural-person
     - processing
+    - regulation
+    - natural-person
+    - personal-data
     number: 1
   2:
     content: >-
@@ -19,9 +19,9 @@ paragraphs:
       of {natural persons|index:natural-person} and in particular their right to the
       protection of {personal data|index:personal-data}.
     index:
-    - personal-data
-    - natural-person
     - regulation
+    - natural-person
+    - personal-data
     number: 2
   3:
     content: >-
@@ -30,9 +30,9 @@ paragraphs:
       of {natural persons|index:natural-person} with regard to the {processing|index:processing}
       of {personal data|index:personal-data}.
     index:
-    - personal-data
-    - natural-person
     - processing
+    - natural-person
+    - personal-data
     number: 3
 section: 0
 title: Subject-matter and objectives

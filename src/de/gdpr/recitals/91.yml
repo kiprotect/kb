@@ -33,10 +33,10 @@ content: "Dies sollte insbesondere f\xFCr umfangreiche Verarbeitungsvorg\xE4nge 
   llen sollte eine Datenschutz-Folgenabsch\xE4tzung nicht zwingend vorgeschrieben\
   \ sein."
 index:
-- "nat\xFCrliche-person"
-- profiling
-- "aufsichtsbeh\xF6rde"
-- verarbeitung
 - betroffene-person
+- verarbeitung
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
+- profiling
 - personenbezogene-daten
 number: 91

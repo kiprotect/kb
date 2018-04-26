@@ -10,8 +10,8 @@ content: "This {Regulation|index:regulation} should apply to all matters concern
   \ ensure consistency with this {Regulation|index:regulation},"
 index:
 - regulation
-- personal-data
-- processing
-- controller
 - natural-person
+- controller
+- processing
+- personal-data
 number: 173

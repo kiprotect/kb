@@ -10,10 +10,10 @@ paragraphs:
       \ Kontakt auf, um sich zu vergewissern, dass ein solches {Verfahren|index:verfahren}\
       \ existiert."
     index:
-    - auftragsverarbeiter
-    - verfahren
     - verarbeitung
     - verantwortlicher
+    - verfahren
+    - auftragsverarbeiter
     number: 1
   2:
     content: "Ist ein {Verfahren|index:verfahren} zu demselben Gegenstand in Bezug\
@@ -23,10 +23,10 @@ paragraphs:
       \ zust\xE4ndige Gericht das bei ihm anh\xE4ngige {Verfahren|index:verfahren}\
       \ aussetzen."
     index:
-    - auftragsverarbeiter
-    - verfahren
     - verarbeitung
     - verantwortlicher
+    - verfahren
+    - auftragsverarbeiter
     number: 2
   3:
     content: "Sind diese {Verfahren|index:verfahren} in erster Instanz anh\xE4ngig,\

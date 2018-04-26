@@ -7,9 +7,9 @@ content: "Die Mitgliedstaaten k\xF6nnen n\xE4her bestimmen, unter welchen spezif
   \ der {betroffenen Person|index:betroffene-person} gem\xE4\xDF dieser {Verordnung|index:verordnung}\
   \ verwendet werden."
 index:
-- betroffene-person
-- verordnung
 - verarbeitung
+- verordnung
+- betroffene-person
 number: 87
 section: 0
 title: '{Verarbeitung|index:verarbeitung} der nationalen Kennziffer'

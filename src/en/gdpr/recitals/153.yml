@@ -26,8 +26,8 @@ content: >-
 index:
 - regulation
 - data-subject
-- personal-data
 - processor
-- processing
 - controller
+- processing
+- personal-data
 number: 153

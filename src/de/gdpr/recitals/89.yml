@@ -15,10 +15,10 @@ content: "Gem\xE4\xDF der Richtlinie 95/46/EG waren Verarbeitungen {personenbezo
   \ aufgrund der seit der urspr\xFCnglichen {Verarbeitung|index:verarbeitung} vergangenen\
   \ Zeit eine Datenschutz-Folgenabsch\xE4tzung notwendig geworden ist."
 index:
+- verarbeitung
 - "nat\xFCrliche-person"
 - "aufsichtsbeh\xF6rde"
-- verarbeitung
-- verfahren
 - verantwortlicher
+- verfahren
 - personenbezogene-daten
 number: 89

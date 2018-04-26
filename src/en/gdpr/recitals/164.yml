@@ -8,8 +8,8 @@ content: >-
   of professional secrecy. This is without prejudice to existing Member State obligations
   to adopt rules on professional secrecy where required by Union law.
 index:
-- personal-data
-- controller
-- processor
 - regulation
+- processor
+- controller
+- personal-data
 number: 164

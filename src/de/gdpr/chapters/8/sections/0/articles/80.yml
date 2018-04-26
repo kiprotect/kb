@@ -30,9 +30,9 @@ paragraphs:
       \ verletzt worden sind."
     index:
     - "aufsichtsbeh\xF6rde"
-    - betroffene-person
-    - verordnung
     - verarbeitung
+    - verordnung
+    - betroffene-person
     number: 2
 section: 0
 title: Vertretung von {betroffenen Personen|index:betroffene-person}

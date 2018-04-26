@@ -6,8 +6,8 @@ paragraphs:
   1:
     index:
     - data-subject
-    - personal-data
     - controller
+    - personal-data
     number: 1
     points:
       a:
@@ -41,10 +41,10 @@ paragraphs:
           concerning the {data subject|index:data-subject} or to object to such {processing|index:processing};
         index:
         - data-subject
+        - controller
+        - processing
         - restriction-of-processing
         - personal-data
-        - processing
-        - controller
       f:
         content: the right to lodge a complaint with a {supervisory authority|index:supervisory-authority};
         index:
@@ -66,8 +66,8 @@ paragraphs:
           subject|index:data-subject}.
         index:
         - data-subject
-        - profiling
         - processing
+        - profiling
     preamble: >-
       The {data subject|index:data-subject} shall have the right to obtain from the
       {controller|index:controller} confirmation as to whether or not {personal data|index:personal-data}
@@ -81,8 +81,8 @@ paragraphs:
       appropriate safeguards pursuant to Article 46 relating to the transfer.
     index:
     - data-subject
-    - personal-data
     - international-organisation
+    - personal-data
     number: 2
   3:
     content: >-
@@ -94,10 +94,10 @@ paragraphs:
       {data subject|index:data-subject}, the information shall be provided in a commonly
       used electronic form.
     index:
-    - data-subject
-    - personal-data
-    - controller
     - processing
+    - data-subject
+    - controller
+    - personal-data
     number: 3
   4:
     content: >-

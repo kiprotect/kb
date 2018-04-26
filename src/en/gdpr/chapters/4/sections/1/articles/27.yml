@@ -24,9 +24,9 @@ paragraphs:
           the nature, context, scope and purposes of the {processing|index:processing};
           or
         index:
-        - personal-data
-        - natural-person
         - processing
+        - natural-person
+        - personal-data
       b:
         content: a public authority or body.
     preamble: 'The obligation laid down in paragraph 1 of this Article shall not apply
@@ -50,11 +50,11 @@ paragraphs:
       to {processing|index:processing}, for the purposes of ensuring compliance with
       this {Regulation|index:regulation}.
     index:
-    - representative
     - regulation
     - processor
-    - processing
+    - representative
     - controller
+    - processing
     number: 4
   5:
     content: >-

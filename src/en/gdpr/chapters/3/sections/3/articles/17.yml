@@ -4,8 +4,8 @@ paragraphs:
   1:
     index:
     - data-subject
-    - personal-data
     - controller
+    - personal-data
     number: 1
     points:
       a:
@@ -21,9 +21,9 @@ paragraphs:
           of Article 6(1), or point (a) of Article 9(2), and where there is no other
           legal ground for the {processing|index:processing};
         index:
-        - data-subject
         - consent
         - processing
+        - data-subject
       c:
         content: >-
           the {data subject|index:data-subject} objects to the {processing|index:processing}
@@ -43,8 +43,8 @@ paragraphs:
           with a legal obligation in Union or Member State law to which the {controller|index:controller}
           is subject;
         index:
-        - personal-data
         - controller
+        - personal-data
       f:
         content: >-
           the {personal data|index:personal-data} have been collected in relation
@@ -68,10 +68,10 @@ paragraphs:
       has requested the erasure by such controllers of any links to, or copy or replication
       of, those {personal data|index:personal-data}.
     index:
-    - data-subject
-    - personal-data
-    - controller
     - processing
+    - data-subject
+    - controller
+    - personal-data
     number: 2
   3:
     index:

@@ -10,8 +10,8 @@ content: >-
   the fundamental rights and freedoms of the {data subject|index:data-subject}.
 index:
 - data-subject
-- personal-data
-- processing
-- third-party
 - controller
+- processing
+- personal-data
+- third-party
 number: 69

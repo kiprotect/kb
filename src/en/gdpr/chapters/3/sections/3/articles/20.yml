@@ -4,8 +4,8 @@ paragraphs:
   1:
     index:
     - data-subject
-    - personal-data
     - controller
+    - personal-data
     number: 1
     points:
       a:
@@ -19,8 +19,8 @@ paragraphs:
       b:
         content: the {processing|index:processing} is carried out by {automated means|index:automated-means}.
         index:
-        - automated-means
         - processing
+        - automated-means
     preamble: >-
       The {data subject|index:data-subject} shall have the right to receive the {personal
       data|index:personal-data} concerning him or her, which he or she has provided
@@ -36,8 +36,8 @@ paragraphs:
       to another, where technically feasible.
     index:
     - data-subject
-    - personal-data
     - controller
+    - personal-data
     number: 2
   3:
     content: >-

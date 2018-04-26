@@ -16,9 +16,9 @@ paragraphs:
       \ den Ausschuss und die Kommission unverz\xFCglich von diesen Ma\xDFnahmen und\
       \ den Gr\xFCnden f\xFCr deren Erlass in Kenntnis."
     index:
-    - betroffene-person
-    - verfahren
     - "aufsichtsbeh\xF6rde"
+    - verfahren
+    - betroffene-person
     number: 1
   2:
     content: "Hat eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} eine Ma\xDF\
@@ -38,8 +38,8 @@ paragraphs:
       \ hat, um die Rechte und Freiheiten von {betroffenen Personen|index:betroffene-person}\
       \ zu sch\xFCtzen."
     index:
-    - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - betroffene-person
     number: 3
   4:
     content: "Abweichend von Artikel 64 Absatz 3 und Artikel 65 Absatz 2 wird eine\

@@ -12,12 +12,12 @@ paragraphs:
       \ von diesem {Verantwortlichen|index:verantwortlicher} oder diesem {Auftragsverarbeiter|index:auftragsverarbeiter}\
       \ durchgef\xFChrte grenz\xFCberschreitende {Verarbeitung|index:verarbeitung}."
     index:
-    - "aufsichtsbeh\xF6rde"
-    - verarbeitung
-    - verfahren
-    - verantwortlicher
-    - auftragsverarbeiter
     - hauptniederlassung
+    - auftragsverarbeiter
+    - verarbeitung
+    - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
+    - verfahren
     number: 1
   2:
     content: "Abweichend von Absatz 1 ist jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
@@ -27,9 +27,9 @@ paragraphs:
       \ zusammenh\xE4ngt oder {betroffene Personen|index:betroffene-person} nur ihres\
       \ Mitgliedstaats erheblich beeintr\xE4chtigt."
     index:
-    - betroffene-person
-    - verordnung
     - "aufsichtsbeh\xF6rde"
+    - verordnung
+    - betroffene-person
     number: 2
   3:
     content: "In den in Absatz 2 des vorliegenden Artikels genannten F\xE4llen unterrichtet\
@@ -43,10 +43,10 @@ paragraphs:
       \ dessen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} sie unterrichtet hat,\
       \ eine Niederlassung hat oder nicht."
     index:
-    - auftragsverarbeiter
-    - verfahren
     - "aufsichtsbeh\xF6rde"
     - verantwortlicher
+    - verfahren
+    - auftragsverarbeiter
     number: 3
   4:
     content: "Entscheidet die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
@@ -58,8 +58,8 @@ paragraphs:
       \ bei der Ausarbeitung des Beschlussentwurfs nach Artikel 60 Absatz 3 weitestgehend\
       \ Rechnung."
     index:
-    - verfahren
     - "aufsichtsbeh\xF6rde"
+    - verfahren
     number: 4
   5:
     content: "Entscheidet die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
@@ -76,10 +76,10 @@ paragraphs:
       \ von diesem {Verantwortlichen|index:verantwortlicher} oder diesem {Auftragsverarbeiter|index:auftragsverarbeiter}\
       \ durchgef\xFChrten {grenz\xFCberschreitenden Verarbeitung|index:grenz\xFCberschreitende-verarbeitung}."
     index:
-    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
-    - "grenz\xFCberschreitende-verarbeitung"
     - verantwortlicher
+    - auftragsverarbeiter
+    - "grenz\xFCberschreitende-verarbeitung"
     number: 6
 section: 2
 title: "Zust\xE4ndigkeit der federf\xFChrenden {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\

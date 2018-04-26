@@ -23,8 +23,8 @@ content: "In order to ensure a consistent and high level of protection of {natur
   \ is lawful."
 index:
 - regulation
-- personal-data
-- processing
-- controller
 - natural-person
+- controller
+- processing
+- personal-data
 number: 10

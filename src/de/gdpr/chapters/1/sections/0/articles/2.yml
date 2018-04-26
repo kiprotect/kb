@@ -8,15 +8,15 @@ paragraphs:
       \ Daten|index:personenbezogene-daten}, die in einem {Dateisystem|index:dateisystem}\
       \ gespeichert sind oder gespeichert werden sollen."
     index:
-    - verordnung
     - verarbeitung
-    - personenbezogene-daten
     - dateisystem
+    - verordnung
+    - personenbezogene-daten
     number: 1
   2:
     index:
-    - verordnung
     - verarbeitung
+    - verordnung
     - personenbezogene-daten
     number: 2
     points:
@@ -48,8 +48,8 @@ paragraphs:
       \ mit Artikel 98 an die Grunds\xE4tze und Vorschriften der vorliegenden {Verordnung|index:verordnung}\
       \ angepasst."
     index:
-    - verordnung
     - verarbeitung
+    - verordnung
     - personenbezogene-daten
     number: 3
   4:

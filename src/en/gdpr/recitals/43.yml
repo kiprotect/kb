@@ -12,9 +12,9 @@ content: >-
   contract, including the provision of a service, is dependent on the {consent|index:consent}
   despite such {consent|index:consent} not being necessary for such performance.
 index:
-- data-subject
-- personal-data
-- processing
 - consent
+- data-subject
 - controller
+- processing
+- personal-data
 number: 43

@@ -46,6 +46,11 @@ point:
 paragraph:
   de: Paragraph
   en: Paragraph
+no-definition-content:
+  de: >
+    Es scheint als gibt es zu diesem Begriff keine Definition.
+  en: >
+    It seems there's no definition available for this term.
 no-summary-content:
   de: >
     Es scheint so, als gäbe es zu diesem Artikel noch keine Zusammenfassung! Du

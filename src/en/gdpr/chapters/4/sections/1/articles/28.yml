@@ -14,9 +14,9 @@ paragraphs:
     index:
     - regulation
     - data-subject
+    - controller
     - processing
     - technical-and-organisational-measures
-    - controller
     number: 1
   2:
     content: >-
@@ -32,10 +32,10 @@ paragraphs:
     number: 2
   3:
     index:
-    - personal-data
-    - controller
-    - processor
     - processing
+    - processor
+    - controller
+    - personal-data
     number: 3
     points:
       a:
@@ -50,11 +50,11 @@ paragraphs:
           unless that law prohibits such information on important grounds of public
           interest;
         index:
-        - controller
-        - personal-data
         - processor
+        - controller
         - processing
         - international-organisation
+        - personal-data
       b:
         content: >-
           ensures that persons authorised to process the {personal data|index:personal-data}
@@ -98,9 +98,9 @@ paragraphs:
           and deletes existing copies unless Union or Member State law requires storage
           of the {personal data|index:personal-data};
         index:
-        - personal-data
-        - controller
         - processing
+        - controller
+        - personal-data
       h:
         content: >-
           makes available to the {controller|index:controller} all information necessary
@@ -112,9 +112,9 @@ paragraphs:
           if, in its opinion, an instruction infringes this {Regulation|index:regulation}
           or other Union or Member State data protection provisions.
         index:
+        - regulation
         - processor
         - controller
-        - regulation
     preamble: >-
       {Processing|index:processing} by a {processor|index:processor} shall be governed
       by a contract or other legal act under Union or Member State law, that is binding
@@ -142,9 +142,9 @@ paragraphs:
     index:
     - regulation
     - processor
+    - controller
     - processing
     - technical-and-organisational-measures
-    - controller
     number: 4
   5:
     content: >-

@@ -35,13 +35,13 @@ content: "Damit die Anforderungen dieser {Verordnung|index:verordnung} in Bezug 
   \ unterliegt, eine Verpflichtung zur Speicherung der {personenbezogenen Daten|index:personenbezogene-daten}\
   \ besteht."
 index:
-- verordnung
-- verarbeitung
-- "aufsichtsbeh\xF6rde"
-- "technische-und-organisatorische-ma\xDFnahmen"
-- "verarbeitungst\xE4tigkeit"
-- auftragsverarbeiter
 - verantwortlicher
+- auftragsverarbeiter
+- "technische-und-organisatorische-ma\xDFnahmen"
 - betroffene-person
+- verarbeitung
+- verordnung
+- "aufsichtsbeh\xF6rde"
+- "verarbeitungst\xE4tigkeit"
 - personenbezogene-daten
 number: 81

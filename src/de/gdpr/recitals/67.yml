@@ -11,8 +11,8 @@ content: "Methoden zur Beschr\xE4nkung der {Verarbeitung|index:verarbeitung} {pe
   \ der {personenbezogenen Daten|index:personenbezogene-daten} beschr\xE4nkt wurde,\
   \ sollte in dem System unmissverst\xE4ndlich hingewiesen werden."
 index:
-- dateisystem
 - verarbeitung
-- personenbezogene-daten
+- dateisystem
 - "einschr\xE4nkung-der-verarbeitung"
+- personenbezogene-daten
 number: 67

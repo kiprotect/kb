@@ -10,8 +10,8 @@ content: >-
   delay and at the latest within one month and to give reasons where the {controller|index:controller}
   does not intend to comply with any such requests.
 index:
-- data-subject
-- personal-data
-- controller
 - regulation
+- data-subject
+- controller
+- personal-data
 number: 59

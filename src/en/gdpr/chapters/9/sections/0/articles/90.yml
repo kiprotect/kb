@@ -14,9 +14,9 @@ paragraphs:
       or {processor|index:processor} has received as a result of or has obtained in
       an activity covered by that obligation of secrecy.
     index:
-    - personal-data
-    - controller
     - processor
+    - controller
+    - personal-data
     number: 1
   2:
     content: >-

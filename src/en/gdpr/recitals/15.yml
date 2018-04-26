@@ -10,9 +10,9 @@ content: >-
   fall within the scope of this {Regulation|index:regulation}.
 index:
 - regulation
-- personal-data
-- automated-means
-- processing
-- natural-person
 - filing-system
+- natural-person
+- processing
+- automated-means
+- personal-data
 number: 15

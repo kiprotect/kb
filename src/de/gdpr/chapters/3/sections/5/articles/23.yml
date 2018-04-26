@@ -3,8 +3,8 @@ number: 23
 paragraphs:
   1:
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     number: 1
     points:
       a:

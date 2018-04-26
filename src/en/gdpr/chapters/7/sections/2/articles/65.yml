@@ -90,8 +90,8 @@ paragraphs:
       of this Article. The final decision shall attach the decision referred to in
       paragraph 1 of this Article.
     index:
-    - data-subject
     - supervisory-authority
+    - data-subject
     - processor
     - controller
     number: 6

@@ -15,8 +15,8 @@ content: >-
   may justify more time for communication.
 index:
 - data-subject
+- natural-person
+- controller
 - supervisory-authority
 - personal-data
-- controller
-- natural-person
 number: 86

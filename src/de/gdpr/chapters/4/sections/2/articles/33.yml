@@ -15,10 +15,10 @@ paragraphs:
       \ die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} nicht binnen 72 Stunden,\
       \ so ist ihr eine Begr\xFCndung f\xFCr die Verz\xF6gerung beizuf\xFCgen."
     index:
-    - "nat\xFCrliche-person"
     - verletzung-des-schutzes-personenbezogener-daten
-    - "aufsichtsbeh\xF6rde"
     - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - "nat\xFCrliche-person"
     number: 1
   2:
     content: "Wenn dem {Auftragsverarbeiter|index:auftragsverarbeiter} eine {Verletzung\
@@ -26,9 +26,9 @@ paragraphs:
       \ bekannt wird, meldet er diese dem {Verantwortlichen|index:verantwortlicher}\
       \ unverz\xFCglich."
     index:
-    - auftragsverarbeiter
     - verletzung-des-schutzes-personenbezogener-daten
     - verantwortlicher
+    - auftragsverarbeiter
     number: 2
   3:
     number: 3
@@ -40,8 +40,8 @@ paragraphs:
           \ Personen|index:betroffene-person}, der betroffenen Kategorien und der\
           \ ungef\xE4hren Zahl der betroffenen personenbezogenen Datens\xE4tze;"
         index:
-        - betroffene-person
         - verletzung-des-schutzes-personenbezogener-daten
+        - betroffene-person
       b:
         content: "den Namen und die Kontaktdaten des Datenschutzbeauftragten oder\
           \ einer sonstigen Anlaufstelle f\xFCr weitere Informationen;"
@@ -79,9 +79,9 @@ paragraphs:
       fung der Einhaltung der Bestimmungen dieses Artikels erm\xF6glichen."
     index:
     - verletzung-des-schutzes-personenbezogener-daten
+    - verantwortlicher
     - "aufsichtsbeh\xF6rde"
     - personenbezogene-daten
-    - verantwortlicher
     number: 5
 section: 2
 title: "Meldung von Verletzungen des Schutzes {personenbezogener Daten|index:personenbezogene-daten}\

@@ -43,10 +43,10 @@ content: >-
   of {personal data|index:personal-data} should be prohibited if the {processing|index:processing}
   is not compatible with a legal, professional or other binding obligation of secrecy.
 index:
+- consent
 - regulation
 - data-subject
-- personal-data
-- processing
-- consent
 - controller
+- processing
+- personal-data
 number: 50

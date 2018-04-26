@@ -12,6 +12,6 @@ content: "Eine {Unternehmensgruppe|index:unternehmensgruppe} sollte aus einem he
 index:
 - unternehmensgruppe
 - verarbeitung
-- personenbezogene-daten
 - unternehmen
+- personenbezogene-daten
 number: 37

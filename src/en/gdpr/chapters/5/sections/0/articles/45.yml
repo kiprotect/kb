@@ -10,8 +10,8 @@ paragraphs:
       in question ensures an adequate level of protection. Such a transfer shall not
       require any specific authorisation.
     index:
-    - personal-data
     - international-organisation
+    - personal-data
     number: 1
   2:
     number: 2
@@ -31,8 +31,8 @@ paragraphs:
           whose {personal data|index:personal-data} are being transferred;
         index:
         - data-subject
-        - personal-data
         - international-organisation
+        - personal-data
       b:
         content: >-
           the existence and effective functioning of one or more independent supervisory
@@ -51,8 +51,8 @@ paragraphs:
           or regional systems, in particular in relation to the protection of {personal
           data|index:personal-data}.
         index:
-        - personal-data
         - international-organisation
+        - personal-data
     preamble: >-
       When assessing the adequacy of the level of protection, the Commission shall,
       in particular, take account of the following elements:
@@ -113,8 +113,8 @@ paragraphs:
       organisation|index:international-organisation} in question pursuant to Articles
       46 to 49.
     index:
-    - personal-data
     - international-organisation
+    - personal-data
     number: 7
   8:
     content: >-

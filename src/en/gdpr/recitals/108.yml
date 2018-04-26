@@ -22,11 +22,11 @@ content: >-
   should be obtained when the safeguards are provided for in administrative arrangements
   that are not legally binding.
 index:
-- binding-corporate-rules
 - data-subject
-- personal-data
 - processor
-- supervisory-authority
+- binding-corporate-rules
 - processing
 - controller
+- supervisory-authority
+- personal-data
 number: 108

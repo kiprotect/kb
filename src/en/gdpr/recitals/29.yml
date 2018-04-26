@@ -12,10 +12,10 @@ content: >-
   the same {controller|index:controller}.
 index:
 - regulation
+- pseudonymisation
 - data-subject
+- controller
+- processing
 - technical-and-organisational-measures
 - personal-data
-- pseudonymisation
-- processing
-- controller
 number: 29

@@ -6,9 +6,9 @@ number: 13
 paragraphs:
   1:
     index:
+    - verantwortlicher
     - betroffene-person
     - personenbezogene-daten
-    - verantwortlicher
     number: 1
     points:
       a:
@@ -31,16 +31,16 @@ paragraphs:
           f beruht, die berechtigten Interessen, die von dem {Verantwortlichen|index:verantwortlicher}
           oder einem {Dritten|index:dritter} verfolgt werden;
         index:
-        - verantwortlicher
         - verarbeitung
+        - verantwortlicher
         - dritter
       e:
         content: "gegebenenfalls die {Empf\xE4nger|index:empf\xE4nger} oder Kategorien\
           \ von Empf\xE4ngern der {personenbezogenen Daten|index:personenbezogene-daten}\
           \ und"
         index:
-        - personenbezogene-daten
         - "empf\xE4nger"
+        - personenbezogene-daten
       f:
         content: "gegebenenfalls die Absicht des {Verantwortlichen|index:verantwortlicher},\
           \ die {personenbezogenen Daten|index:personenbezogene-daten} an ein Drittland\
@@ -51,9 +51,9 @@ paragraphs:
           \ auf die geeigneten oder angemessenen Garantien und die M\xF6glichkeit,\
           \ wie eine Kopie von ihnen zu erhalten ist, oder wo sie verf\xFCgbar sind."
         index:
-        - personenbezogene-daten
-        - internationale-organisation
         - verantwortlicher
+        - internationale-organisation
+        - personenbezogene-daten
     preamble: >-
       Werden {personenbezogene Daten|index:personenbezogene-daten} bei der {betroffenen
       Person|index:betroffene-person} erhoben, so teilt der {Verantwortliche|index:verantwortlicher}
@@ -61,9 +61,9 @@ paragraphs:
       dieser Daten Folgendes mit:
   2:
     index:
-    - betroffene-person
     - verarbeitung
     - verantwortlicher
+    - betroffene-person
     number: 2
     points:
       a:
@@ -81,9 +81,9 @@ paragraphs:
           bertragbarkeit;"
         index:
         - verarbeitung
-        - personenbezogene-daten
-        - "einschr\xE4nkung-der-verarbeitung"
         - verantwortlicher
+        - "einschr\xE4nkung-der-verarbeitung"
+        - personenbezogene-daten
       c:
         content: "wenn die {Verarbeitung|index:verarbeitung} auf Artikel 6 Absatz\
           \ 1 Buchstabe a oder Artikel 9 Absatz 2 Buchstabe a beruht, das Bestehen\
@@ -116,9 +116,9 @@ paragraphs:
           \ Auswirkungen einer derartigen {Verarbeitung|index:verarbeitung} f\xFC\
           r die {betroffene Person|index:betroffene-person}."
         index:
-        - betroffene-person
         - verarbeitung
         - profiling
+        - betroffene-person
     preamble: "Zus\xE4tzlich zu den Informationen gem\xE4\xDF Absatz 1 stellt der\
       \ {Verantwortliche|index:verantwortlicher} der {betroffenen Person|index:betroffene-person}\
       \ zum Zeitpunkt der Erhebung dieser Daten folgende weitere Informationen zur\
@@ -133,9 +133,9 @@ paragraphs:
       \ alle anderen ma\xDFgeblichen Informationen gem\xE4\xDF Absatz 2 zur Verf\xFC\
       gung."
     index:
+    - verantwortlicher
     - betroffene-person
     - personenbezogene-daten
-    - verantwortlicher
     number: 3
   4:
     content: "Die Abs\xE4tze 1, 2 und 3 finden keine Anwendung, wenn und soweit die\

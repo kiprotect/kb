@@ -17,9 +17,9 @@ paragraphs:
       t der {betroffenen Person|index:betroffene-person} in anderer Form nachgewiesen\
       \ wurde."
     index:
-    - betroffene-person
     - verarbeitung
     - verantwortlicher
+    - betroffene-person
     number: 1
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} erleichtert der {betroffenen\
@@ -31,8 +31,8 @@ paragraphs:
       \ glaubhaft macht, dass er nicht in der Lage ist, die {betroffene Person|index:betroffene-person}\
       \ zu identifizieren."
     index:
-    - betroffene-person
     - verantwortlicher
+    - betroffene-person
     number: 2
   3:
     content: "Der {Verantwortliche|index:verantwortlicher} stellt der {betroffenen\
@@ -48,8 +48,8 @@ paragraphs:
       \ Antrag elektronisch, so ist sie nach M\xF6glichkeit auf elektronischem Weg\
       \ zu unterrichten, sofern sie nichts anderes angibt."
     index:
-    - betroffene-person
     - verantwortlicher
+    - betroffene-person
     number: 3
   4:
     content: "Wird der {Verantwortliche|index:verantwortlicher} auf den Antrag der\
@@ -59,14 +59,14 @@ paragraphs:
       nde hierf\xFCr und \xFCber die M\xF6glichkeit, bei einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
       rde} Beschwerde einzulegen oder einen gerichtlichen Rechtsbehelf einzulegen."
     index:
-    - betroffene-person
     - "aufsichtsbeh\xF6rde"
     - verantwortlicher
+    - betroffene-person
     number: 4
   5:
     index:
-    - betroffene-person
     - verantwortlicher
+    - betroffene-person
     number: 5
     points:
       a:
@@ -93,9 +93,9 @@ paragraphs:
       \ der Identit\xE4t der {betroffenen Person|index:betroffene-person} erforderlich\
       \ sind."
     index:
+    - verantwortlicher
     - "nat\xFCrliche-person"
     - betroffene-person
-    - verantwortlicher
     number: 6
   7:
     content: "Die Informationen, die den {betroffenen Personen|index:betroffene-person}\
@@ -106,8 +106,8 @@ paragraphs:
       \ vermitteln. Werden die Bildsymbole in elektronischer Form dargestellt, m\xFC\
       ssen sie maschinenlesbar sein."
     index:
-    - betroffene-person
     - verarbeitung
+    - betroffene-person
     number: 7
   8:
     content: "Der Kommission wird die Befugnis \xFCbertragen, gem\xE4\xDF Artikel\

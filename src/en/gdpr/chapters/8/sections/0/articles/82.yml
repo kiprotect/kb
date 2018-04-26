@@ -8,9 +8,9 @@ paragraphs:
       compensation from the {controller|index:controller} or {processor|index:processor}
       for the damage suffered.
     index:
+    - regulation
     - processor
     - controller
-    - regulation
     number: 1
   2:
     content: >-

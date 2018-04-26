@@ -12,7 +12,7 @@ content: >-
   where {processing|index:processing} is addressed to a child, should be in such a
   clear and plain language that the child can easily understand.
 index:
+- processing
 - data-subject
 - personal-data
-- processing
 number: 58

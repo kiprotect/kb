@@ -17,9 +17,9 @@ content: >-
 index:
 - regulation
 - data-subject
+- processor
+- controller
+- processing
 - supervisory-authority
 - personal-data
-- processor
-- processing
-- controller
 number: 122

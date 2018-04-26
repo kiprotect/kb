@@ -7,10 +7,10 @@ content: >-
   data|index:personal-data} completed, including by means of providing a supplementary
   statement.
 index:
-- data-subject
-- personal-data
-- controller
 - processing
+- data-subject
+- controller
+- personal-data
 number: 16
 section: 3
 title: Right to rectification

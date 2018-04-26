@@ -10,10 +10,10 @@ paragraphs:
       or are intended to form part of a {filing system|index:filing-system}.
     index:
     - regulation
-    - personal-data
-    - automated-means
-    - processing
     - filing-system
+    - processing
+    - automated-means
+    - personal-data
     number: 1
   2:
     index:
@@ -51,9 +51,9 @@ paragraphs:
       data|index:personal-data} shall be adapted to the principles and rules of this
       {Regulation|index:regulation} in accordance with Article 98.
     index:
+    - processing
     - regulation
     - personal-data
-    - processing
     number: 3
   4:
     content: >-

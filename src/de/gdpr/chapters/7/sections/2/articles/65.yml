@@ -17,9 +17,9 @@ paragraphs:
           \ und begr\xFCndeten Einspruchs sind, insbesondere die Frage, ob ein Versto\xDF\
           \ gegen diese {Verordnung|index:verordnung} vorliegt;"
         index:
-        - verordnung
         - "aufsichtsbeh\xF6rde"
         - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
+        - verordnung
       b:
         content: "wenn es widerspr\xFCchliche Standpunkte dazu gibt, welche der betroffenen\
           \ {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} f\xFCr die {Hauptniederlassung|index:hauptniederlassung}\
@@ -95,10 +95,10 @@ paragraphs:
       \ Dem endg\xFCltigen Beschluss wird der in Absatz 1 des vorliegenden _Artikels\
       \ genannte Beschluss beigef\xFCgt."
     index:
-    - verantwortlicher
-    - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     - auftragsverarbeiter
+    - betroffene-person
     number: 6
 section: 2
 title: Streitbeilegung durch den Ausschuss

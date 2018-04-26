@@ -9,19 +9,19 @@ paragraphs:
       \ unabh\xE4ngig davon, ob die {Verarbeitung|index:verarbeitung} in der Union\
       \ stattfindet."
     index:
-    - verordnung
-    - verarbeitung
-    - verantwortlicher
     - auftragsverarbeiter
+    - verarbeitung
+    - verordnung
+    - verantwortlicher
     - personenbezogene-daten
     number: 1
   2:
     index:
-    - verordnung
-    - verarbeitung
-    - verantwortlicher
     - auftragsverarbeiter
     - betroffene-person
+    - verarbeitung
+    - verordnung
+    - verantwortlicher
     - personenbezogene-daten
     number: 2
     points:
@@ -49,10 +49,10 @@ paragraphs:
       \ der Union niedergelassenen {Verantwortlichen|index:verantwortlicher} an einem\
       \ Ort, der aufgrund V\xF6lkerrechts dem Recht eines Mitgliedstaats unterliegt."
     index:
-    - verordnung
     - verarbeitung
-    - personenbezogene-daten
     - verantwortlicher
+    - verordnung
+    - personenbezogene-daten
     number: 3
 section: 0
 title: "R\xE4umlicher Anwendungsbereich"

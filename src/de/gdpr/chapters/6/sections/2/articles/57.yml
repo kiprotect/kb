@@ -3,8 +3,8 @@ number: 57
 paragraphs:
   1:
     index:
-    - verordnung
     - "aufsichtsbeh\xF6rde"
+    - verordnung
     number: 1
     points:
       a:
@@ -26,25 +26,25 @@ paragraphs:
           rlicher Personen|index:nat\xFCrliche-person} in Bezug auf die {Verarbeitung|index:verarbeitung}\
           \ beraten;"
         index:
-        - "nat\xFCrliche-person"
         - verarbeitung
+        - "nat\xFCrliche-person"
       d:
         content: "die {Verantwortlichen|index:verantwortlicher} und die {Auftragsverarbeiter|index:auftragsverarbeiter}\
           \ f\xFCr die ihnen aus dieser {Verordnung|index:verordnung} entstehenden\
           \ Pflichten sensibilisieren;"
         index:
+        - verantwortlicher
         - auftragsverarbeiter
         - verordnung
-        - verantwortlicher
       e:
         content: "auf Anfrage jeder {betroffenen Person|index:betroffene-person} Informationen\
           \ \xFCber die Aus\xFCbung ihrer Rechte aufgrund dieser {Verordnung|index:verordnung}\
           \ zur Verf\xFCgung stellen und gegebenenfalls zu diesem Zweck mit den {Aufsichtsbeh\xF6\
           rden|index:aufsichtsbeh\xF6rde} in anderen Mitgliedstaaten zusammenarbeiten;"
         index:
-        - betroffene-person
-        - verordnung
         - "aufsichtsbeh\xF6rde"
+        - verordnung
+        - betroffene-person
       f:
         content: "sich mit Beschwerden einer {betroffenen Person|index:betroffene-person}\
           \ oder Beschwerden einer Stelle, einer Organisation oder eines Verbandes\
@@ -54,24 +54,24 @@ paragraphs:
           \ insbesondere, wenn eine weitere Untersuchung oder Koordinierung mit einer\
           \ anderen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} notwendig ist;"
         index:
-        - betroffene-person
         - "aufsichtsbeh\xF6rde"
+        - betroffene-person
       g:
         content: "mit anderen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} zusammenarbeiten,\
           \ auch durch Informationsaustausch, und ihnen Amtshilfe leisten, um die\
           \ einheitliche Anwendung und Durchsetzung dieser {Verordnung|index:verordnung}\
           \ zu gew\xE4hrleisten;"
         index:
-        - verordnung
         - "aufsichtsbeh\xF6rde"
+        - verordnung
       h:
         content: "Untersuchungen \xFCber die Anwendung dieser {Verordnung|index:verordnung}\
           \ durchf\xFChren, auch auf der Grundlage von Informationen einer anderen\
           \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} oder einer anderen Beh\xF6\
           rde;"
         index:
-        - verordnung
         - "aufsichtsbeh\xF6rde"
+        - verordnung
       i:
         content: "ma\xDFgebliche Entwicklungen verfolgen, soweit sie sich auf den\
           \ Schutz {personenbezogener Daten|index:personenbezogene-daten} auswirken,\
@@ -145,8 +145,8 @@ paragraphs:
       rde} ist f\xFCr die {betroffene Person|index:betroffene-person} und gegebenenfalls\
       \ f\xFCr den Datenschutzbeauftragten unentgeltlich."
     index:
-    - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - betroffene-person
     number: 3
   4:
     content: "Bei offenkundig unbegr\xFCndeten oder \u2014 insbesondere im Fall von\

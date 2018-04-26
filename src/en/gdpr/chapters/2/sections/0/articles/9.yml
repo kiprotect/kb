@@ -1,7 +1,7 @@
 chapter: 2
 index:
-- personal-data
 - processing
+- personal-data
 number: 9
 paragraphs:
   1:
@@ -14,12 +14,12 @@ paragraphs:
       health|index:data-concerning-health} or data concerning a natural person's sex
       life or sexual orientation shall be prohibited.
     index:
-    - genetic-data
     - data-concerning-health
+    - genetic-data
+    - natural-person
+    - processing
     - personal-data
     - biometric-data
-    - processing
-    - natural-person
     number: 1
   2:
     number: 2
@@ -32,10 +32,10 @@ paragraphs:
           provide that the prohibition referred to in paragraph 1 may not be lifted
           by the {data subject|index:data-subject};
         index:
-        - consent
-        - data-subject
-        - personal-data
         - processing
+        - consent
+        - personal-data
+        - data-subject
       b:
         content: >-
           {processing|index:processing} is necessary for the purposes of carrying
@@ -56,10 +56,10 @@ paragraphs:
           where the {data subject|index:data-subject} is physically or legally incapable
           of giving {consent|index:consent};
         index:
-        - data-subject
         - consent
         - natural-person
         - processing
+        - data-subject
       d:
         content: >-
           {processing|index:processing} is carried out in the course of its legitimate
@@ -71,17 +71,17 @@ paragraphs:
           the {personal data|index:personal-data} are not disclosed outside that body
           without the {consent|index:consent} of the data subjects;
         index:
+        - processing
         - consent
         - personal-data
-        - processing
       e:
         content: >-
           {processing|index:processing} relates to {personal data|index:personal-data}
           which are manifestly made public by the {data subject|index:data-subject};
         index:
+        - processing
         - data-subject
         - personal-data
-        - processing
       f:
         content: >-
           {processing|index:processing} is necessary for the establishment, exercise
@@ -152,9 +152,9 @@ paragraphs:
       with regard to the {processing|index:processing} of {genetic data|index:genetic-data},
       {biometric data|index:biometric-data} or {data concerning health|index:data-concerning-health}.
     index:
-    - genetic-data
-    - biometric-data
     - data-concerning-health
+    - biometric-data
+    - genetic-data
     - processing
     number: 4
 section: 0

@@ -19,9 +19,9 @@ content: >-
   are complied with by the {controller|index:controller} or {processor|index:processor}.
 index:
 - regulation
-- controller
-- personal-data
 - processor
-- international-organisation
 - natural-person
+- controller
+- international-organisation
+- personal-data
 number: 101
