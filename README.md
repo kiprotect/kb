@@ -2,9 +2,7 @@
 
 [![Build Status](https://travis-ci.org/DPKit/gdpr-portal.svg?branch=master)](https://travis-ci.org/DPKit/gdpr-portal)
 
-# Introduction
-
-Welcome! This is a community-created information portal about the European
+**Welcome**! This is a community-created information portal about the European
 General Data Protection Regulation (GDPR). The goal of this project is to
 provide comprehensive, accessible and relevant information that helps people,
 organizations and companies to better understand and comply with the GDPR.
@@ -182,8 +180,8 @@ project in the following way:
   https://dsgvo.dpkit.com for the German version) on each page that contains
   resources from this project.
 
-Please note that the license agreement does not extend to third-party resources
-and resources, so please carefully read the section below before you re-use
+Please note that the license agreement does not extend to third-party resources,
+so please carefully read the section below before you re-use
 any third-party resources from this project.
 
 Original software code published as part of this project is released under a
