@@ -15,8 +15,8 @@ Currently, the project contains the following components:
   easily processed.
 * Technical articles and guidelines that describe specific requirements of the
   GDPR and how to implement them in practice.
-* A discussion board where people can ask and answer questions regarding the
-  GDPR (hosted externally on Discourse).
+* Summaries of all relevant articles.
+* A glossary explaining technical terms.
 
 # Contributing
 
@@ -225,9 +225,6 @@ If you have questions regarding this project here's how to get answers:
   to other people that might have the same question.
 * If you want to ask a question but do not want to do so publicly, feel free
   to send us an e-mail to **gdpr-portal@dpkit.com**
-
-Please do not create issues for GDPR-related questions, as this is what our
-discussion board is for!
 
 # Imprint
 
