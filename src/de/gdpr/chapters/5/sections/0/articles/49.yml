@@ -3,8 +3,8 @@ number: 49
 paragraphs:
   1:
     index:
-    - personenbezogene-daten
     - internationale-organisation
+    - personenbezogene-daten
     number: 1
     points:
       a:
@@ -44,8 +44,8 @@ paragraphs:
           \ oder rechtlichen Gr\xFCnden au\xDFerstande ist, ihre {Einwilligung|index:einwilligung}\
           \ zu geben,"
         index:
-        - betroffene-person
         - einwilligung
+        - betroffene-person
       g:
         content: "die \xDCbermittlung erfolgt aus einem Register, das gem\xE4\xDF\
           \ dem Recht der Union oder der Mitgliedstaaten zur Information der \xD6\
@@ -76,10 +76,10 @@ paragraphs:
           \ 13 und 14 mitgeteilten Informationen."
         index:
         - betroffene-person
-        - internationale-organisation
         - verantwortlicher
-        - personenbezogene-daten
+        - internationale-organisation
         - verbindliche-interne-datenschutzvorschriften
+        - personenbezogene-daten
         - "aufsichtsbeh\xF6rde"
     preamble: "Falls weder ein Angemessenheitsbeschluss nach Artikel 45 Absatz 3 vorliegt\
       \ noch geeignete Garantien nach Artikel 46, einschlie\xDFlich verbindlicher\
@@ -118,8 +118,8 @@ paragraphs:
       \ vorgesehen werden. Die Mitgliedstaaten teilen der Kommission derartige Bestimmungen\
       \ mit."
     index:
-    - personenbezogene-daten
     - internationale-organisation
+    - personenbezogene-daten
     number: 5
   6:
     content: "Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\

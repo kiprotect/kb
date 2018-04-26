@@ -13,9 +13,9 @@ paragraphs:
       \ gew\xE4hrleistet."
     index:
     - betroffene-person
-    - verordnung
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - verantwortlicher
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verordnung
     - verarbeitung
     number: 1
   2:
@@ -35,10 +35,10 @@ paragraphs:
   3:
     index:
     - betroffene-person
-    - auftragsverarbeiter
     - verantwortlicher
-    - personenbezogene-daten
     - verarbeitung
+    - auftragsverarbeiter
+    - personenbezogene-daten
     number: 3
     points:
       a:
@@ -54,11 +54,11 @@ paragraphs:
           \ Recht eine solche Mitteilung nicht wegen eines wichtigen \xF6ffentlichen\
           \ Interesses verbietet;"
         index:
+        - verantwortlicher
+        - verarbeitung
         - internationale-organisation
         - auftragsverarbeiter
-        - verantwortlicher
         - personenbezogene-daten
-        - verarbeitung
       b:
         content: "gew\xE4hrleistet, dass sich die zur {Verarbeitung|index:verarbeitung}\
           \ der {personenbezogenen Daten|index:personenbezogene-daten} befugten Personen\
@@ -116,8 +116,8 @@ paragraphs:
           \ diese {Verordnung|index:verordnung} oder gegen andere Datenschutzbestimmungen\
           \ der Union oder der Mitgliedstaaten verst\xF6\xDFt."
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - verordnung
     preamble: |-
       Die {Verarbeitung|index:verarbeitung} durch einen {Auftragsverarbeiter|index:auftragsverarbeiter} erfolgt auf der Grundlage eines Vertrags oder eines anderen Rechtsinstruments nach dem Unionsrecht oder dem Recht der Mitgliedstaaten, der bzw. das den {Auftragsverarbeiter|index:auftragsverarbeiter} in Bezug auf den {Verantwortlichen|index:verantwortlicher} bindet und in dem Gegenstand und Dauer der {Verarbeitung|index:verarbeitung}, Art und Zweck der {Verarbeitung|index:verarbeitung}, die Art der {personenbezogenen Daten|index:personenbezogene-daten}, die Kategorien {betroffener Personen|index:betroffene-person} und die Pflichten und Rechte des {Verantwortlichen|index:verantwortlicher} festgelegt sind. Dieser Vertrag bzw. dieses andere Rechtsinstrument sieht insbesondere vor, dass der {Auftragsverarbeiter|index:auftragsverarbeiter}
@@ -140,12 +140,12 @@ paragraphs:
       \ gegen\xFCber dem {Verantwortlichen|index:verantwortlicher} f\xFCr die Einhaltung\
       \ der Pflichten jenes anderen {Auftragsverarbeiters|index:auftragsverarbeiter}."
     index:
-    - "verarbeitungst\xE4tigkeit"
-    - auftragsverarbeiter
-    - verordnung
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - verantwortlicher
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verordnung
     - verarbeitung
+    - auftragsverarbeiter
+    - "verarbeitungst\xE4tigkeit"
     number: 4
   5:
     content: "Die Einhaltung genehmigter Verhaltensregeln gem\xE4\xDF Artikel 40 oder\
@@ -194,8 +194,8 @@ paragraphs:
       \ und Mittel der {Verarbeitung|index:verarbeitung} bestimmt, in Bezug auf diese\
       \ {Verarbeitung|index:verarbeitung} als {Verantwortlicher|index:verantwortlicher}."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - verordnung
     - verarbeitung
     number: 10

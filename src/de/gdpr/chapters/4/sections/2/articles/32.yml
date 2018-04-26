@@ -5,11 +5,11 @@ number: 32
 paragraphs:
   1:
     index:
-    - auftragsverarbeiter
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - verantwortlicher
-    - "nat\xFCrliche-person"
+    - "technische-und-organisatorische-ma\xDFnahmen"
     - verarbeitung
+    - auftragsverarbeiter
+    - "nat\xFCrliche-person"
     number: 1
     points:
       a:
@@ -72,12 +72,12 @@ paragraphs:
       \ verarbeiten, es sei denn, sie sind nach dem Recht der Union oder der Mitgliedstaaten\
       \ zur {Verarbeitung|index:verarbeitung} verpflichtet."
     index:
-    - auftragsverarbeiter
-    - unternehmen
-    - personenbezogene-daten
     - verantwortlicher
-    - "nat\xFCrliche-person"
+    - unternehmen
     - verarbeitung
+    - auftragsverarbeiter
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
     number: 4
 section: 2
 title: Sicherheit der {Verarbeitung|index:verarbeitung}

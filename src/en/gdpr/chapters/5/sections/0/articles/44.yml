@@ -3,12 +3,12 @@ content: |-
   Any transfer of {personal data|index:personal-data} which are undergoing {processing|index:processing} or are intended for {processing|index:processing} after transfer to a third country or to an {international organisation|index:international-organisation} shall take place only if, subject to the other provisions of this {Regulation|index:regulation}, the conditions laid down in this Chapter are complied with by the {controller|index:controller} and {processor|index:processor}, including for onward transfers of {personal data|index:personal-data} from the third country or an {international organisation|index:international-organisation} to another third country or to another {international organisation|index:international-organisation}. All provisions in this Chapter shall be applied in order to ensure that the level of protection of {natural persons|index:natural-person} guaranteed by this {Regulation|index:regulation} is not undermined.
 index:
 - international-organisation
+- processing
 - processor
+- natural-person
+- personal-data
 - regulation
 - controller
-- personal-data
-- natural-person
-- processing
 number: 44
 section: 0
 title: General principle for transfers

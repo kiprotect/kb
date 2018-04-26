@@ -13,6 +13,6 @@ content: "Es sollten Modalit\xE4ten festgelegt werden, die einer {betroffenen Pe
 index:
 - verantwortlicher
 - personenbezogene-daten
-- betroffene-person
 - verordnung
+- betroffene-person
 number: 59

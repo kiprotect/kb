@@ -13,8 +13,8 @@ paragraphs:
     content: |-
       Without prejudice to any other administrative or non-judicial remedy, each {data subject|index:data-subject} shall have the right to a an effective judicial remedy where the {supervisory authority|index:supervisory-authority} which is competent pursuant to Articles 55 and 56 does not handle a complaint or does not inform the {data subject|index:data-subject} within three months on the progress or outcome of the complaint lodged pursuant to Article 77.
     index:
-    - data-subject
     - supervisory-authority
+    - data-subject
     number: 2
   3:
     content: |-

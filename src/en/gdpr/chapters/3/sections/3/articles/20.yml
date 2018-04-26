@@ -33,8 +33,8 @@ paragraphs:
     content: |-
       The exercise of the right referred to in paragraph 1 of this Article shall be without prejudice to Article 17. That right shall not apply to {processing|index:processing} necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the {controller|index:controller}.
     index:
-    - controller
     - processing
+    - controller
     number: 3
   4:
     content: The right referred to in paragraph 1 shall not adversely affect the rights

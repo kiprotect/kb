@@ -8,8 +8,8 @@ paragraphs:
       The {controller|index:controller} shall take appropriate measures to provide any information referred to in Articles 13 and 14 and any communication under Articles 15 to 22 and 34 relating to {processing|index:processing} to the {data subject|index:data-subject} in a concise, transparent, intelligible and easily accessible form, using clear and plain language, in particular for any information addressed specifically to a child. The information shall be provided in writing, or by other means, including, where appropriate, by electronic means. When requested by the {data subject|index:data-subject}, the information may be provided orally, provided that the identity of the {data subject|index:data-subject} is proven by other means.
     index:
     - data-subject
-    - controller
     - processing
+    - controller
     number: 1
   2:
     content: |-
@@ -29,8 +29,8 @@ paragraphs:
     content: |-
       If the {controller|index:controller} does not take action on the request of the {data subject|index:data-subject}, the {controller|index:controller} shall inform the {data subject|index:data-subject} without delay and at the latest within one month of receipt of the request of the reasons for not taking action and on the possibility of lodging a complaint with a {supervisory authority|index:supervisory-authority} and seeking a judicial remedy.
     index:
-    - data-subject
     - supervisory-authority
+    - data-subject
     - controller
     number: 4
   5:
@@ -53,8 +53,8 @@ paragraphs:
     content: |-
       Without prejudice to Article 11, where the {controller|index:controller} has reasonable doubts concerning the identity of the {natural person|index:natural-person} making the request referred to in Articles 15 to 21, the {controller|index:controller} may request the provision of additional information necessary to confirm the identity of the {data subject|index:data-subject}.
     index:
-    - data-subject
     - natural-person
+    - data-subject
     - controller
     number: 6
   7:

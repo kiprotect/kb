@@ -19,7 +19,7 @@ content: "Zu den personenbezogenen {Gesundheitsdaten|index:gesundheitsdaten} sol
   \ Gesundheitsberufes, einem Krankenhaus, einem Medizinprodukt oder einem In-Vitro-Diagnostikum\
   \ stammen."
 index:
-- "nat\xFCrliche-person"
-- betroffene-person
 - gesundheitsdaten
+- betroffene-person
+- "nat\xFCrliche-person"
 number: 35

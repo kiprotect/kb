@@ -2,8 +2,8 @@ chapter: 4
 content: |-
   The {processor|index:processor} and any person acting under the authority of the {controller|index:controller} or of the {processor|index:processor}, who has access to {personal data|index:personal-data}, shall not process those data except on instructions from the {controller|index:controller}, unless required to do so by Union or Member State law.
 index:
-- personal-data
 - processor
+- personal-data
 - controller
 number: 29
 section: 1

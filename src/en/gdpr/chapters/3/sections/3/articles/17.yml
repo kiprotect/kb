@@ -47,10 +47,10 @@ paragraphs:
     content: |-
       Where the {controller|index:controller} has made the {personal data|index:personal-data} public and is obliged pursuant to paragraph 1 to erase the {personal data|index:personal-data}, the {controller|index:controller}, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform controllers which are {processing|index:processing} the {personal data|index:personal-data} that the {data subject|index:data-subject} has requested the erasure by such controllers of any links to, or copy or replication of, those {personal data|index:personal-data}.
     index:
-    - personal-data
     - data-subject
-    - controller
+    - personal-data
     - processing
+    - controller
     number: 2
   3:
     index:
@@ -63,8 +63,8 @@ paragraphs:
         content: |-
           for compliance with a legal obligation which requires {processing|index:processing} by Union or Member State law to which the {controller|index:controller} is subject or for the performance of a task carried out in the public interest or in the exercise of official authority vested in the {controller|index:controller};
         index:
-        - controller
         - processing
+        - controller
       c:
         content: |-
           for reasons of public interest in the area of public health in accordance with points (h) and (i) of Article 9(2) as well as Article 9(3);

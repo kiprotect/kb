@@ -11,9 +11,9 @@ paragraphs:
       \ wird. Den besonderen Bed\xFCrfnissen von Kleinstunternehmen sowie kleinen\
       \ und mittleren {Unternehmen|index:unternehmen} wird Rechnung getragen."
     index:
-    - "aufsichtsbeh\xF6rde"
     - unternehmen
     - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
     - verordnung
     number: 1
   2:
@@ -33,10 +33,10 @@ paragraphs:
       \ anzuwenden, auch im Hinblick auf die Rechte der {betroffenen Personen|index:betroffene-person}."
     index:
     - betroffene-person
-    - internationale-organisation
-    - verordnung
-    - auftragsverarbeiter
     - verantwortlicher
+    - verordnung
+    - internationale-organisation
+    - auftragsverarbeiter
     - personenbezogene-daten
     number: 2
   3:
@@ -52,10 +52,10 @@ paragraphs:
       \ nicht die Aufgaben und Befugnisse der {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
       rde}, die gem\xE4\xDF Artikel 55 oder 56 zust\xE4ndig sind."
     index:
-    - "aufsichtsbeh\xF6rde"
     - verantwortlicher
-    - verordnung
     - auftragsverarbeiter
+    - "aufsichtsbeh\xF6rde"
+    - verordnung
     number: 4
   5:
     content: "Eine Zertifizierung nach diesem Artikel wird durch die Zertifizierungsstellen\
@@ -77,11 +77,11 @@ paragraphs:
       \ zur Verf\xFCgung und gew\xE4hrt ihr den in diesem Zusammenhang erforderlichen\
       \ Zugang zu seinen {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}."
     index:
-    - "verarbeitungst\xE4tigkeit"
-    - auftragsverarbeiter
     - verantwortlicher
-    - "aufsichtsbeh\xF6rde"
     - verarbeitung
+    - auftragsverarbeiter
+    - "aufsichtsbeh\xF6rde"
+    - "verarbeitungst\xE4tigkeit"
     number: 6
   7:
     content: "Die Zertifizierung wird einem {Verantwortlichen|index:verantwortlicher}\
@@ -93,8 +93,8 @@ paragraphs:
       rde} widerrufen, wenn die Voraussetzungen f\xFCr die Zertifizierung nicht oder\
       \ nicht mehr erf\xFCllt werden."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
     number: 7
   8:

@@ -12,8 +12,8 @@ content: "D\xFCrfen die {personenbezogenen Daten|index:personenbezogene-daten} m
   \ haben."
 index:
 - betroffene-person
-- dritter
 - verantwortlicher
-- personenbezogene-daten
 - verarbeitung
+- dritter
+- personenbezogene-daten
 number: 69

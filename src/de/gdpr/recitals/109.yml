@@ -14,8 +14,8 @@ content: "Die dem {Verantwortlichen|index:verantwortlicher} oder dem {Auftragsve
   \ mit vertraglichen Verpflichtungen, die die Standard-Schutzklauseln erg\xE4nzen,\
   \ zus\xE4tzliche Garantien zu bieten."
 index:
-- auftragsverarbeiter
 - verantwortlicher
+- auftragsverarbeiter
 - betroffene-person
 - "aufsichtsbeh\xF6rde"
 number: 109

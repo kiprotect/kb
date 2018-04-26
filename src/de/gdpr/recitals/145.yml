@@ -7,8 +7,8 @@ content: "Bei {Verfahren|index:verfahren} gegen {Verantwortliche|index:verantwor
   \ um eine Beh\xF6rde eines Mitgliedstaats handelt, die in Aus\xFCbung ihrer hoheitlichen\
   \ Befugnisse t\xE4tig geworden ist."
 index:
-- verfahren
 - verantwortlicher
-- betroffene-person
+- verfahren
 - auftragsverarbeiter
+- betroffene-person
 number: 145

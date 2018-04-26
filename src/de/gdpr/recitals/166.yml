@@ -14,8 +14,8 @@ content: "Um die Zielvorgaben dieser {Verordnung|index:verordnung} zu erf\xFClle
   gigen Dokumente dem Europ\xE4ischen Parlament und dem Rat gleichzeitig, rechtzeitig\
   \ und auf angemessene Weise \xFCbermittelt werden."
 index:
-- "nat\xFCrliche-person"
-- personenbezogene-daten
-- verordnung
 - verfahren
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- verordnung
 number: 166

@@ -12,9 +12,9 @@ paragraphs:
         content: |-
           the {data subject|index:data-subject} has given {consent|index:consent} to the {processing|index:processing} of his or her {personal data|index:personal-data} for one or more specific purposes;
         index:
-        - personal-data
         - data-subject
         - consent
+        - personal-data
         - processing
       b:
         content: |-
@@ -26,30 +26,30 @@ paragraphs:
         content: |-
           {processing|index:processing} is necessary for compliance with a legal obligation to which the {controller|index:controller} is subject;
         index:
-        - controller
         - processing
+        - controller
       d:
         content: |-
           {processing|index:processing} is necessary in order to protect the vital interests of the {data subject|index:data-subject} or of another {natural person|index:natural-person};
         index:
-        - data-subject
         - natural-person
+        - data-subject
         - processing
       e:
         content: |-
           {processing|index:processing} is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the {controller|index:controller};
         index:
-        - controller
         - processing
+        - controller
       f:
         content: |-
           {processing|index:processing} is necessary for the purposes of the legitimate interests pursued by the {controller|index:controller} or by a {third party|index:third-party}, except where such interests are overridden by the interests or fundamental rights and freedoms of the {data subject|index:data-subject} which require protection of {personal data|index:personal-data}, in particular where the {data subject|index:data-subject} is a child. Point (f) of the first subparagraph shall not apply to {processing|index:processing} carried out by public authorities in the performance of their tasks.
         index:
-        - data-subject
-        - third-party
-        - controller
-        - personal-data
         - processing
+        - third-party
+        - data-subject
+        - personal-data
+        - controller
     preamble: |-
       {Processing|index:processing} shall be lawful only if and to the extent that at least one of the following applies:
   2:
@@ -72,16 +72,16 @@ paragraphs:
         index:
         - personal-data
         - regulation
-        - controller
         - processing
+        - controller
     preamble: |-
       The basis for the {processing|index:processing} referred to in point (c) and (e) of paragraph 1 shall be laid down by:
   4:
     index:
-    - personal-data
-    - controller
     - consent
+    - personal-data
     - processing
+    - controller
     number: 4
     points:
       a:

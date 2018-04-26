@@ -12,8 +12,8 @@ content: "Rasche technologische Entwicklungen und die Globalisierung haben den D
   \ noch weiter erleichtern, wobei ein hohes Datenschutzniveau zu gew\xE4hrleisten\
   \ ist."
 index:
-- "nat\xFCrliche-person"
-- personenbezogene-daten
 - internationale-organisation
+- personenbezogene-daten
+- "nat\xFCrliche-person"
 - unternehmen
 number: 6

@@ -29,8 +29,8 @@ paragraphs:
         content: |-
           compliance with the request would infringe this {Regulation|index:regulation} or Union or Member State law to which the {supervisory authority|index:supervisory-authority} receiving the request is subject.
         index:
-        - regulation
         - supervisory-authority
+        - regulation
     preamble: |-
       The requested {supervisory authority|index:supervisory-authority} shall not refuse to comply with the request unless:
   5:

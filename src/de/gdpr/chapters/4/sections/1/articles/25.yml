@@ -19,12 +19,12 @@ paragraphs:
       \ zu sch\xFCtzen."
     index:
     - betroffene-person
-    - verordnung
-    - "technische-und-organisatorische-ma\xDFnahmen"
-    - pseudonymisierung
     - verantwortlicher
-    - "nat\xFCrliche-person"
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verordnung
     - verarbeitung
+    - pseudonymisierung
+    - "nat\xFCrliche-person"
     number: 1
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} trifft geeignete {technische\
@@ -40,11 +40,11 @@ paragraphs:
       \ Zahl von {nat\xFCrlichen Personen|index:nat\xFCrliche-person} zug\xE4nglich\
       \ gemacht werden."
     index:
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - verantwortlicher
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verarbeitung
     - personenbezogene-daten
     - "nat\xFCrliche-person"
-    - verarbeitung
     number: 2
   3:
     content: "Ein genehmigtes Zertifizierungsverfahren gem\xE4\xDF Artikel 42 kann\

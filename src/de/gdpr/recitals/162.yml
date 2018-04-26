@@ -20,7 +20,7 @@ content: "Diese {Verordnung|index:verordnung} sollte auch f\xFCr die {Verarbeitu
 index:
 - betroffene-person
 - verordnung
+- verarbeitung
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- verarbeitung
 number: 162

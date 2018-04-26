@@ -25,8 +25,8 @@ content: "Im Recht der Union oder der Mitgliedstaaten k\xF6nnen Beschr\xE4nkunge
   tzen. Diese Beschr\xE4nkungen sollten mit der Charta und mit der Europ\xE4ischen\
   \ Konvention zum Schutz der Menschenrechte und Grundfreiheiten im Einklang stehen."
 index:
-- verletzung-des-schutzes-personenbezogener-daten
-- personenbezogene-daten
-- betroffene-person
 - verantwortlicher
+- personenbezogene-daten
+- verletzung-des-schutzes-personenbezogener-daten
+- betroffene-person
 number: 73

@@ -14,9 +14,9 @@ paragraphs:
       \ oder Daten zum Sexualleben oder der sexuellen Orientierung einer {nat\xFC\
       rlichen Person|index:nat\xFCrliche-person} ist untersagt."
     index:
-    - "nat\xFCrliche-person"
-    - personenbezogene-daten
     - gesundheitsdaten
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
     - verarbeitung
     number: 1
   2:
@@ -30,10 +30,10 @@ paragraphs:
           \ Verbot nach Absatz 1 durch die {Einwilligung|index:einwilligung} der {betroffenen\
           \ Person|index:betroffene-person} nicht aufgehoben werden,"
         index:
-        - personenbezogene-daten
-        - betroffene-person
         - einwilligung
+        - personenbezogene-daten
         - verarbeitung
+        - betroffene-person
       b:
         content: "die {Verarbeitung|index:verarbeitung} ist erforderlich, damit der\
           \ {Verantwortliche|index:verantwortlicher} oder die {betroffene Person|index:betroffene-person}\
@@ -56,9 +56,9 @@ paragraphs:
           \ oder rechtlichen Gr\xFCnden au\xDFerstande, ihre {Einwilligung|index:einwilligung}\
           \ zu geben,"
         index:
-        - "nat\xFCrliche-person"
-        - betroffene-person
         - einwilligung
+        - betroffene-person
+        - "nat\xFCrliche-person"
         - verarbeitung
       d:
         content: "die {Verarbeitung|index:verarbeitung} erfolgt auf der Grundlage\
@@ -73,18 +73,18 @@ paragraphs:
           \ der {betroffenen Personen|index:betroffene-person} nach au\xDFen offengelegt\
           \ werden,"
         index:
-        - personenbezogene-daten
-        - betroffene-person
         - einwilligung
+        - personenbezogene-daten
         - verarbeitung
+        - betroffene-person
       e:
         content: "die {Verarbeitung|index:verarbeitung} bezieht sich auf {personenbezogene\
           \ Daten|index:personenbezogene-daten}, die die {betroffene Person|index:betroffene-person}\
           \ offensichtlich \xF6ffentlich gemacht hat,"
         index:
         - personenbezogene-daten
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
       f:
         content: "die {Verarbeitung|index:verarbeitung} ist zur Geltendmachung, Aus\xFC\
           bung oder Verteidigung von Rechtsanspr\xFCchen oder bei Handlungen der Gerichte\

@@ -37,13 +37,13 @@ content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:p
   \ zu wissenschaftlichen Zwecken sollte auch anderen einschl\xE4gigen Rechtsvorschriften,\
   \ beispielsweise f\xFCr klinische Pr\xFCfungen, gen\xFCgen."
 index:
-- betroffene-person
-- verordnung
-- "einschr\xE4nkung-der-verarbeitung"
-- "technische-und-organisatorische-ma\xDFnahmen"
-- pseudonymisierung
 - verfahren
-- personenbezogene-daten
+- betroffene-person
 - verantwortlicher
+- "technische-und-organisatorische-ma\xDFnahmen"
+- "einschr\xE4nkung-der-verarbeitung"
+- verordnung
 - verarbeitung
+- personenbezogene-daten
+- pseudonymisierung
 number: 156

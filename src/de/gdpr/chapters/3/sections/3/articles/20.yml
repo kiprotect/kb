@@ -20,8 +20,8 @@ paragraphs:
         content: |-
           die {Verarbeitung|index:verarbeitung} mithilfe {automatisierter Verfahren|index:automatisiertes-verfahren} erfolgt.
         index:
-        - automatisiertes-verfahren
         - verarbeitung
+        - automatisiertes-verfahren
     preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, die\
       \ sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten}, die\
       \ sie einem {Verantwortlichen|index:verantwortlicher} bereitgestellt hat, in\

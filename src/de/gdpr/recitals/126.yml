@@ -1,20 +1,21 @@
 content: "Der Beschluss sollte von der federf\xFChrenden {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
   rde} und den betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} gemeinsam\
-  \ vereinbart werden und an die Hauptniederlassung oder die einzige Niederlassung\
-  \ des {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiters|index:auftragsverarbeiter}\
+  \ vereinbart werden und an die {Hauptniederlassung|index:hauptniederlassung} oder\
+  \ die einzige Niederlassung des {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiters|index:auftragsverarbeiter}\
   \ gerichtet sein und f\xFCr den {Verantwortlichen|index:verantwortlicher} und den\
   \ {Auftragsverarbeiter|index:auftragsverarbeiter} verbindlich sein. Der {Verantwortliche|index:verantwortlicher}\
   \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} sollte die erforderlichen\
   \ Ma\xDFnahmen treffen, um die Einhaltung dieser {Verordnung|index:verordnung} und\
-  \ die Umsetzung des Beschlusses zu gew\xE4hrleisten, der der Hauptniederlassung\
+  \ die Umsetzung des Beschlusses zu gew\xE4hrleisten, der der {Hauptniederlassung|index:hauptniederlassung}\
   \ des {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiters|index:auftragsverarbeiter}\
   \ im Hinblick auf die {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}\
   \ in der Union von der federf\xFChrenden {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
   rde} mitgeteilt wurde."
 index:
-- "verarbeitungst\xE4tigkeit"
-- verordnung
-- auftragsverarbeiter
 - verantwortlicher
+- verordnung
+- hauptniederlassung
+- auftragsverarbeiter
 - "aufsichtsbeh\xF6rde"
+- "verarbeitungst\xE4tigkeit"
 number: 126

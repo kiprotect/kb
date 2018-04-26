@@ -8,8 +8,8 @@ content: "In allen F\xE4llen, in denen kein Kommissionsbeschluss zur Angemessenh
   \ genie\xDFen k\xF6nnen."
 index:
 - betroffene-person
-- auftragsverarbeiter
 - verantwortlicher
-- personenbezogene-daten
 - verarbeitung
+- auftragsverarbeiter
+- personenbezogene-daten
 number: 114

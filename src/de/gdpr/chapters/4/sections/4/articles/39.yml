@@ -11,8 +11,8 @@ paragraphs:
           \ nach dieser {Verordnung|index:verordnung} sowie nach sonstigen Datenschutzvorschriften\
           \ der Union bzw. der Mitgliedstaaten;"
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - verordnung
       b:
         content: "\xDCberwachung der Einhaltung dieser {Verordnung|index:verordnung},\
@@ -23,9 +23,9 @@ paragraphs:
           \ Zust\xE4ndigkeiten, der Sensibilisierung und Schulung der an den Verarbeitungsvorg\xE4\
           ngen beteiligten Mitarbeiter und der diesbez\xFCglichen \xDCberpr\xFCfungen;"
         index:
+        - verantwortlicher
         - auftragsverarbeiter
         - personenbezogene-daten
-        - verantwortlicher
         - verordnung
       c:
         content: "Beratung \u2014 auf Anfrage \u2014 im Zusammenhang mit der Datenschutz-Folgenabsch\xE4\

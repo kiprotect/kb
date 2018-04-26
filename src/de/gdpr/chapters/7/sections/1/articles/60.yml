@@ -22,8 +22,8 @@ paragraphs:
       \ Bezug auf einen {Verantwortlichen|index:verantwortlicher} oder einen {Auftragsverarbeiter|index:auftragsverarbeiter},\
       \ der in einem anderen Mitgliedstaat niedergelassen ist."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
     number: 2
   3:
@@ -48,8 +48,8 @@ paragraphs:
       rde|index:aufsichtsbeh\xF6rde} das Koh\xE4renzverfahren gem\xE4\xDF Artikel\
       \ 63 f\xFCr die Angelegenheit ein."
     index:
-    - "aufsichtsbeh\xF6rde"
     - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
+    - "aufsichtsbeh\xF6rde"
     number: 4
   5:
     content: "Beabsichtigt die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
@@ -59,9 +59,9 @@ paragraphs:
       \ Stellungnahme vor. Der \xFCberarbeitete Beschlussentwurf wird innerhalb von\
       \ zwei Wochen dem {Verfahren|index:verfahren} nach Absatz 4 unterzogen."
     index:
-    - verfahren
-    - "aufsichtsbeh\xF6rde"
     - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
+    - "aufsichtsbeh\xF6rde"
+    - verfahren
     number: 5
   6:
     content: "Legt keine der anderen betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
@@ -76,19 +76,19 @@ paragraphs:
     number: 6
   7:
     content: "Die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
-      \ erl\xE4sst den Beschluss und teilt ihn der {Hauptniederlassung|index:hauptniederlassung} oder der einzigen\
-      \ Niederlassung des {Verantwortlichen|index:verantwortlicher} oder gegebenenfalls\
-      \ des {Auftragsverarbeiters|index:auftragsverarbeiter} mit und setzt die anderen\
-      \ betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} und den Ausschuss\
-      \ von dem betreffenden Beschluss einschlie\xDFlich einer Zusammenfassung der\
-      \ ma\xDFgeblichen Fakten und Gr\xFCnde in Kenntnis. Die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
-      rde}, bei der eine Beschwerde eingereicht worden ist, unterrichtet den Beschwerdef\xFC\
-      hrer \xFCber den Beschluss."
+      \ erl\xE4sst den Beschluss und teilt ihn der {Hauptniederlassung|index:hauptniederlassung}\
+      \ oder der einzigen Niederlassung des {Verantwortlichen|index:verantwortlicher}\
+      \ oder gegebenenfalls des {Auftragsverarbeiters|index:auftragsverarbeiter} mit\
+      \ und setzt die anderen betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+      rde} und den Ausschuss von dem betreffenden Beschluss einschlie\xDFlich einer\
+      \ Zusammenfassung der ma\xDFgeblichen Fakten und Gr\xFCnde in Kenntnis. Die\
+      \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, bei der eine Beschwerde eingereicht\
+      \ worden ist, unterrichtet den Beschwerdef\xFChrer \xFCber den Beschluss."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
-    - hauptniederlassung
+    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
+    - hauptniederlassung
     number: 7
   8:
     content: "Wird eine Beschwerde abgelehnt oder abgewiesen, so erl\xE4sst die {Aufsichtsbeh\xF6\
@@ -107,20 +107,20 @@ paragraphs:
       \ f\xFCr jeden dieser Teile ein eigener Beschluss erlassen. Die federf\xFChrende\
       \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} erl\xE4sst den Beschluss f\xFC\
       r den Teil, der das T\xE4tigwerden in Bezug auf den {Verantwortlichen|index:verantwortlicher}\
-      \ betrifft, teilt ihn der {Hauptniederlassung|index:hauptniederlassung} oder einzigen Niederlassung des\
-      \ {Verantwortlichen|index:verantwortlicher} oder des {Auftragsverarbeiters|index:auftragsverarbeiter}\
-      \ im Hoheitsgebiet ihres Mitgliedstaats mit und setzt den Beschwerdef\xFChrer\
-      \ hiervon in Kenntnis, w\xE4hrend die f\xFCr den Beschwerdef\xFChrer zust\xE4\
-      ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} den Beschluss f\xFCr den\
-      \ Teil erl\xE4sst, der die Ablehnung oder Abweisung dieser Beschwerde betrifft,\
-      \ und ihn diesem Beschwerdef\xFChrer mitteilt und den {Verantwortlichen|index:verantwortlicher}\
-      \ oder den {Auftragsverarbeiter|index:auftragsverarbeiter} hiervon in Kenntnis\
-      \ setzt."
+      \ betrifft, teilt ihn der {Hauptniederlassung|index:hauptniederlassung} oder\
+      \ einzigen Niederlassung des {Verantwortlichen|index:verantwortlicher} oder\
+      \ des {Auftragsverarbeiters|index:auftragsverarbeiter} im Hoheitsgebiet ihres\
+      \ Mitgliedstaats mit und setzt den Beschwerdef\xFChrer hiervon in Kenntnis,\
+      \ w\xE4hrend die f\xFCr den Beschwerdef\xFChrer zust\xE4ndige {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} den Beschluss f\xFCr den Teil erl\xE4sst, der\
+      \ die Ablehnung oder Abweisung dieser Beschwerde betrifft, und ihn diesem Beschwerdef\xFC\
+      hrer mitteilt und den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ hiervon in Kenntnis setzt."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
-    - hauptniederlassung
+    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
+    - hauptniederlassung
     number: 9
   10:
     content: "Nach der Unterrichtung \xFCber den Beschluss der federf\xFChrenden {Aufsichtsbeh\xF6\
@@ -134,10 +134,10 @@ paragraphs:
       \ diese wiederum unterrichtet die anderen betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
       rde}."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
-    - "verarbeitungst\xE4tigkeit"
+    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
+    - "verarbeitungst\xE4tigkeit"
     number: 10
   11:
     content: "Hat \u2014 in Ausnahmef\xE4llen \u2014 eine betroffene {Aufsichtsbeh\xF6\

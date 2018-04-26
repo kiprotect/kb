@@ -17,16 +17,16 @@ paragraphs:
           the core activities of the {controller|index:controller} or the {processor|index:processor} consist of {processing|index:processing} operations which, by virtue of their nature, their scope and/or their purposes, require regular and systematic monitoring of data subjects on a large scale; or
         index:
         - processor
-        - controller
         - processing
+        - controller
       c:
         content: |-
           the core activities of the {controller|index:controller} or the {processor|index:processor} consist of {processing|index:processing} on a large scale of special categories of data pursuant to Article 9 and {personal data|index:personal-data} relating to criminal convictions and offences referred to in Article 10.
         index:
-        - personal-data
         - processor
-        - controller
+        - personal-data
         - processing
+        - controller
     preamble: |-
       The {controller|index:controller} and the {processor|index:processor} shall designate a data protection officer in any case where:
   2:

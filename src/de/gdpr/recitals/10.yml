@@ -27,9 +27,9 @@ content: "Um ein gleichm\xE4\xDFiges und hohes Datenschutzniveau f\xFCr {nat\xFC
   \ die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
   \ rechtm\xE4\xDFig ist."
 index:
-- verordnung
 - verantwortlicher
+- verordnung
+- verarbeitung
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- verarbeitung
 number: 10

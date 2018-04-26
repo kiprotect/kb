@@ -8,16 +8,16 @@ paragraphs:
       Without prejudice to Article 55, the {supervisory authority|index:supervisory-authority} of the main establishment or of the single establishment of the {controller|index:controller} or {processor|index:processor} shall be competent to act as lead {supervisory authority|index:supervisory-authority} for the {cross-border processing|index:cross-border-processing} carried out by that {controller|index:controller} or {processor|index:processor} in accordance with the procedure provided in Article 60.
     index:
     - processor
-    - cross-border-processing
     - supervisory-authority
+    - cross-border-processing
     - controller
     number: 1
   2:
     content: |-
       By derogation from paragraph 1, each {supervisory authority|index:supervisory-authority} shall be competent to handle a complaint lodged with it or a possible infringement of this {Regulation|index:regulation}, if the subject matter relates only to an establishment in its Member State or substantially affects data subjects only in its Member State.
     index:
-    - regulation
     - supervisory-authority
+    - regulation
     number: 2
   3:
     content: |-
@@ -44,8 +44,8 @@ paragraphs:
       The lead {supervisory authority|index:supervisory-authority} shall be the sole interlocutor of the {controller|index:controller} or {processor|index:processor} for the {cross-border processing|index:cross-border-processing} carried out by that {controller|index:controller} or {processor|index:processor}.
     index:
     - processor
-    - cross-border-processing
     - supervisory-authority
+    - cross-border-processing
     - controller
     number: 6
 section: 2

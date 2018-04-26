@@ -2,10 +2,10 @@ chapter: 3
 content: |-
   The {data subject|index:data-subject} shall have the right to obtain from the {controller|index:controller} without undue delay the rectification of inaccurate {personal data|index:personal-data} concerning him or her. Taking into account the purposes of the {processing|index:processing}, the {data subject|index:data-subject} shall have the right to have incomplete {personal data|index:personal-data} completed, including by means of providing a supplementary statement.
 index:
-- personal-data
 - data-subject
-- controller
+- personal-data
 - processing
+- controller
 number: 16
 section: 3
 title: Right to rectification

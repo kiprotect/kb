@@ -8,33 +8,35 @@ content: "Findet die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|
   \ in der Union erhebliche Auswirkungen auf {betroffene Personen|index:betroffene-person}\
   \ in mehr als einem Mitgliedstaat bzw. wird sie voraussichtlich solche Auswirkungen\
   \ haben, so sollte die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} f\xFCr die\
-  \ Hauptniederlassung des {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiters|index:auftragsverarbeiter}\
-  \ oder f\xFCr die einzige Niederlassung des {Verantwortlichen|index:verantwortlicher}\
-  \ oder {Auftragsverarbeiters|index:auftragsverarbeiter} als federf\xFChrende Beh\xF6\
-  rde fungieren. Sie sollte mit den anderen Beh\xF6rden zusammenarbeiten, die betroffen\
-  \ sind, weil der {Verantwortliche|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
-  \ eine Niederlassung im Hoheitsgebiet ihres Mitgliedstaats hat, weil die {Verarbeitung|index:verarbeitung}\
-  \ erhebliche Auswirkungen auf {betroffene Personen|index:betroffene-person} mit\
-  \ Wohnsitz in ihrem Hoheitsgebiet hat oder weil bei ihnen eine Beschwerde eingelegt\
-  \ wurde. Auch wenn eine {betroffene Person|index:betroffene-person} ohne Wohnsitz\
-  \ in dem betreffenden Mitgliedstaat eine Beschwerde eingelegt hat, sollte die {Aufsichtsbeh\xF6\
-  rde|index:aufsichtsbeh\xF6rde}, bei der Beschwerde eingelegt wurde, auch eine betroffene\
-  \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} sein. Der Ausschuss sollte \u2014\
-  \ im Rahmen seiner Aufgaben in Bezug auf die Herausgabe von Leitlinien zu allen\
-  \ Fragen im Zusammenhang mit der Anwendung dieser {Verordnung|index:verordnung}\
-  \ \u2014 insbesondere Leitlinien zu den Kriterien ausgeben k\xF6nnen, die bei der\
-  \ Feststellung zu ber\xFCcksichtigen sind, ob die fragliche {Verarbeitung|index:verarbeitung}\
-  \ erhebliche Auswirkungen auf {betroffene Personen|index:betroffene-person} in mehr\
-  \ als einem Mitgliedstaat hat und was einen {ma\xDFgeblichen und begr\xFCndeten\
-  \ Einspruch|index:ma\xDFgeblicher-und-begr\xFCndeter-einspruch} darstellt."
+  \ {Hauptniederlassung|index:hauptniederlassung} des {Verantwortlichen|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiters|index:auftragsverarbeiter} oder f\xFCr die einzige\
+  \ Niederlassung des {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiters|index:auftragsverarbeiter}\
+  \ als federf\xFChrende Beh\xF6rde fungieren. Sie sollte mit den anderen Beh\xF6\
+  rden zusammenarbeiten, die betroffen sind, weil der {Verantwortliche|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} eine Niederlassung im Hoheitsgebiet\
+  \ ihres Mitgliedstaats hat, weil die {Verarbeitung|index:verarbeitung} erhebliche\
+  \ Auswirkungen auf {betroffene Personen|index:betroffene-person} mit Wohnsitz in\
+  \ ihrem Hoheitsgebiet hat oder weil bei ihnen eine Beschwerde eingelegt wurde. Auch\
+  \ wenn eine {betroffene Person|index:betroffene-person} ohne Wohnsitz in dem betreffenden\
+  \ Mitgliedstaat eine Beschwerde eingelegt hat, sollte die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+  rde}, bei der Beschwerde eingelegt wurde, auch eine betroffene {Aufsichtsbeh\xF6\
+  rde|index:aufsichtsbeh\xF6rde} sein. Der Ausschuss sollte \u2014 im Rahmen seiner\
+  \ Aufgaben in Bezug auf die Herausgabe von Leitlinien zu allen Fragen im Zusammenhang\
+  \ mit der Anwendung dieser {Verordnung|index:verordnung} \u2014 insbesondere Leitlinien\
+  \ zu den Kriterien ausgeben k\xF6nnen, die bei der Feststellung zu ber\xFCcksichtigen\
+  \ sind, ob die fragliche {Verarbeitung|index:verarbeitung} erhebliche Auswirkungen\
+  \ auf {betroffene Personen|index:betroffene-person} in mehr als einem Mitgliedstaat\
+  \ hat und was einen {ma\xDFgeblichen und begr\xFCndeten Einspruch|index:ma\xDFgeblicher-und-begr\xFC\
+  ndeter-einspruch} darstellt."
 index:
-- "verarbeitungst\xE4tigkeit"
 - betroffene-person
-- verordnung
-- auftragsverarbeiter
 - verantwortlicher
-- personenbezogene-daten
-- "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
 - "aufsichtsbeh\xF6rde"
+- "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
+- verordnung
 - verarbeitung
+- auftragsverarbeiter
+- personenbezogene-daten
+- hauptniederlassung
+- "verarbeitungst\xE4tigkeit"
 number: 124

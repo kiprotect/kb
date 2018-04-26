@@ -1,9 +1,6 @@
 personenbezogene-daten:
   title: Personenbezogene Daten
-  description: >
-    Personenbezogene Daten sind Daten, die sich auf eine Person beziehen. Doh!
-  official-description: >
-    "{Personenbezogene Daten|index:personenbezogene-daten} sind alle\
+  official-description: "{Personenbezogene Daten|index:personenbezogene-daten} sind alle\
     \ Informationen, die sich auf eine {identifizierte|index:identifiziert} oder\
     \ {identifizierbare|index:identifizierbar} {nat\xFCrliche Person|index:nat\xFC\
     rliche-person} (im Folgenden \u201E{betroffene Person|index:betroffene-person}\u201C\

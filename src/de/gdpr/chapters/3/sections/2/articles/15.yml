@@ -23,8 +23,8 @@ paragraphs:
           \ offengelegt worden sind oder noch offengelegt werden, insbesondere bei\
           \ Empf\xE4ngern in Drittl\xE4ndern oder bei internationalen Organisationen;"
         index:
-        - personenbezogene-daten
         - "empf\xE4nger"
+        - personenbezogene-daten
       d:
         content: "falls m\xF6glich die geplante Dauer, f\xFCr die die {personenbezogenen\
           \ Daten|index:personenbezogene-daten} gespeichert werden, oder, falls dies\
@@ -38,9 +38,9 @@ paragraphs:
           \ durch den {Verantwortlichen|index:verantwortlicher} oder eines Widerspruchsrechts\
           \ gegen diese {Verarbeitung|index:verarbeitung};"
         index:
+        - verantwortlicher
         - "einschr\xE4nkung-der-verarbeitung"
         - personenbezogene-daten
-        - verantwortlicher
         - verarbeitung
       f:
         content: "das Bestehen eines Beschwerderechts bei einer {Aufsichtsbeh\xF6\
@@ -62,9 +62,9 @@ paragraphs:
           \ Auswirkungen einer derartigen {Verarbeitung|index:verarbeitung} f\xFC\
           r die {betroffene Person|index:betroffene-person}."
         index:
+        - profiling
         - betroffene-person
         - verarbeitung
-        - profiling
     preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, von\
       \ dem {Verantwortlichen|index:verantwortlicher} eine Best\xE4tigung dar\xFC\
       ber zu verlangen, ob sie betreffende {personenbezogene Daten|index:personenbezogene-daten}\
@@ -78,9 +78,9 @@ paragraphs:
       \ Recht, \xFCber die geeigneten Garantien gem\xE4\xDF Artikel 46 im Zusammenhang\
       \ mit der \xDCbermittlung unterrichtet zu werden."
     index:
-    - betroffene-person
-    - personenbezogene-daten
     - internationale-organisation
+    - personenbezogene-daten
+    - betroffene-person
     number: 2
   3:
     content: "Der {Verantwortliche|index:verantwortlicher} stellt eine Kopie der {personenbezogenen\
@@ -94,8 +94,8 @@ paragraphs:
     index:
     - verantwortlicher
     - personenbezogene-daten
-    - betroffene-person
     - verarbeitung
+    - betroffene-person
     number: 3
   4:
     content: "Das Recht auf Erhalt einer Kopie gem\xE4\xDF Absatz 1b darf die Rechte\

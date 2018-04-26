@@ -14,10 +14,10 @@ paragraphs:
           \ Daten|index:personenbezogene-daten} f\xFCr einen oder mehrere bestimmte\
           \ Zwecke gegeben;"
         index:
-        - personenbezogene-daten
-        - betroffene-person
         - einwilligung
+        - personenbezogene-daten
         - verarbeitung
+        - betroffene-person
       b:
         content: "die {Verarbeitung|index:verarbeitung} ist f\xFCr die Erf\xFCllung\
           \ eines Vertrags, dessen Vertragspartei die {betroffene Person|index:betroffene-person}\
@@ -39,8 +39,8 @@ paragraphs:
           \ anderen {nat\xFCrlichen Person|index:nat\xFCrliche-person} zu sch\xFC\
           tzen;"
         index:
-        - "nat\xFCrliche-person"
         - betroffene-person
+        - "nat\xFCrliche-person"
         - verarbeitung
       e:
         content: "die {Verarbeitung|index:verarbeitung} ist f\xFCr die Wahrnehmung\
@@ -61,10 +61,10 @@ paragraphs:
           \ Beh\xF6rden in Erf\xFCllung ihrer Aufgaben vorgenommene {Verarbeitung|index:verarbeitung}."
         index:
         - betroffene-person
-        - dritter
         - verantwortlicher
-        - personenbezogene-daten
         - verarbeitung
+        - dritter
+        - personenbezogene-daten
     preamble: "Die {Verarbeitung|index:verarbeitung} ist nur rechtm\xE4\xDFig, wenn\
       \ mindestens eine der nachstehenden Bedingungen erf\xFCllt ist:"
   2:
@@ -109,20 +109,20 @@ paragraphs:
           \ \xF6ffentlichen Interesse liegendes Ziel verfolgen und in einem angemessenen\
           \ Verh\xE4ltnis zu dem verfolgten legitimen Zweck stehen."
         index:
-        - verordnung
         - verfahren
-        - personenbezogene-daten
         - verantwortlicher
+        - verordnung
         - verarbeitung
+        - personenbezogene-daten
     preamble: "Die Rechtsgrundlage f\xFCr die Verarbeitungen gem\xE4\xDF Absatz 1\
       \ Buchstaben c und e wird festgelegt durch"
   4:
     index:
     - betroffene-person
     - verantwortlicher
-    - personenbezogene-daten
     - einwilligung
     - verarbeitung
+    - personenbezogene-daten
     number: 4
     points:
       a:

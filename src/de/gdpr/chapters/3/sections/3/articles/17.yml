@@ -20,8 +20,8 @@ paragraphs:
           \ 6 Absatz 1 Buchstabe a oder Artikel 9 Absatz 2 Buchstabe a st\xFCtzte,\
           \ und es fehlt an einer anderweitigen Rechtsgrundlage f\xFCr die {Verarbeitung|index:verarbeitung}."
         index:
-        - betroffene-person
         - einwilligung
+        - betroffene-person
         - verarbeitung
       c:
         content: "Die {betroffene Person|index:betroffene-person} legt gem\xE4\xDF\
@@ -51,8 +51,8 @@ paragraphs:
           \ in Bezug auf angebotene {Dienste der Informationsgesellschaft|index:dienst-der-informationsgesellschaft}\
           \ gem\xE4\xDF Artikel 8 Absatz 1 erhoben."
         index:
-        - personenbezogene-daten
         - dienst-der-informationsgesellschaft
+        - personenbezogene-daten
     preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, von\
       \ dem {Verantwortlichen|index:verantwortlicher} zu verlangen, dass sie betreffende\
       \ {personenbezogene Daten|index:personenbezogene-daten} unverz\xFCglich gel\xF6\

@@ -8,19 +8,19 @@ paragraphs:
         content: |-
           to inform and advise the {controller|index:controller} or the {processor|index:processor} and the employees who carry out {processing|index:processing} of their obligations pursuant to this {Regulation|index:regulation} and to other Union or Member State data protection provisions;
         index:
-        - regulation
         - processor
-        - controller
+        - regulation
         - processing
+        - controller
       b:
         content: |-
           to monitor compliance with this {Regulation|index:regulation}, with other Union or Member State data protection provisions and with the policies of the {controller|index:controller} or {processor|index:processor} in relation to the protection of {personal data|index:personal-data}, including the assignment of responsibilities, awareness-raising and training of staff involved in {processing|index:processing} operations, and the related audits;
         index:
-        - regulation
-        - processor
-        - controller
-        - personal-data
         - processing
+        - processor
+        - personal-data
+        - regulation
+        - controller
       c:
         content: |-
           to provide advice where requested as regards the data protection impact assessment and monitor its performance pursuant to Article 35;

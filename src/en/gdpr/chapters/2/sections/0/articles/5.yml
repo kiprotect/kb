@@ -49,8 +49,8 @@ paragraphs:
           \ of the {data subject|index:data-subject} (\u2018storage limitation\u2019\
           );"
         index:
-        - personal-data
         - technical-and-organisational-measures
+        - personal-data
         - regulation
         - data-subject
       f:

@@ -5,8 +5,8 @@ paragraphs:
     content: |-
       Member States may adopt specific rules to set out the powers of the supervisory authorities laid down in points (e) and (f) of Article 58(1) in relation to controllers or processors that are subject, under Union or Member State law or rules established by national competent bodies, to an obligation of professional secrecy or other equivalent obligations of secrecy where this is necessary and proportionate to reconcile the right of the protection of {personal data|index:personal-data} with the obligation of secrecy. Those rules shall apply only with regard to {personal data|index:personal-data} which the {controller|index:controller} or {processor|index:processor} has received as a result of or has obtained in an activity covered by that obligation of secrecy.
     index:
-    - personal-data
     - processor
+    - personal-data
     - controller
     number: 1
   2:

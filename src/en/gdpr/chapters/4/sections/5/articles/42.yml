@@ -23,8 +23,8 @@ paragraphs:
     content: |-
       A certification pursuant to this Article does not reduce the responsibility of the {controller|index:controller} or the {processor|index:processor} for compliance with this {Regulation|index:regulation} and is without prejudice to the tasks and powers of the supervisory authorities which are competent pursuant to Article 55 or 56.
     index:
-    - regulation
     - processor
+    - regulation
     - controller
     number: 4
   5:
@@ -39,8 +39,8 @@ paragraphs:
     index:
     - processor
     - supervisory-authority
-    - controller
     - processing
+    - controller
     number: 6
   7:
     content: |-

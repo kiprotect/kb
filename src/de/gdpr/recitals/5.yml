@@ -9,7 +9,7 @@ content: "Die wirtschaftliche und soziale Integration als Folge eines funktionie
   \ sie ihren Pflichten nachkommen oder f\xFCr eine Beh\xF6rde eines anderen Mitgliedstaats\
   \ Aufgaben durchf\xFChren k\xF6nnen."
 index:
-- "nat\xFCrliche-person"
-- personenbezogene-daten
 - unternehmen
+- personenbezogene-daten
+- "nat\xFCrliche-person"
 number: 5

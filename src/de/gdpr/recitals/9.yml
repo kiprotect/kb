@@ -14,7 +14,7 @@ content: "Die Ziele und Grunds\xE4tze der Richtlinie 95/46/EG besitzen nach wie 
   \ obliegenden Pflichten hindern. Sie erkl\xE4ren sich aus den Unterschieden bei\
   \ der Umsetzung und Anwendung der Richtlinie 95/46/EG."
 index:
-- "nat\xFCrliche-person"
 - personenbezogene-daten
+- "nat\xFCrliche-person"
 - verarbeitung
 number: 9

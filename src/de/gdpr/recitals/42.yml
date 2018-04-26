@@ -19,7 +19,7 @@ content: "Erfolgt die {Verarbeitung|index:verarbeitung} mit {Einwilligung|index:
 index:
 - betroffene-person
 - verantwortlicher
-- personenbezogene-daten
 - einwilligung
 - verarbeitung
+- personenbezogene-daten
 number: 42

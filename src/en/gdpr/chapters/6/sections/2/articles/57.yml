@@ -3,8 +3,8 @@ number: 57
 paragraphs:
   1:
     index:
-    - regulation
     - supervisory-authority
+    - regulation
     number: 1
     points:
       a:
@@ -30,14 +30,14 @@ paragraphs:
         content: |-
           upon request, provide information to any {data subject|index:data-subject} concerning the exercise of their rights under this {Regulation|index:regulation} and, if appropriate, cooperate with the supervisory authorities in other Member States to that end;
         index:
-        - data-subject
         - regulation
+        - data-subject
       f:
         content: |-
           handle complaints lodged by a {data subject|index:data-subject}, or by a body, organisation or association in accordance with Article 80, and investigate, to the extent appropriate, the subject matter of the complaint and inform the complainant of the progress and the outcome of the investigation within a reasonable period, in particular if further investigation or coordination with another {supervisory authority|index:supervisory-authority} is necessary;
         index:
-        - data-subject
         - supervisory-authority
+        - data-subject
       g:
         content: |-
           cooperate with, including sharing information and provide mutual assistance to, other supervisory authorities with a view to ensuring the consistency of application and enforcement of this {Regulation|index:regulation};
@@ -47,8 +47,8 @@ paragraphs:
         content: |-
           conduct investigations on the application of this {Regulation|index:regulation}, including on the basis of information received from another {supervisory authority|index:supervisory-authority} or other public authority;
         index:
-        - regulation
         - supervisory-authority
+        - regulation
       i:
         content: |-
           monitor relevant developments, insofar as they have an impact on the protection of {personal data|index:personal-data}, in particular the development of information and communication technologies and commercial practices;
@@ -111,8 +111,8 @@ paragraphs:
     content: |-
       The performance of the tasks of each {supervisory authority|index:supervisory-authority} shall be free of charge for the {data subject|index:data-subject} and, where applicable, for the data protection officer.
     index:
-    - data-subject
     - supervisory-authority
+    - data-subject
     number: 3
   4:
     content: |-

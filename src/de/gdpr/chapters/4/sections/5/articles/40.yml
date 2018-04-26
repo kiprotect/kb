@@ -9,8 +9,8 @@ paragraphs:
       \ mittleren {Unternehmen|index:unternehmen} zur ordnungsgem\xE4\xDFen Anwendung\
       \ dieser {Verordnung|index:verordnung} beitragen sollen."
     index:
-    - "aufsichtsbeh\xF6rde"
     - unternehmen
+    - "aufsichtsbeh\xF6rde"
     - verordnung
     number: 1
   2:
@@ -65,15 +65,15 @@ paragraphs:
           \ des Schutzes {personenbezogener Daten|index:personenbezogene-daten};"
         index:
         - personenbezogene-daten
-        - betroffene-person
         - "aufsichtsbeh\xF6rde"
+        - betroffene-person
       j:
         content: "die \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
           \ an Drittl\xE4nder oder an {internationale Organisationen|index:internationale-organisation}\
           \ oder"
         index:
-        - personenbezogene-daten
         - internationale-organisation
+        - personenbezogene-daten
       k:
         content: "au\xDFergerichtliche {Verfahren|index:verfahren} und sonstige Streitbeilegungsverfahren\
           \ zur Beilegung von Streitigkeiten zwischen {Verantwortlichen|index:verantwortlicher}\
@@ -81,8 +81,8 @@ paragraphs:
           \ der {Verarbeitung|index:verarbeitung}, unbeschadet der Rechte {betroffener\
           \ Personen|index:betroffene-person} gem\xE4\xDF den Artikeln 77 und 79."
         index:
-        - verfahren
         - verantwortlicher
+        - verfahren
         - betroffene-person
         - verarbeitung
     preamble: "Verb\xE4nde und andere Vereinigungen, die Kategorien von {Verantwortlichen|index:verantwortlicher}\
@@ -106,10 +106,10 @@ paragraphs:
       \ die Rechte der {betroffenen Personen|index:betroffene-person}."
     index:
     - betroffene-person
-    - internationale-organisation
-    - verordnung
-    - auftragsverarbeiter
     - verantwortlicher
+    - verordnung
+    - internationale-organisation
+    - auftragsverarbeiter
     - personenbezogene-daten
     number: 3
   4:
@@ -122,10 +122,10 @@ paragraphs:
       \ Befugnisse der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, die nach Artikel\
       \ 55 oder 56 zust\xE4ndig ist."
     index:
-    - verfahren
     - verantwortlicher
-    - "aufsichtsbeh\xF6rde"
+    - verfahren
     - auftragsverarbeiter
+    - "aufsichtsbeh\xF6rde"
     number: 4
   5:
     content: "Verb\xE4nde und andere Vereinigungen gem\xE4\xDF Absatz 2 des vorliegenden\
@@ -150,8 +150,8 @@ paragraphs:
       tigkeit} in mehreren Mitgliedstaaten, so nimmt die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
       rde} die Verhaltensregeln in ein Verzeichnis auf und ver\xF6ffentlicht sie."
     index:
-    - "verarbeitungst\xE4tigkeit"
     - "aufsichtsbeh\xF6rde"
+    - "verarbeitungst\xE4tigkeit"
     number: 6
   7:
     content: "Bezieht sich der Entwurf der Verhaltensregeln auf {Verarbeitungst\xE4\
@@ -164,10 +164,10 @@ paragraphs:
       \ oder Erweiterung mit dieser {Verordnung|index:verordnung} vereinbar ist oder\
       \ \u2014 im Fall nach Absatz 3 dieses Artikels \u2014 geeignete Garantien vorsieht."
     index:
-    - "aufsichtsbeh\xF6rde"
-    - "verarbeitungst\xE4tigkeit"
-    - verordnung
     - verfahren
+    - "aufsichtsbeh\xF6rde"
+    - verordnung
+    - "verarbeitungst\xE4tigkeit"
     number: 7
   8:
     content: "Wird durch die Stellungnahme nach Absatz 7 best\xE4tigt, dass der Entwurf\

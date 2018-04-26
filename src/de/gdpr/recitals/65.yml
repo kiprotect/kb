@@ -32,9 +32,9 @@ content: "Eine {betroffene Person|index:betroffene-person} sollte ein Recht auf 
   chen erforderlich ist."
 index:
 - betroffene-person
-- verordnung
 - verantwortlicher
-- personenbezogene-daten
 - einwilligung
+- verordnung
 - verarbeitung
+- personenbezogene-daten
 number: 65

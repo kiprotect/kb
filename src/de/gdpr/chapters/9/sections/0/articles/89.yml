@@ -19,10 +19,10 @@ paragraphs:
       \ diese Zwecke auf diese Weise erf\xFCllt."
     index:
     - betroffene-person
-    - verordnung
     - "technische-und-organisatorische-ma\xDFnahmen"
-    - pseudonymisierung
+    - verordnung
     - verarbeitung
+    - pseudonymisierung
     number: 1
   2:
     content: "Werden {personenbezogene Daten|index:personenbezogene-daten} zu wissenschaftlichen\

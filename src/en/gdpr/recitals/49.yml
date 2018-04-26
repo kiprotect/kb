@@ -15,6 +15,6 @@ content: "The {processing|index:processing} of {personal data|index:personal-dat
   \ systems."
 index:
 - personal-data
-- controller
 - processing
+- controller
 number: 49

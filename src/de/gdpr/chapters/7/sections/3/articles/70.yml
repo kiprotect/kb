@@ -28,10 +28,10 @@ paragraphs:
           \ den Auftragsverarbeitern und den {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
           rde} in Bezug auf {verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften};"
         index:
-        - verfahren
-        - verbindliche-interne-datenschutzvorschriften
         - verantwortlicher
+        - verbindliche-interne-datenschutzvorschriften
         - "aufsichtsbeh\xF6rde"
+        - verfahren
       d:
         content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ zu {Verfahren|index:verfahren} f\xFCr die L\xF6schung gem\xE4\xDF Artikel\
@@ -68,11 +68,11 @@ paragraphs:
           \ des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
           \ zu melden hat;"
         index:
-        - auftragsverarbeiter
+        - verfahren
         - verletzung-des-schutzes-personenbezogener-daten
         - verantwortlicher
+        - auftragsverarbeiter
         - personenbezogene-daten
-        - verfahren
       h:
         content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zu den Umst\xE4nden,\
@@ -81,9 +81,9 @@ paragraphs:
           rlicher Personen|index:nat\xFCrliche-person} im Sinne des Artikels 34 Absatz\
           \ 1 zur Folge hat;"
         index:
-        - verletzung-des-schutzes-personenbezogener-daten
         - verfahren
         - "nat\xFCrliche-person"
+        - verletzung-des-schutzes-personenbezogener-daten
       i:
         content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zur n\xE4heren Bestimmung\
@@ -95,11 +95,11 @@ paragraphs:
           \ zum Schutz {personenbezogener Daten|index:personenbezogene-daten} der\
           \ {betroffenen Personen|index:betroffene-person};"
         index:
-        - betroffene-person
         - verfahren
-        - personenbezogene-daten
+        - betroffene-person
         - verantwortlicher
         - verbindliche-interne-datenschutzvorschriften
+        - personenbezogene-daten
       j:
         content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
           \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zur n\xE4heren Bestimmung\
@@ -127,9 +127,9 @@ paragraphs:
           rliche-person} vorgenommene Meldung von Verst\xF6\xDFen gegen diese {Verordnung|index:verordnung}\
           \ gem\xE4\xDF Artikel 54 Absatz 2;"
         index:
+        - verfahren
         - "nat\xFCrliche-person"
         - verordnung
-        - verfahren
       n:
         content: "F\xF6rderung der Ausarbeitung von Verhaltensregeln und der Einrichtung\
           \ von datenschutzspezifischen Zertifizierungsverfahren sowie Datenschutzsiegeln\

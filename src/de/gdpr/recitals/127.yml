@@ -32,12 +32,12 @@ content: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, die nicht als fe
   rde} bei der Ausarbeitung ihres Beschlussentwurfs im Rahmen dieses Verfahrens der\
   \ Zusammenarbeit und Koh\xE4renz weitestgehend Rechnung tragen sollte."
 index:
-- "verarbeitungst\xE4tigkeit"
-- betroffene-person
-- auftragsverarbeiter
 - verfahren
-- personenbezogene-daten
+- betroffene-person
 - verantwortlicher
-- "aufsichtsbeh\xF6rde"
 - verarbeitung
+- auftragsverarbeiter
+- personenbezogene-daten
+- "aufsichtsbeh\xF6rde"
+- "verarbeitungst\xE4tigkeit"
 number: 127

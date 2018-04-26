@@ -41,15 +41,15 @@ paragraphs:
         content: |-
           issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing the {personal data|index:personal-data} breaches and determining the undue delay referred to in Article 33(1) and (2) and for the particular circumstances in which a {controller|index:controller} or a {processor|index:processor} is required to notify the {personal data|index:personal-data} breach;
         index:
-        - personal-data
         - processor
+        - personal-data
         - controller
       h:
         content: |-
           issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph as to the circumstances in which a {personal data|index:personal-data} breach is likely to result in a high risk to the rights and freedoms of the {natural persons|index:natural-person} referred to in Article 34(1).
         index:
-        - personal-data
         - natural-person
+        - personal-data
       i:
         content: |-
           issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for {personal data|index:personal-data} transfers based on {binding corporate rules|index:binding-corporate-rules} adhered to by controllers and {binding corporate rules|index:binding-corporate-rules} adhered to by processors and on further necessary requirements to ensure the protection of {personal data|index:personal-data} of the data subjects concerned referred to in Article 47;
@@ -71,8 +71,8 @@ paragraphs:
         content: |-
           issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing common procedures for reporting by {natural persons|index:natural-person} of infringements of this {Regulation|index:regulation} pursuant to Article 54(2);
         index:
-        - regulation
         - natural-person
+        - regulation
       n:
         content: |-
           encourage the drawing-up of codes of conduct and the establishment of data protection certification mechanisms and data protection seals and marks pursuant to Articles 40 and 42;

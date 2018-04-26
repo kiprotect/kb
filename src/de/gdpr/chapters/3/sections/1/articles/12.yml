@@ -93,9 +93,9 @@ paragraphs:
       \ der Identit\xE4t der {betroffenen Person|index:betroffene-person} erforderlich\
       \ sind."
     index:
-    - "nat\xFCrliche-person"
     - verantwortlicher
     - betroffene-person
+    - "nat\xFCrliche-person"
     number: 6
   7:
     content: "Die Informationen, die den {betroffenen Personen|index:betroffene-person}\

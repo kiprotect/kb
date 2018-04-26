@@ -26,9 +26,9 @@ content: "In F\xE4llen, in denen die {Verarbeitung|index:verarbeitung} durch ein
   ben k\xF6nnen."
 index:
 - betroffene-person
-- auftragsverarbeiter
-- verordnung
 - verantwortlicher
-- personenbezogene-daten
+- verordnung
 - verarbeitung
+- auftragsverarbeiter
+- personenbezogene-daten
 number: 97

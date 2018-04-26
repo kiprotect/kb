@@ -14,8 +14,8 @@ paragraphs:
           \ Aufgaben erforderlich sind,"
         index:
         - verantwortlicher
-        - auftragsverarbeiter
         - vertreter
+        - auftragsverarbeiter
       b:
         content: "Untersuchungen in Form von Datenschutz\xFCberpr\xFCfungen durchzuf\xFC\
           hren,"
@@ -27,8 +27,8 @@ paragraphs:
           \ auf einen vermeintlichen Versto\xDF gegen diese {Verordnung|index:verordnung}\
           \ hinzuweisen,"
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - verordnung
       e:
         content: "von dem {Verantwortlichen|index:verantwortlicher} und dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
@@ -37,8 +37,8 @@ paragraphs:
           \ zu erhalten,"
         index:
         - verantwortlicher
-        - personenbezogene-daten
         - auftragsverarbeiter
+        - personenbezogene-daten
       f:
         content: "gem\xE4\xDF dem Verfahrensrecht der Union oder dem Verfahrensrecht\
           \ des Mitgliedstaats Zugang zu den Gesch\xE4ftsr\xE4umen, einschlie\xDF\
@@ -59,16 +59,16 @@ paragraphs:
           \ zu warnen, dass beabsichtigte Verarbeitungsvorg\xE4nge voraussichtlich\
           \ gegen diese {Verordnung|index:verordnung} versto\xDFen,"
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - verordnung
       b:
         content: "einen {Verantwortlichen|index:verantwortlicher} oder einen {Auftragsverarbeiter|index:auftragsverarbeiter}\
           \ zu verwarnen, wenn er mit Verarbeitungsvorg\xE4ngen gegen diese {Verordnung|index:verordnung}\
           \ versto\xDFen hat,"
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - verordnung
       c:
         content: "den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
@@ -76,8 +76,8 @@ paragraphs:
           \ auf Aus\xFCbung der ihr nach dieser {Verordnung|index:verordnung} zustehenden\
           \ Rechte zu entsprechen,"
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - betroffene-person
         - verordnung
       d:
@@ -86,16 +86,16 @@ paragraphs:
           \ und innerhalb eines bestimmten Zeitraums in Einklang mit dieser {Verordnung|index:verordnung}\
           \ zu bringen,"
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - verordnung
       e:
         content: |-
           den {Verantwortlichen|index:verantwortlicher} anzuweisen, die von einer {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten} {betroffenen Person|index:betroffene-person} entsprechend zu benachrichtigen,
         index:
-        - verletzung-des-schutzes-personenbezogener-daten
         - verantwortlicher
         - betroffene-person
+        - verletzung-des-schutzes-personenbezogener-daten
       f:
         content: "eine vor\xFCbergehende oder endg\xFCltige Beschr\xE4nkung der {Verarbeitung|index:verarbeitung},\
           \ einschlie\xDFlich eines Verbots, zu verh\xE4ngen,"
@@ -140,8 +140,8 @@ paragraphs:
         content: "gem\xE4\xDF dem {Verfahren|index:verfahren} der vorherigen Konsultation\
           \ nach Artikel 36 den {Verantwortlichen|index:verantwortlicher} zu beraten,"
         index:
-        - verfahren
         - verantwortlicher
+        - verfahren
       b:
         content: "zu allen Fragen, die im Zusammenhang mit dem Schutz {personenbezogener\
           \ Daten|index:personenbezogene-daten} stehen, von sich aus oder auf Anfrage\

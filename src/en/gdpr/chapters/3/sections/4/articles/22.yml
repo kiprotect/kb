@@ -7,8 +7,8 @@ paragraphs:
     content: |-
       The {data subject|index:data-subject} shall have the right not to be subject to a decision based solely on automated {processing|index:processing}, including {profiling|index:profiling}, which produces legal effects concerning him or her or similarly significantly affects him or her.
     index:
-    - data-subject
     - profiling
+    - data-subject
     - processing
     number: 1
   2:

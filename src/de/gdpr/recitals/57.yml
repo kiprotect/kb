@@ -13,8 +13,8 @@ content: "Kann der {Verantwortliche|index:verantwortlicher} anhand der von ihm v
   \ \u2014 einschlie\xDFen."
 index:
 - betroffene-person
-- verordnung
 - verantwortlicher
+- verordnung
 - personenbezogene-daten
 - "nat\xFCrliche-person"
 number: 57

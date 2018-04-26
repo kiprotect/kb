@@ -9,20 +9,20 @@ paragraphs:
       \ unabh\xE4ngig davon, ob die {Verarbeitung|index:verarbeitung} in der Union\
       \ stattfindet."
     index:
-    - auftragsverarbeiter
-    - verordnung
     - verantwortlicher
-    - personenbezogene-daten
+    - verordnung
     - verarbeitung
+    - auftragsverarbeiter
+    - personenbezogene-daten
     number: 1
   2:
     index:
     - betroffene-person
-    - auftragsverarbeiter
-    - verordnung
     - verantwortlicher
-    - personenbezogene-daten
+    - verordnung
     - verarbeitung
+    - auftragsverarbeiter
+    - personenbezogene-daten
     number: 2
     points:
       a:

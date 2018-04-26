@@ -1,11 +1,11 @@
 content: |-
   In order to create incentives to apply {pseudonymisation|index:pseudonymisation} when {processing|index:processing} {personal data|index:personal-data}, measures of {pseudonymisation|index:pseudonymisation} should, whilst allowing general analysis, be possible within the same {controller|index:controller} when that {controller|index:controller} has taken {technical and organisational measures|index:technical-and-organisational-measures} necessary to ensure, for the {processing|index:processing} concerned, that this {Regulation|index:regulation} is implemented, and that additional information for attributing the {personal data|index:personal-data} to a specific {data subject|index:data-subject} is kept separately. The {controller|index:controller} {processing|index:processing} the {personal data|index:personal-data} should indicate the authorised persons within the same {controller|index:controller}.
 index:
+- processing
+- technical-and-organisational-measures
 - data-subject
+- pseudonymisation
+- personal-data
 - regulation
 - controller
-- personal-data
-- technical-and-organisational-measures
-- pseudonymisation
-- processing
 number: 29

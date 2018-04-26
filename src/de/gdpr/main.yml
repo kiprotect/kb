@@ -1,6 +1,3 @@
-dir: de/gdpr
-index:
-  $include: index.yml
 chapters:
 - $include: chapters/1/main.yml
 - $include: chapters/2/main.yml
@@ -13,6 +10,7 @@ chapters:
 - $include: chapters/9/main.yml
 - $include: chapters/10/main.yml
 - $include: chapters/11/main.yml
+dir: de/gdpr
 footnotes:
 - $include: footnotes/1.yml
 - $include: footnotes/2.yml
@@ -35,6 +33,8 @@ footnotes:
 - $include: footnotes/19.yml
 - $include: footnotes/20.yml
 - $include: footnotes/21.yml
+index:
+  $include: index.yml
 recitals:
 - $include: recitals/1.yml
 - $include: recitals/2.yml

@@ -11,11 +11,11 @@ definitions:
       \ to the physical, physiological, genetic, mental, economic, cultural or social\
       \ identity of that {natural person|index:natural-person};"
     index:
-    - data-subject
-    - personal-data
     - identified
+    - data-subject
     - natural-person
     - identifiable
+    - personal-data
     number: 1
   2:
     content: "\u2018{processing|index:processing}\u2019 means any operation or set\
@@ -27,16 +27,16 @@ definitions:
       \ or combination, restriction, erasure or destruction;"
     index:
     - personal-data
-    - automated-means
     - processing
+    - automated-means
     number: 2
   3:
     content: "\u2018{restriction of processing|index:restriction-of-processing}\u2019\
       \ means the marking of stored {personal data|index:personal-data} with the aim\
       \ of limiting their {processing|index:processing} in the future;"
     index:
-    - personal-data
     - restriction-of-processing
+    - personal-data
     - processing
     number: 3
   4:
@@ -48,9 +48,9 @@ definitions:
       \ at work, economic situation, health, personal preferences, interests, reliability,\
       \ behaviour, location or movements;"
     index:
-    - personal-data
     - natural-person
     - profiling
+    - personal-data
     - processing
     number: 4
   5:
@@ -64,14 +64,14 @@ definitions:
       \ an {identified|index:identified} or {identifiable|index:identifiable} {natural\
       \ person|index:natural-person};"
     index:
-    - data-subject
-    - personal-data
-    - technical-and-organisational-measures
     - identified
+    - processing
     - natural-person
+    - technical-and-organisational-measures
+    - data-subject
     - pseudonymisation
     - identifiable
-    - processing
+    - personal-data
     number: 5
   6:
     content: "\u2018{filing system|index:filing-system}\u2019 means any structured\
@@ -92,16 +92,16 @@ definitions:
       \ may be provided for by Union or Member State law;"
     index:
     - personal-data
-    - controller
     - processing
+    - controller
     number: 7
   8:
     content: "\u2018{processor|index:processor}\u2019 means a natural or legal person,\
       \ public authority, agency or other body which processes {personal data|index:personal-data}\
       \ on behalf of the {controller|index:controller};"
     index:
-    - personal-data
     - processor
+    - personal-data
     - controller
     number: 8
   9:
@@ -114,9 +114,9 @@ definitions:
       \ of those data by those public authorities shall be in compliance with the\
       \ applicable data protection rules according to the purposes of the {processing|index:processing};"
     index:
-    - personal-data
-    - third-party
     - recipient
+    - third-party
+    - personal-data
     - processing
     number: 9
   10:
@@ -126,11 +126,11 @@ definitions:
       \ under the direct authority of the {controller|index:controller} or {processor|index:processor},\
       \ are authorised to process {personal data|index:personal-data};"
     index:
-    - data-subject
     - third-party
     - processor
-    - controller
+    - data-subject
     - personal-data
+    - controller
     number: 10
   11:
     content: "\u2018{consent|index:consent}\u2019 of the {data subject|index:data-subject}\
@@ -139,9 +139,9 @@ definitions:
       \ action, signifies agreement to the {processing|index:processing} of {personal\
       \ data|index:personal-data} relating to him or her;"
     index:
-    - personal-data
     - data-subject
     - consent
+    - personal-data
     - processing
     number: 11
   12:
@@ -160,9 +160,9 @@ definitions:
       \ in particular, from an analysis of a biological sample from the {natural person|index:natural-person}\
       \ in question;"
     index:
-    - personal-data
-    - genetic-data
     - natural-person
+    - genetic-data
+    - personal-data
     number: 13
   14:
     content: "\u2018{biometric data|index:biometric-data}\u2019 means {personal data|index:personal-data}\
@@ -171,9 +171,9 @@ definitions:
       \ which allow or confirm the unique identification of that {natural person|index:natural-person},\
       \ such as facial images or dactyloscopic data;"
     index:
-    - personal-data
     - natural-person
     - biometric-data
+    - personal-data
     - processing
     number: 14
   15:
@@ -182,9 +182,9 @@ definitions:
       \ of a {natural person|index:natural-person}, including the provision of health\
       \ care services, which reveal information about his or her health status;"
     index:
+    - natural-person
     - personal-data
     - data-concerning-health
-    - natural-person
     number: 15
   16:
     number: 16
@@ -194,14 +194,14 @@ definitions:
           as regards a {controller|index:controller} with establishments in more than one Member State, the place of its central administration in the Union, unless the decisions on the purposes and means of the {processing|index:processing} of {personal data|index:personal-data} are taken in another establishment of the {controller|index:controller} in the Union and the latter establishment has the power to have such decisions implemented, in which case the establishment having taken such decisions is to be considered to be the main establishment;
         index:
         - personal-data
-        - controller
         - processing
+        - controller
       b:
         content: |-
           as regards a {processor|index:processor} with establishments in more than one Member State, the place of its central administration in the Union, or, if the {processor|index:processor} has no central administration in the Union, the establishment of the {processor|index:processor} in the Union where the main {processing|index:processing} activities in the context of the activities of an establishment of the {processor|index:processor} take place to the extent that the {processor|index:processor} is subject to specific obligations under this {Regulation|index:regulation};
         index:
-        - regulation
         - processor
+        - regulation
         - processing
     preamble: "\u2018main establishment\u2019 means:"
   17:
@@ -211,9 +211,9 @@ definitions:
       \ the {controller|index:controller} or {processor|index:processor} with regard\
       \ to their respective obligations under this {Regulation|index:regulation};"
     index:
-    - regulation
-    - processor
     - representative
+    - processor
+    - regulation
     - controller
     number: 17
   18:
@@ -239,10 +239,10 @@ definitions:
       \ of undertakings|index:group-of-undertakings}, or group of enterprises engaged\
       \ in a joint economic activity;"
     index:
-    - processor
-    - binding-corporate-rules
     - group-of-undertakings
+    - processor
     - personal-data
+    - binding-corporate-rules
     - controller
     number: 20
   21:
@@ -254,8 +254,8 @@ definitions:
     number: 21
   22:
     index:
-    - personal-data
     - supervisory-authority
+    - personal-data
     - processing
     number: 22
     points:
@@ -289,18 +289,18 @@ definitions:
         content: |-
           {processing|index:processing} of {personal data|index:personal-data} which takes place in the context of the activities of establishments in more than one Member State of a {controller|index:controller} or {processor|index:processor} in the Union where the {controller|index:controller} or {processor|index:processor} is established in more than one Member State; or
         index:
-        - personal-data
         - processor
-        - controller
+        - personal-data
         - processing
+        - controller
       b:
         content: |-
           {processing|index:processing} of {personal data|index:personal-data} which takes place in the context of the activities of a single establishment of a {controller|index:controller} or {processor|index:processor} in the Union but which substantially affects or is likely to substantially affect data subjects in more than one Member State.
         index:
-        - personal-data
         - processor
-        - controller
+        - personal-data
         - processing
+        - controller
     preamble: "\u2018{cross-border processing|index:cross-border-processing}\u2019\
       \ means either:"
   24:
@@ -313,11 +313,11 @@ definitions:
       \ and freedoms of data subjects and, where applicable, the free flow of {personal\
       \ data|index:personal-data} within the Union;"
     index:
-    - regulation
-    - processor
     - relevant-and-reasoned-objection
-    - controller
+    - processor
     - personal-data
+    - regulation
+    - controller
     number: 24
   25:
     content: "\u2018{information society service|index:information-society-service}\u2019\

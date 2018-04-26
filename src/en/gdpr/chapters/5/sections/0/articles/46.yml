@@ -5,11 +5,11 @@ paragraphs:
     content: |-
       In the absence of a decision pursuant to Article 45(3), a {controller|index:controller} or {processor|index:processor} may transfer {personal data|index:personal-data} to a third country or an {international organisation|index:international-organisation} only if the {controller|index:controller} or {processor|index:processor} has provided appropriate safeguards, and on condition that enforceable {data subject|index:data-subject} rights and effective legal remedies for data subjects are available.
     index:
-    - data-subject
     - international-organisation
     - processor
-    - controller
+    - data-subject
     - personal-data
+    - controller
     number: 1
   2:
     index:
@@ -57,9 +57,9 @@ paragraphs:
         index:
         - international-organisation
         - processor
-        - controller
         - personal-data
         - recipient
+        - controller
       b:
         content: |-
           provisions to be inserted into administrative arrangements between public authorities or bodies which include enforceable and effective {data subject|index:data-subject} rights.

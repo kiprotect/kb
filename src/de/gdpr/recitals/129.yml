@@ -36,9 +36,9 @@ content: "Um die einheitliche \xDCberwachung und Durchsetzung dieser {Verordnung
   \ dass er in dem Mitgliedstaat der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde},\
   \ die den Beschluss erlassen hat, gerichtlich \xFCberpr\xFCft werden kann."
 index:
-- verordnung
-- personenbezogene-daten
 - "nat\xFCrliche-person"
-- "aufsichtsbeh\xF6rde"
+- verordnung
 - verarbeitung
+- personenbezogene-daten
+- "aufsichtsbeh\xF6rde"
 number: 129

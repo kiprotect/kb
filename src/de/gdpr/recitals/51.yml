@@ -35,11 +35,11 @@ content: "{Personenbezogene Daten|index:personenbezogene-daten}, die ihrem Wesen
   \ sich f\xFCr die Aus\xFCbung von Grundfreiheiten einsetzen."
 index:
 - betroffene-person
-- verordnung
-- biometrische-daten
 - verantwortlicher
+- einwilligung
+- verordnung
+- verarbeitung
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- einwilligung
-- verarbeitung
+- biometrische-daten
 number: 51

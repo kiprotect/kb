@@ -5,8 +5,8 @@ paragraphs:
     content: |-
       Each {supervisory authority|index:supervisory-authority} shall ensure that the imposition of administrative fines pursuant to this Article in respect of infringements of this {Regulation|index:regulation} referred to in paragraphs 4, 5 and 6 shall in each individual case be effective, proportionate and dissuasive.
     index:
-    - regulation
     - supervisory-authority
+    - regulation
     number: 1
   2:
     number: 2
@@ -28,8 +28,8 @@ paragraphs:
         content: |-
           the degree of responsibility of the {controller|index:controller} or {processor|index:processor} taking into account {technical and organisational measures|index:technical-and-organisational-measures} implemented by them pursuant to Articles 25 and 32;
         index:
-        - technical-and-organisational-measures
         - processor
+        - technical-and-organisational-measures
         - controller
       e:
         content: |-
@@ -72,10 +72,10 @@ paragraphs:
     content: |-
       If a {controller|index:controller} or {processor|index:processor} intentionally or negligently, for the same or linked {processing|index:processing} operations, infringes several provisions of this {Regulation|index:regulation}, the total amount of the administrative fine shall not exceed the amount specified for the gravest infringement.
     index:
-    - regulation
     - processor
-    - controller
+    - regulation
     - processing
+    - controller
     number: 3
   4:
     number: 4
@@ -108,8 +108,8 @@ paragraphs:
         content: |-
           the transfers of {personal data|index:personal-data} to a {recipient|index:recipient} in a third country or an {international organisation|index:international-organisation} pursuant to Articles 44 to 49;
         index:
-        - personal-data
         - international-organisation
+        - personal-data
         - recipient
       d:
         content: any obligations pursuant to Member State law adopted under Chapter

@@ -8,8 +8,8 @@ paragraphs:
       \ zusammenh\xE4ngenden Fragen eingebunden wird."
     index:
     - verantwortlicher
-    - personenbezogene-daten
     - auftragsverarbeiter
+    - personenbezogene-daten
     number: 1
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter}\
@@ -20,8 +20,8 @@ paragraphs:
       \ Ressourcen zur Verf\xFCgung stellen."
     index:
     - verantwortlicher
-    - personenbezogene-daten
     - auftragsverarbeiter
+    - personenbezogene-daten
     number: 2
   3:
     content: "Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter}\
@@ -44,9 +44,9 @@ paragraphs:
       \ Rate ziehen."
     index:
     - personenbezogene-daten
-    - betroffene-person
     - verordnung
     - verarbeitung
+    - betroffene-person
     number: 4
   5:
     content: "Der Datenschutzbeauftragte ist nach dem Recht der Union oder der Mitgliedstaaten\

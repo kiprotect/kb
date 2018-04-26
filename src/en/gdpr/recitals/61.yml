@@ -1,9 +1,9 @@
 content: |-
   The information in relation to the {processing|index:processing} of {personal data|index:personal-data} relating to the {data subject|index:data-subject} should be given to him or her at the time of collection from the {data subject|index:data-subject}, or, where the {personal data|index:personal-data} are obtained from another source, within a reasonable period, depending on the circumstances of the case. Where {personal data|index:personal-data} can be legitimately disclosed to another {recipient|index:recipient}, the {data subject|index:data-subject} should be informed when the {personal data|index:personal-data} are first disclosed to the {recipient|index:recipient}. Where the {controller|index:controller} intends to process the {personal data|index:personal-data} for a purpose other than that for which they were collected, the {controller|index:controller} should provide the {data subject|index:data-subject} prior to that further {processing|index:processing} with information on that other purpose and other necessary information. Where the origin of the {personal data|index:personal-data} cannot be provided to the {data subject|index:data-subject} because various sources have been used, general information should be provided.
 index:
+- processing
 - data-subject
-- controller
 - personal-data
 - recipient
-- processing
+- controller
 number: 61

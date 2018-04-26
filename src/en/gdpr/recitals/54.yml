@@ -14,11 +14,11 @@ content: "The {processing|index:processing} of special categories of {personal d
   \ should not result in {personal data|index:personal-data} being processed for other\
   \ purposes by third parties such as employers or insurance and banking companies."
 index:
-- data-subject
-- regulation
-- consent
-- personal-data
-- natural-person
 - data-concerning-health
 - processing
+- data-subject
+- natural-person
+- consent
+- personal-data
+- regulation
 number: 54

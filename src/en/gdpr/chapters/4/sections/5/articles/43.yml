@@ -15,8 +15,8 @@ paragraphs:
         content: |-
           the national accreditation body named in accordance with {Regulation|index:regulation} (EC) No 765/2008 of the European Parliament and of the Council (20) in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the {supervisory authority|index:supervisory-authority} which is competent pursuant to Article 55 or 56.
         index:
-        - regulation
         - supervisory-authority
+        - regulation
     preamble: |-
       Without prejudice to the tasks and powers of the competent {supervisory authority|index:supervisory-authority} under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the {supervisory authority|index:supervisory-authority} in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification. Member States shall ensure that those certification bodies are accredited by one or both of the following:
   2:
@@ -52,15 +52,15 @@ paragraphs:
     content: |-
       The accreditation of certification bodies as referred to in paragraphs 1 and 2 of this Article shall take place on the basis of criteria approved by the {supervisory authority|index:supervisory-authority} which is competent pursuant to Article 55 or 56 or by the Board pursuant to Article 63. In the case of accreditation pursuant to point (b) of paragraph 1 of this Article, those requirements shall complement those envisaged in {Regulation|index:regulation} (EC) No 765/2008 and the technical rules that describe the methods and procedures of the certification bodies.
     index:
-    - regulation
     - supervisory-authority
+    - regulation
     number: 3
   4:
     content: |-
       The certification bodies referred to in paragraph 1 shall be responsible for the proper assessment leading to the certification or the withdrawal of such certification without prejudice to the responsibility of the {controller|index:controller} or {processor|index:processor} for compliance with this {Regulation|index:regulation}. The accreditation shall be issued for a maximum period of five years and may be renewed on the same conditions provided that the certification body meets the requirements set out in this Article.
     index:
-    - regulation
     - processor
+    - regulation
     - controller
     number: 4
   5:
@@ -77,8 +77,8 @@ paragraphs:
     content: |-
       Without prejudice to Chapter VIII, the competent {supervisory authority|index:supervisory-authority} or the national accreditation body shall revoke an accreditation of a certification body pursuant to paragraph 1 of this Article where the conditions for the accreditation are not, or are no longer, met or where actions taken by a certification body infringe this {Regulation|index:regulation}.
     index:
-    - regulation
     - supervisory-authority
+    - regulation
     number: 7
   8:
     content: |-

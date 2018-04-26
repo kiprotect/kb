@@ -9,9 +9,9 @@ content: "This {Regulation|index:regulation} should apply to all matters concern
   \ is adopted, Directive 2002/58/EC should be reviewed in particular in order to\
   \ ensure consistency with this {Regulation|index:regulation},"
 index:
+- processing
+- natural-person
+- personal-data
 - regulation
 - controller
-- personal-data
-- natural-person
-- processing
 number: 173

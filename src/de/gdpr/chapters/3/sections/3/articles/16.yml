@@ -8,8 +8,8 @@ content: "Die {betroffene Person|index:betroffene-person} hat das Recht, von dem
 index:
 - verantwortlicher
 - personenbezogene-daten
-- betroffene-person
 - verarbeitung
+- betroffene-person
 number: 16
 section: 3
 title: Recht auf Berichtigung

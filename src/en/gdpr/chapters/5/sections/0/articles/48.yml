@@ -2,8 +2,8 @@ chapter: 5
 content: |-
   Any judgment of a court or tribunal and any decision of an administrative authority of a third country requiring a {controller|index:controller} or {processor|index:processor} to transfer or disclose {personal data|index:personal-data} may only be recognised or enforceable in any manner if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union or a Member State, without prejudice to other grounds for transfer pursuant to this Chapter.
 index:
-- personal-data
 - processor
+- personal-data
 - controller
 number: 48
 section: 0

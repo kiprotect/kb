@@ -42,9 +42,9 @@ content: "Um im Fall der {Verarbeitung|index:verarbeitung} {personenbezogener Da
   \ \xFCbermittelt werden."
 index:
 - betroffene-person
-- verordnung
 - verantwortlicher
-- personenbezogene-daten
 - einwilligung
+- verordnung
 - verarbeitung
+- personenbezogene-daten
 number: 68

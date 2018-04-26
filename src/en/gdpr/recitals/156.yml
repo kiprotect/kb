@@ -1,12 +1,12 @@
 content: |-
   The {processing|index:processing} of {personal data|index:personal-data} for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes should be subject to appropriate safeguards for the rights and freedoms of the {data subject|index:data-subject} pursuant to this {Regulation|index:regulation}. Those safeguards should ensure that {technical and organisational measures|index:technical-and-organisational-measures} are in place in order to ensure, in particular, the principle of data minimisation. The further {processing|index:processing} of {personal data|index:personal-data} for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes is to be carried out when the {controller|index:controller} has assessed the feasibility to fulfil those purposes by {processing|index:processing} data which do not permit or no longer permit the identification of data subjects, provided that appropriate safeguards exist (such as, for instance, {pseudonymisation|index:pseudonymisation} of the data). Member States should provide for appropriate safeguards for the {processing|index:processing} of {personal data|index:personal-data} for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes. Member States should be authorised to provide, under specific conditions and subject to appropriate safeguards for data subjects, specifications and derogations with regard to the information requirements and rights to rectification, to erasure, to be forgotten, to {restriction of processing|index:restriction-of-processing}, to data portability, and to object when {processing|index:processing} {personal data|index:personal-data} for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes. The conditions and safeguards in question may entail specific procedures for data subjects to exercise those rights if this is appropriate in the light of the purposes sought by the specific {processing|index:processing} along with {technical and organisational measures|index:technical-and-organisational-measures} aimed at minimising the {processing|index:processing} of {personal data|index:personal-data} in pursuance of the proportionality and necessity principles. The {processing|index:processing} of {personal data|index:personal-data} for scientific purposes should also comply with other relevant legislation such as on clinical trials.
 index:
+- processing
+- technical-and-organisational-measures
 - data-subject
 - restriction-of-processing
+- pseudonymisation
+- personal-data
 - regulation
 - controller
-- personal-data
-- technical-and-organisational-measures
-- pseudonymisation
-- processing
 number: 156

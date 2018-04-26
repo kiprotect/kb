@@ -24,11 +24,11 @@ content: "Wenn eine andere {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} als f
   \ der einschl\xE4gigen rechtlichen Verpflichtungen nach dem Recht der Mitgliedstaaten\
   \ bewertet werden muss."
 index:
-- "verarbeitungst\xE4tigkeit"
 - betroffene-person
-- verordnung
-- auftragsverarbeiter
 - verantwortlicher
-- "aufsichtsbeh\xF6rde"
+- verordnung
 - verarbeitung
+- auftragsverarbeiter
+- "aufsichtsbeh\xF6rde"
+- "verarbeitungst\xE4tigkeit"
 number: 131

@@ -11,8 +11,8 @@ paragraphs:
       \ sie in \xE4hnlicher Weise erheblich beeintr\xE4chtigt."
     index:
     - automatisierte-verarbeitung
-    - betroffene-person
     - profiling
+    - betroffene-person
     number: 1
   2:
     number: 2
@@ -37,8 +37,8 @@ paragraphs:
         content: "mit ausdr\xFCcklicher {Einwilligung|index:einwilligung} der {betroffenen\
           \ Person|index:betroffene-person} erfolgt."
         index:
-        - betroffene-person
         - einwilligung
+        - betroffene-person
     preamble: Absatz 1 gilt nicht, wenn die Entscheidung
   3:
     content: "In den in Absatz 2 Buchstaben a und c genannten F\xE4llen trifft der\

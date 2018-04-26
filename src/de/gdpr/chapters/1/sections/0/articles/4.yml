@@ -14,9 +14,9 @@ definitions:
       \ Person|index:nat\xFCrliche-person} sind, identifiziert werden kann;"
     index:
     - betroffene-person
-    - personenbezogene-daten
-    - "nat\xFCrliche-person"
     - identifizierbar
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
     - identifiziert
     number: 1
   2:
@@ -30,8 +30,8 @@ definitions:
       pfung, die Einschr\xE4nkung, das L\xF6schen oder die Vernichtung;"
     index:
     - personenbezogene-daten
-    - automatisiertes-verfahren
     - verarbeitung
+    - automatisiertes-verfahren
     number: 2
   3:
     content: "\u201E{Einschr\xE4nkung der Verarbeitung|index:einschr\xE4nkung-der-verarbeitung}\u201C\
@@ -54,10 +54,10 @@ definitions:
       \ oder Ortswechsel dieser {nat\xFCrlichen Person|index:nat\xFCrliche-person}\
       \ zu analysieren oder vorherzusagen;"
     index:
-    - "nat\xFCrliche-person"
-    - personenbezogene-daten
     - automatisierte-verarbeitung
     - profiling
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
     number: 4
   5:
     content: "\u201E{Pseudonymisierung|index:pseudonymisierung}\u201C die {Verarbeitung|index:verarbeitung}\
@@ -71,13 +71,13 @@ definitions:
       \ {nat\xFCrlichen Person|index:nat\xFCrliche-person} zugewiesen werden;"
     index:
     - betroffene-person
+    - identifizierbar
     - "technische-und-organisatorische-ma\xDFnahmen"
+    - identifiziert
+    - verarbeitung
     - pseudonymisierung
     - personenbezogene-daten
     - "nat\xFCrliche-person"
-    - identifizierbar
-    - identifiziert
-    - verarbeitung
     number: 5
   6:
     content: "\u201E{Dateisystem|index:dateisystem}\u201C jede strukturierte Sammlung\
@@ -86,8 +86,8 @@ definitions:
       \ dezentral oder nach funktionalen oder geografischen Gesichtspunkten geordnet\
       \ gef\xFChrt wird;"
     index:
-    - personenbezogene-daten
     - dateisystem
+    - personenbezogene-daten
     number: 6
   7:
     content: "\u201E{Verantwortlicher|index:verantwortlicher}\u201C die nat\xFCrliche\
@@ -110,8 +110,8 @@ definitions:
       \ verarbeitet;"
     index:
     - verantwortlicher
-    - personenbezogene-daten
     - auftragsverarbeiter
+    - personenbezogene-daten
     number: 8
   9:
     content: "\u201E{Empf\xE4nger|index:empf\xE4nger}\u201C eine nat\xFCrliche oder\
@@ -124,10 +124,10 @@ definitions:
       \ dieser Daten durch die genannten Beh\xF6rden erfolgt im Einklang mit den geltenden\
       \ Datenschutzvorschriften gem\xE4\xDF den Zwecken der {Verarbeitung|index:verarbeitung};"
     index:
-    - personenbezogene-daten
     - dritter
-    - verarbeitung
     - "empf\xE4nger"
+    - personenbezogene-daten
+    - verarbeitung
     number: 9
   10:
     content: "\u201E{Dritter|index:dritter}\u201C eine nat\xFCrliche oder juristische\
@@ -139,9 +139,9 @@ definitions:
       \ {personenbezogenen Daten|index:personenbezogene-daten} zu verarbeiten;"
     index:
     - betroffene-person
+    - verantwortlicher
     - dritter
     - auftragsverarbeiter
-    - verantwortlicher
     - personenbezogene-daten
     number: 10
   11:
@@ -153,10 +153,10 @@ definitions:
       \ sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten} einverstanden\
       \ ist;"
     index:
-    - personenbezogene-daten
-    - betroffene-person
     - einwilligung
+    - personenbezogene-daten
     - verarbeitung
+    - betroffene-person
     number: 11
   12:
     content: "\u201E{Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\u201C\
@@ -166,8 +166,8 @@ definitions:
       \ f\xFChrt, die \xFCbermittelt, gespeichert oder auf sonstige Weise verarbeitet\
       \ wurden;"
     index:
-    - verletzung-des-schutzes-personenbezogener-daten
     - personenbezogene-daten
+    - verletzung-des-schutzes-personenbezogener-daten
     number: 12
   13:
     content: "\u201E{genetische Daten|index:genetische-daten}\u201C {personenbezogene\
@@ -178,9 +178,9 @@ definitions:
       \ aus der Analyse einer biologischen Probe der betreffenden {nat\xFCrlichen\
       \ Person|index:nat\xFCrliche-person} gewonnen wurden;"
     index:
-    - "nat\xFCrliche-person"
-    - personenbezogene-daten
     - genetische-daten
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
     number: 13
   14:
     content: "\u201E{biometrische Daten|index:biometrische-daten}\u201C mit speziellen\
@@ -190,9 +190,9 @@ definitions:
       \ dieser {nat\xFCrlichen Person|index:nat\xFCrliche-person} erm\xF6glichen oder\
       \ best\xE4tigen, wie Gesichtsbilder oder daktyloskopische Daten;"
     index:
-    - "nat\xFCrliche-person"
-    - personenbezogene-daten
     - verfahren
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
     - biometrische-daten
     number: 14
   15:
@@ -202,14 +202,14 @@ definitions:
       \ einschlie\xDFlich der Erbringung von Gesundheitsdienstleistungen, beziehen\
       \ und aus denen Informationen \xFCber deren Gesundheitszustand hervorgehen;"
     index:
-    - "nat\xFCrliche-person"
-    - personenbezogene-daten
     - gesundheitsdaten
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
     number: 15
   16:
-    number: 16
     index:
     - hauptniederlassung
+    number: 16
     points:
       a:
         content: |-
@@ -230,8 +230,8 @@ definitions:
           \ spezifischen Pflichten aus dieser {Verordnung|index:verordnung} unterliegt;"
         index:
         - auftragsverarbeiter
-        - "verarbeitungst\xE4tigkeit"
         - verordnung
+        - "verarbeitungst\xE4tigkeit"
     preamble: "\u201E{Hauptniederlassung|index:hauptniederlassung}\u201C"
   17:
     content: "\u201E{Vertreter|index:vertreter}\u201C eine in der Union niedergelassene\
@@ -241,11 +241,10 @@ definitions:
       \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} in Bezug auf die ihnen\
       \ jeweils nach dieser {Verordnung|index:verordnung} obliegenden Pflichten vertritt;"
     index:
-    - auftragsverarbeiter
     - verantwortlicher
-    - hauptniederlassung
-    - verordnung
     - vertreter
+    - auftragsverarbeiter
+    - verordnung
     number: 17
   18:
     content: "\u201E{Unternehmen|index:unternehmen}\u201C eine nat\xFCrliche und juristische\
@@ -275,12 +274,12 @@ definitions:
       \ von {Unternehmen|index:unternehmen}, die eine gemeinsame Wirtschaftst\xE4\
       tigkeit aus\xFCben, in einem oder mehreren Drittl\xE4ndern;"
     index:
-    - auftragsverarbeiter
-    - unternehmen
-    - personenbezogene-daten
-    - unternehmensgruppe
     - verantwortlicher
+    - unternehmen
+    - unternehmensgruppe
     - verbindliche-interne-datenschutzvorschriften
+    - auftragsverarbeiter
+    - personenbezogene-daten
     number: 20
   21:
     content: "\u201E{Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\u201C eine von\
@@ -301,8 +300,8 @@ definitions:
           \ im Hoheitsgebiet des Mitgliedstaats dieser {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
           rde} niedergelassen ist,"
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - "aufsichtsbeh\xF6rde"
       b:
         content: "diese {Verarbeitung|index:verarbeitung} erhebliche Auswirkungen\
@@ -335,8 +334,8 @@ definitions:
           \ Mitgliedstaat niedergelassen ist, oder"
         index:
         - verantwortlicher
-        - personenbezogene-daten
         - auftragsverarbeiter
+        - personenbezogene-daten
         - verarbeitung
       b:
         content: "eine {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten},\
@@ -346,10 +345,10 @@ definitions:
           \ in mehr als einem Mitgliedstaat hat oder haben kann;"
         index:
         - betroffene-person
-        - auftragsverarbeiter
         - verantwortlicher
-        - personenbezogene-daten
         - verarbeitung
+        - auftragsverarbeiter
+        - personenbezogene-daten
     preamble: "\u201Egrenz\xFCberschreitende {Verarbeitung|index:verarbeitung}\u201C\
       \ entweder"
   24:
@@ -365,11 +364,11 @@ definitions:
       \ in der Union ausgehen;"
     index:
     - betroffene-person
-    - auftragsverarbeiter
-    - verordnung
     - verantwortlicher
-    - personenbezogene-daten
     - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
+    - verordnung
+    - auftragsverarbeiter
+    - personenbezogene-daten
     number: 24
   25:
     content: "\u201E{Dienst der Informationsgesellschaft|index:dienst-der-informationsgesellschaft}\u201C\

@@ -22,11 +22,11 @@ content: "Geht aus einer Datenschutz-Folgenabsch\xE4tzung hervor, dass die {Vera
   \ Risikos f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFC\
   rliche-person} geplanten Ma\xDFnahmen."
 index:
-- "verarbeitungst\xE4tigkeit"
-- verordnung
-- verantwortlicher
-- personenbezogene-daten
 - "nat\xFCrliche-person"
-- "aufsichtsbeh\xF6rde"
+- verantwortlicher
+- verordnung
 - verarbeitung
+- personenbezogene-daten
+- "aufsichtsbeh\xF6rde"
+- "verarbeitungst\xE4tigkeit"
 number: 94

@@ -18,12 +18,12 @@ content: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} sollte daf\xFCr z
   \ Vorschriften, Garantien und Rechte im Zusammenhang mit der {Verarbeitung|index:verarbeitung}\
   \ {personenbezogener Daten|index:personenbezogene-daten} einschlie\xDFen."
 index:
-- "verarbeitungst\xE4tigkeit"
 - betroffene-person
-- verordnung
-- auftragsverarbeiter
 - verantwortlicher
+- verordnung
+- verarbeitung
+- auftragsverarbeiter
 - personenbezogene-daten
 - "aufsichtsbeh\xF6rde"
-- verarbeitung
+- "verarbeitungst\xE4tigkeit"
 number: 122

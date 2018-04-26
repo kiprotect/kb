@@ -15,8 +15,8 @@ paragraphs:
     index:
     - verantwortlicher
     - personenbezogene-daten
-    - betroffene-person
     - verordnung
+    - betroffene-person
     number: 1
   2:
     content: "Kann der {Verantwortliche|index:verantwortlicher} in F\xE4llen gem\xE4\

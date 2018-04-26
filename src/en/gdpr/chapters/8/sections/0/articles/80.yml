@@ -12,9 +12,9 @@ paragraphs:
     content: |-
       Member States may provide that any body, organisation or association referred to in paragraph 1 of this Article, independently of a data subject's mandate, has the right to lodge, in that Member State, a complaint with the {supervisory authority|index:supervisory-authority} which is competent pursuant to Article 77 and to exercise the rights referred to in Articles 78 and 79 if it considers that the rights of a {data subject|index:data-subject} under this {Regulation|index:regulation} have been infringed as a result of the {processing|index:processing}.
     index:
+    - supervisory-authority
     - data-subject
     - regulation
-    - supervisory-authority
     - processing
     number: 2
 section: 0

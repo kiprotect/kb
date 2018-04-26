@@ -5,27 +5,27 @@ paragraphs:
     content: |-
       The {data subject|index:data-subject} shall have the right to object, on grounds relating to his or her particular situation, at any time to {processing|index:processing} of {personal data|index:personal-data} concerning him or her which is based on point (e) or (f) of Article 6(1), including {profiling|index:profiling} based on those provisions. The {controller|index:controller} shall no longer process the {personal data|index:personal-data} unless the {controller|index:controller} demonstrates compelling legitimate grounds for the {processing|index:processing} which override the interests, rights and freedoms of the {data subject|index:data-subject} or for the establishment, exercise or defence of legal claims.
     index:
+    - processing
     - data-subject
     - profiling
-    - controller
     - personal-data
-    - processing
+    - controller
     number: 1
   2:
     content: |-
       Where {personal data|index:personal-data} are processed for direct marketing purposes, the {data subject|index:data-subject} shall have the right to object at any time to {processing|index:processing} of {personal data|index:personal-data} concerning him or her for such marketing, which includes {profiling|index:profiling} to the extent that it is related to such direct marketing.
     index:
-    - personal-data
-    - data-subject
     - profiling
+    - data-subject
+    - personal-data
     - processing
     number: 2
   3:
     content: |-
       Where the {data subject|index:data-subject} objects to {processing|index:processing} for direct marketing purposes, the {personal data|index:personal-data} shall no longer be processed for such purposes.
     index:
-    - personal-data
     - data-subject
+    - personal-data
     - processing
     number: 3
   4:
@@ -45,8 +45,8 @@ paragraphs:
     content: |-
       Where {personal data|index:personal-data} are processed for scientific or historical research purposes or statistical purposes pursuant to Article 89(1), the {data subject|index:data-subject}, on grounds relating to his or her particular situation, shall have the right to object to {processing|index:processing} of {personal data|index:personal-data} concerning him or her, unless the {processing|index:processing} is necessary for the performance of a task carried out for reasons of public interest.
     index:
-    - personal-data
     - data-subject
+    - personal-data
     - processing
     number: 6
 section: 4

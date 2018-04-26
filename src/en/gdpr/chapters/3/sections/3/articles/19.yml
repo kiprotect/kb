@@ -4,9 +4,9 @@ content: |-
 index:
 - data-subject
 - restriction-of-processing
-- controller
 - personal-data
 - recipient
+- controller
 number: 19
 section: 3
 title: |-

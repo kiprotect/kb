@@ -20,8 +20,8 @@ paragraphs:
     content: |-
       Irrespective of the terms of the arrangement referred to in paragraph 1, the {data subject|index:data-subject} may exercise his or her rights under this {Regulation|index:regulation} in respect of and against each of the controllers.
     index:
-    - data-subject
     - regulation
+    - data-subject
     number: 3
 section: 1
 title: Joint controllers

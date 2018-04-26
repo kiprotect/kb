@@ -10,8 +10,8 @@ paragraphs:
       \ {Vertreter|index:vertreter} in der Union."
     index:
     - verantwortlicher
-    - auftragsverarbeiter
     - vertreter
+    - auftragsverarbeiter
     number: 1
   2:
     number: 2
@@ -27,8 +27,8 @@ paragraphs:
           \ zu einem Risiko f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFC\
           rliche-person} f\xFChrt, oder"
         index:
-        - "nat\xFCrliche-person"
         - personenbezogene-daten
+        - "nat\xFCrliche-person"
         - verarbeitung
       b:
         content: "Beh\xF6rden oder \xF6ffentliche Stellen."
@@ -38,9 +38,9 @@ paragraphs:
     content: |-
       Der {Vertreter|index:vertreter} muss in einem der Mitgliedstaaten niedergelassen sein, in denen die {betroffenen Personen|index:betroffene-person}, deren {personenbezogene Daten|index:personenbezogene-daten} im Zusammenhang mit den ihnen angebotenen Waren oder Dienstleistungen verarbeitet werden oder deren Verhalten beobachtet wird, sich befinden.
     index:
+    - vertreter
     - personenbezogene-daten
     - betroffene-person
-    - vertreter
     number: 3
   4:
     content: "Der {Vertreter|index:vertreter} wird durch den {Verantwortlichen|index:verantwortlicher}\
@@ -52,12 +52,12 @@ paragraphs:
       \ als Anlaufstelle zu dienen."
     index:
     - betroffene-person
-    - verordnung
-    - auftragsverarbeiter
-    - vertreter
     - verantwortlicher
-    - "aufsichtsbeh\xF6rde"
+    - verordnung
     - verarbeitung
+    - vertreter
+    - auftragsverarbeiter
+    - "aufsichtsbeh\xF6rde"
     number: 4
   5:
     content: |-

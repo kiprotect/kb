@@ -5,19 +5,19 @@ number: 32
 paragraphs:
   1:
     index:
+    - processing
     - processor
-    - controller
     - technical-and-organisational-measures
     - natural-person
-    - processing
+    - controller
     number: 1
     points:
       a:
         content: the {pseudonymisation|index:pseudonymisation} and encryption of {personal
           data|index:personal-data};
         index:
-        - personal-data
         - pseudonymisation
+        - personal-data
       b:
         content: |-
           the ability to ensure the ongoing confidentiality, integrity, availability and resilience of {processing|index:processing} systems and services;
@@ -51,9 +51,9 @@ paragraphs:
     content: |-
       The {controller|index:controller} and {processor|index:processor} shall take steps to ensure that any {natural person|index:natural-person} acting under the authority of the {controller|index:controller} or the {processor|index:processor} who has access to {personal data|index:personal-data} does not process them except on instructions from the {controller|index:controller}, unless he or she is required to do so by Union or Member State law.
     index:
-    - personal-data
-    - processor
     - natural-person
+    - processor
+    - personal-data
     - controller
     number: 4
 section: 2

@@ -25,12 +25,12 @@ content: "Die Grunds\xE4tze des Datenschutzes sollten f\xFCr alle Informationen 
   \ auch f\xFCr statistische oder f\xFCr Forschungszwecke."
 index:
 - betroffene-person
-- verordnung
-- pseudonymisierung
+- identifizierbar
 - verantwortlicher
+- identifiziert
+- verordnung
+- verarbeitung
+- pseudonymisierung
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- identifizierbar
-- identifiziert
-- verarbeitung
 number: 26

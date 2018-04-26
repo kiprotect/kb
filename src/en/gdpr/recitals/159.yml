@@ -1,8 +1,8 @@
 content: |-
   Where {personal data|index:personal-data} are processed for scientific research purposes, this {Regulation|index:regulation} should also apply to that {processing|index:processing}. For the purposes of this {Regulation|index:regulation}, the {processing|index:processing} of {personal data|index:personal-data} for scientific research purposes should be interpreted in a broad manner including for example technological development and demonstration, fundamental research, applied research and privately funded research. In addition, it should take into account the Union's objective under Article 179(1) TFEU of achieving a European Research Area. Scientific research purposes should also include studies conducted in the public interest in the area of public health. To meet the specificities of {processing|index:processing} {personal data|index:personal-data} for scientific research purposes, specific conditions should apply in particular as regards the publication or otherwise disclosure of {personal data|index:personal-data} in the context of scientific research purposes. If the result of scientific research in particular in the health context gives reason for further measures in the interest of the {data subject|index:data-subject}, the general rules of this {Regulation|index:regulation} should apply in view of those measures.
 index:
+- data-subject
 - personal-data
 - regulation
-- data-subject
 - processing
 number: 159

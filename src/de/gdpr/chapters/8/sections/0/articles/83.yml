@@ -32,8 +32,8 @@ paragraphs:
           \ entstandenen Schadens;"
         index:
         - verantwortlicher
-        - betroffene-person
         - auftragsverarbeiter
+        - betroffene-person
       d:
         content: "Grad der Verantwortung des {Verantwortlichen|index:verantwortlicher}\
           \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} unter Ber\xFC\
@@ -67,8 +67,8 @@ paragraphs:
           \ der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
           \ den Versto\xDF mitgeteilt hat;"
         index:
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - "aufsichtsbeh\xF6rde"
       i:
         content: "Einhaltung der nach Artikel 58 Absatz 2 fr\xFCher gegen den f\xFC\
@@ -100,8 +100,8 @@ paragraphs:
       \ der Gesamtbetrag der Geldbu\xDFe nicht den Betrag f\xFCr den schwerwiegendsten\
       \ Versto\xDF."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - verordnung
     number: 3
   4:
@@ -146,9 +146,9 @@ paragraphs:
           \ eine {internationale Organisation|index:internationale-organisation} gem\xE4\
           \xDF den Artikeln 44 bis 49;"
         index:
-        - personenbezogene-daten
         - internationale-organisation
         - "empf\xE4nger"
+        - personenbezogene-daten
       d:
         content: "alle Pflichten gem\xE4\xDF den Rechtsvorschriften der Mitgliedstaaten,\
           \ die im Rahmen des Kapitels IX erlassen wurden;"

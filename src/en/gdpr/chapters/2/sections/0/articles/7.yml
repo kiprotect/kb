@@ -7,18 +7,18 @@ paragraphs:
     content: |-
       Where {processing|index:processing} is based on {consent|index:consent}, the {controller|index:controller} shall be able to demonstrate that the {data subject|index:data-subject} has consented to {processing|index:processing} of his or her {personal data|index:personal-data}.
     index:
+    - processing
     - data-subject
     - consent
-    - controller
     - personal-data
-    - processing
+    - controller
     number: 1
   2:
     content: |-
       If the data subject's {consent|index:consent} is given in the context of a written declaration which also concerns other matters, the request for {consent|index:consent} shall be presented in a manner which is clearly distinguishable from the other matters, in an intelligible and easily accessible form, using clear and plain language. Any part of such a declaration which constitutes an infringement of this {Regulation|index:regulation} shall not be binding.
     index:
-    - regulation
     - consent
+    - regulation
     number: 2
   3:
     content: |-
@@ -32,8 +32,8 @@ paragraphs:
     content: |-
       When assessing whether {consent|index:consent} is freely given, utmost account shall be taken of whether, inter alia, the performance of a contract, including the provision of a service, is conditional on {consent|index:consent} to the {processing|index:processing} of {personal data|index:personal-data} that is not necessary for the performance of that contract.
     index:
-    - personal-data
     - consent
+    - personal-data
     - processing
     number: 4
 section: 0

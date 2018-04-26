@@ -1,7 +1,7 @@
 chapter: 4
 index:
-- verletzung-des-schutzes-personenbezogener-daten
 - betroffene-person
+- verletzung-des-schutzes-personenbezogener-daten
 number: 34
 paragraphs:
   1:
@@ -11,10 +11,10 @@ paragraphs:
       \ der {Verantwortliche|index:verantwortlicher} die {betroffene Person|index:betroffene-person}\
       \ unverz\xFCglich von der Verletzung."
     index:
-    - verletzung-des-schutzes-personenbezogener-daten
     - verantwortlicher
     - betroffene-person
     - "nat\xFCrliche-person"
+    - verletzung-des-schutzes-personenbezogener-daten
     number: 1
   2:
     content: "Die in Absatz 1 genannte Benachrichtigung der {betroffenen Person|index:betroffene-person}\
@@ -23,8 +23,8 @@ paragraphs:
       \ und enth\xE4lt zumindest die in Artikel 33 Absatz 3 Buchstaben b, c und d\
       \ genannten Informationen und Ma\xDFnahmen."
     index:
-    - verletzung-des-schutzes-personenbezogener-daten
     - betroffene-person
+    - verletzung-des-schutzes-personenbezogener-daten
     number: 2
   3:
     index:
@@ -70,10 +70,10 @@ paragraphs:
       \ verlangen, dies nachzuholen, oder sie kann mit einem Beschluss feststellen,\
       \ dass bestimmte der in Absatz 3 genannten Voraussetzungen erf\xFCllt sind."
     index:
-    - verletzung-des-schutzes-personenbezogener-daten
     - verantwortlicher
     - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - verletzung-des-schutzes-personenbezogener-daten
     number: 4
 section: 2
 title: |-

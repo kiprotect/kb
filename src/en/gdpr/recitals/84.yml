@@ -1,10 +1,10 @@
 content: |-
   In order to enhance compliance with this {Regulation|index:regulation} where {processing|index:processing} operations are likely to result in a high risk to the rights and freedoms of {natural persons|index:natural-person}, the {controller|index:controller} should be responsible for the carrying-out of a data protection impact assessment to evaluate, in particular, the origin, nature, particularity and severity of that risk. The outcome of the assessment should be taken into account when determining the appropriate measures to be taken in order to demonstrate that the {processing|index:processing} of {personal data|index:personal-data} complies with this {Regulation|index:regulation}. Where a data-protection impact assessment indicates that {processing|index:processing} operations involve a high risk which the {controller|index:controller} cannot mitigate by appropriate measures in terms of available technology and costs of implementation, a consultation of the {supervisory authority|index:supervisory-authority} should take place prior to the {processing|index:processing}.
 index:
+- processing
+- supervisory-authority
+- natural-person
+- personal-data
 - regulation
 - controller
-- personal-data
-- natural-person
-- supervisory-authority
-- processing
 number: 84

@@ -5,8 +5,8 @@ number: 18
 paragraphs:
   1:
     index:
-    - "einschr\xE4nkung-der-verarbeitung"
     - verantwortlicher
+    - "einschr\xE4nkung-der-verarbeitung"
     - betroffene-person
     number: 1
     points:
@@ -28,8 +28,8 @@ paragraphs:
           \ verlangt;"
         index:
         - personenbezogene-daten
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
       c:
         content: "der {Verantwortliche|index:verantwortlicher} die {personenbezogenen\
           \ Daten|index:personenbezogene-daten} f\xFCr die Zwecke der {Verarbeitung|index:verarbeitung}\
@@ -39,8 +39,8 @@ paragraphs:
         index:
         - verantwortlicher
         - personenbezogene-daten
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
       d:
         content: "die {betroffene Person|index:betroffene-person} Widerspruch gegen\
           \ die {Verarbeitung|index:verarbeitung} gem\xE4\xDF Artikel 21 Absatz 1\
@@ -65,10 +65,10 @@ paragraphs:
       nden eines wichtigen \xF6ffentlichen Interesses der Union oder eines Mitgliedstaats\
       \ verarbeitet werden."
     index:
-    - personenbezogene-daten
-    - betroffene-person
     - einwilligung
+    - personenbezogene-daten
     - verarbeitung
+    - betroffene-person
     number: 2
   3:
     content: "Eine {betroffene Person|index:betroffene-person}, die eine {Einschr\xE4\
@@ -76,8 +76,8 @@ paragraphs:
       \ Absatz 1 erwirkt hat, wird von dem {Verantwortlichen|index:verantwortlicher}\
       \ unterrichtet, bevor die Einschr\xE4nkung aufgehoben wird."
     index:
-    - "einschr\xE4nkung-der-verarbeitung"
     - verantwortlicher
+    - "einschr\xE4nkung-der-verarbeitung"
     - betroffene-person
     number: 3
 section: 3

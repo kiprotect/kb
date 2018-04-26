@@ -31,11 +31,11 @@ paragraphs:
       rde|index:aufsichtsbeh\xF6rde} die f\xFCr die Zwecke der Konsultation angeforderten\
       \ Informationen erhalten hat."
     index:
-    - auftragsverarbeiter
-    - verordnung
     - verantwortlicher
-    - "aufsichtsbeh\xF6rde"
+    - verordnung
     - verarbeitung
+    - auftragsverarbeiter
+    - "aufsichtsbeh\xF6rde"
     number: 2
   3:
     index:
@@ -51,8 +51,8 @@ paragraphs:
           \ Gruppe von {Unternehmen|index:unternehmen};"
         index:
         - unternehmen
-        - verantwortlicher
         - auftragsverarbeiter
+        - verantwortlicher
         - verarbeitung
       b:
         content: die Zwecke und die Mittel der beabsichtigten {Verarbeitung|index:verarbeitung};

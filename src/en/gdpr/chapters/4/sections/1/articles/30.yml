@@ -6,8 +6,8 @@ paragraphs:
   1:
     index:
     - representative
-    - controller
     - processing
+    - controller
     number: 1
     points:
       a:
@@ -34,8 +34,8 @@ paragraphs:
         content: |-
           where applicable, transfers of {personal data|index:personal-data} to a third country or an {international organisation|index:international-organisation}, including the identification of that third country or {international organisation|index:international-organisation} and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;
         index:
-        - personal-data
         - international-organisation
+        - personal-data
       f:
         content: where possible, the envisaged time limits for erasure of the different
           categories of data;
@@ -46,31 +46,31 @@ paragraphs:
       Each {controller|index:controller} and, where applicable, the controller's {representative|index:representative}, shall maintain a record of {processing|index:processing} activities under its responsibility. That record shall contain all of the following information:
   2:
     index:
-    - processor
     - representative
-    - controller
+    - processor
     - processing
+    - controller
     number: 2
     points:
       a:
         content: |-
           the name and contact details of the {processor|index:processor} or processors and of each {controller|index:controller} on behalf of which the {processor|index:processor} is acting, and, where applicable, of the controller's or the processor's {representative|index:representative}, and the data protection officer;
         index:
-        - processor
         - representative
+        - processor
         - controller
       b:
         content: |-
           the categories of {processing|index:processing} carried out on behalf of each {controller|index:controller};
         index:
-        - controller
         - processing
+        - controller
       c:
         content: |-
           where applicable, transfers of {personal data|index:personal-data} to a third country or an {international organisation|index:international-organisation}, including the identification of that third country or {international organisation|index:international-organisation} and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;
         index:
-        - personal-data
         - international-organisation
+        - personal-data
       d:
         content: |-
           where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
@@ -84,8 +84,8 @@ paragraphs:
     content: |-
       The {controller|index:controller} or the {processor|index:processor} and, where applicable, the controller's or the processor's {representative|index:representative}, shall make the record available to the {supervisory authority|index:supervisory-authority} on request.
     index:
-    - processor
     - representative
+    - processor
     - supervisory-authority
     - controller
     number: 4
@@ -93,8 +93,8 @@ paragraphs:
     content: |-
       The obligations referred to in paragraphs 1 and 2 shall not apply to an {enterprise|index:enterprise} or an organisation employing fewer than 250 persons unless the {processing|index:processing} it carries out is likely to result in a risk to the rights and freedoms of data subjects, the {processing|index:processing} is not occasional, or the {processing|index:processing} includes special categories of data as referred to in Article 9(1) or {personal data|index:personal-data} relating to criminal convictions and offences referred to in Article 10.
     index:
-    - personal-data
     - enterprise
+    - personal-data
     - processing
     number: 5
 section: 1

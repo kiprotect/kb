@@ -5,10 +5,10 @@ paragraphs:
     content: |-
       Where a type of {processing|index:processing} in particular using new technologies, and taking into account the nature, scope, context and purposes of the {processing|index:processing}, is likely to result in a high risk to the rights and freedoms of {natural persons|index:natural-person}, the {controller|index:controller} shall, prior to the {processing|index:processing}, carry out an assessment of the impact of the envisaged {processing|index:processing} operations on the protection of {personal data|index:personal-data}. A single assessment may address a set of similar {processing|index:processing} operations that present similar high risks.
     index:
-    - personal-data
     - natural-person
-    - controller
+    - personal-data
     - processing
+    - controller
     number: 1
   2:
     content: |-
@@ -55,8 +55,8 @@ paragraphs:
     content: |-
       Prior to the adoption of the lists referred to in paragraphs 4 and 5, the competent {supervisory authority|index:supervisory-authority} shall apply the consistency mechanism referred to in Article 63 where such lists involve {processing|index:processing} activities which are related to the offering of goods or services to data subjects or to the monitoring of their behaviour in several Member States, or may substantially affect the free movement of {personal data|index:personal-data} within the Union.
     index:
-    - personal-data
     - supervisory-authority
+    - personal-data
     - processing
     number: 6
   7:
@@ -66,8 +66,8 @@ paragraphs:
         content: |-
           a systematic description of the envisaged {processing|index:processing} operations and the purposes of the {processing|index:processing}, including, where applicable, the legitimate interest pursued by the {controller|index:controller};
         index:
-        - controller
         - processing
+        - controller
       b:
         content: |-
           an assessment of the necessity and proportionality of the {processing|index:processing} operations in relation to the purposes;
@@ -93,22 +93,22 @@ paragraphs:
     content: |-
       Where appropriate, the {controller|index:controller} shall seek the views of data subjects or their representatives on the intended {processing|index:processing}, without prejudice to the protection of commercial or public interests or the security of {processing|index:processing} operations.
     index:
-    - controller
     - processing
+    - controller
     number: 9
   10:
     content: |-
       Where {processing|index:processing} pursuant to point (c) or (e) of Article 6(1) has a legal basis in Union law or in the law of the Member State to which the {controller|index:controller} is subject, that law regulates the specific {processing|index:processing} operation or set of operations in question, and a data protection impact assessment has already been carried out as part of a general impact assessment in the context of the adoption of that legal basis, paragraphs 1 to 7 shall not apply unless Member States deem it to be necessary to carry out such an assessment prior to {processing|index:processing} activities.
     index:
-    - controller
     - processing
+    - controller
     number: 10
   11:
     content: |-
       Where necessary, the {controller|index:controller} shall carry out a review to assess if {processing|index:processing} is performed in accordance with the data protection impact assessment at least when there is a change of the risk represented by {processing|index:processing} operations.
     index:
-    - controller
     - processing
+    - controller
     number: 11
 section: 3
 title: Data protection impact assessment

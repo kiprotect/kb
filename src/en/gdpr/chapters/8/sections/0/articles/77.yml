@@ -7,11 +7,11 @@ paragraphs:
     content: |-
       Without prejudice to any other administrative or judicial remedy, every {data subject|index:data-subject} shall have the right to lodge a complaint with a {supervisory authority|index:supervisory-authority}, in particular in the Member State of his or her habitual residence, place of work or place of the alleged infringement if the {data subject|index:data-subject} considers that the {processing|index:processing} of {personal data|index:personal-data} relating to him or her infringes this {Regulation|index:regulation}.
     index:
-    - data-subject
-    - regulation
-    - personal-data
-    - supervisory-authority
     - processing
+    - supervisory-authority
+    - data-subject
+    - personal-data
+    - regulation
     number: 1
   2:
     content: |-

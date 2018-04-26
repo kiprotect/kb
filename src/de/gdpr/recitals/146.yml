@@ -30,10 +30,10 @@ content: "Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbe
   \ derselben {Verarbeitung|index:verarbeitung} beteiligte {Verantwortliche|index:verantwortlicher}\
   \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} anstrengen."
 index:
-- betroffene-person
-- verordnung
-- auftragsverarbeiter
 - verfahren
+- betroffene-person
 - verantwortlicher
+- verordnung
 - verarbeitung
+- auftragsverarbeiter
 number: 146

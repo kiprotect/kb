@@ -17,6 +17,7 @@ index_words = {
         (r'einschränkung\s+der\s+verarbeitung', 'einschränkung-der-verarbeitung'),
         (r'verarbeitung', 'verarbeitung'),
         (r'verordnung', 'verordnung'),
+        (r'hauptniederlassung(?:en)?', 'hauptniederlassung'),
         (r'aufsichtsbehörde(?:n)?', 'aufsichtsbehörde'),
         (r'teilautomatisierte(?:r|n)?\s+Verfahren', 'teilautomatisiertes-verfahren'),
         (r'automatisierte(?:r|n)\s+Verfahren', 'automatisiertes-verfahren'),

@@ -28,12 +28,12 @@ content: "{Personal data|index:personal-data} which are, by their nature, partic
   \ of legitimate activities by certain associations or foundations the purpose of\
   \ which is to permit the exercise of fundamental freedoms."
 index:
-- data-subject
-- biometric-data
-- regulation
-- consent
-- controller
-- personal-data
-- natural-person
 - processing
+- biometric-data
+- data-subject
+- natural-person
+- consent
+- personal-data
+- regulation
+- controller
 number: 51

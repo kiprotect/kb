@@ -13,9 +13,9 @@ paragraphs:
       nge mit \xE4hnlich hohen Risiken kann eine einzige Absch\xE4tzung vorgenommen\
       \ werden."
     index:
-    - "nat\xFCrliche-person"
-    - personenbezogene-daten
     - verantwortlicher
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
     - verarbeitung
     number: 1
   2:
@@ -37,9 +37,9 @@ paragraphs:
           rliche-person} entfalten oder diese in \xE4hnlich erheblicher Weise beeintr\xE4\
           chtigen;"
         index:
+        - profiling
         - "nat\xFCrliche-person"
         - verarbeitung
-        - profiling
       b:
         content: "umfangreiche {Verarbeitung|index:verarbeitung} besonderer Kategorien\
           \ von {personenbezogenen Daten|index:personenbezogene-daten} gem\xE4\xDF\
@@ -81,10 +81,10 @@ paragraphs:
       \ im Zusammenhang stehen oder die den freien Verkehr {personenbezogener Daten|index:personenbezogene-daten}\
       \ innerhalb der Union erheblich beeintr\xE4chtigen k\xF6nnten."
     index:
-    - "verarbeitungst\xE4tigkeit"
     - personenbezogene-daten
-    - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - "verarbeitungst\xE4tigkeit"
+    - betroffene-person
     number: 6
   7:
     number: 7
@@ -116,8 +116,8 @@ paragraphs:
         index:
         - verfahren
         - personenbezogene-daten
-        - betroffene-person
         - verordnung
+        - betroffene-person
     preamble: "Die Folgenabsch\xE4tzung enth\xE4lt zumindest Folgendes:"
   8:
     content: "Die Einhaltung genehmigter Verhaltensregeln gem\xE4\xDF Artikel 40 durch\
@@ -154,8 +154,8 @@ paragraphs:
       \ den betreffenden {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}\
       \ eine solche Folgenabsch\xE4tzung durchzuf\xFChren."
     index:
-    - "verarbeitungst\xE4tigkeit"
     - verantwortlicher
+    - "verarbeitungst\xE4tigkeit"
     - verarbeitung
     number: 10
   11:

@@ -1,53 +1,54 @@
-content: "Die Hauptniederlassung des {Verantwortlichen|index:verantwortlicher} in\
-  \ der Union sollte der Ort seiner Hauptverwaltung in der Union sein, es sei denn,\
+content: "Die {Hauptniederlassung|index:hauptniederlassung} des {Verantwortlichen|index:verantwortlicher}\
+  \ in der Union sollte der Ort seiner Hauptverwaltung in der Union sein, es sei denn,\
   \ dass Entscheidungen \xFCber die Zwecke und Mittel der {Verarbeitung|index:verarbeitung}\
   \ {personenbezogener Daten|index:personenbezogene-daten} in einer anderen Niederlassung\
   \ des {Verantwortlichen|index:verantwortlicher} in der Union getroffen werden; in\
-  \ diesem Fall sollte die letztgenannte als Hauptniederlassung gelten. Zur Bestimmung\
-  \ der Hauptniederlassung eines {Verantwortlichen|index:verantwortlicher} in der\
-  \ Union sollten objektive Kriterien herangezogen werden; ein Kriterium sollte dabei\
-  \ die effektive und tats\xE4chliche Aus\xFCbung von Managementt\xE4tigkeiten durch\
-  \ eine feste Einrichtung sein, in deren Rahmen die Grundsatzentscheidungen zur Festlegung\
-  \ der Zwecke und Mittel der {Verarbeitung|index:verarbeitung} getroffen werden.\
-  \ Dabei sollte nicht ausschlaggebend sein, ob die {Verarbeitung|index:verarbeitung}\
-  \ der {personenbezogenen Daten|index:personenbezogene-daten} tats\xE4chlich an diesem\
-  \ Ort ausgef\xFChrt wird. Das Vorhandensein und die Verwendung technischer Mittel\
-  \ und {Verfahren|index:verfahren} zur {Verarbeitung|index:verarbeitung} {personenbezogener\
-  \ Daten|index:personenbezogene-daten} oder {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4\
-  tigkeit} begr\xFCnden an sich noch keine Hauptniederlassung und sind daher kein\
-  \ ausschlaggebender Faktor f\xFCr das Bestehen einer Hauptniederlassung. Die Hauptniederlassung\
-  \ des {Auftragsverarbeiters|index:auftragsverarbeiter} sollte der Ort sein, an dem\
-  \ der {Auftragsverarbeiter|index:auftragsverarbeiter} seine Hauptverwaltung in der\
-  \ Union hat, oder \u2014 wenn er keine Hauptverwaltung in der Union hat \u2014 der\
-  \ Ort, an dem die wesentlichen {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4\
+  \ diesem Fall sollte die letztgenannte als {Hauptniederlassung|index:hauptniederlassung}\
+  \ gelten. Zur Bestimmung der {Hauptniederlassung|index:hauptniederlassung} eines\
+  \ {Verantwortlichen|index:verantwortlicher} in der Union sollten objektive Kriterien\
+  \ herangezogen werden; ein Kriterium sollte dabei die effektive und tats\xE4chliche\
+  \ Aus\xFCbung von Managementt\xE4tigkeiten durch eine feste Einrichtung sein, in\
+  \ deren Rahmen die Grundsatzentscheidungen zur Festlegung der Zwecke und Mittel\
+  \ der {Verarbeitung|index:verarbeitung} getroffen werden. Dabei sollte nicht ausschlaggebend\
+  \ sein, ob die {Verarbeitung|index:verarbeitung} der {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ tats\xE4chlich an diesem Ort ausgef\xFChrt wird. Das Vorhandensein und die Verwendung\
+  \ technischer Mittel und {Verfahren|index:verfahren} zur {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} oder {Verarbeitungst\xE4\
+  tigkeiten|index:verarbeitungst\xE4tigkeit} begr\xFCnden an sich noch keine {Hauptniederlassung|index:hauptniederlassung}\
+  \ und sind daher kein ausschlaggebender Faktor f\xFCr das Bestehen einer {Hauptniederlassung|index:hauptniederlassung}.\
+  \ Die {Hauptniederlassung|index:hauptniederlassung} des {Auftragsverarbeiters|index:auftragsverarbeiter}\
+  \ sollte der Ort sein, an dem der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ seine Hauptverwaltung in der Union hat, oder \u2014 wenn er keine Hauptverwaltung\
+  \ in der Union hat \u2014 der Ort, an dem die wesentlichen {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4\
   tigkeit} in der Union stattfinden. Sind sowohl der {Verantwortliche|index:verantwortlicher}\
   \ als auch der {Auftragsverarbeiter|index:auftragsverarbeiter} betroffen, so sollte\
   \ die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} des Mitgliedstaats, in dem\
-  \ der {Verantwortliche|index:verantwortlicher} seine Hauptniederlassung hat, die\
-  \ zust\xE4ndige federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
-  \ bleiben, doch sollte die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} des {Auftragsverarbeiters|index:auftragsverarbeiter}\
-  \ als betroffene {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} betrachtet werden\
-  \ und diese {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} sollte sich an dem in\
-  \ dieser {Verordnung|index:verordnung} vorgesehenen {Verfahren|index:verfahren}\
+  \ der {Verantwortliche|index:verantwortlicher} seine {Hauptniederlassung|index:hauptniederlassung}\
+  \ hat, die zust\xE4ndige federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+  rde} bleiben, doch sollte die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} des\
+  \ {Auftragsverarbeiters|index:auftragsverarbeiter} als betroffene {Aufsichtsbeh\xF6\
+  rde|index:aufsichtsbeh\xF6rde} betrachtet werden und diese {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+  rde} sollte sich an dem in dieser {Verordnung|index:verordnung} vorgesehenen {Verfahren|index:verfahren}\
   \ der Zusammenarbeit beteiligen. Auf jeden Fall sollten die {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
   rde} des Mitgliedstaats oder der Mitgliedstaaten, in dem bzw. denen der {Auftragsverarbeiter|index:auftragsverarbeiter}\
   \ eine oder mehrere Niederlassungen hat, nicht als betroffene {Aufsichtsbeh\xF6\
   rden|index:aufsichtsbeh\xF6rde} betrachtet werden, wenn sich der Beschlussentwurf\
   \ nur auf den {Verantwortlichen|index:verantwortlicher} bezieht. Wird die {Verarbeitung|index:verarbeitung}\
   \ durch eine {Unternehmensgruppe|index:unternehmensgruppe} vorgenommen, so sollte\
-  \ die Hauptniederlassung des herrschenden Unternehmens als Hauptniederlassung der\
-  \ {Unternehmensgruppe|index:unternehmensgruppe} gelten, es sei denn, die Zwecke\
-  \ und Mittel der {Verarbeitung|index:verarbeitung} werden von einem anderen {Unternehmen|index:unternehmen}\
-  \ festgelegt."
+  \ die {Hauptniederlassung|index:hauptniederlassung} des herrschenden Unternehmens\
+  \ als {Hauptniederlassung|index:hauptniederlassung} der {Unternehmensgruppe|index:unternehmensgruppe}\
+  \ gelten, es sei denn, die Zwecke und Mittel der {Verarbeitung|index:verarbeitung}\
+  \ werden von einem anderen {Unternehmen|index:unternehmen} festgelegt."
 index:
-- "verarbeitungst\xE4tigkeit"
-- verordnung
-- auftragsverarbeiter
 - verfahren
-- personenbezogene-daten
-- unternehmen
-- unternehmensgruppe
 - verantwortlicher
-- "aufsichtsbeh\xF6rde"
+- unternehmen
+- verordnung
 - verarbeitung
+- hauptniederlassung
+- unternehmensgruppe
+- auftragsverarbeiter
+- personenbezogene-daten
+- "aufsichtsbeh\xF6rde"
+- "verarbeitungst\xE4tigkeit"
 number: 36

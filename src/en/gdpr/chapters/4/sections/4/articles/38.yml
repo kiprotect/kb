@@ -5,18 +5,18 @@ paragraphs:
     content: |-
       The {controller|index:controller} and the {processor|index:processor} shall ensure that the data protection officer is involved, properly and in a timely manner, in all issues which relate to the protection of {personal data|index:personal-data}.
     index:
-    - personal-data
     - processor
+    - personal-data
     - controller
     number: 1
   2:
     content: |-
       The {controller|index:controller} and {processor|index:processor} shall support the data protection officer in performing the tasks referred to in Article 39 by providing resources necessary to carry out those tasks and access to {personal data|index:personal-data} and {processing|index:processing} operations, and to maintain his or her expert knowledge.
     index:
-    - personal-data
     - processor
-    - controller
+    - personal-data
     - processing
+    - controller
     number: 2
   3:
     content: |-

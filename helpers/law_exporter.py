@@ -1,5 +1,6 @@
 import os
 import yaml
+import json
 
 #https://stackoverflow.com/questions/8640959/how-can-i-control-what-scalar-form-pyyaml-uses-for-my-data
 
@@ -25,6 +26,12 @@ def update(d, ud, overwrite=True):
             d[key] = value
 
 def write_yaml(filename, data, merge=True):
+    return write_format(filename, data, lambda data: yaml.dump(data, default_flow_style=False), merge=merge)
+
+def write_json(filename, data, merge=True):
+    return write_format(filename, data, lambda data: json.dumps(data, indent=2), merge=merge)
+
+def write_format(filename, data, writer, merge=True):
     if merge:
         if os.path.exists(filename):
             with open(filename) as input_file:
@@ -35,12 +42,14 @@ def write_yaml(filename, data, merge=True):
                 old_data = data
             data = old_data
     with open(filename, 'w') as output_file:
-        output_file.write(yaml.dump(data, default_flow_style=False))
+        output_file.write(writer(data))
 
 def store_result(result, build_dir):
     all_file = os.path.join(build_dir, 'all.yml')
+    all_json_file = os.path.join(build_dir, 'all.json')
     os.makedirs(build_dir, exist_ok=True)
     write_yaml(all_file, result)
+    write_json(all_json_file, result)
     recitals_dir = os.path.join(build_dir, 'recitals')
     footnotes_dir = os.path.join(build_dir, 'footnotes')
     os.makedirs(recitals_dir, exist_ok=True)

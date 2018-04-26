@@ -16,9 +16,9 @@ paragraphs:
     index:
     - betroffene-person
     - verordnung
+    - verarbeitung
     - personenbezogene-daten
     - "aufsichtsbeh\xF6rde"
-    - verarbeitung
     number: 1
   2:
     content: "F\xFCr Klagen gegen einen {Verantwortlichen|index:verantwortlicher}\
@@ -33,8 +33,8 @@ paragraphs:
       tig geworden ist."
     index:
     - verantwortlicher
-    - betroffene-person
     - auftragsverarbeiter
+    - betroffene-person
     number: 2
 section: 0
 title: |-

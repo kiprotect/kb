@@ -17,16 +17,16 @@ paragraphs:
           \ und begr\xFCndeten Einspruchs sind, insbesondere die Frage, ob ein Versto\xDF\
           \ gegen diese {Verordnung|index:verordnung} vorliegt;"
         index:
+        - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
         - "aufsichtsbeh\xF6rde"
         - verordnung
-        - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
       b:
         content: "wenn es widerspr\xFCchliche Standpunkte dazu gibt, welche der betroffenen\
           \ {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} f\xFCr die {Hauptniederlassung|index:hauptniederlassung}\
           \ zust\xE4ndig ist,"
         index:
         - "aufsichtsbeh\xF6rde"
-        - "hauptniederlassung"
+        - hauptniederlassung
       c:
         content: "wenn eine zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
           rde} in den in Artikel 64 Absatz 1 genannten F\xE4llen keine Stellungnahme\
@@ -91,8 +91,8 @@ paragraphs:
       \ Dem endg\xFCltigen Beschluss wird der in Absatz 1 des vorliegenden _Artikels\
       \ genannte Beschluss beigef\xFCgt."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - betroffene-person
     - "aufsichtsbeh\xF6rde"
     number: 6

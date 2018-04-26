@@ -10,8 +10,8 @@ paragraphs:
         content: |-
           to order the {controller|index:controller} and the {processor|index:processor}, and, where applicable, the controller's or the processor's {representative|index:representative} to provide any information it requires for the performance of its tasks;
         index:
-        - processor
         - representative
+        - processor
         - controller
       b:
         content: to carry out investigations in the form of data protection audits;
@@ -22,23 +22,23 @@ paragraphs:
         content: |-
           to notify the {controller|index:controller} or the {processor|index:processor} of an alleged infringement of this {Regulation|index:regulation};
         index:
-        - regulation
         - processor
+        - regulation
         - controller
       e:
         content: |-
           to obtain, from the {controller|index:controller} and the {processor|index:processor}, access to all {personal data|index:personal-data} and to all information necessary for the performance of its tasks;
         index:
-        - personal-data
         - processor
+        - personal-data
         - controller
       f:
         content: |-
           to obtain access to any premises of the {controller|index:controller} and the {processor|index:processor}, including to any data {processing|index:processing} equipment and means, in accordance with Union or Member State procedural law.
         index:
         - processor
-        - controller
         - processing
+        - controller
     preamble: |-
       Each {supervisory authority|index:supervisory-authority} shall have all of the following investigative powers:
   2:
@@ -50,33 +50,33 @@ paragraphs:
         content: |-
           to issue warnings to a {controller|index:controller} or {processor|index:processor} that intended {processing|index:processing} operations are likely to infringe provisions of this {Regulation|index:regulation};
         index:
-        - regulation
         - processor
-        - controller
+        - regulation
         - processing
+        - controller
       b:
         content: |-
           to issue reprimands to a {controller|index:controller} or a {processor|index:processor} where {processing|index:processing} operations have infringed provisions of this {Regulation|index:regulation};
         index:
-        - regulation
         - processor
-        - controller
+        - regulation
         - processing
+        - controller
       c:
         content: |-
           to order the {controller|index:controller} or the {processor|index:processor} to comply with the data subject's requests to exercise his or her rights pursuant to this {Regulation|index:regulation};
         index:
-        - regulation
         - processor
+        - regulation
         - controller
       d:
         content: |-
           to order the {controller|index:controller} or {processor|index:processor} to bring {processing|index:processing} operations into compliance with the provisions of this {Regulation|index:regulation}, where appropriate, in a specified manner and within a specified period;
         index:
-        - regulation
         - processor
-        - controller
+        - regulation
         - processing
+        - controller
       e:
         content: |-
           to order the {controller|index:controller} to communicate a {personal data|index:personal-data} breach to the {data subject|index:data-subject};
@@ -93,8 +93,8 @@ paragraphs:
         content: |-
           to order the rectification or erasure of {personal data|index:personal-data} or {restriction of processing|index:restriction-of-processing} pursuant to Articles 16, 17 and 18 and the notification of such actions to recipients to whom the {personal data|index:personal-data} have been disclosed pursuant to Article 17(2) and Article 19;
         index:
-        - personal-data
         - restriction-of-processing
+        - personal-data
       h:
         content: |-
           to withdraw a certification or to order the certification body to withdraw a certification issued pursuant to Articles 42 and 43, or to order the certification body not to issue certification if the requirements for the certification are not or are no longer met;
@@ -163,8 +163,8 @@ paragraphs:
     content: |-
       Each Member State shall provide by law that its {supervisory authority|index:supervisory-authority} shall have the power to bring infringements of this {Regulation|index:regulation} to the attention of the judicial authorities and where appropriate, to commence or engage otherwise in legal proceedings, in order to enforce the provisions of this {Regulation|index:regulation}.
     index:
-    - regulation
     - supervisory-authority
+    - regulation
     number: 5
   6:
     content: |-

@@ -8,12 +8,12 @@ paragraphs:
     content: |-
       {Processing|index:processing} of {personal data|index:personal-data} revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the {processing|index:processing} of {genetic data|index:genetic-data}, {biometric data|index:biometric-data} for the purpose of uniquely identifying a {natural person|index:natural-person}, {data concerning health|index:data-concerning-health} or data concerning a natural person's sex life or sexual orientation shall be prohibited.
     index:
-    - biometric-data
-    - personal-data
-    - genetic-data
-    - natural-person
     - data-concerning-health
     - processing
+    - biometric-data
+    - natural-person
+    - genetic-data
+    - personal-data
     number: 1
   2:
     number: 2
@@ -22,38 +22,38 @@ paragraphs:
         content: |-
           the {data subject|index:data-subject} has given explicit {consent|index:consent} to the {processing|index:processing} of those {personal data|index:personal-data} for one or more specified purposes, except where Union or Member State law provide that the prohibition referred to in paragraph 1 may not be lifted by the {data subject|index:data-subject};
         index:
-        - personal-data
         - data-subject
         - consent
+        - personal-data
         - processing
       b:
         content: |-
           {processing|index:processing} is necessary for the purposes of carrying out the obligations and exercising specific rights of the {controller|index:controller} or of the {data subject|index:data-subject} in the field of employment and social security and social protection law in so far as it is authorised by Union or Member State law or a collective agreement pursuant to Member State law providing for appropriate safeguards for the fundamental rights and the interests of the {data subject|index:data-subject};
         index:
         - data-subject
-        - controller
         - processing
+        - controller
       c:
         content: |-
           {processing|index:processing} is necessary to protect the vital interests of the {data subject|index:data-subject} or of another {natural person|index:natural-person} where the {data subject|index:data-subject} is physically or legally incapable of giving {consent|index:consent};
         index:
-        - data-subject
         - natural-person
+        - data-subject
         - consent
         - processing
       d:
         content: |-
           {processing|index:processing} is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other not-for-profit body with a political, philosophical, religious or trade union aim and on condition that the {processing|index:processing} relates solely to the members or to former members of the body or to persons who have regular contact with it in connection with its purposes and that the {personal data|index:personal-data} are not disclosed outside that body without the {consent|index:consent} of the data subjects;
         index:
-        - personal-data
         - consent
+        - personal-data
         - processing
       e:
         content: |-
           {processing|index:processing} relates to {personal data|index:personal-data} which are manifestly made public by the {data subject|index:data-subject};
         index:
-        - personal-data
         - data-subject
+        - personal-data
         - processing
       f:
         content: |-
@@ -94,9 +94,9 @@ paragraphs:
     content: |-
       Member States may maintain or introduce further conditions, including limitations, with regard to the {processing|index:processing} of {genetic data|index:genetic-data}, {biometric data|index:biometric-data} or {data concerning health|index:data-concerning-health}.
     index:
+    - data-concerning-health
     - biometric-data
     - genetic-data
-    - data-concerning-health
     - processing
     number: 4
 section: 0

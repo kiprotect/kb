@@ -7,8 +7,8 @@ paragraphs:
       \ Schadenersatz gegen den {Verantwortlichen|index:verantwortlicher} oder gegen\
       \ den {Auftragsverarbeiter|index:auftragsverarbeiter}."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - verordnung
     number: 1
   2:
@@ -22,8 +22,8 @@ paragraphs:
       r die Datenverarbeitung {Verantwortlichen|index:verantwortlicher} oder gegen\
       \ diese Anweisungen gehandelt hat."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - verordnung
     - verarbeitung
     number: 2
@@ -48,8 +48,8 @@ paragraphs:
       \ sichergestellt ist."
     index:
     - verantwortlicher
-    - betroffene-person
     - auftragsverarbeiter
+    - betroffene-person
     - verarbeitung
     number: 4
   5:

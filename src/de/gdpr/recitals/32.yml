@@ -21,8 +21,8 @@ content: "Die {Einwilligung|index:einwilligung} sollte durch eine eindeutige bes
   r den die {Einwilligung|index:einwilligung} gegeben wird, erfolgen."
 index:
 - betroffene-person
-- personenbezogene-daten
 - einwilligung
 - dienst-der-informationsgesellschaft
 - verarbeitung
+- personenbezogene-daten
 number: 32

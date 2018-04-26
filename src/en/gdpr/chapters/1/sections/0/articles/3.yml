@@ -5,19 +5,19 @@ paragraphs:
     content: |-
       This {Regulation|index:regulation} applies to the {processing|index:processing} of {personal data|index:personal-data} in the context of the activities of an establishment of a {controller|index:controller} or a {processor|index:processor} in the Union, regardless of whether the {processing|index:processing} takes place in the Union or not.
     index:
-    - regulation
-    - processor
-    - controller
-    - personal-data
     - processing
+    - processor
+    - personal-data
+    - regulation
+    - controller
     number: 1
   2:
     index:
-    - regulation
-    - processor
-    - controller
-    - personal-data
     - processing
+    - processor
+    - personal-data
+    - regulation
+    - controller
     number: 2
     points:
       a:
@@ -36,8 +36,8 @@ paragraphs:
     index:
     - personal-data
     - regulation
-    - controller
     - processing
+    - controller
     number: 3
 section: 0
 title: Territorial scope

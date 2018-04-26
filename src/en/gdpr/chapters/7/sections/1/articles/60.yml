@@ -72,8 +72,8 @@ paragraphs:
     index:
     - processor
     - supervisory-authority
-    - controller
     - processing
+    - controller
     number: 10
   11:
     content: |-

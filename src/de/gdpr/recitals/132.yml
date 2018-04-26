@@ -5,9 +5,9 @@ content: "Auf die \xD6ffentlichkeit ausgerichtete Sensibilisierungsma\xDFnahmen 
   \ sowie kleiner und mittlerer {Unternehmen|index:unternehmen}, und an {nat\xFCrliche\
   \ Personen|index:nat\xFCrliche-person}, insbesondere im Bildungsbereich, richten."
 index:
-- auftragsverarbeiter
-- unternehmen
 - verantwortlicher
 - "nat\xFCrliche-person"
+- unternehmen
+- auftragsverarbeiter
 - "aufsichtsbeh\xF6rde"
 number: 132

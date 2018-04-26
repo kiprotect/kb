@@ -1,11 +1,11 @@
 content: |-
   The protection of the rights and freedoms of {natural persons|index:natural-person} with regard to the {processing|index:processing} of {personal data|index:personal-data} require that appropriate {technical and organisational measures|index:technical-and-organisational-measures} be taken to ensure that the requirements of this {Regulation|index:regulation} are met. In order to be able to demonstrate compliance with this {Regulation|index:regulation}, the {controller|index:controller} should adopt internal policies and implement measures which meet in particular the principles of data protection by design and data protection by default. Such measures could consist, inter alia, of minimising the {processing|index:processing} of {personal data|index:personal-data}, pseudonymising {personal data|index:personal-data} as soon as possible, transparency with regard to the functions and {processing|index:processing} of {personal data|index:personal-data}, enabling the {data subject|index:data-subject} to monitor the data {processing|index:processing}, enabling the {controller|index:controller} to create and improve security features. When developing, designing, selecting and using applications, services and products that are based on the {processing|index:processing} of {personal data|index:personal-data} or process {personal data|index:personal-data} to fulfil their task, producers of the products, services and applications should be encouraged to take into account the right to data protection when developing and designing such products, services and applications and, with due regard to the state of the art, to make sure that controllers and processors are able to fulfil their data protection obligations. The principles of data protection by design and by default should also be taken into consideration in the context of public tenders.
 index:
+- processing
+- technical-and-organisational-measures
 - data-subject
+- natural-person
+- personal-data
 - regulation
 - controller
-- personal-data
-- technical-and-organisational-measures
-- natural-person
-- processing
 number: 78

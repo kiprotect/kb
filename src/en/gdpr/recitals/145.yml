@@ -1,7 +1,7 @@
 content: |-
   For proceedings against a {controller|index:controller} or {processor|index:processor}, the plaintiff should have the choice to bring the action before the courts of the Member States where the {controller|index:controller} or {processor|index:processor} has an establishment or where the {data subject|index:data-subject} resides, unless the {controller|index:controller} is a public authority of a Member State acting in the exercise of its public powers.
 index:
-- data-subject
 - processor
+- data-subject
 - controller
 number: 145

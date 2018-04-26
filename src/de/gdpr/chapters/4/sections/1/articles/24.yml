@@ -15,11 +15,11 @@ paragraphs:
       \ erfolgt. Diese Ma\xDFnahmen werden erforderlichenfalls \xFCberpr\xFCft und\
       \ aktualisiert."
     index:
-    - verordnung
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - verantwortlicher
-    - "nat\xFCrliche-person"
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verordnung
     - verarbeitung
+    - "nat\xFCrliche-person"
     number: 1
   2:
     content: "Sofern dies in einem angemessenen Verh\xE4ltnis zu den {Verarbeitungst\xE4\
@@ -27,8 +27,8 @@ paragraphs:
       \ gem\xE4\xDF Absatz 1 die Anwendung geeigneter Datenschutzvorkehrungen durch\
       \ den {Verantwortlichen|index:verantwortlicher} umfassen."
     index:
-    - "verarbeitungst\xE4tigkeit"
     - verantwortlicher
+    - "verarbeitungst\xE4tigkeit"
     number: 2
   3:
     content: "Die Einhaltung der genehmigten Verhaltensregeln gem\xE4\xDF Artikel\

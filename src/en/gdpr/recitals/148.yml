@@ -1,9 +1,9 @@
 content: |-
   In order to strengthen the enforcement of the rules of this {Regulation|index:regulation}, penalties including administrative fines should be imposed for any infringement of this {Regulation|index:regulation}, in addition to, or instead of appropriate measures imposed by the {supervisory authority|index:supervisory-authority} pursuant to this {Regulation|index:regulation}. In a case of a minor infringement or if the fine likely to be imposed would constitute a disproportionate burden to a {natural person|index:natural-person}, a reprimand may be issued instead of a fine. Due regard should however be given to the nature, gravity and duration of the infringement, the intentional character of the infringement, actions taken to mitigate the damage suffered, degree of responsibility or any relevant previous infringements, the manner in which the infringement became known to the {supervisory authority|index:supervisory-authority}, compliance with measures ordered against the {controller|index:controller} or {processor|index:processor}, adherence to a code of conduct and any other aggravating or mitigating factor. The imposition of penalties including administrative fines should be subject to appropriate procedural safeguards in accordance with the general principles of Union law and the Charter, including effective judicial protection and due process.
 index:
-- regulation
 - processor
-- controller
-- natural-person
 - supervisory-authority
+- natural-person
+- regulation
+- controller
 number: 148

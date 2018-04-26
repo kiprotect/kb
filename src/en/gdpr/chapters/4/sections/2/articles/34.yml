@@ -8,8 +8,8 @@ paragraphs:
     content: |-
       When the {personal data|index:personal-data} breach is likely to result in a high risk to the rights and freedoms of {natural persons|index:natural-person}, the {controller|index:controller} shall communicate the {personal data|index:personal-data} breach to the {data subject|index:data-subject} without undue delay.
     index:
-    - personal-data
     - natural-person
+    - personal-data
     - data-subject
     - controller
     number: 1
@@ -45,9 +45,9 @@ paragraphs:
     content: |-
       If the {controller|index:controller} has not already communicated the {personal data|index:personal-data} breach to the {data subject|index:data-subject}, the {supervisory authority|index:supervisory-authority}, having considered the likelihood of the {personal data|index:personal-data} breach resulting in a high risk, may require it to do so or may decide that any of the conditions referred to in paragraph 3 are met.
     index:
+    - supervisory-authority
     - personal-data
     - data-subject
-    - supervisory-authority
     - controller
     number: 4
 section: 2

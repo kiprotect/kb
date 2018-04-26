@@ -9,8 +9,8 @@ content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:p
   rdlicher Aufsicht gef\xFChrt werden."
 index:
 - personenbezogene-daten
-- betroffene-person
 - verarbeitung
+- betroffene-person
 number: 10
 section: 0
 title: "{Verarbeitung|index:verarbeitung} von {personenbezogenen Daten|index:personenbezogene-daten}\

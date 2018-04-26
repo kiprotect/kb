@@ -6,9 +6,9 @@ content: "Der durch diese {Verordnung|index:verordnung} gew\xE4hrte Schutz sollt
   \ juristischer Personen und insbesondere als juristische Person gegr\xFCndeter {Unternehmen|index:unternehmen},\
   \ einschlie\xDFlich Name, Rechtsform oder Kontaktdaten der juristischen Person."
 index:
-- verordnung
 - unternehmen
+- verordnung
+- verarbeitung
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- verarbeitung
 number: 14

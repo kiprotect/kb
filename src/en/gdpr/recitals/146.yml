@@ -1,9 +1,9 @@
 content: |-
   The {controller|index:controller} or {processor|index:processor} should compensate any damage which a person may suffer as a result of {processing|index:processing} that infringes this {Regulation|index:regulation}. The {controller|index:controller} or {processor|index:processor} should be exempt from liability if it proves that it is not in any way responsible for the damage. The concept of damage should be broadly interpreted in the light of the case-law of the Court of Justice in a manner which fully reflects the objectives of this {Regulation|index:regulation}. This is without prejudice to any claims for damage deriving from the violation of other rules in Union or Member State law. {Processing|index:processing} that infringes this {Regulation|index:regulation} also includes {processing|index:processing} that infringes delegated and implementing acts adopted in accordance with this {Regulation|index:regulation} and Member State law specifying rules of this {Regulation|index:regulation}. Data subjects should receive full and effective compensation for the damage they have suffered. Where controllers or processors are involved in the same {processing|index:processing}, each {controller|index:controller} or {processor|index:processor} should be held liable for the entire damage. However, where they are joined to the same judicial proceedings, in accordance with Member State law, compensation may be apportioned according to the responsibility of each {controller|index:controller} or {processor|index:processor} for the damage caused by the {processing|index:processing}, provided that full and effective compensation of the {data subject|index:data-subject} who suffered the damage is ensured. Any {controller|index:controller} or {processor|index:processor} which has paid full compensation may subsequently institute recourse proceedings against other controllers or processors involved in the same {processing|index:processing}.
 index:
+- processing
+- processor
 - data-subject
 - regulation
-- processor
 - controller
-- processing
 number: 146

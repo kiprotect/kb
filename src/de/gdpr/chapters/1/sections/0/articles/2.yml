@@ -8,8 +8,8 @@ paragraphs:
       \ Daten|index:personenbezogene-daten}, die in einem {Dateisystem|index:dateisystem}\
       \ gespeichert sind oder gespeichert werden sollen."
     index:
-    - personenbezogene-daten
     - dateisystem
+    - personenbezogene-daten
     - verordnung
     - verarbeitung
     number: 1

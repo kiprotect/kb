@@ -11,9 +11,9 @@ paragraphs:
       \ durchsetzbare Rechte und wirksame Rechtsbehelfe zur Verf\xFCgung stehen."
     index:
     - betroffene-person
+    - verantwortlicher
     - internationale-organisation
     - auftragsverarbeiter
-    - verantwortlicher
     - personenbezogene-daten
     number: 1
   2:
@@ -48,8 +48,8 @@ paragraphs:
           \ die Rechte der {betroffenen Personen|index:betroffene-person}, oder"
         index:
         - verantwortlicher
-        - betroffene-person
         - auftragsverarbeiter
+        - betroffene-person
       f:
         content: "einem genehmigten Zertifizierungsmechanismus gem\xE4\xDF Artikel\
           \ 42 zusammen mit rechtsverbindlichen und durchsetzbaren Verpflichtungen\
@@ -58,8 +58,8 @@ paragraphs:
           lich in Bezug auf die Rechte der {betroffenen Personen|index:betroffene-person}."
         index:
         - verantwortlicher
-        - betroffene-person
         - auftragsverarbeiter
+        - betroffene-person
     preamble: "Die in Absatz 1 genannten geeigneten Garantien k\xF6nnen, ohne dass\
       \ hierzu eine besondere Genehmigung einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
       rde} erforderlich w\xE4re, bestehen in"
@@ -77,8 +77,8 @@ paragraphs:
           \ oder"
         index:
         - verantwortlicher
-        - personenbezogene-daten
         - auftragsverarbeiter
+        - personenbezogene-daten
         - "empf\xE4nger"
       b:
         content: "Bestimmungen, die in Verwaltungsvereinbarungen zwischen Beh\xF6\

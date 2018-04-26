@@ -10,10 +10,10 @@ content: "Diese {Verordnung|index:verordnung} gilt nicht f\xFCr die {Verarbeitun
   r die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
   \ f\xFCr solche pers\xF6nlichen oder famili\xE4ren T\xE4tigkeiten bereitstellen."
 index:
-- auftragsverarbeiter
-- verordnung
 - verantwortlicher
+- verordnung
+- verarbeitung
+- auftragsverarbeiter
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- verarbeitung
 number: 18

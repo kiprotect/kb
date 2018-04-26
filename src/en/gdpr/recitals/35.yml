@@ -1,8 +1,8 @@
 content: |-
   {Personal data|index:personal-data} concerning health should include all data pertaining to the health status of a {data subject|index:data-subject} which reveal information relating to the past, current or future physical or mental health status of the {data subject|index:data-subject}. This includes information about the {natural person|index:natural-person} collected in the course of the registration for, or the provision of, health care services as referred to in Directive 2011/24/EU of the European Parliament and of the Council (9) to that {natural person|index:natural-person}; a number, symbol or particular assigned to a {natural person|index:natural-person} to uniquely identify the {natural person|index:natural-person} for health purposes; information derived from the testing or examination of a body part or bodily substance, including from {genetic data|index:genetic-data} and biological samples; and any information on, for example, a disease, disability, disease risk, medical history, clinical treatment or the physiological or biomedical state of the {data subject|index:data-subject} independent of its source, for example from a physician or other health professional, a hospital, a medical device or an in vitro diagnostic test.
 index:
-- personal-data
-- genetic-data
-- data-subject
 - natural-person
+- genetic-data
+- personal-data
+- data-subject
 number: 35

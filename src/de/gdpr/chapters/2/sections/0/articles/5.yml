@@ -57,8 +57,8 @@ paragraphs:
           \ werden (\u201ESpeicherbegrenzung\u201C);"
         index:
         - personenbezogene-daten
-        - betroffene-person
         - verordnung
+        - betroffene-person
       f:
         content: "in einer Weise verarbeitet werden, die eine angemessene Sicherheit\
           \ der {personenbezogenen Daten|index:personenbezogene-daten} gew\xE4hrleistet,\

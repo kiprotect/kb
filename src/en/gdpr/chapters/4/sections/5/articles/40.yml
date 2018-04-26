@@ -26,8 +26,8 @@ paragraphs:
       d:
         content: the {pseudonymisation|index:pseudonymisation} of {personal data|index:personal-data};
         index:
-        - personal-data
         - pseudonymisation
+        - personal-data
       e:
         content: the information provided to the public and to data subjects;
       f:
@@ -74,8 +74,8 @@ paragraphs:
     content: |-
       Associations and other bodies referred to in paragraph 2 of this Article which intend to prepare a code of conduct or to amend or extend an existing code shall submit the draft code, amendment or extension to the {supervisory authority|index:supervisory-authority} which is competent pursuant to Article 55. The {supervisory authority|index:supervisory-authority} shall provide an opinion on whether the draft code, amendment or extension complies with this {Regulation|index:regulation} and shall approve that draft code, amendment or extension if it finds that it provides sufficient appropriate safeguards.
     index:
-    - regulation
     - supervisory-authority
+    - regulation
     number: 5
   6:
     content: |-
@@ -88,8 +88,8 @@ paragraphs:
     content: |-
       Where a draft code of conduct relates to {processing|index:processing} activities in several Member States, the {supervisory authority|index:supervisory-authority} which is competent pursuant to Article 55 shall, before approving the draft code, amendment or extension, submit it in the procedure referred to in Article 63 to the Board which shall provide an opinion on whether the draft code, amendment or extension complies with this {Regulation|index:regulation} or, in the situation referred to in paragraph 3 of this Article, provides appropriate safeguards.
     index:
-    - regulation
     - supervisory-authority
+    - regulation
     - processing
     number: 7
   8:

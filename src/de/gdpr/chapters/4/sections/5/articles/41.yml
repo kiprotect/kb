@@ -29,8 +29,8 @@ paragraphs:
           \ zu \xFCberwachen und die Anwendung der Verhaltensregeln regelm\xE4\xDF\
           ig zu \xFCberpr\xFCfen;"
         index:
-        - verfahren
         - verantwortlicher
+        - verfahren
         - auftragsverarbeiter
       c:
         content: "{Verfahren|index:verfahren} und Strukturen festgelegt hat, mit denen\
@@ -41,10 +41,10 @@ paragraphs:
           \ f\xFCr {betroffene Personen|index:betroffene-person} und die \xD6ffentlichkeit\
           \ transparent macht, und"
         index:
-        - verfahren
         - verantwortlicher
-        - betroffene-person
+        - verfahren
         - auftragsverarbeiter
+        - betroffene-person
       d:
         content: "zur Zufriedenheit der zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
           rde} nachgewiesen hat, dass ihre Aufgaben und Pflichten nicht zu einem Interessenkonflikt\
@@ -73,8 +73,8 @@ paragraphs:
       rde|index:aufsichtsbeh\xF6rde} \xFCber solche Ma\xDFnahmen und deren Begr\xFC\
       ndung."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
     number: 4
   5:

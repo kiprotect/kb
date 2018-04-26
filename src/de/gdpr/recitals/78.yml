@@ -30,10 +30,10 @@ content: "Zum Schutz der in Bezug auf die {Verarbeitung|index:verarbeitung} {per
   \ werden."
 index:
 - betroffene-person
-- verordnung
-- "technische-und-organisatorische-ma\xDFnahmen"
 - verantwortlicher
+- "technische-und-organisatorische-ma\xDFnahmen"
+- verordnung
+- verarbeitung
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- verarbeitung
 number: 78

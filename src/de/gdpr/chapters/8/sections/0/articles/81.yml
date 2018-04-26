@@ -10,8 +10,8 @@ paragraphs:
       \ Kontakt auf, um sich zu vergewissern, dass ein solches {Verfahren|index:verfahren}\
       \ existiert."
     index:
-    - verfahren
     - verantwortlicher
+    - verfahren
     - auftragsverarbeiter
     - verarbeitung
     number: 1
@@ -23,8 +23,8 @@ paragraphs:
       \ zust\xE4ndige Gericht das bei ihm anh\xE4ngige {Verfahren|index:verfahren}\
       \ aussetzen."
     index:
-    - verfahren
     - verantwortlicher
+    - verfahren
     - auftragsverarbeiter
     - verarbeitung
     number: 2

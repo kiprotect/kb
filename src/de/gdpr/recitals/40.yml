@@ -11,9 +11,9 @@ content: "Damit die {Verarbeitung|index:verarbeitung} rechtm\xE4\xDFig ist, m\xF
   \ der {betroffenen Person|index:betroffene-person} erfolgen, erforderlich ist."
 index:
 - betroffene-person
-- verordnung
 - verantwortlicher
-- personenbezogene-daten
 - einwilligung
+- verordnung
 - verarbeitung
+- personenbezogene-daten
 number: 40

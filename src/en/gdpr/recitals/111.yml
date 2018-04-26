@@ -1,7 +1,7 @@
 content: |-
   Provisions should be made for the possibility for transfers in certain circumstances where the {data subject|index:data-subject} has given his or her explicit {consent|index:consent}, where the transfer is occasional and necessary in relation to a contract or a legal claim, regardless of whether in a judicial procedure or whether in an administrative or any out-of-court procedure, including procedures before regulatory bodies. Provision should also be made for the possibility for transfers where important grounds of public interest laid down by Union or Member State law so require or where the transfer is made from a register established by law and intended for consultation by the public or persons having a legitimate interest. In the latter case, such a transfer should not involve the entirety of the {personal data|index:personal-data} or entire categories of the data contained in the register and, when the register is intended for consultation by persons having a legitimate interest, the transfer should be made only at the request of those persons or, if they are to be the recipients, taking into full account the interests and fundamental rights of the {data subject|index:data-subject}.
 index:
+- consent
 - personal-data
 - data-subject
-- consent
 number: 111

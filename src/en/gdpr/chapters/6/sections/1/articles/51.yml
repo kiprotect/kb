@@ -11,18 +11,18 @@ paragraphs:
       \ of {personal data|index:personal-data} within the Union (\u2018{supervisory\
       \ authority|index:supervisory-authority}\u2019)."
     index:
-    - regulation
-    - personal-data
-    - natural-person
-    - supervisory-authority
     - processing
+    - supervisory-authority
+    - natural-person
+    - personal-data
+    - regulation
     number: 1
   2:
     content: |-
       Each {supervisory authority|index:supervisory-authority} shall contribute to the consistent application of this {Regulation|index:regulation} throughout the Union. For that purpose, the supervisory authorities shall cooperate with each other and the Commission in accordance with Chapter VII.
     index:
-    - regulation
     - supervisory-authority
+    - regulation
     number: 2
   3:
     content: |-

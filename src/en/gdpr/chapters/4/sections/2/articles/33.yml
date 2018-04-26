@@ -1,24 +1,24 @@
 chapter: 4
 index:
-- personal-data
 - supervisory-authority
+- personal-data
 number: 33
 paragraphs:
   1:
     content: |-
       In the case of a {personal data|index:personal-data} breach, the {controller|index:controller} shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the {personal data|index:personal-data} breach to the {supervisory authority|index:supervisory-authority} competent in accordance with Article 55, unless the {personal data|index:personal-data} breach is unlikely to result in a risk to the rights and freedoms of {natural persons|index:natural-person}. Where the notification to the {supervisory authority|index:supervisory-authority} is not made within 72 hours, it shall be accompanied by reasons for the delay.
     index:
-    - personal-data
     - natural-person
     - supervisory-authority
+    - personal-data
     - controller
     number: 1
   2:
     content: |-
       The {processor|index:processor} shall notify the {controller|index:controller} without undue delay after becoming aware of a {personal data|index:personal-data} breach.
     index:
-    - personal-data
     - processor
+    - personal-data
     - controller
     number: 2
   3:
@@ -52,8 +52,8 @@ paragraphs:
     content: |-
       The {controller|index:controller} shall document any {personal data|index:personal-data} breaches, comprising the facts relating to the {personal data|index:personal-data} breach, its effects and the remedial action taken. That documentation shall enable the {supervisory authority|index:supervisory-authority} to verify compliance with this Article.
     index:
-    - personal-data
     - supervisory-authority
+    - personal-data
     - controller
     number: 5
 section: 2

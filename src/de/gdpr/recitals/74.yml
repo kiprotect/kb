@@ -9,10 +9,10 @@ content: "Die Verantwortung und Haftung des {Verantwortlichen|index:verantwortli
   \ f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFCrliche-person}\
   \ ber\xFCcksichtigen."
 index:
-- "verarbeitungst\xE4tigkeit"
-- verordnung
 - verantwortlicher
+- verordnung
+- verarbeitung
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- verarbeitung
+- "verarbeitungst\xE4tigkeit"
 number: 74

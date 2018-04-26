@@ -25,10 +25,10 @@ content: "Damit einer {nat\xFCrlichen Person|index:nat\xFCrliche-person} der gem
   \ beabsichtigt, den Personen in der Union Waren oder Dienstleistungen anzubieten."
 index:
 - betroffene-person
-- verordnung
-- auftragsverarbeiter
 - verantwortlicher
+- verordnung
+- verarbeitung
+- auftragsverarbeiter
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- verarbeitung
 number: 23

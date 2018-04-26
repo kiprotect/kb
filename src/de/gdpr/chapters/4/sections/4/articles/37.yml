@@ -22,8 +22,8 @@ paragraphs:
           \ erforderlich machen, oder"
         index:
         - verantwortlicher
-        - betroffene-person
         - auftragsverarbeiter
+        - betroffene-person
       c:
         content: "die Kernt\xE4tigkeit des {Verantwortlichen|index:verantwortlicher}\
           \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} in der umfangreichen\
@@ -33,8 +33,8 @@ paragraphs:
           \ 10 besteht."
         index:
         - verantwortlicher
-        - personenbezogene-daten
         - auftragsverarbeiter
+        - personenbezogene-daten
         - verarbeitung
     preamble: |-
       Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter} benennen auf jeden Fall einen Datenschutzbeauftragten, wenn
@@ -86,8 +86,8 @@ paragraphs:
       \ ver\xF6ffentlicht die Kontaktdaten des Datenschutzbeauftragten und teilt diese\
       \ Daten der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} mit."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
     number: 7
 section: 4

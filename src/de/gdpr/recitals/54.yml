@@ -19,11 +19,11 @@ content: "Aus Gr\xFCnden des \xF6ffentlichen Interesses in Bereichen der \xF6ffe
   \ verarbeiten."
 index:
 - betroffene-person
-- dritter
-- verordnung
-- personenbezogene-daten
 - gesundheitsdaten
-- "nat\xFCrliche-person"
 - einwilligung
+- verordnung
 - verarbeitung
+- dritter
+- personenbezogene-daten
+- "nat\xFCrliche-person"
 number: 54

@@ -5,10 +5,21 @@
 {%block content%}
 <div class="glossary-definition content">
     <h2 class="title">{{definition.title}}</h2>
-    {% if definition.description is defined or definition['official-description'] is defined %}
-        <p class="description">
-            {{definition.description or definition['official-description']|law_markup(lang)|safe}}
-        </p>
+    {% if definition['official-description'] is defined %}
+        <div class="official-description">
+            <h3>{{'official-definition'|translate}}</h3>
+            <p>
+                {{definition['official-description']|law_markup(lang)|safe}}
+            </p>
+        </div>
+    {% endif %}
+    {% if definition.description is defined %}
+        <div class="official-description">
+            <h3>{{'community-definition'|translate}}</h3>
+            <p>
+                {{definition.description|law_markup(lang)|safe}}
+            </p>
+        </div>
     {% endif %}
 </div>
 

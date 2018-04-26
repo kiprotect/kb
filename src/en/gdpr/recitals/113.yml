@@ -1,10 +1,10 @@
 content: |-
   Transfers which can be qualified as not repetitive and that only concern a limited number of data subjects, could also be possible for the purposes of the compelling legitimate interests pursued by the {controller|index:controller}, when those interests are not overridden by the interests or rights and freedoms of the {data subject|index:data-subject} and when the {controller|index:controller} has assessed all the circumstances surrounding the data transfer. The {controller|index:controller} should give particular consideration to the nature of the {personal data|index:personal-data}, the purpose and duration of the proposed {processing|index:processing} operation or operations, as well as the situation in the country of origin, the third country and the country of final destination, and should provide suitable safeguards to protect fundamental rights and freedoms of {natural persons|index:natural-person} with regard to the {processing|index:processing} of their {personal data|index:personal-data}. Such transfers should be possible only in residual cases where none of the other grounds for transfer are applicable. For scientific or historical research purposes or statistical purposes, the legitimate expectations of society for an increase of knowledge should be taken into consideration. The {controller|index:controller} should inform the {supervisory authority|index:supervisory-authority} and the {data subject|index:data-subject} about the transfer.
 index:
-- data-subject
-- controller
-- personal-data
-- natural-person
-- supervisory-authority
 - processing
+- supervisory-authority
+- data-subject
+- natural-person
+- personal-data
+- controller
 number: 113

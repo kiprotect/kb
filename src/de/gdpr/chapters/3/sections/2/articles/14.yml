@@ -33,8 +33,8 @@ paragraphs:
         content: "gegebenenfalls die {Empf\xE4nger|index:empf\xE4nger} oder Kategorien\
           \ von Empf\xE4ngern der {personenbezogenen Daten|index:personenbezogene-daten};"
         index:
-        - personenbezogene-daten
         - "empf\xE4nger"
+        - personenbezogene-daten
       f:
         content: "gegebenenfalls die Absicht des {Verantwortlichen|index:verantwortlicher},\
           \ die {personenbezogenen Daten|index:personenbezogene-daten} an einen {Empf\xE4\
@@ -46,8 +46,8 @@ paragraphs:
           \ eine Kopie von ihnen zu erhalten, oder wo sie verf\xFCgbar sind."
         index:
         - verantwortlicher
-        - personenbezogene-daten
         - "empf\xE4nger"
+        - personenbezogene-daten
     preamble: |-
       Werden {personenbezogene Daten|index:personenbezogene-daten} nicht bei der {betroffenen Person|index:betroffene-person} erhoben, so teilt der {Verantwortliche|index:verantwortlicher} der {betroffenen Person|index:betroffene-person} Folgendes mit:
   2:
@@ -78,9 +78,9 @@ paragraphs:
           \ gegen die {Verarbeitung|index:verarbeitung} sowie des Rechts auf Daten\xFC\
           bertragbarkeit;"
         index:
+        - verantwortlicher
         - "einschr\xE4nkung-der-verarbeitung"
         - personenbezogene-daten
-        - verantwortlicher
         - verarbeitung
       d:
         content: "wenn die {Verarbeitung|index:verarbeitung} auf Artikel 6 Absatz\
@@ -111,9 +111,9 @@ paragraphs:
           \ Auswirkungen einer derartigen {Verarbeitung|index:verarbeitung} f\xFC\
           r die {betroffene Person|index:betroffene-person}."
         index:
+        - profiling
         - betroffene-person
         - verarbeitung
-        - profiling
     preamble: "Zus\xE4tzlich zu den Informationen gem\xE4\xDF Absatz 1 stellt der\
       \ {Verantwortliche|index:verantwortlicher} der {betroffenen Person|index:betroffene-person}\
       \ die folgenden Informationen zur Verf\xFCgung, die erforderlich sind, um der\

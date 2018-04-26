@@ -34,9 +34,9 @@ content: "Dies sollte insbesondere f\xFCr umfangreiche Verarbeitungsvorg\xE4nge 
   \ sein."
 index:
 - betroffene-person
-- profiling
-- personenbezogene-daten
 - "nat\xFCrliche-person"
-- "aufsichtsbeh\xF6rde"
+- profiling
 - verarbeitung
+- personenbezogene-daten
+- "aufsichtsbeh\xF6rde"
 number: 91

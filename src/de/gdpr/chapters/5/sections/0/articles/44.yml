@@ -13,10 +13,10 @@ content: "Jedwede \xDCbermittlung {personenbezogener Daten|index:personenbezogen
   \ durch diese {Verordnung|index:verordnung} gew\xE4hrleistete Schutzniveau f\xFC\
   r {nat\xFCrliche Personen|index:nat\xFCrliche-person} nicht untergraben wird."
 index:
-- internationale-organisation
-- verordnung
-- auftragsverarbeiter
 - verantwortlicher
+- verordnung
+- internationale-organisation
+- auftragsverarbeiter
 - personenbezogene-daten
 - "nat\xFCrliche-person"
 number: 44

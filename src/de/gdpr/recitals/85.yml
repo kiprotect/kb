@@ -22,9 +22,9 @@ content: "Eine {Verletzung des Schutzes personenbezogener Daten|index:verletzung
   \ ohne unangemessene weitere Verz\xF6gerung bereitgestellt werden."
 index:
 - verletzung-des-schutzes-personenbezogener-daten
-- pseudonymisierung
 - verantwortlicher
-- personenbezogene-daten
 - "nat\xFCrliche-person"
+- pseudonymisierung
+- personenbezogene-daten
 - "aufsichtsbeh\xF6rde"
 number: 85

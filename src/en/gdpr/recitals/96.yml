@@ -1,9 +1,9 @@
 content: |-
   A consultation of the {supervisory authority|index:supervisory-authority} should also take place in the course of the preparation of a legislative or regulatory measure which provides for the {processing|index:processing} of {personal data|index:personal-data}, in order to ensure compliance of the intended {processing|index:processing} with this {Regulation|index:regulation} and in particular to mitigate the risk involved for the {data subject|index:data-subject}.
 index:
-- data-subject
-- regulation
-- personal-data
-- supervisory-authority
 - processing
+- supervisory-authority
+- data-subject
+- personal-data
+- regulation
 number: 96

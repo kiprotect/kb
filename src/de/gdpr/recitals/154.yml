@@ -29,8 +29,8 @@ content: "Diese {Verordnung|index:verordnung} erm\xF6glicht es, dass bei ihrer A
   \ in Bezug auf die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
   \ vereinbar ist."
 index:
-- "nat\xFCrliche-person"
 - personenbezogene-daten
-- verordnung
+- "nat\xFCrliche-person"
 - verarbeitung
+- verordnung
 number: 154

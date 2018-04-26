@@ -3,8 +3,8 @@ content: |-
 index:
 - international-organisation
 - processor
+- natural-person
+- personal-data
 - regulation
 - controller
-- personal-data
-- natural-person
 number: 101

@@ -25,9 +25,9 @@ content: "Each {supervisory authority|index:supervisory-authority} not acting as
   \ {supervisory authority|index:supervisory-authority} should take utmost account\
   \ when preparing its draft decision in that one-stop-shop mechanism."
 index:
-- processor
-- controller
-- personal-data
-- supervisory-authority
 - processing
+- processor
+- supervisory-authority
+- personal-data
+- controller
 number: 127

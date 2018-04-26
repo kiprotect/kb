@@ -1,7 +1,7 @@
 chapter: 2
 index:
-- einwilligung
 - dienst-der-informationsgesellschaft
+- einwilligung
 number: 8
 paragraphs:
   1:
@@ -17,9 +17,9 @@ paragraphs:
       \ zu diesen Zwecken eine niedrigere Altersgrenze vorsehen, die jedoch nicht\
       \ unter dem vollendeten dreizehnten Lebensjahr liegen darf."
     index:
-    - personenbezogene-daten
     - einwilligung
     - dienst-der-informationsgesellschaft
+    - personenbezogene-daten
     - verarbeitung
     number: 1
   2:

@@ -7,9 +7,9 @@ content: "Die Anwendung der {Pseudonymisierung|index:pseudonymisierung} auf {per
   nahmen auszuschlie\xDFen."
 index:
 - betroffene-person
-- auftragsverarbeiter
-- verordnung
-- pseudonymisierung
 - verantwortlicher
+- verordnung
+- auftragsverarbeiter
 - personenbezogene-daten
+- pseudonymisierung
 number: 28

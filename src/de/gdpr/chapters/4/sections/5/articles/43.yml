@@ -60,10 +60,10 @@ paragraphs:
           \ f\xFCr {betroffene Personen|index:betroffene-person} und die \xD6ffentlichkeit\
           \ transparent machen, und"
         index:
-        - verfahren
         - verantwortlicher
-        - betroffene-person
+        - verfahren
         - auftragsverarbeiter
+        - betroffene-person
       e:
         content: "zur Zufriedenheit der zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
           rde} nachgewiesen haben, dass ihre Aufgaben und Pflichten nicht zu einem\
@@ -83,9 +83,9 @@ paragraphs:
       \ und {Verfahren|index:verfahren} der Zertifizierungsstellen beschrieben werden,\
       \ vorgesehen sind."
     index:
+    - verfahren
     - "aufsichtsbeh\xF6rde"
     - verordnung
-    - verfahren
     number: 3
   4:
     content: "Die Zertifizierungsstellen nach Absatz 1 sind unbeschadet der Verantwortung,\
@@ -97,8 +97,8 @@ paragraphs:
       ngert werden, sofern die Zertifizierungsstelle die Anforderungen dieses Artikels\
       \ erf\xFCllt."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
+    - auftragsverarbeiter
     - verordnung
     number: 4
   5:

@@ -7,8 +7,8 @@ content: "Der {Auftragsverarbeiter|index:auftragsverarbeiter} und jede dem {Vera
   \ zur {Verarbeitung|index:verarbeitung} verpflichtet sind."
 index:
 - verantwortlicher
-- personenbezogene-daten
 - auftragsverarbeiter
+- personenbezogene-daten
 - verarbeitung
 number: 29
 section: 1

@@ -9,9 +9,9 @@ content: "Um ein ernsthaftes Risiko einer Umgehung der Vorschriften zu vermeiden
   \ ihre Deckbl\xE4tter, die nicht nach bestimmten Kriterien geordnet sind, sollten\
   \ nicht in den Anwendungsbereich dieser {Verordnung|index:verordnung} fallen."
 index:
+- dateisystem
 - verordnung
+- verarbeitung
 - personenbezogene-daten
 - "nat\xFCrliche-person"
-- dateisystem
-- verarbeitung
 number: 15

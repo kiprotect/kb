@@ -5,11 +5,11 @@ paragraphs:
     content: |-
       This {Regulation|index:regulation} applies to the {processing|index:processing} of {personal data|index:personal-data} wholly or partly by {automated means|index:automated-means} and to the {processing|index:processing} other than by {automated means|index:automated-means} of {personal data|index:personal-data} which form part of a {filing system|index:filing-system} or are intended to form part of a {filing system|index:filing-system}.
     index:
-    - regulation
-    - filing-system
-    - personal-data
     - automated-means
     - processing
+    - filing-system
+    - personal-data
+    - regulation
     number: 1
   2:
     index:

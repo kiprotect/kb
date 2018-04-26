@@ -1,9 +1,9 @@
 content: |-
   Where another {supervisory authority|index:supervisory-authority} should act as a lead {supervisory authority|index:supervisory-authority} for the {processing|index:processing} activities of the {controller|index:controller} or {processor|index:processor} but the concrete subject matter of a complaint or the possible infringement concerns only {processing|index:processing} activities of the {controller|index:controller} or {processor|index:processor} in the Member State where the complaint has been lodged or the possible infringement detected and the matter does not substantially affect or is not likely to substantially affect data subjects in other Member States, the {supervisory authority|index:supervisory-authority} receiving a complaint or detecting or being informed otherwise of situations that entail possible infringements of this {Regulation|index:regulation} should seek an amicable settlement with the {controller|index:controller} and, if this proves unsuccessful, exercise its full range of powers. This should include: specific {processing|index:processing} carried out in the territory of the Member State of the {supervisory authority|index:supervisory-authority} or with regard to data subjects on the territory of that Member State; {processing|index:processing} that is carried out in the context of an offer of goods or services specifically aimed at data subjects in the territory of the Member State of the {supervisory authority|index:supervisory-authority}; or {processing|index:processing} that has to be assessed taking into account relevant legal obligations under Member State law.
 index:
-- regulation
-- processor
-- controller
-- supervisory-authority
 - processing
+- processor
+- supervisory-authority
+- regulation
+- controller
 number: 131

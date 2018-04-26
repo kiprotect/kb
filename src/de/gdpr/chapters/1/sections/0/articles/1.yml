@@ -7,18 +7,18 @@ paragraphs:
       \ {personenbezogener Daten|index:personenbezogene-daten} und zum freien Verkehr\
       \ solcher Daten."
     index:
-    - "nat\xFCrliche-person"
     - personenbezogene-daten
-    - verordnung
+    - "nat\xFCrliche-person"
     - verarbeitung
+    - verordnung
     number: 1
   2:
     content: "Diese {Verordnung|index:verordnung} sch\xFCtzt die Grundrechte und Grundfreiheiten\
       \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person} und insbesondere deren\
       \ Recht auf Schutz {personenbezogener Daten|index:personenbezogene-daten}."
     index:
-    - "nat\xFCrliche-person"
     - personenbezogene-daten
+    - "nat\xFCrliche-person"
     - verordnung
     number: 2
   3:
@@ -27,8 +27,8 @@ paragraphs:
       rliche-person} bei der {Verarbeitung|index:verarbeitung} {personenbezogener\
       \ Daten|index:personenbezogene-daten} weder eingeschr\xE4nkt noch verboten werden."
     index:
-    - "nat\xFCrliche-person"
     - personenbezogene-daten
+    - "nat\xFCrliche-person"
     - verarbeitung
     number: 3
 section: 0

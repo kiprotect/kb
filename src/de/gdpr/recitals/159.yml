@@ -19,7 +19,7 @@ content: "Diese {Verordnung|index:verordnung} sollte auch f\xFCr die {Verarbeitu
   \ Vorschriften dieser {Verordnung|index:verordnung} f\xFCr diese Ma\xDFnahmen gelten."
 index:
 - personenbezogene-daten
-- betroffene-person
 - verordnung
 - verarbeitung
+- betroffene-person
 number: 159

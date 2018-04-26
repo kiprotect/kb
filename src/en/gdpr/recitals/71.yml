@@ -41,12 +41,12 @@ content: "The {data subject|index:data-subject} should have the right not to be 
   \ based on special categories of {personal data|index:personal-data} should be allowed\
   \ only under specific conditions."
 index:
+- processing
+- technical-and-organisational-measures
 - data-subject
 - profiling
-- consent
-- controller
-- personal-data
-- technical-and-organisational-measures
 - natural-person
-- processing
+- consent
+- personal-data
+- controller
 number: 71

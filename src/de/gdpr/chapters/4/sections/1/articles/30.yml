@@ -5,9 +5,9 @@ number: 30
 paragraphs:
   1:
     index:
-    - "verarbeitungst\xE4tigkeit"
     - verantwortlicher
     - vertreter
+    - "verarbeitungst\xE4tigkeit"
     number: 1
     points:
       a:
@@ -31,8 +31,8 @@ paragraphs:
           \ offengelegt werden, einschlie\xDFlich {Empf\xE4nger|index:empf\xE4nger}\
           \ in Drittl\xE4ndern oder internationalen Organisationen;"
         index:
-        - personenbezogene-daten
         - "empf\xE4nger"
+        - personenbezogene-daten
       e:
         content: "gegebenenfalls \xDCbermittlungen von {personenbezogenen Daten|index:personenbezogene-daten}\
           \ an ein Drittland oder an eine {internationale Organisation|index:internationale-organisation},\
@@ -40,8 +40,8 @@ paragraphs:
           \ internationalen Organisation, sowie bei den in Artikel 49 Absatz 1 Unterabsatz\
           \ 2 genannten Daten\xFCbermittlungen die Dokumentierung geeigneter Garantien;"
         index:
-        - personenbezogene-daten
         - internationale-organisation
+        - personenbezogene-daten
       f:
         content: "wenn m\xF6glich, die vorgesehenen Fristen f\xFCr die L\xF6schung\
           \ der verschiedenen Datenkategorien;"
@@ -85,8 +85,8 @@ paragraphs:
           \ internationalen Organisation, sowie bei den in Artikel 49 Absatz 1 Unterabsatz\
           \ 2 genannten Daten\xFCbermittlungen die Dokumentierung geeigneter Garantien;"
         index:
-        - personenbezogene-daten
         - internationale-organisation
+        - personenbezogene-daten
       d:
         content: "wenn m\xF6glich, eine allgemeine Beschreibung der {technischen und\
           \ organisatorischen Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
@@ -108,10 +108,10 @@ paragraphs:
       \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} stellen der {Aufsichtsbeh\xF6\
       rde|index:aufsichtsbeh\xF6rde} das Verzeichnis auf Anfrage zur Verf\xFCgung."
     index:
-    - auftragsverarbeiter
     - verantwortlicher
-    - "aufsichtsbeh\xF6rde"
     - vertreter
+    - auftragsverarbeiter
+    - "aufsichtsbeh\xF6rde"
     number: 4
   5:
     content: "Die in den Abs\xE4tzen 1 und 2 genannten Pflichten gelten nicht f\xFC\
@@ -126,8 +126,8 @@ paragraphs:
     index:
     - unternehmen
     - personenbezogene-daten
-    - betroffene-person
     - verarbeitung
+    - betroffene-person
     number: 5
 section: 1
 title: "Verzeichnis von {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}"

@@ -54,14 +54,14 @@ content: "Die {betroffene Person|index:betroffene-person} sollte das Recht haben
   \ Daten|index:personenbezogene-daten} sollten nur unter bestimmten Bedingungen erlaubt\
   \ sein."
 index:
-- betroffene-person
-- profiling
-- automatisierte-verarbeitung
-- "technische-und-organisatorische-ma\xDFnahmen"
 - verfahren
-- personenbezogene-daten
+- betroffene-person
 - verantwortlicher
-- "nat\xFCrliche-person"
+- profiling
+- "technische-und-organisatorische-ma\xDFnahmen"
 - einwilligung
+- automatisierte-verarbeitung
 - verarbeitung
+- personenbezogene-daten
+- "nat\xFCrliche-person"
 number: 71

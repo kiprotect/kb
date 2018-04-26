@@ -25,8 +25,8 @@ paragraphs:
           \ und"
         index:
         - personenbezogene-daten
-        - betroffene-person
         - verarbeitung
+        - betroffene-person
       c:
         content: "die in Absatz 2 festgelegten Anforderungen erf\xFCllen."
     preamble: "Die zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} genehmigt\
@@ -83,11 +83,11 @@ paragraphs:
           \ Wiedergutmachung und gegebenenfalls Schadenersatz zu erhalten;"
         index:
         - betroffene-person
-        - profiling
         - automatisierte-verarbeitung
-        - verbindliche-interne-datenschutzvorschriften
-        - "aufsichtsbeh\xF6rde"
         - verarbeitung
+        - verbindliche-interne-datenschutzvorschriften
+        - profiling
+        - "aufsichtsbeh\xF6rde"
       f:
         content: "die von dem in einem Mitgliedstaat niedergelassenen {Verantwortlichen|index:verantwortlicher}\
           \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} \xFCbernommene Haftung\
@@ -99,10 +99,10 @@ paragraphs:
           \ wenn er nachweist, dass der Umstand, durch den der Schaden eingetreten\
           \ ist, dem betreffenden Mitglied nicht zur Last gelegt werden kann;"
         index:
-        - unternehmensgruppe
-        - verbindliche-interne-datenschutzvorschriften
         - verantwortlicher
+        - verbindliche-interne-datenschutzvorschriften
         - auftragsverarbeiter
+        - unternehmensgruppe
       g:
         content: "die Art und Weise, wie die {betroffenen Personen|index:betroffene-person}\
           \ \xFCber die Bestimmungen der Artikel 13 und 14 hinaus \xFCber die {verbindlichen\
@@ -143,8 +143,8 @@ paragraphs:
           tigkeit aus\xFCben, mitgeteilt werden und sollten der zust\xE4ndigen {Aufsichtsbeh\xF6\
           rde|index:aufsichtsbeh\xF6rde} auf Anfrage zur Verf\xFCgung gestellt werden;"
         index:
-        - betroffene-person
         - verfahren
+        - betroffene-person
         - unternehmen
         - unternehmensgruppe
         - verbindliche-interne-datenschutzvorschriften
@@ -165,8 +165,8 @@ paragraphs:
           \ Ergebnisse von \xDCberpr\xFCfungen der unter Buchstabe j genannten Ma\xDF\
           nahmen gegen\xFCber der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde};"
         index:
-        - verfahren
         - unternehmen
+        - verfahren
         - "aufsichtsbeh\xF6rde"
         - unternehmensgruppe
       m:
@@ -197,10 +197,10 @@ paragraphs:
       \ festlegen. Diese Durchf\xFChrungsrechtsakte werden gem\xE4\xDF dem Pr\xFC\
       fverfahren nach Artikel 93 Absatz 2 erlassen."
     index:
-    - verfahren
-    - verbindliche-interne-datenschutzvorschriften
     - verantwortlicher
+    - verbindliche-interne-datenschutzvorschriften
     - "aufsichtsbeh\xF6rde"
+    - verfahren
     number: 3
 section: 0
 title: '{Verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}'

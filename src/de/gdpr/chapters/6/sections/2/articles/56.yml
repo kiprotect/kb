@@ -5,19 +5,19 @@ number: 56
 paragraphs:
   1:
     content: "Unbeschadet des Artikels 55 ist die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
-      rde} der {Hauptniederlassung|index:hauptniederlassung} oder der einzigen Niederlassung des {Verantwortlichen|index:verantwortlicher}\
-      \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} gem\xE4\xDF dem\
-      \ {Verfahren|index:verfahren} nach Artikel 60 die zust\xE4ndige federf\xFChrende\
-      \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} f\xFCr die von diesem {Verantwortlichen|index:verantwortlicher}\
-      \ oder diesem {Auftragsverarbeiter|index:auftragsverarbeiter} durchgef\xFChrte\
-      \ grenz\xFCberschreitende {Verarbeitung|index:verarbeitung}."
+      rde} der {Hauptniederlassung|index:hauptniederlassung} oder der einzigen Niederlassung\
+      \ des {Verantwortlichen|index:verantwortlicher} oder des {Auftragsverarbeiters|index:auftragsverarbeiter}\
+      \ gem\xE4\xDF dem {Verfahren|index:verfahren} nach Artikel 60 die zust\xE4ndige\
+      \ federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} f\xFCr die\
+      \ von diesem {Verantwortlichen|index:verantwortlicher} oder diesem {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ durchgef\xFChrte grenz\xFCberschreitende {Verarbeitung|index:verarbeitung}."
     index:
-    - auftragsverarbeiter
     - verfahren
     - verantwortlicher
-    - hauptniederlassung
-    - "aufsichtsbeh\xF6rde"
     - verarbeitung
+    - hauptniederlassung
+    - auftragsverarbeiter
+    - "aufsichtsbeh\xF6rde"
     number: 1
   2:
     content: "Abweichend von Absatz 1 ist jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
@@ -43,10 +43,10 @@ paragraphs:
       \ dessen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} sie unterrichtet hat,\
       \ eine Niederlassung hat oder nicht."
     index:
-    - verfahren
     - verantwortlicher
-    - "aufsichtsbeh\xF6rde"
+    - verfahren
     - auftragsverarbeiter
+    - "aufsichtsbeh\xF6rde"
     number: 3
   4:
     content: "Entscheidet die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
@@ -76,10 +76,10 @@ paragraphs:
       \ von diesem {Verantwortlichen|index:verantwortlicher} oder diesem {Auftragsverarbeiter|index:auftragsverarbeiter}\
       \ durchgef\xFChrten {grenz\xFCberschreitenden Verarbeitung|index:grenz\xFCberschreitende-verarbeitung}."
     index:
-    - "aufsichtsbeh\xF6rde"
     - verantwortlicher
     - "grenz\xFCberschreitende-verarbeitung"
     - auftragsverarbeiter
+    - "aufsichtsbeh\xF6rde"
     number: 6
 section: 2
 title: "Zust\xE4ndigkeit der federf\xFChrenden {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\

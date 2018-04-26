@@ -5,18 +5,18 @@ paragraphs:
     content: |-
       Any person who has suffered material or non-material damage as a result of an infringement of this {Regulation|index:regulation} shall have the right to receive compensation from the {controller|index:controller} or {processor|index:processor} for the damage suffered.
     index:
-    - regulation
     - processor
+    - regulation
     - controller
     number: 1
   2:
     content: |-
       Any {controller|index:controller} involved in {processing|index:processing} shall be liable for the damage caused by {processing|index:processing} which infringes this {Regulation|index:regulation}. A {processor|index:processor} shall be liable for the damage caused by {processing|index:processing} only where it has not complied with obligations of this {Regulation|index:regulation} specifically directed to processors or where it has acted outside or contrary to lawful instructions of the {controller|index:controller}.
     index:
-    - regulation
     - processor
-    - controller
+    - regulation
     - processing
+    - controller
     number: 2
   3:
     content: |-
@@ -29,18 +29,18 @@ paragraphs:
     content: |-
       Where more than one {controller|index:controller} or {processor|index:processor}, or both a {controller|index:controller} and a {processor|index:processor}, are involved in the same {processing|index:processing} and where they are, under paragraphs 2 and 3, responsible for any damage caused by {processing|index:processing}, each {controller|index:controller} or {processor|index:processor} shall be held liable for the entire damage in order to ensure effective compensation of the {data subject|index:data-subject}.
     index:
-    - data-subject
     - processor
-    - controller
+    - data-subject
     - processing
+    - controller
     number: 4
   5:
     content: |-
       Where a {controller|index:controller} or {processor|index:processor} has, in accordance with paragraph 4, paid full compensation for the damage suffered, that {controller|index:controller} or {processor|index:processor} shall be entitled to claim back from the other controllers or processors involved in the same {processing|index:processing} that part of the compensation corresponding to their part of responsibility for the damage, in accordance with the conditions set out in paragraph 2.
     index:
     - processor
-    - controller
     - processing
+    - controller
     number: 5
   6:
     content: |-

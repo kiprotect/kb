@@ -12,9 +12,9 @@ paragraphs:
     index:
     - betroffene-person
     - verantwortlicher
-    - personenbezogene-daten
     - einwilligung
     - verarbeitung
+    - personenbezogene-daten
     number: 1
   2:
     content: "Erfolgt die {Einwilligung|index:einwilligung} der {betroffenen Person|index:betroffene-person}\
@@ -25,8 +25,8 @@ paragraphs:
       \ Erkl\xE4rung sind dann nicht verbindlich, wenn sie einen Versto\xDF gegen\
       \ diese {Verordnung|index:verordnung} darstellen."
     index:
-    - betroffene-person
     - einwilligung
+    - betroffene-person
     - verordnung
     number: 2
   3:
@@ -39,8 +39,8 @@ paragraphs:
       \ Der Widerruf der {Einwilligung|index:einwilligung} muss so einfach wie die\
       \ Erteilung der {Einwilligung|index:einwilligung} sein."
     index:
-    - betroffene-person
     - einwilligung
+    - betroffene-person
     - verarbeitung
     number: 3
   4:
@@ -52,8 +52,8 @@ paragraphs:
       \ abh\xE4ngig ist, die f\xFCr die Erf\xFCllung des Vertrags nicht erforderlich\
       \ sind."
     index:
-    - personenbezogene-daten
     - einwilligung
+    - personenbezogene-daten
     - verarbeitung
     number: 4
 section: 0

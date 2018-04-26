@@ -29,9 +29,9 @@ content: "Eine {betroffene Person|index:betroffene-person} sollte ein Auskunftsr
   \ ihr Auskunftsersuchen bezieht, bevor er ihr Auskunft erteilt."
 index:
 - betroffene-person
-- profiling
-- "empf\xE4nger"
 - verantwortlicher
+- "empf\xE4nger"
 - personenbezogene-daten
 - verarbeitung
+- profiling
 number: 63

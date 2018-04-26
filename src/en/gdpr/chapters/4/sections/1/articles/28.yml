@@ -7,11 +7,11 @@ paragraphs:
     content: |-
       Where {processing|index:processing} is to be carried out on behalf of a {controller|index:controller}, the {controller|index:controller} shall use only processors providing sufficient guarantees to implement appropriate {technical and organisational measures|index:technical-and-organisational-measures} in such a manner that {processing|index:processing} will meet the requirements of this {Regulation|index:regulation} and ensure the protection of the rights of the {data subject|index:data-subject}.
     index:
+    - processing
+    - technical-and-organisational-measures
     - data-subject
     - regulation
     - controller
-    - technical-and-organisational-measures
-    - processing
     number: 1
   2:
     content: |-
@@ -22,10 +22,10 @@ paragraphs:
     number: 2
   3:
     index:
-    - personal-data
     - processor
-    - controller
+    - personal-data
     - processing
+    - controller
     number: 3
     points:
       a:
@@ -33,10 +33,10 @@ paragraphs:
           processes the {personal data|index:personal-data} only on documented instructions from the {controller|index:controller}, including with regard to transfers of {personal data|index:personal-data} to a third country or an {international organisation|index:international-organisation}, unless required to do so by Union or Member State law to which the {processor|index:processor} is subject; in such a case, the {processor|index:processor} shall inform the {controller|index:controller} of that legal requirement before {processing|index:processing}, unless that law prohibits such information on important grounds of public interest;
         index:
         - international-organisation
-        - processor
-        - controller
-        - personal-data
         - processing
+        - processor
+        - personal-data
+        - controller
       b:
         content: |-
           ensures that persons authorised to process the {personal data|index:personal-data} have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality;
@@ -54,28 +54,28 @@ paragraphs:
           taking into account the nature of the {processing|index:processing}, assists the {controller|index:controller} by appropriate {technical and organisational measures|index:technical-and-organisational-measures}, insofar as this is possible, for the fulfilment of the controller's obligation to respond to requests for exercising the data subject's rights laid down in Chapter III;
         index:
         - technical-and-organisational-measures
-        - controller
         - processing
+        - controller
       f:
         content: |-
           assists the {controller|index:controller} in ensuring compliance with the obligations pursuant to Articles 32 to 36 taking into account the nature of {processing|index:processing} and the information available to the {processor|index:processor};
         index:
         - processor
-        - controller
         - processing
+        - controller
       g:
         content: |-
           at the choice of the {controller|index:controller}, deletes or returns all the {personal data|index:personal-data} to the {controller|index:controller} after the end of the provision of services relating to {processing|index:processing}, and deletes existing copies unless Union or Member State law requires storage of the {personal data|index:personal-data};
         index:
         - personal-data
-        - controller
         - processing
+        - controller
       h:
         content: |-
           makes available to the {controller|index:controller} all information necessary to demonstrate compliance with the obligations laid down in this Article and allow for and contribute to audits, including inspections, conducted by the {controller|index:controller} or another auditor mandated by the {controller|index:controller}. With regard to point (h) of the first subparagraph, the {processor|index:processor} shall immediately inform the {controller|index:controller} if, in its opinion, an instruction infringes this {Regulation|index:regulation} or other Union or Member State data protection provisions.
         index:
-        - regulation
         - processor
+        - regulation
         - controller
     preamble: |-
       {Processing|index:processing} by a {processor|index:processor} shall be governed by a contract or other legal act under Union or Member State law, that is binding on the {processor|index:processor} with regard to the {controller|index:controller} and that sets out the subject-matter and duration of the {processing|index:processing}, the nature and purpose of the {processing|index:processing}, the type of {personal data|index:personal-data} and categories of data subjects and the obligations and rights of the {controller|index:controller}. That contract or other legal act shall stipulate, in particular, that the processor:
@@ -83,11 +83,11 @@ paragraphs:
     content: |-
       Where a {processor|index:processor} engages another {processor|index:processor} for carrying out specific {processing|index:processing} activities on behalf of the {controller|index:controller}, the same data protection obligations as set out in the contract or other legal act between the {controller|index:controller} and the {processor|index:processor} as referred to in paragraph 3 shall be imposed on that other {processor|index:processor} by way of a contract or other legal act under Union or Member State law, in particular providing sufficient guarantees to implement appropriate {technical and organisational measures|index:technical-and-organisational-measures} in such a manner that the {processing|index:processing} will meet the requirements of this {Regulation|index:regulation}. Where that other {processor|index:processor} fails to fulfil its data protection obligations, the initial {processor|index:processor} shall remain fully liable to the {controller|index:controller} for the performance of that other processor's obligations.
     index:
-    - regulation
-    - processor
-    - controller
-    - technical-and-organisational-measures
     - processing
+    - processor
+    - technical-and-organisational-measures
+    - regulation
+    - controller
     number: 4
   5:
     content: |-
@@ -120,10 +120,10 @@ paragraphs:
     content: |-
       Without prejudice to Articles 82, 83 and 84, if a {processor|index:processor} infringes this {Regulation|index:regulation} by determining the purposes and means of {processing|index:processing}, the {processor|index:processor} shall be considered to be a {controller|index:controller} in respect of that {processing|index:processing}.
     index:
-    - regulation
     - processor
-    - controller
+    - regulation
     - processing
+    - controller
     number: 10
 section: 1
 title: '{Processor|index:processor}'
