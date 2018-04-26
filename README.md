@@ -1,5 +1,7 @@
 [Deutsche Version](README-DE.md)
 
+[![Build Status](https://travis-ci.org/DPKit/gdpr-portal.svg?branch=master)](https://travis-ci.org/DPKit/gdpr-portal)
+
 # Introduction
 
 Welcome! This is a community-created information portal about the European
