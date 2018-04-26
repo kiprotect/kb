@@ -51,10 +51,10 @@ content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:p
   \ mit einer rechtlichen, beruflichen oder sonstigen verbindlichen Pflicht zur Geheimhaltung\
   \ unvereinbar ist."
 index:
-- betroffene-person
-- verantwortlicher
-- einwilligung
 - verordnung
 - verarbeitung
+- einwilligung
+- verantwortlicher
+- betroffene-person
 - personenbezogene-daten
 number: 50

@@ -13,10 +13,10 @@ paragraphs:
       \ aufzubewahren, einzuholen oder zu verarbeiten, um die {betroffene Person|index:betroffene-person}\
       \ zu identifizieren."
     index:
-    - verantwortlicher
-    - personenbezogene-daten
-    - verordnung
     - betroffene-person
+    - verordnung
+    - personenbezogene-daten
+    - verantwortlicher
     number: 1
   2:
     content: "Kann der {Verantwortliche|index:verantwortlicher} in F\xE4llen gem\xE4\
@@ -28,8 +28,8 @@ paragraphs:
       \ zur Aus\xFCbung ihrer in diesen Artikeln niedergelegten Rechte zus\xE4tzliche\
       \ Informationen bereit, die ihre Identifizierung erm\xF6glichen."
     index:
-    - verantwortlicher
     - betroffene-person
+    - verantwortlicher
     number: 2
 section: 0
 title: "{Verarbeitung|index:verarbeitung}, f\xFCr die eine Identifizierung der {betroffenen\

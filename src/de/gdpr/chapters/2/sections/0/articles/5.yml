@@ -1,7 +1,7 @@
 chapter: 2
 index:
-- personenbezogene-daten
 - verarbeitung
+- personenbezogene-daten
 number: 5
 paragraphs:
   1:
@@ -40,8 +40,8 @@ paragraphs:
           \ {Verarbeitung|index:verarbeitung} unrichtig sind, unverz\xFCglich gel\xF6\
           scht oder berichtigt werden (\u201ERichtigkeit\u201C);"
         index:
-        - personenbezogene-daten
         - verarbeitung
+        - personenbezogene-daten
       e:
         content: "in einer Form gespeichert werden, die die Identifizierung der {betroffenen\
           \ Personen|index:betroffene-person} nur so lange erm\xF6glicht, wie es f\xFC\
@@ -56,9 +56,9 @@ paragraphs:
           \ oder f\xFCr statistische Zwecke gem\xE4\xDF Artikel 89 Absatz 1 verarbeitet\
           \ werden (\u201ESpeicherbegrenzung\u201C);"
         index:
-        - personenbezogene-daten
-        - verordnung
         - betroffene-person
+        - verordnung
+        - personenbezogene-daten
       f:
         content: "in einer Weise verarbeitet werden, die eine angemessene Sicherheit\
           \ der {personenbezogenen Daten|index:personenbezogene-daten} gew\xE4hrleistet,\
@@ -68,9 +68,9 @@ paragraphs:
           \ Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDFnahmen} (\u201E\
           Integrit\xE4t und Vertraulichkeit\u201C);"
         index:
-        - "technische-und-organisatorische-ma\xDFnahmen"
-        - personenbezogene-daten
         - verarbeitung
+        - personenbezogene-daten
+        - "technische-und-organisatorische-ma\xDFnahmen"
     preamble: "{Personenbezogene Daten|index:personenbezogene-daten} m\xFCssen"
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} ist f\xFCr die Einhaltung\

@@ -6,10 +6,10 @@ content: "Die Anwendung der {Pseudonymisierung|index:pseudonymisierung} auf {per
   \ in dieser {Verordnung|index:verordnung} ist nicht beabsichtigt, andere Datenschutzma\xDF\
   nahmen auszuschlie\xDFen."
 index:
-- betroffene-person
-- verantwortlicher
 - verordnung
+- verantwortlicher
 - auftragsverarbeiter
-- personenbezogene-daten
 - pseudonymisierung
+- betroffene-person
+- personenbezogene-daten
 number: 28

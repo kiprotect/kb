@@ -12,7 +12,7 @@ content: "Die Kommission kann feststellen, dass ein Drittland, ein Gebiet oder e
   \ Organisation fr\xFChzeitig die Gr\xFCnde mitteilen und Konsultationen aufnehmen,\
   \ um Abhilfe f\xFCr die Situation zu schaffen."
 index:
-- internationale-organisation
-- personenbezogene-daten
 - verordnung
+- personenbezogene-daten
+- internationale-organisation
 number: 107

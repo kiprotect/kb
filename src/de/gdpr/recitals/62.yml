@@ -10,6 +10,6 @@ content: "Die Pflicht, Informationen zur Verf\xFCgung zu stellen, er\xFCbrigt si
   \ Personen|index:betroffene-person}, das Alter der Daten oder etwaige geeignete\
   \ Garantien in Betracht gezogen werden."
 index:
-- personenbezogene-daten
 - betroffene-person
+- personenbezogene-daten
 number: 62

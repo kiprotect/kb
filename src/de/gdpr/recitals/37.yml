@@ -10,8 +10,8 @@ content: "Eine {Unternehmensgruppe|index:unternehmensgruppe} sollte aus einem he
   \ kontrolliert, sollte zusammen mit diesen als eine \u201E{Unternehmensgruppe|index:unternehmensgruppe}\u201C\
   \ betrachtet werden."
 index:
-- unternehmen
-- personenbezogene-daten
 - unternehmensgruppe
 - verarbeitung
+- personenbezogene-daten
+- unternehmen
 number: 37

@@ -15,10 +15,10 @@ content: "The {processing|index:processing} of special categories of {personal d
   \ purposes by third parties such as employers or insurance and banking companies."
 index:
 - data-concerning-health
-- processing
-- data-subject
-- natural-person
-- consent
-- personal-data
 - regulation
+- data-subject
+- personal-data
+- processing
+- consent
+- natural-person
 number: 54

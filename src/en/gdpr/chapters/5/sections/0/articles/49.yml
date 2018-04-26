@@ -3,25 +3,33 @@ number: 49
 paragraphs:
   1:
     index:
-    - international-organisation
-    - personal-data
     - binding-corporate-rules
+    - personal-data
+    - international-organisation
     number: 1
     points:
       a:
-        content: |-
-          the {data subject|index:data-subject} has explicitly consented to the proposed transfer, after having been informed of the possible risks of such transfers for the {data subject|index:data-subject} due to the absence of an adequacy decision and appropriate safeguards;
+        content: >-
+          the {data subject|index:data-subject} has explicitly consented to the proposed
+          transfer, after having been informed of the possible risks of such transfers
+          for the {data subject|index:data-subject} due to the absence of an adequacy
+          decision and appropriate safeguards;
         index:
         - data-subject
       b:
-        content: |-
-          the transfer is necessary for the performance of a contract between the {data subject|index:data-subject} and the {controller|index:controller} or the implementation of pre-contractual measures taken at the data subject's request;
+        content: >-
+          the transfer is necessary for the performance of a contract between the
+          {data subject|index:data-subject} and the {controller|index:controller}
+          or the implementation of pre-contractual measures taken at the data subject's
+          request;
         index:
         - data-subject
         - controller
       c:
-        content: |-
-          the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the {data subject|index:data-subject} between the {controller|index:controller} and another natural or legal person;
+        content: >-
+          the transfer is necessary for the conclusion or performance of a contract
+          concluded in the interest of the {data subject|index:data-subject} between
+          the {controller|index:controller} and another natural or legal person;
         index:
         - data-subject
         - controller
@@ -31,49 +39,92 @@ paragraphs:
         content: the transfer is necessary for the establishment, exercise or defence
           of legal claims;
       f:
-        content: |-
-          the transfer is necessary in order to protect the vital interests of the {data subject|index:data-subject} or of other persons, where the {data subject|index:data-subject} is physically or legally incapable of giving {consent|index:consent};
+        content: >-
+          the transfer is necessary in order to protect the vital interests of the
+          {data subject|index:data-subject} or of other persons, where the {data subject|index:data-subject}
+          is physically or legally incapable of giving {consent|index:consent};
         index:
-        - consent
         - data-subject
+        - consent
       g:
-        content: |-
-          the transfer is made from a register which according to Union or Member State law is intended to provide information to the public and which is open to consultation either by the public in general or by any person who can demonstrate a legitimate interest, but only to the extent that the conditions laid down by Union or Member State law for consultation are fulfilled in the particular case. Where a transfer could not be based on a provision in Article 45 or 46, including the provisions on {binding corporate rules|index:binding-corporate-rules}, and none of the derogations for a specific situation referred to in the first subparagraph of this paragraph is applicable, a transfer to a third country or an {international organisation|index:international-organisation} may take place only if the transfer is not repetitive, concerns only a limited number of data subjects, is necessary for the purposes of compelling legitimate interests pursued by the {controller|index:controller} which are not overridden by the interests or rights and freedoms of the {data subject|index:data-subject}, and the {controller|index:controller} has assessed all the circumstances surrounding the data transfer and has on the basis of that assessment provided suitable safeguards with regard to the protection of {personal data|index:personal-data}. The {controller|index:controller} shall inform the {supervisory authority|index:supervisory-authority} of the transfer. The {controller|index:controller} shall, in addition to providing the information referred to in Articles 13 and 14, inform the {data subject|index:data-subject} of the transfer and on the compelling legitimate interests pursued.
+        content: >-
+          the transfer is made from a register which according to Union or Member
+          State law is intended to provide information to the public and which is
+          open to consultation either by the public in general or by any person who
+          can demonstrate a legitimate interest, but only to the extent that the conditions
+          laid down by Union or Member State law for consultation are fulfilled in
+          the particular case. Where a transfer could not be based on a provision
+          in Article 45 or 46, including the provisions on {binding corporate rules|index:binding-corporate-rules},
+          and none of the derogations for a specific situation referred to in the
+          first subparagraph of this paragraph is applicable, a transfer to a third
+          country or an {international organisation|index:international-organisation}
+          may take place only if the transfer is not repetitive, concerns only a limited
+          number of data subjects, is necessary for the purposes of compelling legitimate
+          interests pursued by the {controller|index:controller} which are not overridden
+          by the interests or rights and freedoms of the {data subject|index:data-subject},
+          and the {controller|index:controller} has assessed all the circumstances
+          surrounding the data transfer and has on the basis of that assessment provided
+          suitable safeguards with regard to the protection of {personal data|index:personal-data}.
+          The {controller|index:controller} shall inform the {supervisory authority|index:supervisory-authority}
+          of the transfer. The {controller|index:controller} shall, in addition to
+          providing the information referred to in Articles 13 and 14, inform the
+          {data subject|index:data-subject} of the transfer and on the compelling
+          legitimate interests pursued.
         index:
-        - international-organisation
+        - binding-corporate-rules
+        - data-subject
+        - controller
         - supervisory-authority
         - personal-data
-        - data-subject
-        - binding-corporate-rules
-        - controller
-    preamble: |-
-      In the absence of an adequacy decision pursuant to Article 45(3), or of appropriate safeguards pursuant to Article 46, including {binding corporate rules|index:binding-corporate-rules}, a transfer or a set of transfers of {personal data|index:personal-data} to a third country or an {international organisation|index:international-organisation} shall take place only on one of the following conditions:
+        - international-organisation
+    preamble: >-
+      In the absence of an adequacy decision pursuant to Article 45(3), or of appropriate
+      safeguards pursuant to Article 46, including {binding corporate rules|index:binding-corporate-rules},
+      a transfer or a set of transfers of {personal data|index:personal-data} to a
+      third country or an {international organisation|index:international-organisation}
+      shall take place only on one of the following conditions:
   2:
-    content: |-
-      A transfer pursuant to point (g) of the first subparagraph of paragraph 1 shall not involve the entirety of the {personal data|index:personal-data} or entire categories of the {personal data|index:personal-data} contained in the register. Where the register is intended for consultation by persons having a legitimate interest, the transfer shall be made only at the request of those persons or if they are to be the recipients.
+    content: >-
+      A transfer pursuant to point (g) of the first subparagraph of paragraph 1 shall
+      not involve the entirety of the {personal data|index:personal-data} or entire
+      categories of the {personal data|index:personal-data} contained in the register.
+      Where the register is intended for consultation by persons having a legitimate
+      interest, the transfer shall be made only at the request of those persons or
+      if they are to be the recipients.
     index:
     - personal-data
     number: 2
   3:
-    content: |-
-      Points (a), (b) and (c) of the first subparagraph of paragraph 1 and the second subparagraph thereof shall not apply to activities carried out by public authorities in the exercise of their public powers.
+    content: >-
+      Points (a), (b) and (c) of the first subparagraph of paragraph 1 and the second
+      subparagraph thereof shall not apply to activities carried out by public authorities
+      in the exercise of their public powers.
     number: 3
   4:
-    content: |-
-      The public interest referred to in point (d) of the first subparagraph of paragraph 1 shall be recognised in Union law or in the law of the Member State to which the {controller|index:controller} is subject.
+    content: >-
+      The public interest referred to in point (d) of the first subparagraph of paragraph
+      1 shall be recognised in Union law or in the law of the Member State to which
+      the {controller|index:controller} is subject.
     index:
     - controller
     number: 4
   5:
-    content: |-
-      In the absence of an adequacy decision, Union or Member State law may, for important reasons of public interest, expressly set limits to the transfer of specific categories of {personal data|index:personal-data} to a third country or an {international organisation|index:international-organisation}. Member States shall notify such provisions to the Commission.
+    content: >-
+      In the absence of an adequacy decision, Union or Member State law may, for important
+      reasons of public interest, expressly set limits to the transfer of specific
+      categories of {personal data|index:personal-data} to a third country or an {international
+      organisation|index:international-organisation}. Member States shall notify such
+      provisions to the Commission.
     index:
-    - international-organisation
     - personal-data
+    - international-organisation
     number: 5
   6:
-    content: |-
-      The {controller|index:controller} or {processor|index:processor} shall document the assessment as well as the suitable safeguards referred to in the second subparagraph of paragraph 1 of this Article in the records referred to in Article 30.
+    content: >-
+      The {controller|index:controller} or {processor|index:processor} shall document
+      the assessment as well as the suitable safeguards referred to in the second
+      subparagraph of paragraph 1 of this Article in the records referred to in Article
+      30.
     index:
     - processor
     - controller

@@ -9,9 +9,9 @@ content: "Zum Schutz der Rechte und Freiheiten der {betroffenen Personen|index:b
   \ oder ein Verarbeitungsvorgang im Auftrag eines {Verantwortlichen|index:verantwortlicher}\
   \ durchgef\xFChrt wird."
 index:
-- betroffene-person
-- verantwortlicher
 - verordnung
-- auftragsverarbeiter
 - "aufsichtsbeh\xF6rde"
+- verantwortlicher
+- auftragsverarbeiter
+- betroffene-person
 number: 79

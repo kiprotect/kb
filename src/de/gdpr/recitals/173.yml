@@ -11,9 +11,9 @@ content: "Diese {Verordnung|index:verordnung} sollte auf alle Fragen des Schutze
   \ werden, um insbesondere die Koh\xE4renz mit dieser {Verordnung|index:verordnung}\
   \ zu gew\xE4hrleisten \u2014"
 index:
-- verantwortlicher
+- "nat\xFCrliche-person"
 - verordnung
 - verarbeitung
+- verantwortlicher
 - personenbezogene-daten
-- "nat\xFCrliche-person"
 number: 173

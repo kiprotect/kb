@@ -3,8 +3,8 @@ number: 57
 paragraphs:
   1:
     index:
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
     number: 1
     points:
       a:
@@ -33,18 +33,18 @@ paragraphs:
           \ f\xFCr die ihnen aus dieser {Verordnung|index:verordnung} entstehenden\
           \ Pflichten sensibilisieren;"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
         - verordnung
+        - verantwortlicher
       e:
         content: "auf Anfrage jeder {betroffenen Person|index:betroffene-person} Informationen\
           \ \xFCber die Aus\xFCbung ihrer Rechte aufgrund dieser {Verordnung|index:verordnung}\
           \ zur Verf\xFCgung stellen und gegebenenfalls zu diesem Zweck mit den {Aufsichtsbeh\xF6\
           rden|index:aufsichtsbeh\xF6rde} in anderen Mitgliedstaaten zusammenarbeiten;"
         index:
-        - "aufsichtsbeh\xF6rde"
         - betroffene-person
         - verordnung
+        - "aufsichtsbeh\xF6rde"
       f:
         content: "sich mit Beschwerden einer {betroffenen Person|index:betroffene-person}\
           \ oder Beschwerden einer Stelle, einer Organisation oder eines Verbandes\
@@ -62,16 +62,16 @@ paragraphs:
           \ einheitliche Anwendung und Durchsetzung dieser {Verordnung|index:verordnung}\
           \ zu gew\xE4hrleisten;"
         index:
-        - "aufsichtsbeh\xF6rde"
         - verordnung
+        - "aufsichtsbeh\xF6rde"
       h:
         content: "Untersuchungen \xFCber die Anwendung dieser {Verordnung|index:verordnung}\
           \ durchf\xFChren, auch auf der Grundlage von Informationen einer anderen\
           \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} oder einer anderen Beh\xF6\
           rde;"
         index:
-        - "aufsichtsbeh\xF6rde"
         - verordnung
+        - "aufsichtsbeh\xF6rde"
       i:
         content: "ma\xDFgebliche Entwicklungen verfolgen, soweit sie sich auf den\
           \ Schutz {personenbezogener Daten|index:personenbezogene-daten} auswirken,\
@@ -80,8 +80,9 @@ paragraphs:
         index:
         - personenbezogene-daten
       j:
-        content: |-
-          Standardvertragsklauseln im Sinne des Artikels 28 Absatz 8 und des Artikels 46 Absatz 2 Buchstabe d festlegen;
+        content: >-
+          Standardvertragsklauseln im Sinne des Artikels 28 Absatz 8 und des Artikels
+          46 Absatz 2 Buchstabe d festlegen;
       k:
         content: "eine Liste der Verarbeitungsarten erstellen und f\xFChren, f\xFC\
           r die gem\xE4\xDF Artikel 35 Absatz 4 eine Datenschutz-Folgenabsch\xE4tzung\

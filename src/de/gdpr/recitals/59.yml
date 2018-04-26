@@ -11,8 +11,8 @@ content: "Es sollten Modalit\xE4ten festgelegt werden, die einer {betroffenen Pe
   glich, sp\xE4testens aber innerhalb eines Monats zu beantworten und gegebenenfalls\
   \ zu begr\xFCnden, warum er den Antrag ablehnt."
 index:
-- verantwortlicher
-- personenbezogene-daten
-- verordnung
 - betroffene-person
+- verordnung
+- personenbezogene-daten
+- verantwortlicher
 number: 59

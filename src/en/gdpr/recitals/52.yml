@@ -1,5 +1,20 @@
-content: |-
-  Derogating from the prohibition on {processing|index:processing} special categories of {personal data|index:personal-data} should also be allowed when provided for in Union or Member State law and subject to suitable safeguards, so as to protect {personal data|index:personal-data} and other fundamental rights, where it is in the public interest to do so, in particular {processing|index:processing} {personal data|index:personal-data} in the field of employment law, social protection law including pensions and for health security, monitoring and alert purposes, the prevention or control of communicable diseases and other serious threats to health. Such a derogation may be made for health purposes, including public health and the management of health-care services, especially in order to ensure the quality and cost-effectiveness of the procedures used for settling claims for benefits and services in the health insurance system, or for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes. A derogation should also allow the {processing|index:processing} of such {personal data|index:personal-data} where necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+content: >-
+  Derogating from the prohibition on {processing|index:processing} special categories
+  of {personal data|index:personal-data} should also be allowed when provided for
+  in Union or Member State law and subject to suitable safeguards, so as to protect
+  {personal data|index:personal-data} and other fundamental rights, where it is in
+  the public interest to do so, in particular {processing|index:processing} {personal
+  data|index:personal-data} in the field of employment law, social protection law
+  including pensions and for health security, monitoring and alert purposes, the prevention
+  or control of communicable diseases and other serious threats to health. Such a
+  derogation may be made for health purposes, including public health and the management
+  of health-care services, especially in order to ensure the quality and cost-effectiveness
+  of the procedures used for settling claims for benefits and services in the health
+  insurance system, or for archiving purposes in the public interest, scientific or
+  historical research purposes or statistical purposes. A derogation should also allow
+  the {processing|index:processing} of such {personal data|index:personal-data} where
+  necessary for the establishment, exercise or defence of legal claims, whether in
+  court proceedings or in an administrative or out-of-court procedure.
 index:
 - personal-data
 - processing

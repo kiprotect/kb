@@ -13,7 +13,7 @@ content: "Der Grundsatz der Transparenz setzt voraus, dass eine f\xFCr die \xD6f
   \ Informationen und Hinweise in einer dergestalt klaren und einfachen Sprache erfolgen,\
   \ dass ein Kind sie verstehen kann."
 index:
-- personenbezogene-daten
-- verarbeitung
 - betroffene-person
+- verarbeitung
+- personenbezogene-daten
 number: 58

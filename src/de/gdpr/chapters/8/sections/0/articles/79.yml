@@ -1,7 +1,7 @@
 chapter: 8
 index:
-- verantwortlicher
 - auftragsverarbeiter
+- verantwortlicher
 number: 79
 paragraphs:
   1:
@@ -14,11 +14,11 @@ paragraphs:
       \ stehenden {Verarbeitung|index:verarbeitung} ihrer {personenbezogenen Daten|index:personenbezogene-daten}\
       \ verletzt wurden."
     index:
-    - betroffene-person
     - verordnung
-    - verarbeitung
-    - personenbezogene-daten
     - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    - betroffene-person
+    - personenbezogene-daten
     number: 1
   2:
     content: "F\xFCr Klagen gegen einen {Verantwortlichen|index:verantwortlicher}\
@@ -32,10 +32,11 @@ paragraphs:
       \ eines Mitgliedstaats, die in Aus\xFCbung ihrer hoheitlichen Befugnisse t\xE4\
       tig geworden ist."
     index:
-    - verantwortlicher
-    - auftragsverarbeiter
     - betroffene-person
+    - auftragsverarbeiter
+    - verantwortlicher
     number: 2
 section: 0
-title: |-
-  Recht auf wirksamen gerichtlichen Rechtsbehelf gegen {Verantwortliche|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}
+title: >-
+  Recht auf wirksamen gerichtlichen Rechtsbehelf gegen {Verantwortliche|index:verantwortlicher}
+  oder {Auftragsverarbeiter|index:auftragsverarbeiter}

@@ -2,8 +2,9 @@ chapter: 4
 number: 27
 paragraphs:
   1:
-    content: |-
-      Where Article 3(2) applies, the {controller|index:controller} or the {processor|index:processor} shall designate in writing a {representative|index:representative} in the Union.
+    content: >-
+      Where Article 3(2) applies, the {controller|index:controller} or the {processor|index:processor}
+      shall designate in writing a {representative|index:representative} in the Union.
     index:
     - representative
     - processor
@@ -13,36 +14,54 @@ paragraphs:
     number: 2
     points:
       a:
-        content: |-
-          {processing|index:processing} which is occasional, does not include, on a large scale, {processing|index:processing} of special categories of data as referred to in Article 9(1) or {processing|index:processing} of {personal data|index:personal-data} relating to criminal convictions and offences referred to in Article 10, and is unlikely to result in a risk to the rights and freedoms of {natural persons|index:natural-person}, taking into account the nature, context, scope and purposes of the {processing|index:processing}; or
+        content: >-
+          {processing|index:processing} which is occasional, does not include, on
+          a large scale, {processing|index:processing} of special categories of data
+          as referred to in Article 9(1) or {processing|index:processing} of {personal
+          data|index:personal-data} relating to criminal convictions and offences
+          referred to in Article 10, and is unlikely to result in a risk to the rights
+          and freedoms of {natural persons|index:natural-person}, taking into account
+          the nature, context, scope and purposes of the {processing|index:processing};
+          or
         index:
-        - natural-person
         - personal-data
+        - natural-person
         - processing
       b:
         content: a public authority or body.
     preamble: 'The obligation laid down in paragraph 1 of this Article shall not apply
       to:'
   3:
-    content: |-
-      The {representative|index:representative} shall be established in one of the Member States where the data subjects, whose {personal data|index:personal-data} are processed in relation to the offering of goods or services to them, or whose behaviour is monitored, are.
+    content: >-
+      The {representative|index:representative} shall be established in one of the
+      Member States where the data subjects, whose {personal data|index:personal-data}
+      are processed in relation to the offering of goods or services to them, or whose
+      behaviour is monitored, are.
     index:
     - representative
     - personal-data
     number: 3
   4:
-    content: |-
-      The {representative|index:representative} shall be mandated by the {controller|index:controller} or {processor|index:processor} to be addressed in addition to or instead of the {controller|index:controller} or the {processor|index:processor} by, in particular, supervisory authorities and data subjects, on all issues related to {processing|index:processing}, for the purposes of ensuring compliance with this {Regulation|index:regulation}.
+    content: >-
+      The {representative|index:representative} shall be mandated by the {controller|index:controller}
+      or {processor|index:processor} to be addressed in addition to or instead of
+      the {controller|index:controller} or the {processor|index:processor} by, in
+      particular, supervisory authorities and data subjects, on all issues related
+      to {processing|index:processing}, for the purposes of ensuring compliance with
+      this {Regulation|index:regulation}.
     index:
     - representative
-    - processing
-    - processor
     - regulation
+    - processor
+    - processing
     - controller
     number: 4
   5:
-    content: |-
-      The designation of a {representative|index:representative} by the {controller|index:controller} or {processor|index:processor} shall be without prejudice to legal actions which could be initiated against the {controller|index:controller} or the {processor|index:processor} themselves.
+    content: >-
+      The designation of a {representative|index:representative} by the {controller|index:controller}
+      or {processor|index:processor} shall be without prejudice to legal actions which
+      could be initiated against the {controller|index:controller} or the {processor|index:processor}
+      themselves.
     index:
     - representative
     - processor

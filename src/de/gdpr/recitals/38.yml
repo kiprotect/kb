@@ -11,7 +11,7 @@ content: "Kinder verdienen bei ihren {personenbezogenen Daten|index:personenbezo
   ventions- oder Beratungsdiensten, die unmittelbar einem Kind angeboten werden, nicht\
   \ erforderlich sein."
 index:
-- einwilligung
-- personenbezogene-daten
 - verarbeitung
+- personenbezogene-daten
+- einwilligung
 number: 38

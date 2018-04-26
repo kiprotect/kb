@@ -5,7 +5,7 @@ content: "Der {Verantwortliche|index:verantwortlicher} sollte alle vertretbaren 
   \ Daten|index:personenbezogene-daten} nicht allein zu dem Zweck speichern, auf m\xF6\
   gliche Auskunftsersuchen reagieren zu k\xF6nnen."
 index:
-- verantwortlicher
-- personenbezogene-daten
 - betroffene-person
+- personenbezogene-daten
+- verantwortlicher
 number: 64

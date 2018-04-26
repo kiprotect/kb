@@ -18,8 +18,8 @@ content: "Diese {Verordnung|index:verordnung} sollte auch f\xFCr die {Verarbeitu
   \ Interesse der {betroffenen Person|index:betroffene-person}, sollten die allgemeinen\
   \ Vorschriften dieser {Verordnung|index:verordnung} f\xFCr diese Ma\xDFnahmen gelten."
 index:
-- personenbezogene-daten
+- betroffene-person
 - verordnung
 - verarbeitung
-- betroffene-person
+- personenbezogene-daten
 number: 159

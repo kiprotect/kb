@@ -3,8 +3,8 @@ number: 23
 paragraphs:
   1:
     index:
-    - verantwortlicher
     - auftragsverarbeiter
+    - verantwortlicher
     number: 1
     points:
       a:
@@ -35,8 +35,9 @@ paragraphs:
           \ oder zeitweise mit der Aus\xFCbung \xF6ffentlicher Gewalt f\xFCr die unter\
           \ den Buchstaben a bis e und g genannten Zwecke verbunden sind;"
       i:
-        content: |-
-          den Schutz der {betroffenen Person|index:betroffene-person} oder der Rechte und Freiheiten anderer Personen;
+        content: >-
+          den Schutz der {betroffenen Person|index:betroffene-person} oder der Rechte
+          und Freiheiten anderer Personen;
         index:
         - betroffene-person
       j:
@@ -67,8 +68,9 @@ paragraphs:
         content: "die Garantien gegen Missbrauch oder unrechtm\xE4\xDFigen Zugang\
           \ oder unrechtm\xE4\xDFige \xDCbermittlung;"
       e:
-        content: |-
-          die Angaben zu dem {Verantwortlichen|index:verantwortlicher} oder den Kategorien von {Verantwortlichen|index:verantwortlicher},
+        content: >-
+          die Angaben zu dem {Verantwortlichen|index:verantwortlicher} oder den Kategorien
+          von {Verantwortlichen|index:verantwortlicher},
         index:
         - verantwortlicher
       f:

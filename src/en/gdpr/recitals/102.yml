@@ -1,5 +1,12 @@
-content: |-
-  This {Regulation|index:regulation} is without prejudice to international agreements concluded between the Union and third countries regulating the transfer of {personal data|index:personal-data} including appropriate safeguards for the data subjects. Member States may conclude international agreements which involve the transfer of {personal data|index:personal-data} to third countries or international organisations, as far as such agreements do not affect this {Regulation|index:regulation} or any other provisions of Union law and include an appropriate level of protection for the fundamental rights of the data subjects.
+content: >-
+  This {Regulation|index:regulation} is without prejudice to international agreements
+  concluded between the Union and third countries regulating the transfer of {personal
+  data|index:personal-data} including appropriate safeguards for the data subjects.
+  Member States may conclude international agreements which involve the transfer of
+  {personal data|index:personal-data} to third countries or international organisations,
+  as far as such agreements do not affect this {Regulation|index:regulation} or any
+  other provisions of Union law and include an appropriate level of protection for
+  the fundamental rights of the data subjects.
 index:
 - personal-data
 - regulation

@@ -29,14 +29,14 @@ content: "Findet die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|
   \ hat und was einen {ma\xDFgeblichen und begr\xFCndeten Einspruch|index:ma\xDFgeblicher-und-begr\xFC\
   ndeter-einspruch} darstellt."
 index:
-- betroffene-person
-- verantwortlicher
-- "aufsichtsbeh\xF6rde"
-- "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
 - verordnung
 - verarbeitung
-- auftragsverarbeiter
-- personenbezogene-daten
-- hauptniederlassung
+- "aufsichtsbeh\xF6rde"
+- "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
+- verantwortlicher
 - "verarbeitungst\xE4tigkeit"
+- auftragsverarbeiter
+- hauptniederlassung
+- betroffene-person
+- personenbezogene-daten
 number: 124

@@ -8,8 +8,8 @@ paragraphs:
       tzen 5 und 6 in jedem Einzelfall wirksam, verh\xE4ltnism\xE4\xDFig und abschreckend\
       \ ist."
     index:
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
     number: 1
   2:
     number: 2
@@ -31,9 +31,9 @@ paragraphs:
           nahmen zur Minderung des den {betroffenen Personen|index:betroffene-person}\
           \ entstandenen Schadens;"
         index:
-        - verantwortlicher
-        - auftragsverarbeiter
         - betroffene-person
+        - auftragsverarbeiter
+        - verantwortlicher
       d:
         content: "Grad der Verantwortung des {Verantwortlichen|index:verantwortlicher}\
           \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} unter Ber\xFC\
@@ -42,14 +42,14 @@ paragraphs:
           nahmen};"
         index:
         - verantwortlicher
-        - "technische-und-organisatorische-ma\xDFnahmen"
         - auftragsverarbeiter
+        - "technische-und-organisatorische-ma\xDFnahmen"
       e:
         content: "etwaige einschl\xE4gige fr\xFChere Verst\xF6\xDFe des {Verantwortlichen|index:verantwortlicher}\
           \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter};"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
+        - verantwortlicher
       f:
         content: "Umfang der Zusammenarbeit mit der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
           rde}, um dem Versto\xDF abzuhelfen und seine m\xF6glichen nachteiligen Auswirkungen\
@@ -67,20 +67,21 @@ paragraphs:
           \ der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
           \ den Versto\xDF mitgeteilt hat;"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
         - "aufsichtsbeh\xF6rde"
+        - verantwortlicher
       i:
         content: "Einhaltung der nach Artikel 58 Absatz 2 fr\xFCher gegen den f\xFC\
           r den betreffenden {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
           \ in Bezug auf denselben Gegenstand angeordneten Ma\xDFnahmen, wenn solche\
           \ Ma\xDFnahmen angeordnet wurden;"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
+        - verantwortlicher
       j:
-        content: |-
-          Einhaltung von genehmigten Verhaltensregeln nach Artikel 40 oder genehmigten Zertifizierungsverfahren nach Artikel 42 und
+        content: >-
+          Einhaltung von genehmigten Verhaltensregeln nach Artikel 40 oder genehmigten
+          Zertifizierungsverfahren nach Artikel 42 und
         index:
         - verfahren
       k:
@@ -100,9 +101,9 @@ paragraphs:
       \ der Gesamtbetrag der Geldbu\xDFe nicht den Betrag f\xFCr den schwerwiegendsten\
       \ Versto\xDF."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - verordnung
+    - verantwortlicher
     number: 3
   4:
     number: 4
@@ -112,8 +113,8 @@ paragraphs:
           \ der {Auftragsverarbeiter|index:auftragsverarbeiter} gem\xE4\xDF den Artikeln\
           \ 8, 11, 25 bis 39, 42 und 43;"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
+        - verantwortlicher
       b:
         content: "die Pflichten der Zertifizierungsstelle gem\xE4\xDF den Artikeln\
           \ 42 und 43;"
@@ -133,8 +134,8 @@ paragraphs:
           \ einschlie\xDFlich der Bedingungen f\xFCr die {Einwilligung|index:einwilligung},\
           \ gem\xE4\xDF den Artikeln 5, 6, 7 und 9;"
         index:
-        - einwilligung
         - verarbeitung
+        - einwilligung
       b:
         content: "die Rechte der {betroffenen Person|index:betroffene-person} gem\xE4\
           \xDF den Artikeln 12 bis 22;"
@@ -146,9 +147,9 @@ paragraphs:
           \ eine {internationale Organisation|index:internationale-organisation} gem\xE4\
           \xDF den Artikeln 44 bis 49;"
         index:
+        - personenbezogene-daten
         - internationale-organisation
         - "empf\xE4nger"
-        - personenbezogene-daten
       d:
         content: "alle Pflichten gem\xE4\xDF den Rechtsvorschriften der Mitgliedstaaten,\
           \ die im Rahmen des Kapitels IX erlassen wurden;"

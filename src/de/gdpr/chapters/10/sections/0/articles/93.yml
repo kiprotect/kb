@@ -10,14 +10,16 @@ paragraphs:
     - verordnung
     number: 1
   2:
-    content: |-
-      Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der {Verordnung|index:verordnung} (EU) Nr. 182/2011.
+    content: >-
+      Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der {Verordnung|index:verordnung}
+      (EU) Nr. 182/2011.
     index:
     - verordnung
     number: 2
   3:
-    content: |-
-      Wird auf diesen Absatz Bezug genommen, so gilt Artikel 8 der {Verordnung|index:verordnung} (EU) Nr. 182/2011 in Verbindung mit deren Artikel 5.
+    content: >-
+      Wird auf diesen Absatz Bezug genommen, so gilt Artikel 8 der {Verordnung|index:verordnung}
+      (EU) Nr. 182/2011 in Verbindung mit deren Artikel 5.
     index:
     - verordnung
     number: 3

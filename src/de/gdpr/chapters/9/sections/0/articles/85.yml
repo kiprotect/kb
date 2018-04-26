@@ -11,9 +11,9 @@ paragraphs:
       \ zu journalistischen Zwecken und zu wissenschaftlichen, k\xFCnstlerischen oder\
       \ literarischen Zwecken, in Einklang."
     index:
-    - personenbezogene-daten
     - verordnung
     - verarbeitung
+    - personenbezogene-daten
     number: 1
   2:
     content: "F\xFCr die {Verarbeitung|index:verarbeitung}, die zu journalistischen\
@@ -29,9 +29,9 @@ paragraphs:
       \ mit der Freiheit der Meinungs\xE4u\xDFerung und der Informationsfreiheit in\
       \ Einklang zu bringen."
     index:
-    - verantwortlicher
-    - personenbezogene-daten
     - verarbeitung
+    - personenbezogene-daten
+    - verantwortlicher
     number: 2
   3:
     content: "Jeder Mitgliedstaat teilt der Kommission die Rechtsvorschriften, die\

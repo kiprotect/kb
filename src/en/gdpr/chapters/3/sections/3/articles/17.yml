@@ -3,26 +3,33 @@ number: 17
 paragraphs:
   1:
     index:
-    - personal-data
     - data-subject
+    - personal-data
     - controller
     number: 1
     points:
       a:
-        content: |-
-          the {personal data|index:personal-data} are no longer necessary in relation to the purposes for which they were collected or otherwise processed;
+        content: >-
+          the {personal data|index:personal-data} are no longer necessary in relation
+          to the purposes for which they were collected or otherwise processed;
         index:
         - personal-data
       b:
-        content: |-
-          the {data subject|index:data-subject} withdraws {consent|index:consent} on which the {processing|index:processing} is based according to point (a) of Article 6(1), or point (a) of Article 9(2), and where there is no other legal ground for the {processing|index:processing};
+        content: >-
+          the {data subject|index:data-subject} withdraws {consent|index:consent}
+          on which the {processing|index:processing} is based according to point (a)
+          of Article 6(1), or point (a) of Article 9(2), and where there is no other
+          legal ground for the {processing|index:processing};
         index:
         - data-subject
         - consent
         - processing
       c:
-        content: |-
-          the {data subject|index:data-subject} objects to the {processing|index:processing} pursuant to Article 21(1) and there are no overriding legitimate grounds for the {processing|index:processing}, or the {data subject|index:data-subject} objects to the {processing|index:processing} pursuant to Article 21(2);
+        content: >-
+          the {data subject|index:data-subject} objects to the {processing|index:processing}
+          pursuant to Article 21(1) and there are no overriding legitimate grounds
+          for the {processing|index:processing}, or the {data subject|index:data-subject}
+          objects to the {processing|index:processing} pursuant to Article 21(2);
         index:
         - data-subject
         - processing
@@ -31,26 +38,40 @@ paragraphs:
         index:
         - personal-data
       e:
-        content: |-
-          the {personal data|index:personal-data} have to be erased for compliance with a legal obligation in Union or Member State law to which the {controller|index:controller} is subject;
+        content: >-
+          the {personal data|index:personal-data} have to be erased for compliance
+          with a legal obligation in Union or Member State law to which the {controller|index:controller}
+          is subject;
         index:
         - personal-data
         - controller
       f:
-        content: |-
-          the {personal data|index:personal-data} have been collected in relation to the offer of information society services referred to in Article 8(1).
+        content: >-
+          the {personal data|index:personal-data} have been collected in relation
+          to the offer of information society services referred to in Article 8(1).
         index:
         - personal-data
-    preamble: |-
-      The {data subject|index:data-subject} shall have the right to obtain from the {controller|index:controller} the erasure of {personal data|index:personal-data} concerning him or her without undue delay and the {controller|index:controller} shall have the obligation to erase {personal data|index:personal-data} without undue delay where one of the following grounds applies:
+    preamble: >-
+      The {data subject|index:data-subject} shall have the right to obtain from the
+      {controller|index:controller} the erasure of {personal data|index:personal-data}
+      concerning him or her without undue delay and the {controller|index:controller}
+      shall have the obligation to erase {personal data|index:personal-data} without
+      undue delay where one of the following grounds applies:
   2:
-    content: |-
-      Where the {controller|index:controller} has made the {personal data|index:personal-data} public and is obliged pursuant to paragraph 1 to erase the {personal data|index:personal-data}, the {controller|index:controller}, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform controllers which are {processing|index:processing} the {personal data|index:personal-data} that the {data subject|index:data-subject} has requested the erasure by such controllers of any links to, or copy or replication of, those {personal data|index:personal-data}.
+    content: >-
+      Where the {controller|index:controller} has made the {personal data|index:personal-data}
+      public and is obliged pursuant to paragraph 1 to erase the {personal data|index:personal-data},
+      the {controller|index:controller}, taking account of available technology and
+      the cost of implementation, shall take reasonable steps, including technical
+      measures, to inform controllers which are {processing|index:processing} the
+      {personal data|index:personal-data} that the {data subject|index:data-subject}
+      has requested the erasure by such controllers of any links to, or copy or replication
+      of, those {personal data|index:personal-data}.
     index:
     - data-subject
     - personal-data
-    - processing
     - controller
+    - processing
     number: 2
   3:
     index:
@@ -60,17 +81,25 @@ paragraphs:
       a:
         content: for exercising the right of freedom of expression and information;
       b:
-        content: |-
-          for compliance with a legal obligation which requires {processing|index:processing} by Union or Member State law to which the {controller|index:controller} is subject or for the performance of a task carried out in the public interest or in the exercise of official authority vested in the {controller|index:controller};
+        content: >-
+          for compliance with a legal obligation which requires {processing|index:processing}
+          by Union or Member State law to which the {controller|index:controller}
+          is subject or for the performance of a task carried out in the public interest
+          or in the exercise of official authority vested in the {controller|index:controller};
         index:
-        - processing
         - controller
+        - processing
       c:
-        content: |-
-          for reasons of public interest in the area of public health in accordance with points (h) and (i) of Article 9(2) as well as Article 9(3);
+        content: >-
+          for reasons of public interest in the area of public health in accordance
+          with points (h) and (i) of Article 9(2) as well as Article 9(3);
       d:
-        content: |-
-          for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) in so far as the right referred to in paragraph 1 is likely to render impossible or seriously impair the achievement of the objectives of that {processing|index:processing}; or
+        content: >-
+          for archiving purposes in the public interest, scientific or historical
+          research purposes or statistical purposes in accordance with Article 89(1)
+          in so far as the right referred to in paragraph 1 is likely to render impossible
+          or seriously impair the achievement of the objectives of that {processing|index:processing};
+          or
         index:
         - processing
       e:

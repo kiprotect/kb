@@ -2,29 +2,50 @@ chapter: 4
 number: 25
 paragraphs:
   1:
-    content: |-
-      Taking into account the state of the art, the cost of implementation and the nature, scope, context and purposes of {processing|index:processing} as well as the risks of varying likelihood and severity for rights and freedoms of {natural persons|index:natural-person} posed by the {processing|index:processing}, the {controller|index:controller} shall, both at the time of the determination of the means for {processing|index:processing} and at the time of the {processing|index:processing} itself, implement appropriate {technical and organisational measures|index:technical-and-organisational-measures}, such as {pseudonymisation|index:pseudonymisation}, which are designed to implement data-protection principles, such as data minimisation, in an effective manner and to integrate the necessary safeguards into the {processing|index:processing} in order to meet the requirements of this {Regulation|index:regulation} and protect the rights of data subjects.
+    content: >-
+      Taking into account the state of the art, the cost of implementation and the
+      nature, scope, context and purposes of {processing|index:processing} as well
+      as the risks of varying likelihood and severity for rights and freedoms of {natural
+      persons|index:natural-person} posed by the {processing|index:processing}, the
+      {controller|index:controller} shall, both at the time of the determination of
+      the means for {processing|index:processing} and at the time of the {processing|index:processing}
+      itself, implement appropriate {technical and organisational measures|index:technical-and-organisational-measures},
+      such as {pseudonymisation|index:pseudonymisation}, which are designed to implement
+      data-protection principles, such as data minimisation, in an effective manner
+      and to integrate the necessary safeguards into the {processing|index:processing}
+      in order to meet the requirements of this {Regulation|index:regulation} and
+      protect the rights of data subjects.
     index:
-    - processing
-    - natural-person
+    - regulation
     - technical-and-organisational-measures
     - pseudonymisation
-    - regulation
+    - processing
     - controller
+    - natural-person
     number: 1
   2:
-    content: |-
-      The {controller|index:controller} shall implement appropriate {technical and organisational measures|index:technical-and-organisational-measures} for ensuring that, by default, only {personal data|index:personal-data} which are necessary for each specific purpose of the {processing|index:processing} are processed. That obligation applies to the amount of {personal data|index:personal-data} collected, the extent of their {processing|index:processing}, the period of their storage and their accessibility. In particular, such measures shall ensure that by default {personal data|index:personal-data} are not made accessible without the individual's intervention to an indefinite number of {natural persons|index:natural-person}.
+    content: >-
+      The {controller|index:controller} shall implement appropriate {technical and
+      organisational measures|index:technical-and-organisational-measures} for ensuring
+      that, by default, only {personal data|index:personal-data} which are necessary
+      for each specific purpose of the {processing|index:processing} are processed.
+      That obligation applies to the amount of {personal data|index:personal-data}
+      collected, the extent of their {processing|index:processing}, the period of
+      their storage and their accessibility. In particular, such measures shall ensure
+      that by default {personal data|index:personal-data} are not made accessible
+      without the individual's intervention to an indefinite number of {natural persons|index:natural-person}.
     index:
+    - personal-data
     - processing
     - technical-and-organisational-measures
-    - natural-person
-    - personal-data
     - controller
+    - natural-person
     number: 2
   3:
-    content: |-
-      An approved certification mechanism pursuant to Article 42 may be used as an element to demonstrate compliance with the requirements set out in paragraphs 1 and 2 of this Article.
+    content: >-
+      An approved certification mechanism pursuant to Article 42 may be used as an
+      element to demonstrate compliance with the requirements set out in paragraphs
+      1 and 2 of this Article.
     number: 3
 section: 1
 title: Data protection by design and by default

@@ -29,11 +29,11 @@ content: "Damit in der Union ein gleichm\xE4\xDFiges Datenschutzniveau f\xFCr {n
   gebend sein."
 index:
 - "nat\xFCrliche-person"
-- verantwortlicher
-- unternehmen
 - verordnung
-- verarbeitung
-- auftragsverarbeiter
-- personenbezogene-daten
 - "aufsichtsbeh\xF6rde"
+- verarbeitung
+- verantwortlicher
+- auftragsverarbeiter
+- unternehmen
+- personenbezogene-daten
 number: 13

@@ -11,28 +11,37 @@ paragraphs:
       \ of {personal data|index:personal-data} within the Union (\u2018{supervisory\
       \ authority|index:supervisory-authority}\u2019)."
     index:
-    - processing
-    - supervisory-authority
-    - natural-person
-    - personal-data
     - regulation
+    - supervisory-authority
+    - personal-data
+    - processing
+    - natural-person
     number: 1
   2:
-    content: |-
-      Each {supervisory authority|index:supervisory-authority} shall contribute to the consistent application of this {Regulation|index:regulation} throughout the Union. For that purpose, the supervisory authorities shall cooperate with each other and the Commission in accordance with Chapter VII.
+    content: >-
+      Each {supervisory authority|index:supervisory-authority} shall contribute to
+      the consistent application of this {Regulation|index:regulation} throughout
+      the Union. For that purpose, the supervisory authorities shall cooperate with
+      each other and the Commission in accordance with Chapter VII.
     index:
     - supervisory-authority
     - regulation
     number: 2
   3:
-    content: |-
-      Where more than one {supervisory authority|index:supervisory-authority} is established in a Member State, that Member State shall designate the {supervisory authority|index:supervisory-authority} which is to represent those authorities in the Board and shall set out the mechanism to ensure compliance by the other authorities with the rules relating to the consistency mechanism referred to in Article 63.
+    content: >-
+      Where more than one {supervisory authority|index:supervisory-authority} is established
+      in a Member State, that Member State shall designate the {supervisory authority|index:supervisory-authority}
+      which is to represent those authorities in the Board and shall set out the mechanism
+      to ensure compliance by the other authorities with the rules relating to the
+      consistency mechanism referred to in Article 63.
     index:
     - supervisory-authority
     number: 3
   4:
-    content: |-
-      Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to this Chapter, by 25 May 2018 and, without delay, any subsequent amendment affecting them.
+    content: >-
+      Each Member State shall notify to the Commission the provisions of its law which
+      it adopts pursuant to this Chapter, by 25 May 2018 and, without delay, any subsequent
+      amendment affecting them.
     number: 4
 section: 1
 title: '{Supervisory authority|index:supervisory-authority}'

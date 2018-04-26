@@ -1,7 +1,12 @@
-content: |-
-  This {Regulation|index:regulation} does not apply to issues of protection of fundamental rights and freedoms or the free flow of {personal data|index:personal-data} related to activities which fall outside the scope of Union law, such as activities concerning national security. This {Regulation|index:regulation} does not apply to the {processing|index:processing} of {personal data|index:personal-data} by the Member States when carrying out activities in relation to the common foreign and security policy of the Union.
+content: >-
+  This {Regulation|index:regulation} does not apply to issues of protection of fundamental
+  rights and freedoms or the free flow of {personal data|index:personal-data} related
+  to activities which fall outside the scope of Union law, such as activities concerning
+  national security. This {Regulation|index:regulation} does not apply to the {processing|index:processing}
+  of {personal data|index:personal-data} by the Member States when carrying out activities
+  in relation to the common foreign and security policy of the Union.
 index:
-- personal-data
 - regulation
+- personal-data
 - processing
 number: 16

@@ -5,114 +5,176 @@ number: 47
 paragraphs:
   1:
     index:
-    - supervisory-authority
     - binding-corporate-rules
+    - supervisory-authority
     number: 1
     points:
       a:
-        content: |-
-          are legally binding and apply to and are enforced by every member concerned of the {group of undertakings|index:group-of-undertakings}, or group of enterprises engaged in a joint economic activity, including their employees;
+        content: >-
+          are legally binding and apply to and are enforced by every member concerned
+          of the {group of undertakings|index:group-of-undertakings}, or group of
+          enterprises engaged in a joint economic activity, including their employees;
         index:
         - group-of-undertakings
       b:
-        content: |-
-          expressly confer enforceable rights on data subjects with regard to the {processing|index:processing} of their {personal data|index:personal-data}; and
+        content: >-
+          expressly confer enforceable rights on data subjects with regard to the
+          {processing|index:processing} of their {personal data|index:personal-data};
+          and
         index:
         - personal-data
         - processing
       c:
         content: fulfil the requirements laid down in paragraph 2.
-    preamble: |-
-      The competent {supervisory authority|index:supervisory-authority} shall approve {binding corporate rules|index:binding-corporate-rules} in accordance with the consistency mechanism set out in Article 63, provided that they:
+    preamble: >-
+      The competent {supervisory authority|index:supervisory-authority} shall approve
+      {binding corporate rules|index:binding-corporate-rules} in accordance with the
+      consistency mechanism set out in Article 63, provided that they:
   2:
     index:
     - binding-corporate-rules
     number: 2
     points:
       a:
-        content: |-
-          the structure and contact details of the {group of undertakings|index:group-of-undertakings}, or group of enterprises engaged in a joint economic activity and of each of its members;
+        content: >-
+          the structure and contact details of the {group of undertakings|index:group-of-undertakings},
+          or group of enterprises engaged in a joint economic activity and of each
+          of its members;
         index:
         - group-of-undertakings
       b:
-        content: |-
-          the data transfers or set of transfers, including the categories of {personal data|index:personal-data}, the type of {processing|index:processing} and its purposes, the type of data subjects affected and the identification of the third country or countries in question;
+        content: >-
+          the data transfers or set of transfers, including the categories of {personal
+          data|index:personal-data}, the type of {processing|index:processing} and
+          its purposes, the type of data subjects affected and the identification
+          of the third country or countries in question;
         index:
         - personal-data
         - processing
       c:
         content: their legally binding nature, both internally and externally;
       d:
-        content: |-
-          the application of the general data protection principles, in particular purpose limitation, data minimisation, limited storage periods, data quality, data protection by design and by default, legal basis for {processing|index:processing}, {processing|index:processing} of special categories of {personal data|index:personal-data}, measures to ensure data security, and the requirements in respect of onward transfers to bodies not bound by the {binding corporate rules|index:binding-corporate-rules};
+        content: >-
+          the application of the general data protection principles, in particular
+          purpose limitation, data minimisation, limited storage periods, data quality,
+          data protection by design and by default, legal basis for {processing|index:processing},
+          {processing|index:processing} of special categories of {personal data|index:personal-data},
+          measures to ensure data security, and the requirements in respect of onward
+          transfers to bodies not bound by the {binding corporate rules|index:binding-corporate-rules};
         index:
+        - binding-corporate-rules
         - personal-data
         - processing
-        - binding-corporate-rules
       e:
-        content: |-
-          the rights of data subjects in regard to {processing|index:processing} and the means to exercise those rights, including the right not to be subject to decisions based solely on automated {processing|index:processing}, including {profiling|index:profiling} in accordance with Article 22, the right to lodge a complaint with the competent {supervisory authority|index:supervisory-authority} and before the competent courts of the Member States in accordance with Article 79, and to obtain redress and, where appropriate, compensation for a breach of the {binding corporate rules|index:binding-corporate-rules};
+        content: >-
+          the rights of data subjects in regard to {processing|index:processing} and
+          the means to exercise those rights, including the right not to be subject
+          to decisions based solely on automated {processing|index:processing}, including
+          {profiling|index:profiling} in accordance with Article 22, the right to
+          lodge a complaint with the competent {supervisory authority|index:supervisory-authority}
+          and before the competent courts of the Member States in accordance with
+          Article 79, and to obtain redress and, where appropriate, compensation for
+          a breach of the {binding corporate rules|index:binding-corporate-rules};
         index:
-        - profiling
-        - supervisory-authority
         - binding-corporate-rules
+        - supervisory-authority
+        - profiling
         - processing
       f:
-        content: |-
-          the acceptance by the {controller|index:controller} or {processor|index:processor} established on the territory of a Member State of liability for any breaches of the {binding corporate rules|index:binding-corporate-rules} by any member concerned not established in the Union; the {controller|index:controller} or the {processor|index:processor} shall be exempt from that liability, in whole or in part, only if it proves that that member is not responsible for the event giving rise to the damage;
+        content: >-
+          the acceptance by the {controller|index:controller} or {processor|index:processor}
+          established on the territory of a Member State of liability for any breaches
+          of the {binding corporate rules|index:binding-corporate-rules} by any member
+          concerned not established in the Union; the {controller|index:controller}
+          or the {processor|index:processor} shall be exempt from that liability,
+          in whole or in part, only if it proves that that member is not responsible
+          for the event giving rise to the damage;
         index:
-        - processor
         - binding-corporate-rules
+        - processor
         - controller
       g:
-        content: |-
-          how the information on the {binding corporate rules|index:binding-corporate-rules}, in particular on the provisions referred to in points (d), (e) and (f) of this paragraph is provided to the data subjects in addition to Articles 13 and 14;
+        content: >-
+          how the information on the {binding corporate rules|index:binding-corporate-rules},
+          in particular on the provisions referred to in points (d), (e) and (f) of
+          this paragraph is provided to the data subjects in addition to Articles
+          13 and 14;
         index:
         - binding-corporate-rules
       h:
-        content: |-
-          the tasks of any data protection officer designated in accordance with Article 37 or any other person or entity in charge of the monitoring compliance with the {binding corporate rules|index:binding-corporate-rules} within the {group of undertakings|index:group-of-undertakings}, or group of enterprises engaged in a joint economic activity, as well as monitoring training and complaint-handling;
+        content: >-
+          the tasks of any data protection officer designated in accordance with Article
+          37 or any other person or entity in charge of the monitoring compliance
+          with the {binding corporate rules|index:binding-corporate-rules} within
+          the {group of undertakings|index:group-of-undertakings}, or group of enterprises
+          engaged in a joint economic activity, as well as monitoring training and
+          complaint-handling;
         index:
         - binding-corporate-rules
         - group-of-undertakings
       i:
         content: the complaint procedures;
       j:
-        content: |-
-          the mechanisms within the {group of undertakings|index:group-of-undertakings}, or group of enterprises engaged in a joint economic activity for ensuring the verification of compliance with the {binding corporate rules|index:binding-corporate-rules}. Such mechanisms shall include data protection audits and methods for ensuring corrective actions to protect the rights of the {data subject|index:data-subject}. Results of such verification should be communicated to the person or entity referred to in point (h) and to the board of the controlling undertaking of a {group of undertakings|index:group-of-undertakings}, or of the group of enterprises engaged in a joint economic activity, and should be available upon request to the competent {supervisory authority|index:supervisory-authority};
+        content: >-
+          the mechanisms within the {group of undertakings|index:group-of-undertakings},
+          or group of enterprises engaged in a joint economic activity for ensuring
+          the verification of compliance with the {binding corporate rules|index:binding-corporate-rules}.
+          Such mechanisms shall include data protection audits and methods for ensuring
+          corrective actions to protect the rights of the {data subject|index:data-subject}.
+          Results of such verification should be communicated to the person or entity
+          referred to in point (h) and to the board of the controlling undertaking
+          of a {group of undertakings|index:group-of-undertakings}, or of the group
+          of enterprises engaged in a joint economic activity, and should be available
+          upon request to the competent {supervisory authority|index:supervisory-authority};
         index:
-        - supervisory-authority
         - binding-corporate-rules
-        - data-subject
         - group-of-undertakings
+        - supervisory-authority
+        - data-subject
       k:
-        content: |-
-          the mechanisms for reporting and recording changes to the rules and reporting those changes to the {supervisory authority|index:supervisory-authority};
+        content: >-
+          the mechanisms for reporting and recording changes to the rules and reporting
+          those changes to the {supervisory authority|index:supervisory-authority};
         index:
         - supervisory-authority
       l:
-        content: |-
-          the cooperation mechanism with the {supervisory authority|index:supervisory-authority} to ensure compliance by any member of the {group of undertakings|index:group-of-undertakings}, or group of enterprises engaged in a joint economic activity, in particular by making available to the {supervisory authority|index:supervisory-authority} the results of verifications of the measures referred to in point (j);
+        content: >-
+          the cooperation mechanism with the {supervisory authority|index:supervisory-authority}
+          to ensure compliance by any member of the {group of undertakings|index:group-of-undertakings},
+          or group of enterprises engaged in a joint economic activity, in particular
+          by making available to the {supervisory authority|index:supervisory-authority}
+          the results of verifications of the measures referred to in point (j);
         index:
-        - supervisory-authority
         - group-of-undertakings
-      m:
-        content: |-
-          the mechanisms for reporting to the competent {supervisory authority|index:supervisory-authority} any legal requirements to which a member of the {group of undertakings|index:group-of-undertakings}, or group of enterprises engaged in a joint economic activity is subject in a third country which are likely to have a substantial adverse effect on the guarantees provided by the {binding corporate rules|index:binding-corporate-rules}; and
-        index:
         - supervisory-authority
+      m:
+        content: >-
+          the mechanisms for reporting to the competent {supervisory authority|index:supervisory-authority}
+          any legal requirements to which a member of the {group of undertakings|index:group-of-undertakings},
+          or group of enterprises engaged in a joint economic activity is subject
+          in a third country which are likely to have a substantial adverse effect
+          on the guarantees provided by the {binding corporate rules|index:binding-corporate-rules};
+          and
+        index:
         - binding-corporate-rules
         - group-of-undertakings
+        - supervisory-authority
       n:
-        content: |-
-          the appropriate data protection training to personnel having permanent or regular access to {personal data|index:personal-data}.
+        content: >-
+          the appropriate data protection training to personnel having permanent or
+          regular access to {personal data|index:personal-data}.
         index:
         - personal-data
-    preamble: |-
-      The {binding corporate rules|index:binding-corporate-rules} referred to in paragraph 1 shall specify at least:
+    preamble: >-
+      The {binding corporate rules|index:binding-corporate-rules} referred to in paragraph
+      1 shall specify at least:
   3:
-    content: |-
-      The Commission may specify the format and procedures for the exchange of information between controllers, processors and supervisory authorities for {binding corporate rules|index:binding-corporate-rules} within the meaning of this Article. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 93(2).
+    content: >-
+      The Commission may specify the format and procedures for the exchange of information
+      between controllers, processors and supervisory authorities for {binding corporate
+      rules|index:binding-corporate-rules} within the meaning of this Article. Those
+      implementing acts shall be adopted in accordance with the examination procedure
+      set out in Article 93(2).
     index:
     - binding-corporate-rules
     number: 3

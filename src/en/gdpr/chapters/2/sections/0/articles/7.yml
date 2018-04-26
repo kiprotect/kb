@@ -4,33 +4,48 @@ index:
 number: 7
 paragraphs:
   1:
-    content: |-
-      Where {processing|index:processing} is based on {consent|index:consent}, the {controller|index:controller} shall be able to demonstrate that the {data subject|index:data-subject} has consented to {processing|index:processing} of his or her {personal data|index:personal-data}.
+    content: >-
+      Where {processing|index:processing} is based on {consent|index:consent}, the
+      {controller|index:controller} shall be able to demonstrate that the {data subject|index:data-subject}
+      has consented to {processing|index:processing} of his or her {personal data|index:personal-data}.
     index:
-    - processing
     - data-subject
-    - consent
     - personal-data
+    - processing
+    - consent
     - controller
     number: 1
   2:
-    content: |-
-      If the data subject's {consent|index:consent} is given in the context of a written declaration which also concerns other matters, the request for {consent|index:consent} shall be presented in a manner which is clearly distinguishable from the other matters, in an intelligible and easily accessible form, using clear and plain language. Any part of such a declaration which constitutes an infringement of this {Regulation|index:regulation} shall not be binding.
+    content: >-
+      If the data subject's {consent|index:consent} is given in the context of a written
+      declaration which also concerns other matters, the request for {consent|index:consent}
+      shall be presented in a manner which is clearly distinguishable from the other
+      matters, in an intelligible and easily accessible form, using clear and plain
+      language. Any part of such a declaration which constitutes an infringement of
+      this {Regulation|index:regulation} shall not be binding.
     index:
     - consent
     - regulation
     number: 2
   3:
-    content: |-
-      The {data subject|index:data-subject} shall have the right to withdraw his or her {consent|index:consent} at any time. The withdrawal of {consent|index:consent} shall not affect the lawfulness of {processing|index:processing} based on {consent|index:consent} before its withdrawal. Prior to giving {consent|index:consent}, the {data subject|index:data-subject} shall be informed thereof. It shall be as easy to withdraw as to give {consent|index:consent}.
+    content: >-
+      The {data subject|index:data-subject} shall have the right to withdraw his or
+      her {consent|index:consent} at any time. The withdrawal of {consent|index:consent}
+      shall not affect the lawfulness of {processing|index:processing} based on {consent|index:consent}
+      before its withdrawal. Prior to giving {consent|index:consent}, the {data subject|index:data-subject}
+      shall be informed thereof. It shall be as easy to withdraw as to give {consent|index:consent}.
     index:
     - data-subject
     - consent
     - processing
     number: 3
   4:
-    content: |-
-      When assessing whether {consent|index:consent} is freely given, utmost account shall be taken of whether, inter alia, the performance of a contract, including the provision of a service, is conditional on {consent|index:consent} to the {processing|index:processing} of {personal data|index:personal-data} that is not necessary for the performance of that contract.
+    content: >-
+      When assessing whether {consent|index:consent} is freely given, utmost account
+      shall be taken of whether, inter alia, the performance of a contract, including
+      the provision of a service, is conditional on {consent|index:consent} to the
+      {processing|index:processing} of {personal data|index:personal-data} that is
+      not necessary for the performance of that contract.
     index:
     - consent
     - personal-data

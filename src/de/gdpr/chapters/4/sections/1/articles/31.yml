@@ -4,10 +4,10 @@ content: "Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbei
   \ der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} bei der Erf\xFCllung ihrer\
   \ Aufgaben zusammen."
 index:
-- verantwortlicher
-- vertreter
 - auftragsverarbeiter
+- vertreter
 - "aufsichtsbeh\xF6rde"
+- verantwortlicher
 number: 31
 section: 1
 title: "Zusammenarbeit mit der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}"

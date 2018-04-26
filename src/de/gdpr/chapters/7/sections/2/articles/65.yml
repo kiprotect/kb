@@ -17,9 +17,9 @@ paragraphs:
           \ und begr\xFCndeten Einspruchs sind, insbesondere die Frage, ob ein Versto\xDF\
           \ gegen diese {Verordnung|index:verordnung} vorliegt;"
         index:
-        - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
-        - "aufsichtsbeh\xF6rde"
         - verordnung
+        - "aufsichtsbeh\xF6rde"
+        - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
       b:
         content: "wenn es widerspr\xFCchliche Standpunkte dazu gibt, welche der betroffenen\
           \ {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} f\xFCr die {Hauptniederlassung|index:hauptniederlassung}\
@@ -51,8 +51,12 @@ paragraphs:
     - "aufsichtsbeh\xF6rde"
     number: 2
   3:
-    content: |-
-      War der Ausschuss nicht in der Lage, innerhalb der in Absatz 2 genannten Fristen einen Beschluss anzunehmen, so nimmt er seinen Beschluss innerhalb von zwei Wochen nach Ablauf des in Absatz 2 genannten zweiten Monats mit einfacher Mehrheit der Mitglieder des Ausschusses an. Bei Stimmengleichheit zwischen den Mitgliedern des Ausschusses gibt die Stimme des Vorsitzes den Ausschlag.
+    content: >-
+      War der Ausschuss nicht in der Lage, innerhalb der in Absatz 2 genannten Fristen
+      einen Beschluss anzunehmen, so nimmt er seinen Beschluss innerhalb von zwei
+      Wochen nach Ablauf des in Absatz 2 genannten zweiten Monats mit einfacher Mehrheit
+      der Mitglieder des Ausschusses an. Bei Stimmengleichheit zwischen den Mitgliedern
+      des Ausschusses gibt die Stimme des Vorsitzes den Ausschlag.
     number: 3
   4:
     content: "Die betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} nehmen\
@@ -92,9 +96,9 @@ paragraphs:
       \ genannte Beschluss beigef\xFCgt."
     index:
     - verantwortlicher
-    - auftragsverarbeiter
     - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - auftragsverarbeiter
     number: 6
 section: 2
 title: Streitbeilegung durch den Ausschuss

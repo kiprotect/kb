@@ -9,10 +9,10 @@ content: "Der {Verantwortliche|index:verantwortlicher} teilt allen Empf\xE4ngern
   \ Person|index:betroffene-person} \xFCber diese {Empf\xE4nger|index:empf\xE4nger},\
   \ wenn die {betroffene Person|index:betroffene-person} dies verlangt."
 index:
-- betroffene-person
-- verantwortlicher
 - "empf\xE4nger"
+- verantwortlicher
 - "einschr\xE4nkung-der-verarbeitung"
+- betroffene-person
 - personenbezogene-daten
 number: 19
 section: 3

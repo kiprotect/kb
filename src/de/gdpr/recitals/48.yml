@@ -8,9 +8,9 @@ content: "{Verantwortliche|index:verantwortlicher}, die Teil einer {Unternehmens
   \ von Unternehmensgruppen an ein {Unternehmen|index:unternehmen} in einem Drittland\
   \ bleiben unber\xFChrt."
 index:
-- verantwortlicher
-- unternehmen
 - unternehmensgruppe
 - verarbeitung
+- verantwortlicher
+- unternehmen
 - personenbezogene-daten
 number: 48

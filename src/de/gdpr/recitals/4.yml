@@ -12,8 +12,8 @@ content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:p
   \ Freiheit, Recht auf einen wirksamen Rechtsbehelf und ein faires {Verfahren|index:verfahren}\
   \ und Vielfalt der Kulturen, Religionen und Sprachen."
 index:
-- verfahren
-- personenbezogene-daten
 - verordnung
 - verarbeitung
+- personenbezogene-daten
+- verfahren
 number: 4

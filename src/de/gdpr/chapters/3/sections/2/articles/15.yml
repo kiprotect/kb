@@ -5,9 +5,9 @@ number: 15
 paragraphs:
   1:
     index:
-    - verantwortlicher
-    - personenbezogene-daten
     - betroffene-person
+    - personenbezogene-daten
+    - verantwortlicher
     number: 1
     points:
       a:
@@ -23,8 +23,8 @@ paragraphs:
           \ offengelegt worden sind oder noch offengelegt werden, insbesondere bei\
           \ Empf\xE4ngern in Drittl\xE4ndern oder bei internationalen Organisationen;"
         index:
-        - "empf\xE4nger"
         - personenbezogene-daten
+        - "empf\xE4nger"
       d:
         content: "falls m\xF6glich die geplante Dauer, f\xFCr die die {personenbezogenen\
           \ Daten|index:personenbezogene-daten} gespeichert werden, oder, falls dies\
@@ -38,10 +38,10 @@ paragraphs:
           \ durch den {Verantwortlichen|index:verantwortlicher} oder eines Widerspruchsrechts\
           \ gegen diese {Verarbeitung|index:verarbeitung};"
         index:
-        - verantwortlicher
-        - "einschr\xE4nkung-der-verarbeitung"
-        - personenbezogene-daten
         - verarbeitung
+        - personenbezogene-daten
+        - "einschr\xE4nkung-der-verarbeitung"
+        - verantwortlicher
       f:
         content: "das Bestehen eines Beschwerderechts bei einer {Aufsichtsbeh\xF6\
           rde|index:aufsichtsbeh\xF6rde};"
@@ -52,8 +52,8 @@ paragraphs:
           \ nicht bei der {betroffenen Person|index:betroffene-person} erhoben werden,\
           \ alle verf\xFCgbaren Informationen \xFCber die Herkunft der Daten;"
         index:
-        - personenbezogene-daten
         - betroffene-person
+        - personenbezogene-daten
       h:
         content: "das Bestehen einer automatisierten Entscheidungsfindung einschlie\xDF\
           lich {Profiling|index:profiling} gem\xE4\xDF Artikel 22 Abs\xE4tze 1 und\
@@ -62,9 +62,9 @@ paragraphs:
           \ Auswirkungen einer derartigen {Verarbeitung|index:verarbeitung} f\xFC\
           r die {betroffene Person|index:betroffene-person}."
         index:
-        - profiling
         - betroffene-person
         - verarbeitung
+        - profiling
     preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, von\
       \ dem {Verantwortlichen|index:verantwortlicher} eine Best\xE4tigung dar\xFC\
       ber zu verlangen, ob sie betreffende {personenbezogene Daten|index:personenbezogene-daten}\
@@ -78,9 +78,9 @@ paragraphs:
       \ Recht, \xFCber die geeigneten Garantien gem\xE4\xDF Artikel 46 im Zusammenhang\
       \ mit der \xDCbermittlung unterrichtet zu werden."
     index:
-    - internationale-organisation
-    - personenbezogene-daten
     - betroffene-person
+    - personenbezogene-daten
+    - internationale-organisation
     number: 2
   3:
     content: "Der {Verantwortliche|index:verantwortlicher} stellt eine Kopie der {personenbezogenen\
@@ -92,10 +92,10 @@ paragraphs:
       \ in einem g\xE4ngigen elektronischen Format zur Verf\xFCgung zu stellen, sofern\
       \ sie nichts anderes angibt."
     index:
-    - verantwortlicher
-    - personenbezogene-daten
-    - verarbeitung
     - betroffene-person
+    - verarbeitung
+    - personenbezogene-daten
+    - verantwortlicher
     number: 3
   4:
     content: "Das Recht auf Erhalt einer Kopie gem\xE4\xDF Absatz 1b darf die Rechte\

@@ -12,9 +12,9 @@ content: "Kann der {Verantwortliche|index:verantwortlicher} anhand der von ihm v
   \ dem {Verantwortlichen|index:verantwortlicher} bereitgestellten Online-Dienst anzumelden\
   \ \u2014 einschlie\xDFen."
 index:
-- betroffene-person
-- verantwortlicher
-- verordnung
-- personenbezogene-daten
 - "nat\xFCrliche-person"
+- verordnung
+- verantwortlicher
+- betroffene-person
+- personenbezogene-daten
 number: 57

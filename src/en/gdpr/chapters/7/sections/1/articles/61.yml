@@ -2,20 +2,31 @@ chapter: 7
 number: 61
 paragraphs:
   1:
-    content: |-
-      Supervisory authorities shall provide each other with relevant information and mutual assistance in order to implement and apply this {Regulation|index:regulation} in a consistent manner, and shall put in place measures for effective cooperation with one another. Mutual assistance shall cover, in particular, information requests and supervisory measures, such as requests to carry out prior authorisations and consultations, inspections and investigations.
+    content: >-
+      Supervisory authorities shall provide each other with relevant information and
+      mutual assistance in order to implement and apply this {Regulation|index:regulation}
+      in a consistent manner, and shall put in place measures for effective cooperation
+      with one another. Mutual assistance shall cover, in particular, information
+      requests and supervisory measures, such as requests to carry out prior authorisations
+      and consultations, inspections and investigations.
     index:
     - regulation
     number: 1
   2:
-    content: |-
-      Each {supervisory authority|index:supervisory-authority} shall take all appropriate measures required to reply to a request of another {supervisory authority|index:supervisory-authority} without undue delay and no later than one month after receiving the request. Such measures may include, in particular, the transmission of relevant information on the conduct of an investigation.
+    content: >-
+      Each {supervisory authority|index:supervisory-authority} shall take all appropriate
+      measures required to reply to a request of another {supervisory authority|index:supervisory-authority}
+      without undue delay and no later than one month after receiving the request.
+      Such measures may include, in particular, the transmission of relevant information
+      on the conduct of an investigation.
     index:
     - supervisory-authority
     number: 2
   3:
-    content: |-
-      Requests for assistance shall contain all the necessary information, including the purpose of and reasons for the request. Information exchanged shall be used only for the purpose for which it was requested.
+    content: >-
+      Requests for assistance shall contain all the necessary information, including
+      the purpose of and reasons for the request. Information exchanged shall be used
+      only for the purpose for which it was requested.
     number: 3
   4:
     index:
@@ -23,39 +34,65 @@ paragraphs:
     number: 4
     points:
       a:
-        content: |-
-          it is not competent for the subject-matter of the request or for the measures it is requested to execute; or
+        content: >-
+          it is not competent for the subject-matter of the request or for the measures
+          it is requested to execute; or
       b:
-        content: |-
-          compliance with the request would infringe this {Regulation|index:regulation} or Union or Member State law to which the {supervisory authority|index:supervisory-authority} receiving the request is subject.
+        content: >-
+          compliance with the request would infringe this {Regulation|index:regulation}
+          or Union or Member State law to which the {supervisory authority|index:supervisory-authority}
+          receiving the request is subject.
         index:
         - supervisory-authority
         - regulation
-    preamble: |-
-      The requested {supervisory authority|index:supervisory-authority} shall not refuse to comply with the request unless:
+    preamble: >-
+      The requested {supervisory authority|index:supervisory-authority} shall not
+      refuse to comply with the request unless:
   5:
-    content: |-
-      The requested {supervisory authority|index:supervisory-authority} shall inform the requesting {supervisory authority|index:supervisory-authority} of the results or, as the case may be, of the progress of the measures taken in order to respond to the request. The requested {supervisory authority|index:supervisory-authority} shall provide reasons for any refusal to comply with a request pursuant to paragraph 4.
+    content: >-
+      The requested {supervisory authority|index:supervisory-authority} shall inform
+      the requesting {supervisory authority|index:supervisory-authority} of the results
+      or, as the case may be, of the progress of the measures taken in order to respond
+      to the request. The requested {supervisory authority|index:supervisory-authority}
+      shall provide reasons for any refusal to comply with a request pursuant to paragraph
+      4.
     index:
     - supervisory-authority
     number: 5
   6:
-    content: |-
-      Requested supervisory authorities shall, as a rule, supply the information requested by other supervisory authorities by electronic means, using a standardised format.
+    content: >-
+      Requested supervisory authorities shall, as a rule, supply the information requested
+      by other supervisory authorities by electronic means, using a standardised format.
     number: 6
   7:
-    content: |-
-      Requested supervisory authorities shall not charge a fee for any action taken by them pursuant to a request for mutual assistance. Supervisory authorities may agree on rules to indemnify each other for specific expenditure arising from the provision of mutual assistance in exceptional circumstances.
+    content: >-
+      Requested supervisory authorities shall not charge a fee for any action taken
+      by them pursuant to a request for mutual assistance. Supervisory authorities
+      may agree on rules to indemnify each other for specific expenditure arising
+      from the provision of mutual assistance in exceptional circumstances.
     number: 7
   8:
-    content: |-
-      Where a {supervisory authority|index:supervisory-authority} does not provide the information referred to in paragraph 5 of this Article within one month of receiving the request of another {supervisory authority|index:supervisory-authority}, the requesting {supervisory authority|index:supervisory-authority} may adopt a provisional measure on the territory of its Member State in accordance with Article 55(1). In that case, the urgent need to act under Article 66(1) shall be presumed to be met and require an urgent binding decision from the Board pursuant to Article 66(2).
+    content: >-
+      Where a {supervisory authority|index:supervisory-authority} does not provide
+      the information referred to in paragraph 5 of this Article within one month
+      of receiving the request of another {supervisory authority|index:supervisory-authority},
+      the requesting {supervisory authority|index:supervisory-authority} may adopt
+      a provisional measure on the territory of its Member State in accordance with
+      Article 55(1). In that case, the urgent need to act under Article 66(1) shall
+      be presumed to be met and require an urgent binding decision from the Board
+      pursuant to Article 66(2).
     index:
     - supervisory-authority
     number: 8
   9:
-    content: |-
-      The Commission may, by means of implementing acts, specify the format and procedures for mutual assistance referred to in this Article and the arrangements for the exchange of information by electronic means between supervisory authorities, and between supervisory authorities and the Board, in particular the standardised format referred to in paragraph 6 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 93(2).
+    content: >-
+      The Commission may, by means of implementing acts, specify the format and procedures
+      for mutual assistance referred to in this Article and the arrangements for the
+      exchange of information by electronic means between supervisory authorities,
+      and between supervisory authorities and the Board, in particular the standardised
+      format referred to in paragraph 6 of this Article. Those implementing acts shall
+      be adopted in accordance with the examination procedure referred to in Article
+      93(2).
     number: 9
 section: 1
 title: Mutual assistance

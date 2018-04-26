@@ -2,8 +2,12 @@ chapter: 4
 number: 41
 paragraphs:
   1:
-    content: |-
-      Without prejudice to the tasks and powers of the competent {supervisory authority|index:supervisory-authority} under Articles 57 and 58, the monitoring of compliance with a code of conduct pursuant to Article 40 may be carried out by a body which has an appropriate level of expertise in relation to the subject-matter of the code and is accredited for that purpose by the competent {supervisory authority|index:supervisory-authority}.
+    content: >-
+      Without prejudice to the tasks and powers of the competent {supervisory authority|index:supervisory-authority}
+      under Articles 57 and 58, the monitoring of compliance with a code of conduct
+      pursuant to Article 40 may be carried out by a body which has an appropriate
+      level of expertise in relation to the subject-matter of the code and is accredited
+      for that purpose by the competent {supervisory authority|index:supervisory-authority}.
     index:
     - supervisory-authority
     number: 1
@@ -11,50 +15,72 @@ paragraphs:
     number: 2
     points:
       a:
-        content: |-
-          demonstrated its independence and expertise in relation to the subject-matter of the code to the satisfaction of the competent {supervisory authority|index:supervisory-authority};
+        content: >-
+          demonstrated its independence and expertise in relation to the subject-matter
+          of the code to the satisfaction of the competent {supervisory authority|index:supervisory-authority};
         index:
         - supervisory-authority
       b:
-        content: |-
-          established procedures which allow it to assess the eligibility of controllers and processors concerned to apply the code, to monitor their compliance with its provisions and to periodically review its operation;
+        content: >-
+          established procedures which allow it to assess the eligibility of controllers
+          and processors concerned to apply the code, to monitor their compliance
+          with its provisions and to periodically review its operation;
       c:
-        content: |-
-          established procedures and structures to handle complaints about infringements of the code or the manner in which the code has been, or is being, implemented by a {controller|index:controller} or {processor|index:processor}, and to make those procedures and structures transparent to data subjects and the public; and
+        content: >-
+          established procedures and structures to handle complaints about infringements
+          of the code or the manner in which the code has been, or is being, implemented
+          by a {controller|index:controller} or {processor|index:processor}, and to
+          make those procedures and structures transparent to data subjects and the
+          public; and
         index:
         - processor
         - controller
       d:
-        content: |-
-          demonstrated to the satisfaction of the competent {supervisory authority|index:supervisory-authority} that its tasks and duties do not result in a conflict of interests.
+        content: >-
+          demonstrated to the satisfaction of the competent {supervisory authority|index:supervisory-authority}
+          that its tasks and duties do not result in a conflict of interests.
         index:
         - supervisory-authority
-    preamble: |-
-      A body as referred to in paragraph 1 may be accredited to monitor compliance with a code of conduct where that body has:
+    preamble: >-
+      A body as referred to in paragraph 1 may be accredited to monitor compliance
+      with a code of conduct where that body has:
   3:
-    content: |-
-      The competent {supervisory authority|index:supervisory-authority} shall submit the draft criteria for accreditation of a body as referred to in paragraph 1 of this Article to the Board pursuant to the consistency mechanism referred to in Article 63.
+    content: >-
+      The competent {supervisory authority|index:supervisory-authority} shall submit
+      the draft criteria for accreditation of a body as referred to in paragraph 1
+      of this Article to the Board pursuant to the consistency mechanism referred
+      to in Article 63.
     index:
     - supervisory-authority
     number: 3
   4:
-    content: |-
-      Without prejudice to the tasks and powers of the competent {supervisory authority|index:supervisory-authority} and the provisions of Chapter VIII, a body as referred to in paragraph 1 of this Article shall, subject to appropriate safeguards, take appropriate action in cases of infringement of the code by a {controller|index:controller} or {processor|index:processor}, including suspension or exclusion of the {controller|index:controller} or {processor|index:processor} concerned from the code. It shall inform the competent {supervisory authority|index:supervisory-authority} of such actions and the reasons for taking them.
+    content: >-
+      Without prejudice to the tasks and powers of the competent {supervisory authority|index:supervisory-authority}
+      and the provisions of Chapter VIII, a body as referred to in paragraph 1 of
+      this Article shall, subject to appropriate safeguards, take appropriate action
+      in cases of infringement of the code by a {controller|index:controller} or {processor|index:processor},
+      including suspension or exclusion of the {controller|index:controller} or {processor|index:processor}
+      concerned from the code. It shall inform the competent {supervisory authority|index:supervisory-authority}
+      of such actions and the reasons for taking them.
     index:
-    - processor
     - supervisory-authority
+    - processor
     - controller
     number: 4
   5:
-    content: |-
-      The competent {supervisory authority|index:supervisory-authority} shall revoke the accreditation of a body as referred to in paragraph 1 if the conditions for accreditation are not, or are no longer, met or where actions taken by the body infringe this {Regulation|index:regulation}.
+    content: >-
+      The competent {supervisory authority|index:supervisory-authority} shall revoke
+      the accreditation of a body as referred to in paragraph 1 if the conditions
+      for accreditation are not, or are no longer, met or where actions taken by the
+      body infringe this {Regulation|index:regulation}.
     index:
     - supervisory-authority
     - regulation
     number: 5
   6:
-    content: |-
-      This Article shall not apply to {processing|index:processing} carried out by public authorities and bodies.
+    content: >-
+      This Article shall not apply to {processing|index:processing} carried out by
+      public authorities and bodies.
     index:
     - processing
     number: 6

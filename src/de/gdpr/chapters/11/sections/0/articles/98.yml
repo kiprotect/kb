@@ -8,9 +8,9 @@ content: "Die Kommission legt gegebenenfalls Gesetzgebungsvorschl\xE4ge zur \xC4
   \ Organe, Einrichtungen, \xC4mter und Agenturen der Union und zum freien Verkehr\
   \ solcher Daten."
 index:
-- personenbezogene-daten
 - "nat\xFCrliche-person"
 - verarbeitung
+- personenbezogene-daten
 number: 98
 section: 0
 title: "\xDCberpr\xFCfung anderer Rechtsakte der Union zum Datenschutz"

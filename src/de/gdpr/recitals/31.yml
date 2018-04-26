@@ -15,8 +15,8 @@ content: "Beh\xF6rden, gegen\xFCber denen {personenbezogene Daten|index:personen
   rden sollte den f\xFCr die Zwecke der {Verarbeitung|index:verarbeitung} geltenden\
   \ Datenschutzvorschriften entsprechen."
 index:
-- "empf\xE4nger"
-- personenbezogene-daten
-- verarbeitung
 - dateisystem
+- verarbeitung
+- personenbezogene-daten
+- "empf\xE4nger"
 number: 31

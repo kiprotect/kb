@@ -25,9 +25,9 @@ paragraphs:
       \ um Teilnahme."
     index:
     - verantwortlicher
-    - auftragsverarbeiter
     - betroffene-person
     - "aufsichtsbeh\xF6rde"
+    - auftragsverarbeiter
     number: 2
   3:
     content: "Eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} kann gem\xE4\xDF\

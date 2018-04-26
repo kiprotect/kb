@@ -20,9 +20,9 @@ content: "Die {Einwilligung|index:einwilligung} sollte durch eine eindeutige bes
   \ in klarer und knapper Form und ohne unn\xF6tige Unterbrechung des Dienstes, f\xFC\
   r den die {Einwilligung|index:einwilligung} gegeben wird, erfolgen."
 index:
-- betroffene-person
-- einwilligung
-- dienst-der-informationsgesellschaft
 - verarbeitung
+- dienst-der-informationsgesellschaft
+- einwilligung
+- betroffene-person
 - personenbezogene-daten
 number: 32

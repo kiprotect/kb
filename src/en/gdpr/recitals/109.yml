@@ -1,7 +1,17 @@
-content: |-
-  The possibility for the {controller|index:controller} or {processor|index:processor} to use standard data-protection clauses adopted by the Commission or by a {supervisory authority|index:supervisory-authority} should prevent controllers or processors neither from including the standard data-protection clauses in a wider contract, such as a contract between the {processor|index:processor} and another {processor|index:processor}, nor from adding other clauses or additional safeguards provided that they do not contradict, directly or indirectly, the standard contractual clauses adopted by the Commission or by a {supervisory authority|index:supervisory-authority} or prejudice the fundamental rights or freedoms of the data subjects. Controllers and processors should be encouraged to provide additional safeguards via contractual commitments that supplement standard protection clauses.
+content: >-
+  The possibility for the {controller|index:controller} or {processor|index:processor}
+  to use standard data-protection clauses adopted by the Commission or by a {supervisory
+  authority|index:supervisory-authority} should prevent controllers or processors
+  neither from including the standard data-protection clauses in a wider contract,
+  such as a contract between the {processor|index:processor} and another {processor|index:processor},
+  nor from adding other clauses or additional safeguards provided that they do not
+  contradict, directly or indirectly, the standard contractual clauses adopted by
+  the Commission or by a {supervisory authority|index:supervisory-authority} or prejudice
+  the fundamental rights or freedoms of the data subjects. Controllers and processors
+  should be encouraged to provide additional safeguards via contractual commitments
+  that supplement standard protection clauses.
 index:
-- processor
 - supervisory-authority
+- processor
 - controller
 number: 109

@@ -49,10 +49,10 @@ paragraphs:
           \ of the {data subject|index:data-subject} (\u2018storage limitation\u2019\
           );"
         index:
+        - data-subject
         - technical-and-organisational-measures
         - personal-data
         - regulation
-        - data-subject
       f:
         content: "processed in a manner that ensures appropriate security of the {personal\
           \ data|index:personal-data}, including protection against unauthorised or\

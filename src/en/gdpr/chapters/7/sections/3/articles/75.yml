@@ -2,22 +2,31 @@ chapter: 7
 number: 75
 paragraphs:
   1:
-    content: |-
-      The Board shall have a secretariat, which shall be provided by the European Data Protection Supervisor.
+    content: >-
+      The Board shall have a secretariat, which shall be provided by the European
+      Data Protection Supervisor.
     number: 1
   2:
-    content: |-
-      The secretariat shall perform its tasks exclusively under the instructions of the Chair of the Board.
+    content: >-
+      The secretariat shall perform its tasks exclusively under the instructions of
+      the Chair of the Board.
     number: 2
   3:
-    content: |-
-      The staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by this {Regulation|index:regulation} shall be subject to separate reporting lines from the staff involved in carrying out tasks conferred on the European Data Protection Supervisor.
+    content: >-
+      The staff of the European Data Protection Supervisor involved in carrying out
+      the tasks conferred on the Board by this {Regulation|index:regulation} shall
+      be subject to separate reporting lines from the staff involved in carrying out
+      tasks conferred on the European Data Protection Supervisor.
     index:
     - regulation
     number: 3
   4:
-    content: |-
-      Where appropriate, the Board and the European Data Protection Supervisor shall establish and publish a Memorandum of Understanding implementing this Article, determining the terms of their cooperation, and applicable to the staff of the European Data Protection Supervisor involved in carrying out the tasks conferred on the Board by this {Regulation|index:regulation}.
+    content: >-
+      Where appropriate, the Board and the European Data Protection Supervisor shall
+      establish and publish a Memorandum of Understanding implementing this Article,
+      determining the terms of their cooperation, and applicable to the staff of the
+      European Data Protection Supervisor involved in carrying out the tasks conferred
+      on the Board by this {Regulation|index:regulation}.
     index:
     - regulation
     number: 4
@@ -42,8 +51,10 @@ paragraphs:
       f:
         content: the preparation and follow-up of the meetings of the Board;
       g:
-        content: |-
-          the preparation, drafting and publication of opinions, decisions on the settlement of disputes between supervisory authorities and other texts adopted by the Board.
+        content: >-
+          the preparation, drafting and publication of opinions, decisions on the
+          settlement of disputes between supervisory authorities and other texts adopted
+          by the Board.
     preamble: 'The secretariat shall be responsible in particular for:'
 section: 3
 title: Secretariat

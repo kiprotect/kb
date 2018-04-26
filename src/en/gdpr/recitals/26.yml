@@ -1,13 +1,32 @@
-content: |-
-  The principles of data protection should apply to any information concerning an {identified|index:identified} or {identifiable|index:identifiable} {natural person|index:natural-person}. {Personal data|index:personal-data} which have undergone {pseudonymisation|index:pseudonymisation}, which could be attributed to a {natural person|index:natural-person} by the use of additional information should be considered to be information on an {identifiable|index:identifiable} {natural person|index:natural-person}. To determine whether a {natural person|index:natural-person} is {identifiable|index:identifiable}, account should be taken of all the means reasonably likely to be used, such as singling out, either by the {controller|index:controller} or by another person to identify the {natural person|index:natural-person} directly or indirectly. To ascertain whether means are reasonably likely to be used to identify the {natural person|index:natural-person}, account should be taken of all objective factors, such as the costs of and the amount of time required for identification, taking into consideration the available technology at the time of the {processing|index:processing} and technological developments. The principles of data protection should therefore not apply to anonymous information, namely information which does not relate to an {identified|index:identified} or {identifiable|index:identifiable} {natural person|index:natural-person} or to {personal data|index:personal-data} rendered anonymous in such a manner that the {data subject|index:data-subject} is not or no longer {identifiable|index:identifiable}. This {Regulation|index:regulation} does not therefore concern the {processing|index:processing} of such anonymous information, including for statistical or research purposes.
+content: >-
+  The principles of data protection should apply to any information concerning an
+  {identified|index:identified} or {identifiable|index:identifiable} {natural person|index:natural-person}.
+  {Personal data|index:personal-data} which have undergone {pseudonymisation|index:pseudonymisation},
+  which could be attributed to a {natural person|index:natural-person} by the use
+  of additional information should be considered to be information on an {identifiable|index:identifiable}
+  {natural person|index:natural-person}. To determine whether a {natural person|index:natural-person}
+  is {identifiable|index:identifiable}, account should be taken of all the means reasonably
+  likely to be used, such as singling out, either by the {controller|index:controller}
+  or by another person to identify the {natural person|index:natural-person} directly
+  or indirectly. To ascertain whether means are reasonably likely to be used to identify
+  the {natural person|index:natural-person}, account should be taken of all objective
+  factors, such as the costs of and the amount of time required for identification,
+  taking into consideration the available technology at the time of the {processing|index:processing}
+  and technological developments. The principles of data protection should therefore
+  not apply to anonymous information, namely information which does not relate to
+  an {identified|index:identified} or {identifiable|index:identifiable} {natural person|index:natural-person}
+  or to {personal data|index:personal-data} rendered anonymous in such a manner that
+  the {data subject|index:data-subject} is not or no longer {identifiable|index:identifiable}.
+  This {Regulation|index:regulation} does not therefore concern the {processing|index:processing}
+  of such anonymous information, including for statistical or research purposes.
 index:
-- identified
-- processing
-- natural-person
-- data-subject
-- pseudonymisation
-- identifiable
-- personal-data
 - regulation
+- identifiable
+- data-subject
+- personal-data
+- pseudonymisation
+- processing
+- identified
 - controller
+- natural-person
 number: 26

@@ -1,9 +1,20 @@
-content: |-
-  In order to maintain security and to prevent {processing|index:processing} in infringement of this {Regulation|index:regulation}, the {controller|index:controller} or {processor|index:processor} should evaluate the risks inherent in the {processing|index:processing} and implement measures to mitigate those risks, such as encryption. Those measures should ensure an appropriate level of security, including confidentiality, taking into account the state of the art and the costs of implementation in relation to the risks and the nature of the {personal data|index:personal-data} to be protected. In assessing data security risk, consideration should be given to the risks that are presented by {personal data|index:personal-data} {processing|index:processing}, such as accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, {personal data|index:personal-data} transmitted, stored or otherwise processed which may in particular lead to physical, material or non-material damage.
+content: >-
+  In order to maintain security and to prevent {processing|index:processing} in infringement
+  of this {Regulation|index:regulation}, the {controller|index:controller} or {processor|index:processor}
+  should evaluate the risks inherent in the {processing|index:processing} and implement
+  measures to mitigate those risks, such as encryption. Those measures should ensure
+  an appropriate level of security, including confidentiality, taking into account
+  the state of the art and the costs of implementation in relation to the risks and
+  the nature of the {personal data|index:personal-data} to be protected. In assessing
+  data security risk, consideration should be given to the risks that are presented
+  by {personal data|index:personal-data} {processing|index:processing}, such as accidental
+  or unlawful destruction, loss, alteration, unauthorised disclosure of, or access
+  to, {personal data|index:personal-data} transmitted, stored or otherwise processed
+  which may in particular lead to physical, material or non-material damage.
 index:
-- processing
-- processor
-- personal-data
 - regulation
+- personal-data
+- processor
+- processing
 - controller
 number: 83

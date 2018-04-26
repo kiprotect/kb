@@ -1,7 +1,7 @@
 chapter: 2
 index:
-- personenbezogene-daten
 - verarbeitung
+- personenbezogene-daten
 number: 9
 paragraphs:
   1:
@@ -14,10 +14,10 @@ paragraphs:
       \ oder Daten zum Sexualleben oder der sexuellen Orientierung einer {nat\xFC\
       rlichen Person|index:nat\xFCrliche-person} ist untersagt."
     index:
-    - gesundheitsdaten
-    - personenbezogene-daten
     - "nat\xFCrliche-person"
     - verarbeitung
+    - personenbezogene-daten
+    - gesundheitsdaten
     number: 1
   2:
     number: 2
@@ -30,10 +30,10 @@ paragraphs:
           \ Verbot nach Absatz 1 durch die {Einwilligung|index:einwilligung} der {betroffenen\
           \ Person|index:betroffene-person} nicht aufgehoben werden,"
         index:
-        - einwilligung
-        - personenbezogene-daten
-        - verarbeitung
         - betroffene-person
+        - verarbeitung
+        - personenbezogene-daten
+        - einwilligung
       b:
         content: "die {Verarbeitung|index:verarbeitung} ist erforderlich, damit der\
           \ {Verantwortliche|index:verantwortlicher} oder die {betroffene Person|index:betroffene-person}\
@@ -45,9 +45,9 @@ paragraphs:
           \ und die Interessen der {betroffenen Person|index:betroffene-person} vorsieht,\
           \ zul\xE4ssig ist,"
         index:
-        - verantwortlicher
         - betroffene-person
         - verarbeitung
+        - verantwortlicher
       c:
         content: "die {Verarbeitung|index:verarbeitung} ist zum Schutz lebenswichtiger\
           \ Interessen der {betroffenen Person|index:betroffene-person} oder einer\
@@ -56,10 +56,10 @@ paragraphs:
           \ oder rechtlichen Gr\xFCnden au\xDFerstande, ihre {Einwilligung|index:einwilligung}\
           \ zu geben,"
         index:
-        - einwilligung
-        - betroffene-person
         - "nat\xFCrliche-person"
+        - betroffene-person
         - verarbeitung
+        - einwilligung
       d:
         content: "die {Verarbeitung|index:verarbeitung} erfolgt auf der Grundlage\
           \ geeigneter Garantien durch eine politisch, weltanschaulich, religi\xF6\
@@ -73,18 +73,18 @@ paragraphs:
           \ der {betroffenen Personen|index:betroffene-person} nach au\xDFen offengelegt\
           \ werden,"
         index:
-        - einwilligung
-        - personenbezogene-daten
-        - verarbeitung
         - betroffene-person
+        - verarbeitung
+        - personenbezogene-daten
+        - einwilligung
       e:
         content: "die {Verarbeitung|index:verarbeitung} bezieht sich auf {personenbezogene\
           \ Daten|index:personenbezogene-daten}, die die {betroffene Person|index:betroffene-person}\
           \ offensichtlich \xF6ffentlich gemacht hat,"
         index:
-        - personenbezogene-daten
-        - verarbeitung
         - betroffene-person
+        - verarbeitung
+        - personenbezogene-daten
       f:
         content: "die {Verarbeitung|index:verarbeitung} ist zur Geltendmachung, Aus\xFC\
           bung oder Verteidigung von Rechtsanspr\xFCchen oder bei Handlungen der Gerichte\
@@ -150,8 +150,8 @@ paragraphs:
       \ oder den Vorschriften nationaler zust\xE4ndiger Stellen einer Geheimhaltungspflicht\
       \ unterliegt."
     index:
-    - personenbezogene-daten
     - verarbeitung
+    - personenbezogene-daten
     number: 3
   4:
     content: "Die Mitgliedstaaten k\xF6nnen zus\xE4tzliche Bedingungen, einschlie\xDF\
@@ -159,9 +159,9 @@ paragraphs:
       \ von genetischen, biometrischen oder {Gesundheitsdaten|index:gesundheitsdaten}\
       \ betroffen ist."
     index:
-    - gesundheitsdaten
     - verarbeitung
+    - gesundheitsdaten
     number: 4
 section: 0
-title: |-
+title: >-
   {Verarbeitung|index:verarbeitung} besonderer Kategorien {personenbezogener Daten|index:personenbezogene-daten}

@@ -1,9 +1,17 @@
-content: |-
-  The responsibility and liability of the {controller|index:controller} for any {processing|index:processing} of {personal data|index:personal-data} carried out by the {controller|index:controller} or on the controller's behalf should be established. In particular, the {controller|index:controller} should be obliged to implement appropriate and effective measures and be able to demonstrate the compliance of {processing|index:processing} activities with this {Regulation|index:regulation}, including the effectiveness of the measures. Those measures should take into account the nature, scope, context and purposes of the {processing|index:processing} and the risk to the rights and freedoms of {natural persons|index:natural-person}.
+content: >-
+  The responsibility and liability of the {controller|index:controller} for any {processing|index:processing}
+  of {personal data|index:personal-data} carried out by the {controller|index:controller}
+  or on the controller's behalf should be established. In particular, the {controller|index:controller}
+  should be obliged to implement appropriate and effective measures and be able to
+  demonstrate the compliance of {processing|index:processing} activities with this
+  {Regulation|index:regulation}, including the effectiveness of the measures. Those
+  measures should take into account the nature, scope, context and purposes of the
+  {processing|index:processing} and the risk to the rights and freedoms of {natural
+  persons|index:natural-person}.
 index:
-- processing
-- natural-person
-- personal-data
 - regulation
+- personal-data
+- processing
 - controller
+- natural-person
 number: 74

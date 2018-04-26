@@ -6,13 +6,15 @@ paragraphs:
   1:
     index:
     - representative
-    - processing
     - controller
+    - processing
     number: 1
     points:
       a:
-        content: |-
-          the name and contact details of the {controller|index:controller} and, where applicable, the joint {controller|index:controller}, the controller's {representative|index:representative} and the data protection officer;
+        content: >-
+          the name and contact details of the {controller|index:controller} and, where
+          applicable, the joint {controller|index:controller}, the controller's {representative|index:representative}
+          and the data protection officer;
         index:
         - representative
         - controller
@@ -21,77 +23,107 @@ paragraphs:
         index:
         - processing
       c:
-        content: |-
-          a description of the categories of data subjects and of the categories of {personal data|index:personal-data};
+        content: >-
+          a description of the categories of data subjects and of the categories of
+          {personal data|index:personal-data};
         index:
         - personal-data
       d:
-        content: |-
-          the categories of recipients to whom the {personal data|index:personal-data} have been or will be disclosed including recipients in third countries or international organisations;
+        content: >-
+          the categories of recipients to whom the {personal data|index:personal-data}
+          have been or will be disclosed including recipients in third countries or
+          international organisations;
         index:
         - personal-data
       e:
-        content: |-
-          where applicable, transfers of {personal data|index:personal-data} to a third country or an {international organisation|index:international-organisation}, including the identification of that third country or {international organisation|index:international-organisation} and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;
+        content: >-
+          where applicable, transfers of {personal data|index:personal-data} to a
+          third country or an {international organisation|index:international-organisation},
+          including the identification of that third country or {international organisation|index:international-organisation}
+          and, in the case of transfers referred to in the second subparagraph of
+          Article 49(1), the documentation of suitable safeguards;
         index:
-        - international-organisation
         - personal-data
+        - international-organisation
       f:
         content: where possible, the envisaged time limits for erasure of the different
           categories of data;
       g:
-        content: |-
-          where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
-    preamble: |-
-      Each {controller|index:controller} and, where applicable, the controller's {representative|index:representative}, shall maintain a record of {processing|index:processing} activities under its responsibility. That record shall contain all of the following information:
+        content: >-
+          where possible, a general description of the technical and organisational
+          security measures referred to in Article 32(1).
+    preamble: >-
+      Each {controller|index:controller} and, where applicable, the controller's {representative|index:representative},
+      shall maintain a record of {processing|index:processing} activities under its
+      responsibility. That record shall contain all of the following information:
   2:
     index:
     - representative
     - processor
-    - processing
     - controller
+    - processing
     number: 2
     points:
       a:
-        content: |-
-          the name and contact details of the {processor|index:processor} or processors and of each {controller|index:controller} on behalf of which the {processor|index:processor} is acting, and, where applicable, of the controller's or the processor's {representative|index:representative}, and the data protection officer;
+        content: >-
+          the name and contact details of the {processor|index:processor} or processors
+          and of each {controller|index:controller} on behalf of which the {processor|index:processor}
+          is acting, and, where applicable, of the controller's or the processor's
+          {representative|index:representative}, and the data protection officer;
         index:
         - representative
         - processor
         - controller
       b:
-        content: |-
-          the categories of {processing|index:processing} carried out on behalf of each {controller|index:controller};
+        content: >-
+          the categories of {processing|index:processing} carried out on behalf of
+          each {controller|index:controller};
         index:
-        - processing
         - controller
+        - processing
       c:
-        content: |-
-          where applicable, transfers of {personal data|index:personal-data} to a third country or an {international organisation|index:international-organisation}, including the identification of that third country or {international organisation|index:international-organisation} and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;
+        content: >-
+          where applicable, transfers of {personal data|index:personal-data} to a
+          third country or an {international organisation|index:international-organisation},
+          including the identification of that third country or {international organisation|index:international-organisation}
+          and, in the case of transfers referred to in the second subparagraph of
+          Article 49(1), the documentation of suitable safeguards;
         index:
-        - international-organisation
         - personal-data
+        - international-organisation
       d:
-        content: |-
-          where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
-    preamble: |-
-      Each {processor|index:processor} and, where applicable, the processor's {representative|index:representative} shall maintain a record of all categories of {processing|index:processing} activities carried out on behalf of a {controller|index:controller}, containing:
+        content: >-
+          where possible, a general description of the technical and organisational
+          security measures referred to in Article 32(1).
+    preamble: >-
+      Each {processor|index:processor} and, where applicable, the processor's {representative|index:representative}
+      shall maintain a record of all categories of {processing|index:processing} activities
+      carried out on behalf of a {controller|index:controller}, containing:
   3:
     content: The records referred to in paragraphs 1 and 2 shall be in writing, including
       in electronic form.
     number: 3
   4:
-    content: |-
-      The {controller|index:controller} or the {processor|index:processor} and, where applicable, the controller's or the processor's {representative|index:representative}, shall make the record available to the {supervisory authority|index:supervisory-authority} on request.
+    content: >-
+      The {controller|index:controller} or the {processor|index:processor} and, where
+      applicable, the controller's or the processor's {representative|index:representative},
+      shall make the record available to the {supervisory authority|index:supervisory-authority}
+      on request.
     index:
     - representative
-    - processor
     - supervisory-authority
+    - processor
     - controller
     number: 4
   5:
-    content: |-
-      The obligations referred to in paragraphs 1 and 2 shall not apply to an {enterprise|index:enterprise} or an organisation employing fewer than 250 persons unless the {processing|index:processing} it carries out is likely to result in a risk to the rights and freedoms of data subjects, the {processing|index:processing} is not occasional, or the {processing|index:processing} includes special categories of data as referred to in Article 9(1) or {personal data|index:personal-data} relating to criminal convictions and offences referred to in Article 10.
+    content: >-
+      The obligations referred to in paragraphs 1 and 2 shall not apply to an {enterprise|index:enterprise}
+      or an organisation employing fewer than 250 persons unless the {processing|index:processing}
+      it carries out is likely to result in a risk to the rights and freedoms of data
+      subjects, the {processing|index:processing} is not occasional, or the {processing|index:processing}
+      includes special categories of data as referred to in Article 9(1) or {personal
+      data|index:personal-data} relating to criminal convictions and offences referred
+      to in Article 10.
     index:
     - enterprise
     - personal-data

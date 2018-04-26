@@ -1,6 +1,13 @@
-content: |-
-  {Regulation|index:regulation} (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing {Regulation|index:regulation} (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of {data subject|index:data-subject} to statistical confidentiality to the Statistical Office of the European Communities, Council {Regulation|index:regulation} (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (OJ L 87, 31.3.2009, p. 164).
+content: >-
+  {Regulation|index:regulation} (EC) No 223/2009 of the European Parliament and of
+  the Council of 11 March 2009 on European statistics and repealing {Regulation|index:regulation}
+  (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the
+  transmission of {data subject|index:data-subject} to statistical confidentiality
+  to the Statistical Office of the European Communities, Council {Regulation|index:regulation}
+  (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom
+  establishing a Committee on the Statistical Programmes of the European Communities
+  (OJ L 87, 31.3.2009, p. 164).
 index:
-- regulation
 - data-subject
+- regulation
 number: 16

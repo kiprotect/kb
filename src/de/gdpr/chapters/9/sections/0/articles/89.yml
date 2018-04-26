@@ -18,11 +18,11 @@ paragraphs:
       \ nicht oder nicht mehr m\xF6glich ist, erf\xFCllt werden k\xF6nnen, werden\
       \ diese Zwecke auf diese Weise erf\xFCllt."
     index:
-    - betroffene-person
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - verordnung
     - verarbeitung
+    - "technische-und-organisatorische-ma\xDFnahmen"
     - pseudonymisierung
+    - betroffene-person
     number: 1
   2:
     content: "Werden {personenbezogene Daten|index:personenbezogene-daten} zu wissenschaftlichen\

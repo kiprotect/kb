@@ -28,10 +28,10 @@ paragraphs:
       \ oder einer Gruppe von {Unternehmen|index:unternehmen}, die eine gemeinsame\
       \ Wirtschaftst\xE4tigkeit aus\xFCben, und die \xDCberwachungssysteme am Arbeitsplatz."
     index:
-    - betroffene-person
-    - unternehmen
     - unternehmensgruppe
     - verarbeitung
+    - unternehmen
+    - betroffene-person
     - personenbezogene-daten
     number: 2
   3:

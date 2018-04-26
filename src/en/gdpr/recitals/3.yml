@@ -1,7 +1,10 @@
-content: |-
-  Directive 95/46/EC of the European Parliament and of the Council (4) seeks to harmonise the protection of fundamental rights and freedoms of {natural persons|index:natural-person} in respect of {processing|index:processing} activities and to ensure the free flow of {personal data|index:personal-data} between Member States.
+content: >-
+  Directive 95/46/EC of the European Parliament and of the Council (4) seeks to harmonise
+  the protection of fundamental rights and freedoms of {natural persons|index:natural-person}
+  in respect of {processing|index:processing} activities and to ensure the free flow
+  of {personal data|index:personal-data} between Member States.
 index:
-- natural-person
 - personal-data
+- natural-person
 - processing
 number: 3

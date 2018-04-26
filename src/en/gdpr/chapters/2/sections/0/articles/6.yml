@@ -9,52 +9,76 @@ paragraphs:
     number: 1
     points:
       a:
-        content: |-
-          the {data subject|index:data-subject} has given {consent|index:consent} to the {processing|index:processing} of his or her {personal data|index:personal-data} for one or more specific purposes;
+        content: >-
+          the {data subject|index:data-subject} has given {consent|index:consent}
+          to the {processing|index:processing} of his or her {personal data|index:personal-data}
+          for one or more specific purposes;
         index:
-        - data-subject
         - consent
+        - data-subject
         - personal-data
         - processing
       b:
-        content: |-
-          {processing|index:processing} is necessary for the performance of a contract to which the {data subject|index:data-subject} is party or in order to take steps at the request of the {data subject|index:data-subject} prior to entering into a contract;
+        content: >-
+          {processing|index:processing} is necessary for the performance of a contract
+          to which the {data subject|index:data-subject} is party or in order to take
+          steps at the request of the {data subject|index:data-subject} prior to entering
+          into a contract;
         index:
         - data-subject
         - processing
       c:
-        content: |-
-          {processing|index:processing} is necessary for compliance with a legal obligation to which the {controller|index:controller} is subject;
+        content: >-
+          {processing|index:processing} is necessary for compliance with a legal obligation
+          to which the {controller|index:controller} is subject;
         index:
-        - processing
         - controller
+        - processing
       d:
-        content: |-
-          {processing|index:processing} is necessary in order to protect the vital interests of the {data subject|index:data-subject} or of another {natural person|index:natural-person};
+        content: >-
+          {processing|index:processing} is necessary in order to protect the vital
+          interests of the {data subject|index:data-subject} or of another {natural
+          person|index:natural-person};
         index:
-        - natural-person
         - data-subject
+        - natural-person
         - processing
       e:
-        content: |-
-          {processing|index:processing} is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the {controller|index:controller};
+        content: >-
+          {processing|index:processing} is necessary for the performance of a task
+          carried out in the public interest or in the exercise of official authority
+          vested in the {controller|index:controller};
         index:
-        - processing
         - controller
-      f:
-        content: |-
-          {processing|index:processing} is necessary for the purposes of the legitimate interests pursued by the {controller|index:controller} or by a {third party|index:third-party}, except where such interests are overridden by the interests or fundamental rights and freedoms of the {data subject|index:data-subject} which require protection of {personal data|index:personal-data}, in particular where the {data subject|index:data-subject} is a child. Point (f) of the first subparagraph shall not apply to {processing|index:processing} carried out by public authorities in the performance of their tasks.
-        index:
         - processing
-        - third-party
+      f:
+        content: >-
+          {processing|index:processing} is necessary for the purposes of the legitimate
+          interests pursued by the {controller|index:controller} or by a {third party|index:third-party},
+          except where such interests are overridden by the interests or fundamental
+          rights and freedoms of the {data subject|index:data-subject} which require
+          protection of {personal data|index:personal-data}, in particular where the
+          {data subject|index:data-subject} is a child. Point (f) of the first subparagraph
+          shall not apply to {processing|index:processing} carried out by public authorities
+          in the performance of their tasks.
+        index:
         - data-subject
         - personal-data
+        - processing
+        - third-party
         - controller
-    preamble: |-
-      {Processing|index:processing} shall be lawful only if and to the extent that at least one of the following applies:
+    preamble: >-
+      {Processing|index:processing} shall be lawful only if and to the extent that
+      at least one of the following applies:
   2:
-    content: |-
-      Member States may maintain or introduce more specific provisions to adapt the application of the rules of this {Regulation|index:regulation} with regard to {processing|index:processing} for compliance with points (c) and (e) of paragraph 1 by determining more precisely specific requirements for the {processing|index:processing} and other measures to ensure lawful and fair {processing|index:processing} including for other specific {processing|index:processing} situations as provided for in Chapter IX.
+    content: >-
+      Member States may maintain or introduce more specific provisions to adapt the
+      application of the rules of this {Regulation|index:regulation} with regard to
+      {processing|index:processing} for compliance with points (c) and (e) of paragraph
+      1 by determining more precisely specific requirements for the {processing|index:processing}
+      and other measures to ensure lawful and fair {processing|index:processing} including
+      for other specific {processing|index:processing} situations as provided for
+      in Chapter IX.
     index:
     - regulation
     - processing
@@ -67,38 +91,62 @@ paragraphs:
       a:
         content: Union law; or
       b:
-        content: |-
-          Member State law to which the {controller|index:controller} is subject. The purpose of the {processing|index:processing} shall be determined in that legal basis or, as regards the {processing|index:processing} referred to in point (e) of paragraph 1, shall be necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the {controller|index:controller}. That legal basis may contain specific provisions to adapt the application of rules of this {Regulation|index:regulation}, inter alia: the general conditions governing the lawfulness of {processing|index:processing} by the {controller|index:controller}; the types of data which are subject to the {processing|index:processing}; the data subjects concerned; the entities to, and the purposes for which, the {personal data|index:personal-data} may be disclosed; the purpose limitation; storage periods; and {processing|index:processing} operations and {processing|index:processing} procedures, including measures to ensure lawful and fair {processing|index:processing} such as those for other specific {processing|index:processing} situations as provided for in Chapter IX. The Union or the Member State law shall meet an objective of public interest and be proportionate to the legitimate aim pursued.
+        content: >-
+          Member State law to which the {controller|index:controller} is subject.
+          The purpose of the {processing|index:processing} shall be determined in
+          that legal basis or, as regards the {processing|index:processing} referred
+          to in point (e) of paragraph 1, shall be necessary for the performance of
+          a task carried out in the public interest or in the exercise of official
+          authority vested in the {controller|index:controller}. That legal basis
+          may contain specific provisions to adapt the application of rules of this
+          {Regulation|index:regulation}, inter alia: the general conditions governing
+          the lawfulness of {processing|index:processing} by the {controller|index:controller};
+          the types of data which are subject to the {processing|index:processing};
+          the data subjects concerned; the entities to, and the purposes for which,
+          the {personal data|index:personal-data} may be disclosed; the purpose limitation;
+          storage periods; and {processing|index:processing} operations and {processing|index:processing}
+          procedures, including measures to ensure lawful and fair {processing|index:processing}
+          such as those for other specific {processing|index:processing} situations
+          as provided for in Chapter IX. The Union or the Member State law shall meet
+          an objective of public interest and be proportionate to the legitimate aim
+          pursued.
         index:
-        - personal-data
         - regulation
-        - processing
+        - personal-data
         - controller
-    preamble: |-
-      The basis for the {processing|index:processing} referred to in point (c) and (e) of paragraph 1 shall be laid down by:
+        - processing
+    preamble: >-
+      The basis for the {processing|index:processing} referred to in point (c) and
+      (e) of paragraph 1 shall be laid down by:
   4:
     index:
     - consent
     - personal-data
-    - processing
     - controller
+    - processing
     number: 4
     points:
       a:
-        content: |-
-          any link between the purposes for which the {personal data|index:personal-data} have been collected and the purposes of the intended further {processing|index:processing};
+        content: >-
+          any link between the purposes for which the {personal data|index:personal-data}
+          have been collected and the purposes of the intended further {processing|index:processing};
         index:
         - personal-data
         - processing
       b:
-        content: |-
-          the context in which the {personal data|index:personal-data} have been collected, in particular regarding the relationship between data subjects and the {controller|index:controller};
+        content: >-
+          the context in which the {personal data|index:personal-data} have been collected,
+          in particular regarding the relationship between data subjects and the {controller|index:controller};
         index:
         - personal-data
         - controller
       c:
-        content: |-
-          the nature of the {personal data|index:personal-data}, in particular whether special categories of {personal data|index:personal-data} are processed, pursuant to Article 9, or whether {personal data|index:personal-data} related to criminal convictions and offences are processed, pursuant to Article 10;
+        content: >-
+          the nature of the {personal data|index:personal-data}, in particular whether
+          special categories of {personal data|index:personal-data} are processed,
+          pursuant to Article 9, or whether {personal data|index:personal-data} related
+          to criminal convictions and offences are processed, pursuant to Article
+          10;
         index:
         - personal-data
       d:
@@ -107,11 +155,19 @@ paragraphs:
         index:
         - processing
       e:
-        content: |-
-          the existence of appropriate safeguards, which may include encryption or {pseudonymisation|index:pseudonymisation}.
+        content: >-
+          the existence of appropriate safeguards, which may include encryption or
+          {pseudonymisation|index:pseudonymisation}.
         index:
         - pseudonymisation
-    preamble: |-
-      Where the {processing|index:processing} for a purpose other than that for which the {personal data|index:personal-data} have been collected is not based on the data subject's {consent|index:consent} or on a Union or Member State law which constitutes a necessary and proportionate measure in a democratic society to safeguard the objectives referred to in Article 23(1), the {controller|index:controller} shall, in order to ascertain whether {processing|index:processing} for another purpose is compatible with the purpose for which the {personal data|index:personal-data} are initially collected, take into account, inter alia:
+    preamble: >-
+      Where the {processing|index:processing} for a purpose other than that for which
+      the {personal data|index:personal-data} have been collected is not based on
+      the data subject's {consent|index:consent} or on a Union or Member State law
+      which constitutes a necessary and proportionate measure in a democratic society
+      to safeguard the objectives referred to in Article 23(1), the {controller|index:controller}
+      shall, in order to ascertain whether {processing|index:processing} for another
+      purpose is compatible with the purpose for which the {personal data|index:personal-data}
+      are initially collected, take into account, inter alia:
 section: 0
 title: Lawfulness of {processing|index:processing}

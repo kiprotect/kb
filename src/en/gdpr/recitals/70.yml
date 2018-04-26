@@ -1,8 +1,14 @@
-content: |-
-  Where {personal data|index:personal-data} are processed for the purposes of direct marketing, the {data subject|index:data-subject} should have the right to object to such {processing|index:processing}, including {profiling|index:profiling} to the extent that it is related to such direct marketing, whether with regard to initial or further {processing|index:processing}, at any time and free of charge. That right should be explicitly brought to the attention of the {data subject|index:data-subject} and presented clearly and separately from any other information.
+content: >-
+  Where {personal data|index:personal-data} are processed for the purposes of direct
+  marketing, the {data subject|index:data-subject} should have the right to object
+  to such {processing|index:processing}, including {profiling|index:profiling} to
+  the extent that it is related to such direct marketing, whether with regard to initial
+  or further {processing|index:processing}, at any time and free of charge. That right
+  should be explicitly brought to the attention of the {data subject|index:data-subject}
+  and presented clearly and separately from any other information.
 index:
-- profiling
 - data-subject
 - personal-data
+- profiling
 - processing
 number: 70

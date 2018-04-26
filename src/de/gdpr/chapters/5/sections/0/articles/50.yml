@@ -1,12 +1,14 @@
 chapter: 5
 index:
-- internationale-organisation
 - "aufsichtsbeh\xF6rde"
+- internationale-organisation
 number: 50
 points:
   a:
-    content: |-
-      Entwicklung von Mechanismen der internationalen Zusammenarbeit, durch die die wirksame Durchsetzung von Rechtsvorschriften zum Schutz {personenbezogener Daten|index:personenbezogene-daten} erleichtert wird,
+    content: >-
+      Entwicklung von Mechanismen der internationalen Zusammenarbeit, durch die die
+      wirksame Durchsetzung von Rechtsvorschriften zum Schutz {personenbezogener Daten|index:personenbezogene-daten}
+      erleichtert wird,
     index:
     - personenbezogene-daten
     number: a

@@ -1,9 +1,17 @@
-content: |-
-  Where {personal data|index:personal-data} might lawfully be processed because {processing|index:processing} is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the {controller|index:controller}, or on grounds of the legitimate interests of a {controller|index:controller} or a {third party|index:third-party}, a {data subject|index:data-subject} should, nevertheless, be entitled to object to the {processing|index:processing} of any {personal data|index:personal-data} relating to his or her particular situation. It should be for the {controller|index:controller} to demonstrate that its compelling legitimate interest overrides the interests or the fundamental rights and freedoms of the {data subject|index:data-subject}.
+content: >-
+  Where {personal data|index:personal-data} might lawfully be processed because {processing|index:processing}
+  is necessary for the performance of a task carried out in the public interest or
+  in the exercise of official authority vested in the {controller|index:controller},
+  or on grounds of the legitimate interests of a {controller|index:controller} or
+  a {third party|index:third-party}, a {data subject|index:data-subject} should, nevertheless,
+  be entitled to object to the {processing|index:processing} of any {personal data|index:personal-data}
+  relating to his or her particular situation. It should be for the {controller|index:controller}
+  to demonstrate that its compelling legitimate interest overrides the interests or
+  the fundamental rights and freedoms of the {data subject|index:data-subject}.
 index:
-- processing
-- third-party
 - data-subject
 - personal-data
+- processing
+- third-party
 - controller
 number: 69

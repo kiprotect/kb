@@ -3,6 +3,6 @@ content: "Auch die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|in
   \ Zielen von staatlich anerkannten Religionsgemeinschaften erfolgt aus Gr\xFCnden\
   \ des \xF6ffentlichen Interesses."
 index:
-- personenbezogene-daten
 - verarbeitung
+- personenbezogene-daten
 number: 55

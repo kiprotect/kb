@@ -5,9 +5,9 @@ number: 18
 paragraphs:
   1:
     index:
-    - verantwortlicher
-    - "einschr\xE4nkung-der-verarbeitung"
     - betroffene-person
+    - "einschr\xE4nkung-der-verarbeitung"
+    - verantwortlicher
     number: 1
     points:
       a:
@@ -17,9 +17,9 @@ paragraphs:
           \ erm\xF6glicht, die Richtigkeit der {personenbezogenen Daten|index:personenbezogene-daten}\
           \ zu \xFCberpr\xFCfen,"
         index:
-        - verantwortlicher
-        - personenbezogene-daten
         - betroffene-person
+        - personenbezogene-daten
+        - verantwortlicher
       b:
         content: "die {Verarbeitung|index:verarbeitung} unrechtm\xE4\xDFig ist und\
           \ die {betroffene Person|index:betroffene-person} die L\xF6schung der {personenbezogenen\
@@ -27,9 +27,9 @@ paragraphs:
           nkung der Nutzung der {personenbezogenen Daten|index:personenbezogene-daten}\
           \ verlangt;"
         index:
-        - personenbezogene-daten
-        - verarbeitung
         - betroffene-person
+        - verarbeitung
+        - personenbezogene-daten
       c:
         content: "der {Verantwortliche|index:verantwortlicher} die {personenbezogenen\
           \ Daten|index:personenbezogene-daten} f\xFCr die Zwecke der {Verarbeitung|index:verarbeitung}\
@@ -37,10 +37,10 @@ paragraphs:
           \ sie jedoch zur Geltendmachung, Aus\xFCbung oder Verteidigung von Rechtsanspr\xFC\
           chen ben\xF6tigt, oder"
         index:
-        - verantwortlicher
-        - personenbezogene-daten
-        - verarbeitung
         - betroffene-person
+        - verarbeitung
+        - personenbezogene-daten
+        - verantwortlicher
       d:
         content: "die {betroffene Person|index:betroffene-person} Widerspruch gegen\
           \ die {Verarbeitung|index:verarbeitung} gem\xE4\xDF Artikel 21 Absatz 1\
@@ -48,9 +48,9 @@ paragraphs:
           nde des {Verantwortlichen|index:verantwortlicher} gegen\xFCber denen der\
           \ {betroffenen Person|index:betroffene-person} \xFCberwiegen."
         index:
-        - verantwortlicher
         - betroffene-person
         - verarbeitung
+        - verantwortlicher
     preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, von\
       \ dem {Verantwortlichen|index:verantwortlicher} die {Einschr\xE4nkung der Verarbeitung|index:einschr\xE4\
       nkung-der-verarbeitung} zu verlangen, wenn eine der folgenden Voraussetzungen\
@@ -65,10 +65,10 @@ paragraphs:
       nden eines wichtigen \xF6ffentlichen Interesses der Union oder eines Mitgliedstaats\
       \ verarbeitet werden."
     index:
-    - einwilligung
-    - personenbezogene-daten
-    - verarbeitung
     - betroffene-person
+    - verarbeitung
+    - personenbezogene-daten
+    - einwilligung
     number: 2
   3:
     content: "Eine {betroffene Person|index:betroffene-person}, die eine {Einschr\xE4\
@@ -76,9 +76,9 @@ paragraphs:
       \ Absatz 1 erwirkt hat, wird von dem {Verantwortlichen|index:verantwortlicher}\
       \ unterrichtet, bevor die Einschr\xE4nkung aufgehoben wird."
     index:
-    - verantwortlicher
-    - "einschr\xE4nkung-der-verarbeitung"
     - betroffene-person
+    - "einschr\xE4nkung-der-verarbeitung"
+    - verantwortlicher
     number: 3
 section: 3
 title: "Recht auf {Einschr\xE4nkung der Verarbeitung|index:einschr\xE4nkung-der-verarbeitung}"

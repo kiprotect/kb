@@ -1,9 +1,28 @@
-content: |-
-  Where a data protection impact assessment indicates that the {processing|index:processing} would, in the absence of safeguards, security measures and mechanisms to mitigate the risk, result in a high risk to the rights and freedoms of {natural persons|index:natural-person} and the {controller|index:controller} is of the opinion that the risk cannot be mitigated by reasonable means in terms of available technologies and costs of implementation, the {supervisory authority|index:supervisory-authority} should be consulted prior to the start of {processing|index:processing} activities. Such high risk is likely to result from certain types of {processing|index:processing} and the extent and frequency of {processing|index:processing}, which may result also in a realisation of damage or interference with the rights and freedoms of the {natural person|index:natural-person}. The {supervisory authority|index:supervisory-authority} should respond to the request for consultation within a specified period. However, the absence of a reaction of the {supervisory authority|index:supervisory-authority} within that period should be without prejudice to any intervention of the {supervisory authority|index:supervisory-authority} in accordance with its tasks and powers laid down in this {Regulation|index:regulation}, including the power to prohibit {processing|index:processing} operations. As part of that consultation process, the outcome of a data protection impact assessment carried out with regard to the {processing|index:processing} at issue may be submitted to the {supervisory authority|index:supervisory-authority}, in particular the measures envisaged to mitigate the risk to the rights and freedoms of {natural persons|index:natural-person}.
+content: >-
+  Where a data protection impact assessment indicates that the {processing|index:processing}
+  would, in the absence of safeguards, security measures and mechanisms to mitigate
+  the risk, result in a high risk to the rights and freedoms of {natural persons|index:natural-person}
+  and the {controller|index:controller} is of the opinion that the risk cannot be
+  mitigated by reasonable means in terms of available technologies and costs of implementation,
+  the {supervisory authority|index:supervisory-authority} should be consulted prior
+  to the start of {processing|index:processing} activities. Such high risk is likely
+  to result from certain types of {processing|index:processing} and the extent and
+  frequency of {processing|index:processing}, which may result also in a realisation
+  of damage or interference with the rights and freedoms of the {natural person|index:natural-person}.
+  The {supervisory authority|index:supervisory-authority} should respond to the request
+  for consultation within a specified period. However, the absence of a reaction of
+  the {supervisory authority|index:supervisory-authority} within that period should
+  be without prejudice to any intervention of the {supervisory authority|index:supervisory-authority}
+  in accordance with its tasks and powers laid down in this {Regulation|index:regulation},
+  including the power to prohibit {processing|index:processing} operations. As part
+  of that consultation process, the outcome of a data protection impact assessment
+  carried out with regard to the {processing|index:processing} at issue may be submitted
+  to the {supervisory authority|index:supervisory-authority}, in particular the measures
+  envisaged to mitigate the risk to the rights and freedoms of {natural persons|index:natural-person}.
 index:
-- processing
-- supervisory-authority
-- natural-person
 - regulation
+- supervisory-authority
+- processing
 - controller
+- natural-person
 number: 94

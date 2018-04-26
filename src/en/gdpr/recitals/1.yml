@@ -5,7 +5,7 @@ content: "The protection of {natural persons|index:natural-person} in relation t
   \ of the European Union (TFEU) provide that everyone has the right to the protection\
   \ of {personal data|index:personal-data} concerning him or her."
 index:
-- natural-person
 - personal-data
+- natural-person
 - processing
 number: 1

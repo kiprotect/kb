@@ -31,14 +31,14 @@ content: "Jeder {Verantwortliche|index:verantwortlicher} oder {Auftragsverarbeit
   \ oder {Auftragsverarbeiters|index:auftragsverarbeiter} sollte der bestellte {Vertreter|index:vertreter}\
   \ Durchsetzungsverfahren unterworfen werden."
 index:
-- betroffene-person
-- verantwortlicher
-- "aufsichtsbeh\xF6rde"
+- "nat\xFCrliche-person"
 - verordnung
 - verarbeitung
-- vertreter
-- auftragsverarbeiter
-- personenbezogene-daten
-- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
+- verantwortlicher
 - "verarbeitungst\xE4tigkeit"
+- auftragsverarbeiter
+- betroffene-person
+- vertreter
+- personenbezogene-daten
 number: 80

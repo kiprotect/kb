@@ -13,9 +13,9 @@ paragraphs:
           \ alle Informationen bereitzustellen, die f\xFCr die Erf\xFCllung ihrer\
           \ Aufgaben erforderlich sind,"
         index:
-        - verantwortlicher
-        - vertreter
         - auftragsverarbeiter
+        - vertreter
+        - verantwortlicher
       b:
         content: "Untersuchungen in Form von Datenschutz\xFCberpr\xFCfungen durchzuf\xFC\
           hren,"
@@ -27,26 +27,26 @@ paragraphs:
           \ auf einen vermeintlichen Versto\xDF gegen diese {Verordnung|index:verordnung}\
           \ hinzuweisen,"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
         - verordnung
+        - verantwortlicher
       e:
         content: "von dem {Verantwortlichen|index:verantwortlicher} und dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
           \ Zugang zu allen {personenbezogenen Daten|index:personenbezogene-daten}\
           \ und Informationen, die zur Erf\xFCllung ihrer Aufgaben notwendig sind,\
           \ zu erhalten,"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
         - personenbezogene-daten
+        - verantwortlicher
       f:
         content: "gem\xE4\xDF dem Verfahrensrecht der Union oder dem Verfahrensrecht\
           \ des Mitgliedstaats Zugang zu den Gesch\xE4ftsr\xE4umen, einschlie\xDF\
           lich aller Datenverarbeitungsanlagen und -ger\xE4te, des {Verantwortlichen|index:verantwortlicher}\
           \ und des {Auftragsverarbeiters|index:auftragsverarbeiter} zu erhalten."
         index:
-        - verantwortlicher
         - auftragsverarbeiter
+        - verantwortlicher
     preamble: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} verf\xFCgt \xFC\
       ber s\xE4mtliche folgenden Untersuchungsbefugnisse, die es ihr gestatten,"
   2:
@@ -59,43 +59,45 @@ paragraphs:
           \ zu warnen, dass beabsichtigte Verarbeitungsvorg\xE4nge voraussichtlich\
           \ gegen diese {Verordnung|index:verordnung} versto\xDFen,"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
         - verordnung
+        - verantwortlicher
       b:
         content: "einen {Verantwortlichen|index:verantwortlicher} oder einen {Auftragsverarbeiter|index:auftragsverarbeiter}\
           \ zu verwarnen, wenn er mit Verarbeitungsvorg\xE4ngen gegen diese {Verordnung|index:verordnung}\
           \ versto\xDFen hat,"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
         - verordnung
+        - verantwortlicher
       c:
         content: "den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
           \ anzuweisen, den Antr\xE4gen der {betroffenen Person|index:betroffene-person}\
           \ auf Aus\xFCbung der ihr nach dieser {Verordnung|index:verordnung} zustehenden\
           \ Rechte zu entsprechen,"
         index:
-        - verantwortlicher
-        - auftragsverarbeiter
         - betroffene-person
         - verordnung
+        - auftragsverarbeiter
+        - verantwortlicher
       d:
         content: "den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
           \ anzuweisen, Verarbeitungsvorg\xE4nge gegebenenfalls auf bestimmte Weise\
           \ und innerhalb eines bestimmten Zeitraums in Einklang mit dieser {Verordnung|index:verordnung}\
           \ zu bringen,"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
         - verordnung
-      e:
-        content: |-
-          den {Verantwortlichen|index:verantwortlicher} anzuweisen, die von einer {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten} {betroffenen Person|index:betroffene-person} entsprechend zu benachrichtigen,
-        index:
         - verantwortlicher
+      e:
+        content: >-
+          den {Verantwortlichen|index:verantwortlicher} anzuweisen, die von einer
+          {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}
+          {betroffenen Person|index:betroffene-person} entsprechend zu benachrichtigen,
+        index:
         - betroffene-person
         - verletzung-des-schutzes-personenbezogener-daten
+        - verantwortlicher
       f:
         content: "eine vor\xFCbergehende oder endg\xFCltige Beschr\xE4nkung der {Verarbeitung|index:verarbeitung},\
           \ einschlie\xDFlich eines Verbots, zu verh\xE4ngen,"
@@ -109,9 +111,9 @@ paragraphs:
           \ gem\xE4\xDF Artikel 17 Absatz 2 und Artikel 19 offengelegt wurden, \xFC\
           ber solche Ma\xDFnahmen anzuordnen,"
         index:
-        - "einschr\xE4nkung-der-verarbeitung"
-        - personenbezogene-daten
         - "empf\xE4nger"
+        - personenbezogene-daten
+        - "einschr\xE4nkung-der-verarbeitung"
       h:
         content: "eine Zertifizierung zu widerrufen oder die Zertifizierungsstelle\
           \ anzuweisen, eine gem\xE4\xDF den Artikel 42 und 43 erteilte Zertifizierung\
@@ -140,8 +142,8 @@ paragraphs:
         content: "gem\xE4\xDF dem {Verfahren|index:verfahren} der vorherigen Konsultation\
           \ nach Artikel 36 den {Verantwortlichen|index:verantwortlicher} zu beraten,"
         index:
-        - verantwortlicher
         - verfahren
+        - verantwortlicher
       b:
         content: "zu allen Fragen, die im Zusammenhang mit dem Schutz {personenbezogener\
           \ Daten|index:personenbezogene-daten} stehen, von sich aus oder auf Anfrage\
@@ -165,8 +167,9 @@ paragraphs:
         content: "im Einklang mit Artikel 42 Absatz 5 Zertifizierungen zu erteilen\
           \ und Kriterien f\xFCr die Zertifizierung zu billigen,"
       g:
-        content: |-
-          Standarddatenschutzklauseln nach Artikel 28 Absatz 8 und Artikel 46 Absatz 2 Buchstabe d festzulegen,
+        content: >-
+          Standarddatenschutzklauseln nach Artikel 28 Absatz 8 und Artikel 46 Absatz
+          2 Buchstabe d festzulegen,
       h:
         content: "Vertragsklauseln gem\xE4\xDF Artikel 46 Absatz 3 Buchstabe a zu\
           \ genehmigen,"
@@ -195,8 +198,8 @@ paragraphs:
       \ eines gerichtlichen Verfahrens zu betreiben oder sich sonst daran zu beteiligen,\
       \ um die Bestimmungen dieser {Verordnung|index:verordnung} durchzusetzen."
     index:
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
     number: 5
   6:
     content: "Jeder Mitgliedstaat kann durch Rechtsvorschriften vorsehen, dass seine\

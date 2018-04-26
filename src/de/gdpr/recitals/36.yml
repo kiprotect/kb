@@ -40,15 +40,15 @@ content: "Die {Hauptniederlassung|index:hauptniederlassung} des {Verantwortliche
   \ gelten, es sei denn, die Zwecke und Mittel der {Verarbeitung|index:verarbeitung}\
   \ werden von einem anderen {Unternehmen|index:unternehmen} festgelegt."
 index:
+- unternehmensgruppe
+- verordnung
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
 - verfahren
 - verantwortlicher
-- unternehmen
-- verordnung
-- verarbeitung
-- hauptniederlassung
-- unternehmensgruppe
-- auftragsverarbeiter
-- personenbezogene-daten
-- "aufsichtsbeh\xF6rde"
 - "verarbeitungst\xE4tigkeit"
+- auftragsverarbeiter
+- hauptniederlassung
+- unternehmen
+- personenbezogene-daten
 number: 36

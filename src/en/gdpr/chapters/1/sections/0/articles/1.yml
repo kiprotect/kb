@@ -2,28 +2,36 @@ chapter: 1
 number: 1
 paragraphs:
   1:
-    content: |-
-      This {Regulation|index:regulation} lays down rules relating to the protection of {natural persons|index:natural-person} with regard to the {processing|index:processing} of {personal data|index:personal-data} and rules relating to the free movement of {personal data|index:personal-data}.
+    content: >-
+      This {Regulation|index:regulation} lays down rules relating to the protection
+      of {natural persons|index:natural-person} with regard to the {processing|index:processing}
+      of {personal data|index:personal-data} and rules relating to the free movement
+      of {personal data|index:personal-data}.
     index:
-    - natural-person
-    - personal-data
     - regulation
+    - personal-data
+    - natural-person
     - processing
     number: 1
   2:
-    content: |-
-      This {Regulation|index:regulation} protects fundamental rights and freedoms of {natural persons|index:natural-person} and in particular their right to the protection of {personal data|index:personal-data}.
+    content: >-
+      This {Regulation|index:regulation} protects fundamental rights and freedoms
+      of {natural persons|index:natural-person} and in particular their right to the
+      protection of {personal data|index:personal-data}.
     index:
-    - natural-person
     - personal-data
+    - natural-person
     - regulation
     number: 2
   3:
-    content: |-
-      The free movement of {personal data|index:personal-data} within the Union shall be neither restricted nor prohibited for reasons connected with the protection of {natural persons|index:natural-person} with regard to the {processing|index:processing} of {personal data|index:personal-data}.
+    content: >-
+      The free movement of {personal data|index:personal-data} within the Union shall
+      be neither restricted nor prohibited for reasons connected with the protection
+      of {natural persons|index:natural-person} with regard to the {processing|index:processing}
+      of {personal data|index:personal-data}.
     index:
-    - natural-person
     - personal-data
+    - natural-person
     - processing
     number: 3
 section: 0

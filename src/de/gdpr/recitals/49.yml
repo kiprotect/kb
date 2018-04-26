@@ -18,7 +18,7 @@ content: "Die {Verarbeitung|index:verarbeitung} von {personenbezogenen Daten|ind
   \ \xDCberlastung von Servern (\u201EDenial of service\u201C-Angriffe) und Sch\xE4\
   digungen von Computer- und elektronischen Kommunikationssystemen abzuwehren."
 index:
-- verantwortlicher
-- personenbezogene-daten
 - verarbeitung
+- personenbezogene-daten
+- verantwortlicher
 number: 49

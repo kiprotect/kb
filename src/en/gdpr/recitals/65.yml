@@ -24,10 +24,10 @@ content: "A {data subject|index:data-subject} should have the right to have {per
   \ purposes in the public interest, scientific or historical research purposes or\
   \ statistical purposes, or for the establishment, exercise or defence of legal claims."
 index:
-- processing
-- data-subject
-- consent
-- personal-data
 - regulation
+- data-subject
+- personal-data
+- processing
+- consent
 - controller
 number: 65

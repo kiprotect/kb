@@ -14,10 +14,10 @@ paragraphs:
           \ Daten|index:personenbezogene-daten} f\xFCr einen oder mehrere bestimmte\
           \ Zwecke gegeben;"
         index:
-        - einwilligung
-        - personenbezogene-daten
-        - verarbeitung
         - betroffene-person
+        - verarbeitung
+        - personenbezogene-daten
+        - einwilligung
       b:
         content: "die {Verarbeitung|index:verarbeitung} ist f\xFCr die Erf\xFCllung\
           \ eines Vertrags, dessen Vertragspartei die {betroffene Person|index:betroffene-person}\
@@ -31,16 +31,16 @@ paragraphs:
           \ rechtlichen Verpflichtung erforderlich, der der {Verantwortliche|index:verantwortlicher}\
           \ unterliegt;"
         index:
-        - verantwortlicher
         - verarbeitung
+        - verantwortlicher
       d:
         content: "die {Verarbeitung|index:verarbeitung} ist erforderlich, um lebenswichtige\
           \ Interessen der {betroffenen Person|index:betroffene-person} oder einer\
           \ anderen {nat\xFCrlichen Person|index:nat\xFCrliche-person} zu sch\xFC\
           tzen;"
         index:
-        - betroffene-person
         - "nat\xFCrliche-person"
+        - betroffene-person
         - verarbeitung
       e:
         content: "die {Verarbeitung|index:verarbeitung} ist f\xFCr die Wahrnehmung\
@@ -48,8 +48,8 @@ paragraphs:
           \ in Aus\xFCbung \xF6ffentlicher Gewalt erfolgt, die dem {Verantwortlichen|index:verantwortlicher}\
           \ \xFCbertragen wurde;"
         index:
-        - verantwortlicher
         - verarbeitung
+        - verantwortlicher
       f:
         content: "die {Verarbeitung|index:verarbeitung} ist zur Wahrung der berechtigten\
           \ Interessen des {Verantwortlichen|index:verantwortlicher} oder eines {Dritten|index:dritter}\
@@ -60,10 +60,10 @@ paragraphs:
           \ um ein Kind handelt. Unterabsatz 1 Buchstabe f gilt nicht f\xFCr die von\
           \ Beh\xF6rden in Erf\xFCllung ihrer Aufgaben vorgenommene {Verarbeitung|index:verarbeitung}."
         index:
-        - betroffene-person
-        - verantwortlicher
         - verarbeitung
+        - verantwortlicher
         - dritter
+        - betroffene-person
         - personenbezogene-daten
     preamble: "Die {Verarbeitung|index:verarbeitung} ist nur rechtm\xE4\xDFig, wenn\
       \ mindestens eine der nachstehenden Bedingungen erf\xFCllt ist:"
@@ -109,19 +109,19 @@ paragraphs:
           \ \xF6ffentlichen Interesse liegendes Ziel verfolgen und in einem angemessenen\
           \ Verh\xE4ltnis zu dem verfolgten legitimen Zweck stehen."
         index:
-        - verfahren
-        - verantwortlicher
         - verordnung
         - verarbeitung
+        - verfahren
+        - verantwortlicher
         - personenbezogene-daten
     preamble: "Die Rechtsgrundlage f\xFCr die Verarbeitungen gem\xE4\xDF Absatz 1\
       \ Buchstaben c und e wird festgelegt durch"
   4:
     index:
-    - betroffene-person
+    - verarbeitung
     - verantwortlicher
     - einwilligung
-    - verarbeitung
+    - betroffene-person
     - personenbezogene-daten
     number: 4
     points:
@@ -136,9 +136,9 @@ paragraphs:
           \ erhoben wurden, insbesondere hinsichtlich des Verh\xE4ltnisses zwischen\
           \ den {betroffenen Personen|index:betroffene-person} und dem {Verantwortlichen|index:verantwortlicher},"
         index:
-        - verantwortlicher
-        - personenbezogene-daten
         - betroffene-person
+        - personenbezogene-daten
+        - verantwortlicher
       c:
         content: "die Art der {personenbezogenen Daten|index:personenbezogene-daten},\
           \ insbesondere ob besondere Kategorien {personenbezogener Daten|index:personenbezogene-daten}\

@@ -16,8 +16,8 @@ content: "Dass sie betreffende {personenbezogene Daten|index:personenbezogene-da
   \ Daten|index:personenbezogene-daten} stammen, weil verschiedene Quellen benutzt\
   \ wurden, so sollte die Unterrichtung allgemein gehalten werden."
 index:
-- verantwortlicher
-- "empf\xE4nger"
-- personenbezogene-daten
 - betroffene-person
+- personenbezogene-daten
+- "empf\xE4nger"
+- verantwortlicher
 number: 61

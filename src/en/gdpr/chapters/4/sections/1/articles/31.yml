@@ -1,9 +1,11 @@
 chapter: 4
-content: |-
-  The {controller|index:controller} and the {processor|index:processor} and, where applicable, their representatives, shall cooperate, on request, with the {supervisory authority|index:supervisory-authority} in the performance of its tasks.
+content: >-
+  The {controller|index:controller} and the {processor|index:processor} and, where
+  applicable, their representatives, shall cooperate, on request, with the {supervisory
+  authority|index:supervisory-authority} in the performance of its tasks.
 index:
-- processor
 - supervisory-authority
+- processor
 - controller
 number: 31
 section: 1

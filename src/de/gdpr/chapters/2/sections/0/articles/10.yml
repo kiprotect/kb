@@ -8,9 +8,9 @@ content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:p
   \ Ein umfassendes Register der strafrechtlichen Verurteilungen darf nur unter beh\xF6\
   rdlicher Aufsicht gef\xFChrt werden."
 index:
-- personenbezogene-daten
-- verarbeitung
 - betroffene-person
+- verarbeitung
+- personenbezogene-daten
 number: 10
 section: 0
 title: "{Verarbeitung|index:verarbeitung} von {personenbezogenen Daten|index:personenbezogene-daten}\

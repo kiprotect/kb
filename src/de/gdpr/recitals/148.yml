@@ -19,10 +19,10 @@ content: "Im Interesse einer konsequenteren Durchsetzung der Vorschriften dieser
   tzen des Unionsrechts und der Charta, einschlie\xDFlich des Rechts auf wirksamen\
   \ Rechtsschutz und ein faires {Verfahren|index:verfahren}, entsprechen."
 index:
-- verfahren
 - "nat\xFCrliche-person"
-- verantwortlicher
 - verordnung
-- auftragsverarbeiter
 - "aufsichtsbeh\xF6rde"
+- verfahren
+- verantwortlicher
+- auftragsverarbeiter
 number: 148

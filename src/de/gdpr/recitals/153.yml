@@ -27,12 +27,12 @@ content: "Im Recht der Mitgliedstaaten sollten die Vorschriften \xFCber die frei
   \ demokratischen Gesellschaft Rechnung zu tragen, m\xFCssen Begriffe wie Journalismus,\
   \ die sich auf diese Freiheit beziehen, weit ausgelegt werden."
 index:
-- betroffene-person
-- verantwortlicher
+- internationale-organisation
 - verordnung
 - verarbeitung
-- internationale-organisation
-- auftragsverarbeiter
-- personenbezogene-daten
 - "aufsichtsbeh\xF6rde"
+- verantwortlicher
+- auftragsverarbeiter
+- betroffene-person
+- personenbezogene-daten
 number: 153

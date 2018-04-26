@@ -2,16 +2,23 @@ chapter: 9
 number: 91
 paragraphs:
   1:
-    content: |-
-      Where in a Member State, churches and religious associations or communities apply, at the time of entry into force of this {Regulation|index:regulation}, comprehensive rules relating to the protection of {natural persons|index:natural-person} with regard to {processing|index:processing}, such rules may continue to apply, provided that they are brought into line with this {Regulation|index:regulation}.
+    content: >-
+      Where in a Member State, churches and religious associations or communities
+      apply, at the time of entry into force of this {Regulation|index:regulation},
+      comprehensive rules relating to the protection of {natural persons|index:natural-person}
+      with regard to {processing|index:processing}, such rules may continue to apply,
+      provided that they are brought into line with this {Regulation|index:regulation}.
     index:
-    - natural-person
     - regulation
+    - natural-person
     - processing
     number: 1
   2:
-    content: |-
-      Churches and religious associations which apply comprehensive rules in accordance with paragraph 1 of this Article shall be subject to the supervision of an independent {supervisory authority|index:supervisory-authority}, which may be specific, provided that it fulfils the conditions laid down in Chapter VI of this {Regulation|index:regulation}.
+    content: >-
+      Churches and religious associations which apply comprehensive rules in accordance
+      with paragraph 1 of this Article shall be subject to the supervision of an independent
+      {supervisory authority|index:supervisory-authority}, which may be specific,
+      provided that it fulfils the conditions laid down in Chapter VI of this {Regulation|index:regulation}.
     index:
     - supervisory-authority
     - regulation

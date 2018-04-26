@@ -1,10 +1,24 @@
-content: |-
-  Some third countries adopt laws, regulations and other legal acts which purport to directly regulate the {processing|index:processing} activities of natural and legal persons under the jurisdiction of the Member States. This may include judgments of courts or tribunals or decisions of administrative authorities in third countries requiring a {controller|index:controller} or {processor|index:processor} to transfer or disclose {personal data|index:personal-data}, and which are not based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union or a Member State. The extraterritorial application of those laws, regulations and other legal acts may be in breach of international law and may impede the attainment of the protection of {natural persons|index:natural-person} ensured in the Union by this {Regulation|index:regulation}. Transfers should only be allowed where the conditions of this {Regulation|index:regulation} for a transfer to third countries are met. This may be the case, inter alia, where disclosure is necessary for an important ground of public interest recognised in Union or Member State law to which the {controller|index:controller} is subject.
+content: >-
+  Some third countries adopt laws, regulations and other legal acts which purport
+  to directly regulate the {processing|index:processing} activities of natural and
+  legal persons under the jurisdiction of the Member States. This may include judgments
+  of courts or tribunals or decisions of administrative authorities in third countries
+  requiring a {controller|index:controller} or {processor|index:processor} to transfer
+  or disclose {personal data|index:personal-data}, and which are not based on an international
+  agreement, such as a mutual legal assistance treaty, in force between the requesting
+  third country and the Union or a Member State. The extraterritorial application
+  of those laws, regulations and other legal acts may be in breach of international
+  law and may impede the attainment of the protection of {natural persons|index:natural-person}
+  ensured in the Union by this {Regulation|index:regulation}. Transfers should only
+  be allowed where the conditions of this {Regulation|index:regulation} for a transfer
+  to third countries are met. This may be the case, inter alia, where disclosure is
+  necessary for an important ground of public interest recognised in Union or Member
+  State law to which the {controller|index:controller} is subject.
 index:
-- processing
-- processor
-- natural-person
-- personal-data
 - regulation
+- personal-data
+- processor
+- processing
 - controller
+- natural-person
 number: 115

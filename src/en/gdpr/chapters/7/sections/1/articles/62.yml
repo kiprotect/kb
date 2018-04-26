@@ -2,33 +2,64 @@ chapter: 7
 number: 62
 paragraphs:
   1:
-    content: |-
-      The supervisory authorities shall, where appropriate, conduct joint operations including joint investigations and joint enforcement measures in which members or staff of the supervisory authorities of other Member States are involved.
+    content: >-
+      The supervisory authorities shall, where appropriate, conduct joint operations
+      including joint investigations and joint enforcement measures in which members
+      or staff of the supervisory authorities of other Member States are involved.
     number: 1
   2:
-    content: |-
-      Where the {controller|index:controller} or {processor|index:processor} has establishments in several Member States or where a significant number of data subjects in more than one Member State are likely to be substantially affected by {processing|index:processing} operations, a {supervisory authority|index:supervisory-authority} of each of those Member States shall have the right to participate in joint operations. The {supervisory authority|index:supervisory-authority} which is competent pursuant to Article 56(1) or (4) shall invite the {supervisory authority|index:supervisory-authority} of each of those Member States to take part in the joint operations and shall respond without delay to the request of a {supervisory authority|index:supervisory-authority} to participate.
+    content: >-
+      Where the {controller|index:controller} or {processor|index:processor} has establishments
+      in several Member States or where a significant number of data subjects in more
+      than one Member State are likely to be substantially affected by {processing|index:processing}
+      operations, a {supervisory authority|index:supervisory-authority} of each of
+      those Member States shall have the right to participate in joint operations.
+      The {supervisory authority|index:supervisory-authority} which is competent pursuant
+      to Article 56(1) or (4) shall invite the {supervisory authority|index:supervisory-authority}
+      of each of those Member States to take part in the joint operations and shall
+      respond without delay to the request of a {supervisory authority|index:supervisory-authority}
+      to participate.
     index:
-    - processor
     - supervisory-authority
-    - processing
+    - processor
     - controller
+    - processing
     number: 2
   3:
-    content: |-
-      A {supervisory authority|index:supervisory-authority} may, in accordance with Member State law, and with the seconding supervisory authority's authorisation, confer powers, including investigative powers on the seconding supervisory authority's members or staff involved in joint operations or, in so far as the law of the Member State of the host {supervisory authority|index:supervisory-authority} permits, allow the seconding supervisory authority's members or staff to exercise their investigative powers in accordance with the law of the Member State of the seconding {supervisory authority|index:supervisory-authority}. Such investigative powers may be exercised only under the guidance and in the presence of members or staff of the host {supervisory authority|index:supervisory-authority}. The seconding supervisory authority's members or staff shall be subject to the Member State law of the host {supervisory authority|index:supervisory-authority}.
+    content: >-
+      A {supervisory authority|index:supervisory-authority} may, in accordance with
+      Member State law, and with the seconding supervisory authority's authorisation,
+      confer powers, including investigative powers on the seconding supervisory authority's
+      members or staff involved in joint operations or, in so far as the law of the
+      Member State of the host {supervisory authority|index:supervisory-authority}
+      permits, allow the seconding supervisory authority's members or staff to exercise
+      their investigative powers in accordance with the law of the Member State of
+      the seconding {supervisory authority|index:supervisory-authority}. Such investigative
+      powers may be exercised only under the guidance and in the presence of members
+      or staff of the host {supervisory authority|index:supervisory-authority}. The
+      seconding supervisory authority's members or staff shall be subject to the Member
+      State law of the host {supervisory authority|index:supervisory-authority}.
     index:
     - supervisory-authority
     number: 3
   4:
-    content: |-
-      Where, in accordance with paragraph 1, staff of a seconding {supervisory authority|index:supervisory-authority} operate in another Member State, the Member State of the host {supervisory authority|index:supervisory-authority} shall assume responsibility for their actions, including liability, for any damage caused by them during their operations, in accordance with the law of the Member State in whose territory they are operating.
+    content: >-
+      Where, in accordance with paragraph 1, staff of a seconding {supervisory authority|index:supervisory-authority}
+      operate in another Member State, the Member State of the host {supervisory authority|index:supervisory-authority}
+      shall assume responsibility for their actions, including liability, for any
+      damage caused by them during their operations, in accordance with the law of
+      the Member State in whose territory they are operating.
     index:
     - supervisory-authority
     number: 4
   5:
-    content: |-
-      The Member State in whose territory the damage was caused shall make good such damage under the conditions applicable to damage caused by its own staff. The Member State of the seconding {supervisory authority|index:supervisory-authority} whose staff has caused damage to any person in the territory of another Member State shall reimburse that other Member State in full any sums it has paid to the persons entitled on their behalf.
+    content: >-
+      The Member State in whose territory the damage was caused shall make good such
+      damage under the conditions applicable to damage caused by its own staff. The
+      Member State of the seconding {supervisory authority|index:supervisory-authority}
+      whose staff has caused damage to any person in the territory of another Member
+      State shall reimburse that other Member State in full any sums it has paid to
+      the persons entitled on their behalf.
     index:
     - supervisory-authority
     number: 5
@@ -39,8 +70,14 @@ paragraphs:
       \ Member State in relation to damage referred to in paragraph 4."
     number: 6
   7:
-    content: |-
-      Where a joint operation is intended and a {supervisory authority|index:supervisory-authority} does not, within one month, comply with the obligation laid down in the second sentence of paragraph 2 of this Article, the other supervisory authorities may adopt a provisional measure on the territory of its Member State in accordance with Article 55. In that case, the urgent need to act under Article 66(1) shall be presumed to be met and require an opinion or an urgent binding decision from the Board pursuant to Article 66(2).
+    content: >-
+      Where a joint operation is intended and a {supervisory authority|index:supervisory-authority}
+      does not, within one month, comply with the obligation laid down in the second
+      sentence of paragraph 2 of this Article, the other supervisory authorities may
+      adopt a provisional measure on the territory of its Member State in accordance
+      with Article 55. In that case, the urgent need to act under Article 66(1) shall
+      be presumed to be met and require an opinion or an urgent binding decision from
+      the Board pursuant to Article 66(2).
     index:
     - supervisory-authority
     number: 7

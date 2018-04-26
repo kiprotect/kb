@@ -39,9 +39,9 @@ content: "Der Schutz {nat\xFCrlicher Personen|index:nat\xFCrliche-person} bei de
   \ Dies ist beispielsweise im Rahmen der Bek\xE4mpfung der Geldw\xE4sche oder der\
   \ Arbeit kriminaltechnischer Labors von Bedeutung."
 index:
+- "nat\xFCrliche-person"
 - verordnung
 - verarbeitung
-- personenbezogene-daten
-- "nat\xFCrliche-person"
 - "verarbeitungst\xE4tigkeit"
+- personenbezogene-daten
 number: 19

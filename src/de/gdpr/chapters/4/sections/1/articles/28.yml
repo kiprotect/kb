@@ -12,11 +12,11 @@ paragraphs:
       \ und den Schutz der Rechte der {betroffenen Person|index:betroffene-person}\
       \ gew\xE4hrleistet."
     index:
-    - betroffene-person
-    - verantwortlicher
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - verordnung
     - verarbeitung
+    - verantwortlicher
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - betroffene-person
     number: 1
   2:
     content: "Der {Auftragsverarbeiter|index:auftragsverarbeiter} nimmt keinen weiteren\
@@ -29,15 +29,15 @@ paragraphs:
       \ wodurch der {Verantwortliche|index:verantwortlicher} die M\xF6glichkeit erh\xE4\
       lt, gegen derartige \xC4nderungen Einspruch zu erheben."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
+    - verantwortlicher
     number: 2
   3:
     index:
-    - betroffene-person
-    - verantwortlicher
     - verarbeitung
+    - verantwortlicher
     - auftragsverarbeiter
+    - betroffene-person
     - personenbezogene-daten
     number: 3
     points:
@@ -54,9 +54,9 @@ paragraphs:
           \ Recht eine solche Mitteilung nicht wegen eines wichtigen \xF6ffentlichen\
           \ Interesses verbietet;"
         index:
-        - verantwortlicher
-        - verarbeitung
         - internationale-organisation
+        - verarbeitung
+        - verantwortlicher
         - auftragsverarbeiter
         - personenbezogene-daten
       b:
@@ -65,8 +65,8 @@ paragraphs:
           \ zur Vertraulichkeit verpflichtet haben oder einer angemessenen gesetzlichen\
           \ Verschwiegenheitspflicht unterliegen;"
         index:
-        - personenbezogene-daten
         - verarbeitung
+        - personenbezogene-daten
       c:
         content: "alle gem\xE4\xDF Artikel 32 erforderlichen Ma\xDFnahmen ergreift;"
       d:
@@ -84,17 +84,17 @@ paragraphs:
           \ nachzukommen;"
         index:
         - verantwortlicher
-        - "technische-und-organisatorische-ma\xDFnahmen"
         - betroffene-person
         - verarbeitung
+        - "technische-und-organisatorische-ma\xDFnahmen"
       f:
         content: "unter Ber\xFCcksichtigung der Art der {Verarbeitung|index:verarbeitung}\
           \ und der ihm zur Verf\xFCgung stehenden Informationen den {Verantwortlichen|index:verantwortlicher}\
           \ bei der Einhaltung der in den Artikeln 32 bis 36 genannten Pflichten unterst\xFC\
           tzt;"
         index:
-        - verantwortlicher
         - verarbeitung
+        - verantwortlicher
       g:
         content: "nach Abschluss der Erbringung der Verarbeitungsleistungen alle {personenbezogenen\
           \ Daten|index:personenbezogene-daten} nach Wahl des {Verantwortlichen|index:verantwortlicher}\
@@ -102,8 +102,8 @@ paragraphs:
           \ oder dem Recht der Mitgliedstaaten eine Verpflichtung zur Speicherung\
           \ der {personenbezogenen Daten|index:personenbezogene-daten} besteht;"
         index:
-        - verantwortlicher
         - personenbezogene-daten
+        - verantwortlicher
       h:
         content: "dem {Verantwortlichen|index:verantwortlicher} alle erforderlichen\
           \ Informationen zum Nachweis der Einhaltung der in diesem Artikel niedergelegten\
@@ -116,11 +116,20 @@ paragraphs:
           \ diese {Verordnung|index:verordnung} oder gegen andere Datenschutzbestimmungen\
           \ der Union oder der Mitgliedstaaten verst\xF6\xDFt."
         index:
-        - verantwortlicher
         - auftragsverarbeiter
         - verordnung
-    preamble: |-
-      Die {Verarbeitung|index:verarbeitung} durch einen {Auftragsverarbeiter|index:auftragsverarbeiter} erfolgt auf der Grundlage eines Vertrags oder eines anderen Rechtsinstruments nach dem Unionsrecht oder dem Recht der Mitgliedstaaten, der bzw. das den {Auftragsverarbeiter|index:auftragsverarbeiter} in Bezug auf den {Verantwortlichen|index:verantwortlicher} bindet und in dem Gegenstand und Dauer der {Verarbeitung|index:verarbeitung}, Art und Zweck der {Verarbeitung|index:verarbeitung}, die Art der {personenbezogenen Daten|index:personenbezogene-daten}, die Kategorien {betroffener Personen|index:betroffene-person} und die Pflichten und Rechte des {Verantwortlichen|index:verantwortlicher} festgelegt sind. Dieser Vertrag bzw. dieses andere Rechtsinstrument sieht insbesondere vor, dass der {Auftragsverarbeiter|index:auftragsverarbeiter}
+        - verantwortlicher
+    preamble: >-
+      Die {Verarbeitung|index:verarbeitung} durch einen {Auftragsverarbeiter|index:auftragsverarbeiter}
+      erfolgt auf der Grundlage eines Vertrags oder eines anderen Rechtsinstruments
+      nach dem Unionsrecht oder dem Recht der Mitgliedstaaten, der bzw. das den {Auftragsverarbeiter|index:auftragsverarbeiter}
+      in Bezug auf den {Verantwortlichen|index:verantwortlicher} bindet und in dem
+      Gegenstand und Dauer der {Verarbeitung|index:verarbeitung}, Art und Zweck der
+      {Verarbeitung|index:verarbeitung}, die Art der {personenbezogenen Daten|index:personenbezogene-daten},
+      die Kategorien {betroffener Personen|index:betroffene-person} und die Pflichten
+      und Rechte des {Verantwortlichen|index:verantwortlicher} festgelegt sind. Dieser
+      Vertrag bzw. dieses andere Rechtsinstrument sieht insbesondere vor, dass der
+      {Auftragsverarbeiter|index:auftragsverarbeiter}
   4:
     content: "Nimmt der {Auftragsverarbeiter|index:auftragsverarbeiter} die Dienste\
       \ eines weiteren {Auftragsverarbeiters|index:auftragsverarbeiter} in Anspruch,\
@@ -140,12 +149,12 @@ paragraphs:
       \ gegen\xFCber dem {Verantwortlichen|index:verantwortlicher} f\xFCr die Einhaltung\
       \ der Pflichten jenes anderen {Auftragsverarbeiters|index:auftragsverarbeiter}."
     index:
-    - verantwortlicher
-    - "technische-und-organisatorische-ma\xDFnahmen"
     - verordnung
     - verarbeitung
-    - auftragsverarbeiter
+    - "technische-und-organisatorische-ma\xDFnahmen"
     - "verarbeitungst\xE4tigkeit"
+    - auftragsverarbeiter
+    - verantwortlicher
     number: 4
   5:
     content: "Die Einhaltung genehmigter Verhaltensregeln gem\xE4\xDF Artikel 40 oder\
@@ -165,8 +174,8 @@ paragraphs:
       \ einer dem {Verantwortlichen|index:verantwortlicher} oder dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
       \ gem\xE4\xDF den Artikeln 42 und 43 erteilten Zertifizierung sind."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
+    - verantwortlicher
     number: 6
   7:
     content: "Die Kommission kann im Einklang mit dem Pr\xFCfverfahren gem\xE4\xDF\
@@ -194,10 +203,10 @@ paragraphs:
       \ und Mittel der {Verarbeitung|index:verarbeitung} bestimmt, in Bezug auf diese\
       \ {Verarbeitung|index:verarbeitung} als {Verantwortlicher|index:verantwortlicher}."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - verordnung
     - verarbeitung
+    - verantwortlicher
     number: 10
 section: 1
 title: '{Auftragsverarbeiter|index:auftragsverarbeiter}'

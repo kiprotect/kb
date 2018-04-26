@@ -15,7 +15,7 @@ content: "Die dem {Verantwortlichen|index:verantwortlicher} oder dem {Auftragsve
   \ zus\xE4tzliche Garantien zu bieten."
 index:
 - verantwortlicher
-- auftragsverarbeiter
 - betroffene-person
 - "aufsichtsbeh\xF6rde"
+- auftragsverarbeiter
 number: 109

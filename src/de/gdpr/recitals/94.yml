@@ -23,10 +23,10 @@ content: "Geht aus einer Datenschutz-Folgenabsch\xE4tzung hervor, dass die {Vera
   rliche-person} geplanten Ma\xDFnahmen."
 index:
 - "nat\xFCrliche-person"
-- verantwortlicher
 - verordnung
-- verarbeitung
-- personenbezogene-daten
 - "aufsichtsbeh\xF6rde"
+- verarbeitung
+- verantwortlicher
 - "verarbeitungst\xE4tigkeit"
+- personenbezogene-daten
 number: 94

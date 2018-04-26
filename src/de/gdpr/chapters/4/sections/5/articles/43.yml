@@ -18,8 +18,8 @@ paragraphs:
           \ gem\xE4\xDF Artikel 55 oder 56 zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
           rde} festgelegten Anforderungen benannt wurde."
         index:
-        - "aufsichtsbeh\xF6rde"
         - verordnung
+        - "aufsichtsbeh\xF6rde"
     preamble: "Unbeschadet der Aufgaben und Befugnisse der zust\xE4ndigen {Aufsichtsbeh\xF6\
       rde|index:aufsichtsbeh\xF6rde} gem\xE4\xDF den Artikeln 57 und 58 erteilen oder\
       \ verl\xE4ngern Zertifizierungsstellen, die \xFCber das geeignete Fachwissen\
@@ -61,9 +61,9 @@ paragraphs:
           \ transparent machen, und"
         index:
         - verantwortlicher
+        - betroffene-person
         - verfahren
         - auftragsverarbeiter
-        - betroffene-person
       e:
         content: "zur Zufriedenheit der zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
           rde} nachgewiesen haben, dass ihre Aufgaben und Pflichten nicht zu einem\
@@ -83,9 +83,9 @@ paragraphs:
       \ und {Verfahren|index:verfahren} der Zertifizierungsstellen beschrieben werden,\
       \ vorgesehen sind."
     index:
-    - verfahren
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
+    - verfahren
     number: 3
   4:
     content: "Die Zertifizierungsstellen nach Absatz 1 sind unbeschadet der Verantwortung,\
@@ -97,9 +97,9 @@ paragraphs:
       ngert werden, sofern die Zertifizierungsstelle die Anforderungen dieses Artikels\
       \ erf\xFCllt."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - verordnung
+    - verantwortlicher
     number: 4
   5:
     content: "Die Zertifizierungsstellen nach Absatz 1 teilen den zust\xE4ndigen {Aufsichtsbeh\xF6\
@@ -127,8 +127,8 @@ paragraphs:
       \ eine Zertifizierungsstelle Ma\xDFnahmen ergreift, die nicht mit dieser {Verordnung|index:verordnung}\
       \ vereinbar sind."
     index:
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
     number: 7
   8:
     content: "Der Kommission wird die Befugnis \xFCbertragen, gem\xE4\xDF Artikel\

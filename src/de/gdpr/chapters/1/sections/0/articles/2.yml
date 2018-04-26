@@ -8,16 +8,16 @@ paragraphs:
       \ Daten|index:personenbezogene-daten}, die in einem {Dateisystem|index:dateisystem}\
       \ gespeichert sind oder gespeichert werden sollen."
     index:
-    - dateisystem
-    - personenbezogene-daten
     - verordnung
     - verarbeitung
+    - personenbezogene-daten
+    - dateisystem
     number: 1
   2:
     index:
-    - personenbezogene-daten
     - verordnung
     - verarbeitung
+    - personenbezogene-daten
     number: 2
     points:
       a:
@@ -36,8 +36,9 @@ paragraphs:
           \ Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung,\
           \ einschlie\xDFlich des Schutzes vor und der Abwehr von Gefahren f\xFCr\
           \ die \xF6ffentliche Sicherheit."
-    preamble: |-
-      Diese {Verordnung|index:verordnung} findet keine Anwendung auf die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}
+    preamble: >-
+      Diese {Verordnung|index:verordnung} findet keine Anwendung auf die {Verarbeitung|index:verarbeitung}
+      {personenbezogener Daten|index:personenbezogene-daten}
   3:
     content: "F\xFCr die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
       \ durch die Organe, Einrichtungen, \xC4mter und Agenturen der Union gilt die\
@@ -47,9 +48,9 @@ paragraphs:
       \ mit Artikel 98 an die Grunds\xE4tze und Vorschriften der vorliegenden {Verordnung|index:verordnung}\
       \ angepasst."
     index:
-    - personenbezogene-daten
     - verordnung
     - verarbeitung
+    - personenbezogene-daten
     number: 3
   4:
     content: "Die vorliegende {Verordnung|index:verordnung} l\xE4sst die Anwendung\

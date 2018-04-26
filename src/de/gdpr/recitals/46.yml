@@ -14,8 +14,8 @@ content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:p
   ren Notf\xE4llen insbesondere bei Naturkatastrophen oder vom Menschen verursachten\
   \ Katastrophen erforderlich sein."
 index:
-- personenbezogene-daten
 - "nat\xFCrliche-person"
-- verarbeitung
 - betroffene-person
+- verarbeitung
+- personenbezogene-daten
 number: 46

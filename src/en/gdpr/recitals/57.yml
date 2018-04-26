@@ -1,9 +1,19 @@
-content: |-
-  If the {personal data|index:personal-data} processed by a {controller|index:controller} do not permit the {controller|index:controller} to identify a {natural person|index:natural-person}, the data {controller|index:controller} should not be obliged to acquire additional information in order to identify the {data subject|index:data-subject} for the sole purpose of complying with any provision of this {Regulation|index:regulation}. However, the {controller|index:controller} should not refuse to take additional information provided by the {data subject|index:data-subject} in order to support the exercise of his or her rights. Identification should include the digital identification of a {data subject|index:data-subject}, for example through authentication mechanism such as the same credentials, used by the {data subject|index:data-subject} to log-in to the on-line service offered by the data {controller|index:controller}.
+content: >-
+  If the {personal data|index:personal-data} processed by a {controller|index:controller}
+  do not permit the {controller|index:controller} to identify a {natural person|index:natural-person},
+  the data {controller|index:controller} should not be obliged to acquire additional
+  information in order to identify the {data subject|index:data-subject} for the sole
+  purpose of complying with any provision of this {Regulation|index:regulation}. However,
+  the {controller|index:controller} should not refuse to take additional information
+  provided by the {data subject|index:data-subject} in order to support the exercise
+  of his or her rights. Identification should include the digital identification of
+  a {data subject|index:data-subject}, for example through authentication mechanism
+  such as the same credentials, used by the {data subject|index:data-subject} to log-in
+  to the on-line service offered by the data {controller|index:controller}.
 index:
-- data-subject
-- natural-person
-- personal-data
 - regulation
+- data-subject
+- personal-data
 - controller
+- natural-person
 number: 57

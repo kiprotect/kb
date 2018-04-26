@@ -1,8 +1,15 @@
-content: |-
-  As regards the powers of the supervisory authorities to obtain from the {controller|index:controller} or {processor|index:processor} access to {personal data|index:personal-data} and access to their premises, Member States may adopt by law, within the limits of this {Regulation|index:regulation}, specific rules in order to safeguard the professional or other equivalent secrecy obligations, in so far as necessary to reconcile the right to the protection of {personal data|index:personal-data} with an obligation of professional secrecy. This is without prejudice to existing Member State obligations to adopt rules on professional secrecy where required by Union law.
+content: >-
+  As regards the powers of the supervisory authorities to obtain from the {controller|index:controller}
+  or {processor|index:processor} access to {personal data|index:personal-data} and
+  access to their premises, Member States may adopt by law, within the limits of this
+  {Regulation|index:regulation}, specific rules in order to safeguard the professional
+  or other equivalent secrecy obligations, in so far as necessary to reconcile the
+  right to the protection of {personal data|index:personal-data} with an obligation
+  of professional secrecy. This is without prejudice to existing Member State obligations
+  to adopt rules on professional secrecy where required by Union law.
 index:
-- processor
 - personal-data
-- regulation
 - controller
+- processor
+- regulation
 number: 164

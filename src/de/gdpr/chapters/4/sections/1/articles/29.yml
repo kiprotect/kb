@@ -6,11 +6,12 @@ content: "Der {Auftragsverarbeiter|index:auftragsverarbeiter} und jede dem {Vera
   \ verarbeiten, es sei denn, dass sie nach dem Unionsrecht oder dem Recht der Mitgliedstaaten\
   \ zur {Verarbeitung|index:verarbeitung} verpflichtet sind."
 index:
-- verantwortlicher
 - auftragsverarbeiter
-- personenbezogene-daten
 - verarbeitung
+- personenbezogene-daten
+- verantwortlicher
 number: 29
 section: 1
-title: |-
-  {Verarbeitung|index:verarbeitung} unter der Aufsicht des {Verantwortlichen|index:verantwortlicher} oder des {Auftragsverarbeiters|index:auftragsverarbeiter}
+title: >-
+  {Verarbeitung|index:verarbeitung} unter der Aufsicht des {Verantwortlichen|index:verantwortlicher}
+  oder des {Auftragsverarbeiters|index:auftragsverarbeiter}

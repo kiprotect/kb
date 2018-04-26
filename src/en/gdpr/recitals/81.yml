@@ -1,12 +1,39 @@
-content: |-
-  To ensure compliance with the requirements of this {Regulation|index:regulation} in respect of the {processing|index:processing} to be carried out by the {processor|index:processor} on behalf of the {controller|index:controller}, when entrusting a {processor|index:processor} with {processing|index:processing} activities, the {controller|index:controller} should use only processors providing sufficient guarantees, in particular in terms of expert knowledge, reliability and resources, to implement {technical and organisational measures|index:technical-and-organisational-measures} which will meet the requirements of this {Regulation|index:regulation}, including for the security of {processing|index:processing}. The adherence of the {processor|index:processor} to an approved code of conduct or an approved certification mechanism may be used as an element to demonstrate compliance with the obligations of the {controller|index:controller}. The carrying-out of {processing|index:processing} by a {processor|index:processor} should be governed by a contract or other legal act under Union or Member State law, binding the {processor|index:processor} to the {controller|index:controller}, setting out the subject-matter and duration of the {processing|index:processing}, the nature and purposes of the {processing|index:processing}, the type of {personal data|index:personal-data} and categories of data subjects, taking into account the specific tasks and responsibilities of the {processor|index:processor} in the context of the {processing|index:processing} to be carried out and the risk to the rights and freedoms of the {data subject|index:data-subject}. The {controller|index:controller} and {processor|index:processor} may choose to use an individual contract or standard contractual clauses which are adopted either directly by the Commission or by a {supervisory authority|index:supervisory-authority} in accordance with the consistency mechanism and then adopted by the Commission. After the completion of the {processing|index:processing} on behalf of the {controller|index:controller}, the {processor|index:processor} should, at the choice of the {controller|index:controller}, return or delete the {personal data|index:personal-data}, unless there is a requirement to store the {personal data|index:personal-data} under Union or Member State law to which the {processor|index:processor} is subject.
+content: >-
+  To ensure compliance with the requirements of this {Regulation|index:regulation}
+  in respect of the {processing|index:processing} to be carried out by the {processor|index:processor}
+  on behalf of the {controller|index:controller}, when entrusting a {processor|index:processor}
+  with {processing|index:processing} activities, the {controller|index:controller}
+  should use only processors providing sufficient guarantees, in particular in terms
+  of expert knowledge, reliability and resources, to implement {technical and organisational
+  measures|index:technical-and-organisational-measures} which will meet the requirements
+  of this {Regulation|index:regulation}, including for the security of {processing|index:processing}.
+  The adherence of the {processor|index:processor} to an approved code of conduct
+  or an approved certification mechanism may be used as an element to demonstrate
+  compliance with the obligations of the {controller|index:controller}. The carrying-out
+  of {processing|index:processing} by a {processor|index:processor} should be governed
+  by a contract or other legal act under Union or Member State law, binding the {processor|index:processor}
+  to the {controller|index:controller}, setting out the subject-matter and duration
+  of the {processing|index:processing}, the nature and purposes of the {processing|index:processing},
+  the type of {personal data|index:personal-data} and categories of data subjects,
+  taking into account the specific tasks and responsibilities of the {processor|index:processor}
+  in the context of the {processing|index:processing} to be carried out and the risk
+  to the rights and freedoms of the {data subject|index:data-subject}. The {controller|index:controller}
+  and {processor|index:processor} may choose to use an individual contract or standard
+  contractual clauses which are adopted either directly by the Commission or by a
+  {supervisory authority|index:supervisory-authority} in accordance with the consistency
+  mechanism and then adopted by the Commission. After the completion of the {processing|index:processing}
+  on behalf of the {controller|index:controller}, the {processor|index:processor}
+  should, at the choice of the {controller|index:controller}, return or delete the
+  {personal data|index:personal-data}, unless there is a requirement to store the
+  {personal data|index:personal-data} under Union or Member State law to which the
+  {processor|index:processor} is subject.
 index:
-- processing
-- processor
-- supervisory-authority
-- technical-and-organisational-measures
-- data-subject
-- personal-data
 - regulation
+- data-subject
+- technical-and-organisational-measures
+- supervisory-authority
+- personal-data
+- processor
+- processing
 - controller
 number: 81

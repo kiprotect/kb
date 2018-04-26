@@ -7,9 +7,9 @@ paragraphs:
       \ Schadenersatz gegen den {Verantwortlichen|index:verantwortlicher} oder gegen\
       \ den {Auftragsverarbeiter|index:auftragsverarbeiter}."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - verordnung
+    - verantwortlicher
     number: 1
   2:
     content: "Jeder an einer {Verarbeitung|index:verarbeitung} beteiligte {Verantwortliche|index:verantwortlicher}\
@@ -22,10 +22,10 @@ paragraphs:
       r die Datenverarbeitung {Verantwortlichen|index:verantwortlicher} oder gegen\
       \ diese Anweisungen gehandelt hat."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - verordnung
     - verarbeitung
+    - verantwortlicher
     number: 2
   3:
     content: "Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
@@ -33,8 +33,8 @@ paragraphs:
       \ er in keinerlei Hinsicht f\xFCr den Umstand, durch den der Schaden eingetreten\
       \ ist, verantwortlich ist."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
+    - verantwortlicher
     number: 3
   4:
     content: "Ist mehr als ein {Verantwortlicher|index:verantwortlicher} oder mehr\
@@ -48,9 +48,9 @@ paragraphs:
       \ sichergestellt ist."
     index:
     - verantwortlicher
-    - auftragsverarbeiter
     - betroffene-person
     - verarbeitung
+    - auftragsverarbeiter
     number: 4
   5:
     content: "Hat ein {Verantwortlicher|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
@@ -62,9 +62,9 @@ paragraphs:
       \ des Schadenersatzes zur\xFCckzufordern, der unter den in Absatz 2 festgelegten\
       \ Bedingungen ihrem Anteil an der Verantwortung f\xFCr den Schaden entspricht."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - verarbeitung
+    - verantwortlicher
     number: 5
   6:
     content: "Mit Gerichtsverfahren zur Inanspruchnahme des Rechts auf Schadenersatz\

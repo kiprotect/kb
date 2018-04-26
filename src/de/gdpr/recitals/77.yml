@@ -11,9 +11,9 @@ content: "Anleitungen, wie der {Verantwortliche|index:verantwortlicher} oder {Au
   \ Personen|index:nat\xFCrliche-person} mit sich bringen, und angeben, welche Abhilfema\xDF\
   nahmen in diesen F\xE4llen ausreichend sein k\xF6nnen."
 index:
-- verfahren
-- verantwortlicher
-- verarbeitung
-- auftragsverarbeiter
 - "nat\xFCrliche-person"
+- verfahren
+- verarbeitung
+- verantwortlicher
+- auftragsverarbeiter
 number: 77

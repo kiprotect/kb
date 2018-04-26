@@ -10,10 +10,10 @@ content: "Damit die {Verarbeitung|index:verarbeitung} rechtm\xE4\xDFig ist, m\xF
   \ ist, oder f\xFCr die Durchf\xFChrung vorvertraglicher Ma\xDFnahmen, die auf Anfrage\
   \ der {betroffenen Person|index:betroffene-person} erfolgen, erforderlich ist."
 index:
-- betroffene-person
-- verantwortlicher
-- einwilligung
 - verordnung
 - verarbeitung
+- einwilligung
+- verantwortlicher
+- betroffene-person
 - personenbezogene-daten
 number: 40

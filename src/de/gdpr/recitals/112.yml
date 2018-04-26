@@ -26,8 +26,8 @@ content: "Diese Ausnahmen sollten insbesondere f\xFCr Daten\xFCbermittlungen gel
   \ oder als im lebenswichtigen Interesse der {betroffenen Person|index:betroffene-person}\
   \ liegend erachtet werden."
 index:
+- betroffene-person
+- personenbezogene-daten
 - internationale-organisation
 - einwilligung
-- personenbezogene-daten
-- betroffene-person
 number: 112

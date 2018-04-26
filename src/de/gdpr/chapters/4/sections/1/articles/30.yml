@@ -5,14 +5,17 @@ number: 30
 paragraphs:
   1:
     index:
-    - verantwortlicher
-    - vertreter
     - "verarbeitungst\xE4tigkeit"
+    - vertreter
+    - verantwortlicher
     number: 1
     points:
       a:
-        content: |-
-          den Namen und die Kontaktdaten des {Verantwortlichen|index:verantwortlicher} und gegebenenfalls des gemeinsam mit ihm {Verantwortlichen|index:verantwortlicher}, des Vertreters des {Verantwortlichen|index:verantwortlicher} sowie eines etwaigen Datenschutzbeauftragten;
+        content: >-
+          den Namen und die Kontaktdaten des {Verantwortlichen|index:verantwortlicher}
+          und gegebenenfalls des gemeinsam mit ihm {Verantwortlichen|index:verantwortlicher},
+          des Vertreters des {Verantwortlichen|index:verantwortlicher} sowie eines
+          etwaigen Datenschutzbeauftragten;
         index:
         - verantwortlicher
       b:
@@ -20,19 +23,20 @@ paragraphs:
         index:
         - verarbeitung
       c:
-        content: |-
-          eine Beschreibung der Kategorien {betroffener Personen|index:betroffene-person} und der Kategorien {personenbezogener Daten|index:personenbezogene-daten};
+        content: >-
+          eine Beschreibung der Kategorien {betroffener Personen|index:betroffene-person}
+          und der Kategorien {personenbezogener Daten|index:personenbezogene-daten};
         index:
-        - personenbezogene-daten
         - betroffene-person
+        - personenbezogene-daten
       d:
         content: "die Kategorien von Empf\xE4ngern, gegen\xFCber denen die {personenbezogenen\
           \ Daten|index:personenbezogene-daten} offengelegt worden sind oder noch\
           \ offengelegt werden, einschlie\xDFlich {Empf\xE4nger|index:empf\xE4nger}\
           \ in Drittl\xE4ndern oder internationalen Organisationen;"
         index:
-        - "empf\xE4nger"
         - personenbezogene-daten
+        - "empf\xE4nger"
       e:
         content: "gegebenenfalls \xDCbermittlungen von {personenbezogenen Daten|index:personenbezogene-daten}\
           \ an ein Drittland oder an eine {internationale Organisation|index:internationale-organisation},\
@@ -40,8 +44,8 @@ paragraphs:
           \ internationalen Organisation, sowie bei den in Artikel 49 Absatz 1 Unterabsatz\
           \ 2 genannten Daten\xFCbermittlungen die Dokumentierung geeigneter Garantien;"
         index:
-        - internationale-organisation
         - personenbezogene-daten
+        - internationale-organisation
       f:
         content: "wenn m\xF6glich, die vorgesehenen Fristen f\xFCr die L\xF6schung\
           \ der verschiedenen Datenkategorien;"
@@ -57,10 +61,10 @@ paragraphs:
       \ Dieses Verzeichnis enth\xE4lt s\xE4mtliche folgenden Angaben:"
   2:
     index:
-    - verantwortlicher
-    - vertreter
     - auftragsverarbeiter
+    - vertreter
     - verarbeitung
+    - verantwortlicher
     number: 2
     points:
       a:
@@ -71,8 +75,8 @@ paragraphs:
           \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} und eines etwaigen\
           \ Datenschutzbeauftragten;"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
+        - verantwortlicher
       b:
         content: "die Kategorien von Verarbeitungen, die im Auftrag jedes {Verantwortlichen|index:verantwortlicher}\
           \ durchgef\xFChrt werden;"
@@ -85,8 +89,8 @@ paragraphs:
           \ internationalen Organisation, sowie bei den in Artikel 49 Absatz 1 Unterabsatz\
           \ 2 genannten Daten\xFCbermittlungen die Dokumentierung geeigneter Garantien;"
         index:
-        - internationale-organisation
         - personenbezogene-daten
+        - internationale-organisation
       d:
         content: "wenn m\xF6glich, eine allgemeine Beschreibung der {technischen und\
           \ organisatorischen Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
@@ -108,10 +112,10 @@ paragraphs:
       \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} stellen der {Aufsichtsbeh\xF6\
       rde|index:aufsichtsbeh\xF6rde} das Verzeichnis auf Anfrage zur Verf\xFCgung."
     index:
-    - verantwortlicher
-    - vertreter
     - auftragsverarbeiter
+    - vertreter
     - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     number: 4
   5:
     content: "Die in den Abs\xE4tzen 1 und 2 genannten Pflichten gelten nicht f\xFC\
@@ -124,10 +128,10 @@ paragraphs:
       \ von {personenbezogenen Daten|index:personenbezogene-daten} \xFCber strafrechtliche\
       \ Verurteilungen und Straftaten im Sinne des Artikels 10 einschlie\xDFt."
     index:
-    - unternehmen
-    - personenbezogene-daten
-    - verarbeitung
     - betroffene-person
+    - verarbeitung
+    - personenbezogene-daten
+    - unternehmen
     number: 5
 section: 1
 title: "Verzeichnis von {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}"

@@ -1,9 +1,20 @@
-content: |-
-  In order to ensure that {consent|index:consent} is freely given, {consent|index:consent} should not provide a valid legal ground for the {processing|index:processing} of {personal data|index:personal-data} in a specific case where there is a clear imbalance between the {data subject|index:data-subject} and the {controller|index:controller}, in particular where the {controller|index:controller} is a public authority and it is therefore unlikely that {consent|index:consent} was freely given in all the circumstances of that specific situation. {Consent|index:consent} is presumed not to be freely given if it does not allow separate {consent|index:consent} to be given to different {personal data|index:personal-data} {processing|index:processing} operations despite it being appropriate in the individual case, or if the performance of a contract, including the provision of a service, is dependent on the {consent|index:consent} despite such {consent|index:consent} not being necessary for such performance.
+content: >-
+  In order to ensure that {consent|index:consent} is freely given, {consent|index:consent}
+  should not provide a valid legal ground for the {processing|index:processing} of
+  {personal data|index:personal-data} in a specific case where there is a clear imbalance
+  between the {data subject|index:data-subject} and the {controller|index:controller},
+  in particular where the {controller|index:controller} is a public authority and
+  it is therefore unlikely that {consent|index:consent} was freely given in all the
+  circumstances of that specific situation. {Consent|index:consent} is presumed not
+  to be freely given if it does not allow separate {consent|index:consent} to be given
+  to different {personal data|index:personal-data} {processing|index:processing} operations
+  despite it being appropriate in the individual case, or if the performance of a
+  contract, including the provision of a service, is dependent on the {consent|index:consent}
+  despite such {consent|index:consent} not being necessary for such performance.
 index:
-- processing
 - data-subject
-- consent
 - personal-data
+- processing
+- consent
 - controller
 number: 43

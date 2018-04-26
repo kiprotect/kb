@@ -1,7 +1,11 @@
-content: |-
-  The {controller|index:controller} should use all reasonable measures to verify the identity of a {data subject|index:data-subject} who requests access, in particular in the context of online services and online identifiers. A {controller|index:controller} should not retain {personal data|index:personal-data} for the sole purpose of being able to react to potential requests.
+content: >-
+  The {controller|index:controller} should use all reasonable measures to verify the
+  identity of a {data subject|index:data-subject} who requests access, in particular
+  in the context of online services and online identifiers. A {controller|index:controller}
+  should not retain {personal data|index:personal-data} for the sole purpose of being
+  able to react to potential requests.
 index:
-- personal-data
 - data-subject
+- personal-data
 - controller
 number: 64

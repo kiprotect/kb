@@ -13,12 +13,12 @@ content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:p
   \ betreffende Entscheidungen bildet oder anhand dessen ihre pers\xF6nlichen Vorlieben,\
   \ Verhaltensweisen oder Gepflogenheiten analysiert oder vorausgesagt werden sollen."
 index:
-- betroffene-person
-- verantwortlicher
+- "nat\xFCrliche-person"
 - verordnung
 - verarbeitung
-- auftragsverarbeiter
-- personenbezogene-daten
-- "nat\xFCrliche-person"
+- verantwortlicher
 - "verarbeitungst\xE4tigkeit"
+- auftragsverarbeiter
+- betroffene-person
+- personenbezogene-daten
 number: 24

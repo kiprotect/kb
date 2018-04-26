@@ -11,9 +11,9 @@ content: "D\xFCrfen die {personenbezogenen Daten|index:personenbezogene-daten} m
   \ vor den Interessen oder Grundrechten und Grundfreiheiten der {betroffenen Person|index:betroffene-person}\
   \ haben."
 index:
-- betroffene-person
-- verantwortlicher
 - verarbeitung
+- verantwortlicher
 - dritter
+- betroffene-person
 - personenbezogene-daten
 number: 69

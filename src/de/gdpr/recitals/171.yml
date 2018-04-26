@@ -12,10 +12,10 @@ content: "Die Richtlinie 95/46/EG sollte durch diese {Verordnung|index:verordnun
   sse der Kommission und Genehmigungen der {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
   rde} bleiben in Kraft, bis sie ge\xE4ndert, ersetzt oder aufgehoben werden."
 index:
-- betroffene-person
-- verantwortlicher
-- einwilligung
 - verordnung
-- verarbeitung
 - "aufsichtsbeh\xF6rde"
+- verarbeitung
+- einwilligung
+- verantwortlicher
+- betroffene-person
 number: 171

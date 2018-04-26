@@ -1,10 +1,33 @@
-content: |-
-  Member States law should reconcile the rules governing freedom of expression and information, including journalistic, academic, artistic and or literary expression with the right to the protection of {personal data|index:personal-data} pursuant to this {Regulation|index:regulation}. The {processing|index:processing} of {personal data|index:personal-data} solely for journalistic purposes, or for the purposes of academic, artistic or literary expression should be subject to derogations or exemptions from certain provisions of this {Regulation|index:regulation} if necessary to reconcile the right to the protection of {personal data|index:personal-data} with the right to freedom of expression and information, as enshrined in Article 11 of the Charter. This should apply in particular to the {processing|index:processing} of {personal data|index:personal-data} in the audiovisual field and in news archives and press libraries. Therefore, Member States should adopt legislative measures which lay down the exemptions and derogations necessary for the purpose of balancing those fundamental rights. Member States should adopt such exemptions and derogations on general principles, the rights of the {data subject|index:data-subject}, the {controller|index:controller} and the {processor|index:processor}, the transfer of {personal data|index:personal-data} to third countries or international organisations, the independent supervisory authorities, cooperation and consistency, and specific data-{processing|index:processing} situations. Where such exemptions or derogations differ from one Member State to another, the law of the Member State to which the {controller|index:controller} is subject should apply. In order to take account of the importance of the right to freedom of expression in every democratic society, it is necessary to interpret notions relating to that freedom, such as journalism, broadly.
+content: >-
+  Member States law should reconcile the rules governing freedom of expression and
+  information, including journalistic, academic, artistic and or literary expression
+  with the right to the protection of {personal data|index:personal-data} pursuant
+  to this {Regulation|index:regulation}. The {processing|index:processing} of {personal
+  data|index:personal-data} solely for journalistic purposes, or for the purposes
+  of academic, artistic or literary expression should be subject to derogations or
+  exemptions from certain provisions of this {Regulation|index:regulation} if necessary
+  to reconcile the right to the protection of {personal data|index:personal-data}
+  with the right to freedom of expression and information, as enshrined in Article
+  11 of the Charter. This should apply in particular to the {processing|index:processing}
+  of {personal data|index:personal-data} in the audiovisual field and in news archives
+  and press libraries. Therefore, Member States should adopt legislative measures
+  which lay down the exemptions and derogations necessary for the purpose of balancing
+  those fundamental rights. Member States should adopt such exemptions and derogations
+  on general principles, the rights of the {data subject|index:data-subject}, the
+  {controller|index:controller} and the {processor|index:processor}, the transfer
+  of {personal data|index:personal-data} to third countries or international organisations,
+  the independent supervisory authorities, cooperation and consistency, and specific
+  data-{processing|index:processing} situations. Where such exemptions or derogations
+  differ from one Member State to another, the law of the Member State to which the
+  {controller|index:controller} is subject should apply. In order to take account
+  of the importance of the right to freedom of expression in every democratic society,
+  it is necessary to interpret notions relating to that freedom, such as journalism,
+  broadly.
 index:
-- processing
-- processor
+- regulation
 - data-subject
 - personal-data
-- regulation
+- processor
+- processing
 - controller
 number: 153

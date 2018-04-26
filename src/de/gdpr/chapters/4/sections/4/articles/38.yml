@@ -7,9 +7,9 @@ paragraphs:
       hzeitig in alle mit dem Schutz {personenbezogener Daten|index:personenbezogene-daten}\
       \ zusammenh\xE4ngenden Fragen eingebunden wird."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - personenbezogene-daten
+    - verantwortlicher
     number: 1
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter}\
@@ -19,9 +19,9 @@ paragraphs:
       \ und Verarbeitungsvorg\xE4ngen sowie die zur Erhaltung seines Fachwissens erforderlichen\
       \ Ressourcen zur Verf\xFCgung stellen."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - personenbezogene-daten
+    - verantwortlicher
     number: 2
   3:
     content: "Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter}\
@@ -33,8 +33,8 @@ paragraphs:
       \ berichtet unmittelbar der h\xF6chsten Managementebene des {Verantwortlichen|index:verantwortlicher}\
       \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter}."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
+    - verantwortlicher
     number: 3
   4:
     content: "{Betroffene Personen|index:betroffene-person} k\xF6nnen den Datenschutzbeauftragten\
@@ -43,10 +43,10 @@ paragraphs:
       \xDF dieser {Verordnung|index:verordnung} im Zusammenhang stehenden Fragen zu\
       \ Rate ziehen."
     index:
-    - personenbezogene-daten
+    - betroffene-person
     - verordnung
     - verarbeitung
-    - betroffene-person
+    - personenbezogene-daten
     number: 4
   5:
     content: "Der Datenschutzbeauftragte ist nach dem Recht der Union oder der Mitgliedstaaten\
@@ -59,8 +59,8 @@ paragraphs:
       \ stellt sicher, dass derartige Aufgaben und Pflichten nicht zu einem Interessenkonflikt\
       \ f\xFChren."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
+    - verantwortlicher
     number: 6
 section: 4
 title: Stellung des Datenschutzbeauftragten

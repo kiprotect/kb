@@ -1,8 +1,15 @@
-content: |-
-  The principles of, and rules on the protection of {natural persons|index:natural-person} with regard to the {processing|index:processing} of their {personal data|index:personal-data} should, whatever their nationality or residence, respect their fundamental rights and freedoms, in particular their right to the protection of {personal data|index:personal-data}. This {Regulation|index:regulation} is intended to contribute to the accomplishment of an area of freedom, security and justice and of an economic union, to economic and social progress, to the strengthening and the convergence of the economies within the internal market, and to the well-being of {natural persons|index:natural-person}.
+content: >-
+  The principles of, and rules on the protection of {natural persons|index:natural-person}
+  with regard to the {processing|index:processing} of their {personal data|index:personal-data}
+  should, whatever their nationality or residence, respect their fundamental rights
+  and freedoms, in particular their right to the protection of {personal data|index:personal-data}.
+  This {Regulation|index:regulation} is intended to contribute to the accomplishment
+  of an area of freedom, security and justice and of an economic union, to economic
+  and social progress, to the strengthening and the convergence of the economies within
+  the internal market, and to the well-being of {natural persons|index:natural-person}.
 index:
-- natural-person
-- personal-data
 - regulation
+- personal-data
+- natural-person
 - processing
 number: 2

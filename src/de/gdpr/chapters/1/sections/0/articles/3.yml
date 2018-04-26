@@ -9,19 +9,19 @@ paragraphs:
       \ unabh\xE4ngig davon, ob die {Verarbeitung|index:verarbeitung} in der Union\
       \ stattfindet."
     index:
-    - verantwortlicher
     - verordnung
     - verarbeitung
+    - verantwortlicher
     - auftragsverarbeiter
     - personenbezogene-daten
     number: 1
   2:
     index:
-    - betroffene-person
-    - verantwortlicher
     - verordnung
     - verarbeitung
+    - verantwortlicher
     - auftragsverarbeiter
+    - betroffene-person
     - personenbezogene-daten
     number: 2
     points:
@@ -32,22 +32,27 @@ paragraphs:
         index:
         - betroffene-person
       b:
-        content: |-
-          das Verhalten {betroffener Personen|index:betroffene-person} zu beobachten, soweit ihr Verhalten in der Union erfolgt.
+        content: >-
+          das Verhalten {betroffener Personen|index:betroffene-person} zu beobachten,
+          soweit ihr Verhalten in der Union erfolgt.
         index:
         - betroffene-person
-    preamble: |-
-      Diese {Verordnung|index:verordnung} findet Anwendung auf die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten} von {betroffenen Personen|index:betroffene-person}, die sich in der Union befinden, durch einen nicht in der Union niedergelassenen {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}, wenn die Datenverarbeitung im Zusammenhang damit steht
+    preamble: >-
+      Diese {Verordnung|index:verordnung} findet Anwendung auf die {Verarbeitung|index:verarbeitung}
+      {personenbezogener Daten|index:personenbezogene-daten} von {betroffenen Personen|index:betroffene-person},
+      die sich in der Union befinden, durch einen nicht in der Union niedergelassenen
+      {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter},
+      wenn die Datenverarbeitung im Zusammenhang damit steht
   3:
     content: "Diese {Verordnung|index:verordnung} findet Anwendung auf die {Verarbeitung|index:verarbeitung}\
       \ {personenbezogener Daten|index:personenbezogene-daten} durch einen nicht in\
       \ der Union niedergelassenen {Verantwortlichen|index:verantwortlicher} an einem\
       \ Ort, der aufgrund V\xF6lkerrechts dem Recht eines Mitgliedstaats unterliegt."
     index:
-    - verantwortlicher
-    - personenbezogene-daten
     - verordnung
     - verarbeitung
+    - personenbezogene-daten
+    - verantwortlicher
     number: 3
 section: 0
 title: "R\xE4umlicher Anwendungsbereich"

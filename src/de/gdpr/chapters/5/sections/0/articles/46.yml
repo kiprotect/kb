@@ -10,10 +10,10 @@ paragraphs:
       \ geeignete Garantien vorgesehen hat und sofern den {betroffenen Personen|index:betroffene-person}\
       \ durchsetzbare Rechte und wirksame Rechtsbehelfe zur Verf\xFCgung stehen."
     index:
-    - betroffene-person
-    - verantwortlicher
     - internationale-organisation
+    - verantwortlicher
     - auftragsverarbeiter
+    - betroffene-person
     - personenbezogene-daten
     number: 1
   2:
@@ -47,9 +47,9 @@ paragraphs:
           \ zur Anwendung der geeigneten Garantien, einschlie\xDFlich in Bezug auf\
           \ die Rechte der {betroffenen Personen|index:betroffene-person}, oder"
         index:
-        - verantwortlicher
-        - auftragsverarbeiter
         - betroffene-person
+        - auftragsverarbeiter
+        - verantwortlicher
       f:
         content: "einem genehmigten Zertifizierungsmechanismus gem\xE4\xDF Artikel\
           \ 42 zusammen mit rechtsverbindlichen und durchsetzbaren Verpflichtungen\
@@ -57,9 +57,9 @@ paragraphs:
           \ in dem Drittland zur Anwendung der geeigneten Garantien, einschlie\xDF\
           lich in Bezug auf die Rechte der {betroffenen Personen|index:betroffene-person}."
         index:
-        - verantwortlicher
-        - auftragsverarbeiter
         - betroffene-person
+        - auftragsverarbeiter
+        - verantwortlicher
     preamble: "Die in Absatz 1 genannten geeigneten Garantien k\xF6nnen, ohne dass\
       \ hierzu eine besondere Genehmigung einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
       rde} erforderlich w\xE4re, bestehen in"
@@ -76,10 +76,10 @@ paragraphs:
           \ im Drittland oder der internationalen Organisation vereinbart wurden,\
           \ oder"
         index:
-        - verantwortlicher
         - auftragsverarbeiter
         - personenbezogene-daten
         - "empf\xE4nger"
+        - verantwortlicher
       b:
         content: "Bestimmungen, die in Verwaltungsvereinbarungen zwischen Beh\xF6\
           rden oder \xF6ffentlichen Stellen aufzunehmen sind und durchsetzbare und\

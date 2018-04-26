@@ -19,9 +19,9 @@ content: "Die Grunds\xE4tze einer fairen und transparenten {Verarbeitung|index:v
   \ Bildsymbole in elektronischer Form dargestellt, so sollten sie maschinenlesbar\
   \ sein."
 index:
-- betroffene-person
-- verantwortlicher
-- personenbezogene-daten
-- verarbeitung
 - profiling
+- verarbeitung
+- verantwortlicher
+- betroffene-person
+- personenbezogene-daten
 number: 60

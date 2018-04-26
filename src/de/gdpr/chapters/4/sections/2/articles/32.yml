@@ -5,19 +5,19 @@ number: 32
 paragraphs:
   1:
     index:
+    - "nat\xFCrliche-person"
+    - verarbeitung
     - verantwortlicher
     - "technische-und-organisatorische-ma\xDFnahmen"
-    - verarbeitung
     - auftragsverarbeiter
-    - "nat\xFCrliche-person"
     number: 1
     points:
       a:
         content: "die {Pseudonymisierung|index:pseudonymisierung} und Verschl\xFC\
           sselung {personenbezogener Daten|index:personenbezogene-daten};"
         index:
-        - personenbezogene-daten
         - pseudonymisierung
+        - personenbezogene-daten
       b:
         content: "die F\xE4higkeit, die Vertraulichkeit, Integrit\xE4t, Verf\xFCgbarkeit\
           \ und Belastbarkeit der Systeme und Dienste im Zusammenhang mit der {Verarbeitung|index:verarbeitung}\
@@ -37,8 +37,8 @@ paragraphs:
           hrleistung der Sicherheit der {Verarbeitung|index:verarbeitung}."
         index:
         - verfahren
-        - "technische-und-organisatorische-ma\xDFnahmen"
         - verarbeitung
+        - "technische-und-organisatorische-ma\xDFnahmen"
     preamble: "Unter Ber\xFCcksichtigung des Stands der Technik, der Implementierungskosten\
       \ und der Art, des Umfangs, der Umst\xE4nde und der Zwecke der {Verarbeitung|index:verarbeitung}\
       \ sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos\
@@ -55,8 +55,8 @@ paragraphs:
       \ von beziehungsweise unbefugten Zugang zu {personenbezogenen Daten|index:personenbezogene-daten},\
       \ die \xFCbermittelt, gespeichert oder auf andere Weise verarbeitet wurden."
     index:
-    - personenbezogene-daten
     - verarbeitung
+    - personenbezogene-daten
     number: 2
   3:
     content: "Die Einhaltung genehmigter Verhaltensregeln gem\xE4\xDF Artikel 40 oder\
@@ -72,12 +72,12 @@ paragraphs:
       \ verarbeiten, es sei denn, sie sind nach dem Recht der Union oder der Mitgliedstaaten\
       \ zur {Verarbeitung|index:verarbeitung} verpflichtet."
     index:
-    - verantwortlicher
-    - unternehmen
-    - verarbeitung
-    - auftragsverarbeiter
-    - personenbezogene-daten
     - "nat\xFCrliche-person"
+    - verarbeitung
+    - verantwortlicher
+    - auftragsverarbeiter
+    - unternehmen
+    - personenbezogene-daten
     number: 4
 section: 2
 title: Sicherheit der {Verarbeitung|index:verarbeitung}

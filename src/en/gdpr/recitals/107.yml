@@ -1,8 +1,18 @@
-content: |-
-  The Commission may recognise that a third country, a territory or a specified sector within a third country, or an {international organisation|index:international-organisation} no longer ensures an adequate level of data protection. Consequently the transfer of {personal data|index:personal-data} to that third country or {international organisation|index:international-organisation} should be prohibited, unless the requirements in this {Regulation|index:regulation} relating to transfers subject to appropriate safeguards, including {binding corporate rules|index:binding-corporate-rules}, and derogations for specific situations are fulfilled. In that case, provision should be made for consultations between the Commission and such third countries or international organisations. The Commission should, in a timely manner, inform the third country or {international organisation|index:international-organisation} of the reasons and enter into consultations with it in order to remedy the situation.
+content: >-
+  The Commission may recognise that a third country, a territory or a specified sector
+  within a third country, or an {international organisation|index:international-organisation}
+  no longer ensures an adequate level of data protection. Consequently the transfer
+  of {personal data|index:personal-data} to that third country or {international organisation|index:international-organisation}
+  should be prohibited, unless the requirements in this {Regulation|index:regulation}
+  relating to transfers subject to appropriate safeguards, including {binding corporate
+  rules|index:binding-corporate-rules}, and derogations for specific situations are
+  fulfilled. In that case, provision should be made for consultations between the
+  Commission and such third countries or international organisations. The Commission
+  should, in a timely manner, inform the third country or {international organisation|index:international-organisation}
+  of the reasons and enter into consultations with it in order to remedy the situation.
 index:
-- international-organisation
-- personal-data
-- regulation
 - binding-corporate-rules
+- personal-data
+- international-organisation
+- regulation
 number: 107

@@ -6,7 +6,7 @@ import json
 
 def str_presenter(dumper, data):
     if len(data) > 100:
-        return dumper.represent_scalar(u'tag:yaml.org,2002:str', data, style='|')
+        return dumper.represent_scalar(u'tag:yaml.org,2002:str', data, style='>')
     else:
         return dumper.represent_scalar(u'tag:yaml.org,2002:str', data, style=None)
 

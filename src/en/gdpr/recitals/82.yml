@@ -1,9 +1,15 @@
-content: |-
-  In order to demonstrate compliance with this {Regulation|index:regulation}, the {controller|index:controller} or {processor|index:processor} should maintain records of {processing|index:processing} activities under its responsibility. Each {controller|index:controller} and {processor|index:processor} should be obliged to cooperate with the {supervisory authority|index:supervisory-authority} and make those records, on request, available to it, so that it might serve for monitoring those {processing|index:processing} operations.
+content: >-
+  In order to demonstrate compliance with this {Regulation|index:regulation}, the
+  {controller|index:controller} or {processor|index:processor} should maintain records
+  of {processing|index:processing} activities under its responsibility. Each {controller|index:controller}
+  and {processor|index:processor} should be obliged to cooperate with the {supervisory
+  authority|index:supervisory-authority} and make those records, on request, available
+  to it, so that it might serve for monitoring those {processing|index:processing}
+  operations.
 index:
-- processing
-- processor
-- supervisory-authority
 - regulation
+- supervisory-authority
+- processor
+- processing
 - controller
 number: 82

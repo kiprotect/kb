@@ -26,11 +26,11 @@ content: "Die Risiken f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|
   \ eine gro\xDFe Menge {personenbezogener Daten|index:personenbezogene-daten} und\
   \ eine gro\xDFe Anzahl von {betroffenen Personen|index:betroffene-person} betrifft."
 index:
-- betroffene-person
-- gesundheitsdaten
-- genetische-daten
-- verarbeitung
-- pseudonymisierung
-- personenbezogene-daten
 - "nat\xFCrliche-person"
+- verarbeitung
+- genetische-daten
+- pseudonymisierung
+- gesundheitsdaten
+- betroffene-person
+- personenbezogene-daten
 number: 75

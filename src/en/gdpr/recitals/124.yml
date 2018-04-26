@@ -1,12 +1,33 @@
-content: |-
-  Where the {processing|index:processing} of {personal data|index:personal-data} takes place in the context of the activities of an establishment of a {controller|index:controller} or a {processor|index:processor} in the Union and the {controller|index:controller} or {processor|index:processor} is established in more than one Member State, or where {processing|index:processing} taking place in the context of the activities of a single establishment of a {controller|index:controller} or {processor|index:processor} in the Union substantially affects or is likely to substantially affect data subjects in more than one Member State, the {supervisory authority|index:supervisory-authority} for the main establishment of the {controller|index:controller} or {processor|index:processor} or for the single establishment of the {controller|index:controller} or {processor|index:processor} should act as lead authority. It should cooperate with the other authorities concerned, because the {controller|index:controller} or {processor|index:processor} has an establishment on the territory of their Member State, because data subjects residing on their territory are substantially affected, or because a complaint has been lodged with them. Also where a {data subject|index:data-subject} not residing in that Member State has lodged a complaint, the {supervisory authority|index:supervisory-authority} with which such complaint has been lodged should also be a {supervisory authority|index:supervisory-authority} concerned. Within its tasks to issue guidelines on any question covering the application of this {Regulation|index:regulation}, the Board should be able to issue guidelines in particular on the criteria to be taken into account in order to ascertain whether the {processing|index:processing} in question substantially affects data subjects in more than one Member State and on what constitutes a {relevant and reasoned objection|index:relevant-and-reasoned-objection}.
+content: >-
+  Where the {processing|index:processing} of {personal data|index:personal-data} takes
+  place in the context of the activities of an establishment of a {controller|index:controller}
+  or a {processor|index:processor} in the Union and the {controller|index:controller}
+  or {processor|index:processor} is established in more than one Member State, or
+  where {processing|index:processing} taking place in the context of the activities
+  of a single establishment of a {controller|index:controller} or {processor|index:processor}
+  in the Union substantially affects or is likely to substantially affect data subjects
+  in more than one Member State, the {supervisory authority|index:supervisory-authority}
+  for the main establishment of the {controller|index:controller} or {processor|index:processor}
+  or for the single establishment of the {controller|index:controller} or {processor|index:processor}
+  should act as lead authority. It should cooperate with the other authorities concerned,
+  because the {controller|index:controller} or {processor|index:processor} has an
+  establishment on the territory of their Member State, because data subjects residing
+  on their territory are substantially affected, or because a complaint has been lodged
+  with them. Also where a {data subject|index:data-subject} not residing in that Member
+  State has lodged a complaint, the {supervisory authority|index:supervisory-authority}
+  with which such complaint has been lodged should also be a {supervisory authority|index:supervisory-authority}
+  concerned. Within its tasks to issue guidelines on any question covering the application
+  of this {Regulation|index:regulation}, the Board should be able to issue guidelines
+  in particular on the criteria to be taken into account in order to ascertain whether
+  the {processing|index:processing} in question substantially affects data subjects
+  in more than one Member State and on what constitutes a {relevant and reasoned objection|index:relevant-and-reasoned-objection}.
 index:
 - relevant-and-reasoned-objection
-- processing
-- processor
-- supervisory-authority
-- data-subject
-- personal-data
 - regulation
+- data-subject
+- supervisory-authority
+- personal-data
+- processor
+- processing
 - controller
 number: 124

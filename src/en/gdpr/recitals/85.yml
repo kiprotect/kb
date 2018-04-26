@@ -1,9 +1,26 @@
-content: |-
-  A {personal data|index:personal-data} breach may, if not addressed in an appropriate and timely manner, result in physical, material or non-material damage to {natural persons|index:natural-person} such as loss of control over their {personal data|index:personal-data} or limitation of their rights, discrimination, identity theft or fraud, financial loss, unauthorised reversal of {pseudonymisation|index:pseudonymisation}, damage to reputation, loss of confidentiality of {personal data|index:personal-data} protected by professional secrecy or any other significant economic or social disadvantage to the {natural person|index:natural-person} concerned. Therefore, as soon as the {controller|index:controller} becomes aware that a {personal data|index:personal-data} breach has occurred, the {controller|index:controller} should notify the {personal data|index:personal-data} breach to the {supervisory authority|index:supervisory-authority} without undue delay and, where feasible, not later than 72 hours after having become aware of it, unless the {controller|index:controller} is able to demonstrate, in accordance with the accountability principle, that the {personal data|index:personal-data} breach is unlikely to result in a risk to the rights and freedoms of {natural persons|index:natural-person}. Where such notification cannot be achieved within 72 hours, the reasons for the delay should accompany the notification and information may be provided in phases without undue further delay.
+content: >-
+  A {personal data|index:personal-data} breach may, if not addressed in an appropriate
+  and timely manner, result in physical, material or non-material damage to {natural
+  persons|index:natural-person} such as loss of control over their {personal data|index:personal-data}
+  or limitation of their rights, discrimination, identity theft or fraud, financial
+  loss, unauthorised reversal of {pseudonymisation|index:pseudonymisation}, damage
+  to reputation, loss of confidentiality of {personal data|index:personal-data} protected
+  by professional secrecy or any other significant economic or social disadvantage
+  to the {natural person|index:natural-person} concerned. Therefore, as soon as the
+  {controller|index:controller} becomes aware that a {personal data|index:personal-data}
+  breach has occurred, the {controller|index:controller} should notify the {personal
+  data|index:personal-data} breach to the {supervisory authority|index:supervisory-authority}
+  without undue delay and, where feasible, not later than 72 hours after having become
+  aware of it, unless the {controller|index:controller} is able to demonstrate, in
+  accordance with the accountability principle, that the {personal data|index:personal-data}
+  breach is unlikely to result in a risk to the rights and freedoms of {natural persons|index:natural-person}.
+  Where such notification cannot be achieved within 72 hours, the reasons for the
+  delay should accompany the notification and information may be provided in phases
+  without undue further delay.
 index:
-- natural-person
 - supervisory-authority
-- pseudonymisation
 - personal-data
+- pseudonymisation
 - controller
+- natural-person
 number: 85

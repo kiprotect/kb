@@ -1,19 +1,20 @@
 chapter: 3
 index:
-- personenbezogene-daten
 - betroffene-person
+- personenbezogene-daten
 number: 13
 paragraphs:
   1:
     index:
-    - verantwortlicher
-    - personenbezogene-daten
     - betroffene-person
+    - personenbezogene-daten
+    - verantwortlicher
     number: 1
     points:
       a:
-        content: |-
-          den Namen und die Kontaktdaten des {Verantwortlichen|index:verantwortlicher} sowie gegebenenfalls seines Vertreters;
+        content: >-
+          den Namen und die Kontaktdaten des {Verantwortlichen|index:verantwortlicher}
+          sowie gegebenenfalls seines Vertreters;
         index:
         - verantwortlicher
       b:
@@ -22,22 +23,24 @@ paragraphs:
         content: "die Zwecke, f\xFCr die die {personenbezogenen Daten|index:personenbezogene-daten}\
           \ verarbeitet werden sollen, sowie die Rechtsgrundlage f\xFCr die {Verarbeitung|index:verarbeitung};"
         index:
-        - personenbezogene-daten
         - verarbeitung
+        - personenbezogene-daten
       d:
-        content: |-
-          wenn die {Verarbeitung|index:verarbeitung} auf Artikel 6 Absatz 1 Buchstabe f beruht, die berechtigten Interessen, die von dem {Verantwortlichen|index:verantwortlicher} oder einem {Dritten|index:dritter} verfolgt werden;
+        content: >-
+          wenn die {Verarbeitung|index:verarbeitung} auf Artikel 6 Absatz 1 Buchstabe
+          f beruht, die berechtigten Interessen, die von dem {Verantwortlichen|index:verantwortlicher}
+          oder einem {Dritten|index:dritter} verfolgt werden;
         index:
         - verantwortlicher
-        - dritter
         - verarbeitung
+        - dritter
       e:
         content: "gegebenenfalls die {Empf\xE4nger|index:empf\xE4nger} oder Kategorien\
           \ von Empf\xE4ngern der {personenbezogenen Daten|index:personenbezogene-daten}\
           \ und"
         index:
-        - "empf\xE4nger"
         - personenbezogene-daten
+        - "empf\xE4nger"
       f:
         content: "gegebenenfalls die Absicht des {Verantwortlichen|index:verantwortlicher},\
           \ die {personenbezogenen Daten|index:personenbezogene-daten} an ein Drittland\
@@ -48,16 +51,19 @@ paragraphs:
           \ auf die geeigneten oder angemessenen Garantien und die M\xF6glichkeit,\
           \ wie eine Kopie von ihnen zu erhalten ist, oder wo sie verf\xFCgbar sind."
         index:
+        - personenbezogene-daten
         - internationale-organisation
         - verantwortlicher
-        - personenbezogene-daten
-    preamble: |-
-      Werden {personenbezogene Daten|index:personenbezogene-daten} bei der {betroffenen Person|index:betroffene-person} erhoben, so teilt der {Verantwortliche|index:verantwortlicher} der {betroffenen Person|index:betroffene-person} zum Zeitpunkt der Erhebung dieser Daten Folgendes mit:
+    preamble: >-
+      Werden {personenbezogene Daten|index:personenbezogene-daten} bei der {betroffenen
+      Person|index:betroffene-person} erhoben, so teilt der {Verantwortliche|index:verantwortlicher}
+      der {betroffenen Person|index:betroffene-person} zum Zeitpunkt der Erhebung
+      dieser Daten Folgendes mit:
   2:
     index:
-    - verantwortlicher
     - betroffene-person
     - verarbeitung
+    - verantwortlicher
     number: 2
     points:
       a:
@@ -74,10 +80,10 @@ paragraphs:
           \ gegen die {Verarbeitung|index:verarbeitung} sowie des Rechts auf Daten\xFC\
           bertragbarkeit;"
         index:
-        - verantwortlicher
-        - "einschr\xE4nkung-der-verarbeitung"
-        - personenbezogene-daten
         - verarbeitung
+        - personenbezogene-daten
+        - "einschr\xE4nkung-der-verarbeitung"
+        - verantwortlicher
       c:
         content: "wenn die {Verarbeitung|index:verarbeitung} auf Artikel 6 Absatz\
           \ 1 Buchstabe a oder Artikel 9 Absatz 2 Buchstabe a beruht, das Bestehen\
@@ -86,8 +92,8 @@ paragraphs:
           \ bis zum Widerruf erfolgten {Verarbeitung|index:verarbeitung} ber\xFChrt\
           \ wird;"
         index:
-        - einwilligung
         - verarbeitung
+        - einwilligung
       d:
         content: "das Bestehen eines Beschwerderechts bei einer {Aufsichtsbeh\xF6\
           rde|index:aufsichtsbeh\xF6rde};"
@@ -100,8 +106,8 @@ paragraphs:
           \ ist, die {personenbezogenen Daten|index:personenbezogene-daten} bereitzustellen,\
           \ und welche m\xF6gliche Folgen die Nichtbereitstellung h\xE4tte und"
         index:
-        - personenbezogene-daten
         - betroffene-person
+        - personenbezogene-daten
       f:
         content: "das Bestehen einer automatisierten Entscheidungsfindung einschlie\xDF\
           lich {Profiling|index:profiling} gem\xE4\xDF Artikel 22 Abs\xE4tze 1 und\
@@ -110,9 +116,9 @@ paragraphs:
           \ Auswirkungen einer derartigen {Verarbeitung|index:verarbeitung} f\xFC\
           r die {betroffene Person|index:betroffene-person}."
         index:
-        - profiling
         - betroffene-person
         - verarbeitung
+        - profiling
     preamble: "Zus\xE4tzlich zu den Informationen gem\xE4\xDF Absatz 1 stellt der\
       \ {Verantwortliche|index:verantwortlicher} der {betroffenen Person|index:betroffene-person}\
       \ zum Zeitpunkt der Erhebung dieser Daten folgende weitere Informationen zur\
@@ -127,9 +133,9 @@ paragraphs:
       \ alle anderen ma\xDFgeblichen Informationen gem\xE4\xDF Absatz 2 zur Verf\xFC\
       gung."
     index:
-    - verantwortlicher
-    - personenbezogene-daten
     - betroffene-person
+    - personenbezogene-daten
+    - verantwortlicher
     number: 3
   4:
     content: "Die Abs\xE4tze 1, 2 und 3 finden keine Anwendung, wenn und soweit die\
@@ -139,5 +145,6 @@ paragraphs:
     - betroffene-person
     number: 4
 section: 2
-title: |-
-  Informationspflicht bei Erhebung von {personenbezogenen Daten|index:personenbezogene-daten} bei der {betroffenen Person|index:betroffene-person}
+title: >-
+  Informationspflicht bei Erhebung von {personenbezogenen Daten|index:personenbezogene-daten}
+  bei der {betroffenen Person|index:betroffene-person}

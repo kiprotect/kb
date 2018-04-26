@@ -14,11 +14,11 @@ paragraphs:
       \ \xFCberwiegen, oder die {Verarbeitung|index:verarbeitung} dient der Geltendmachung,\
       \ Aus\xFCbung oder Verteidigung von Rechtsanspr\xFCchen."
     index:
-    - betroffene-person
-    - verantwortlicher
-    - personenbezogene-daten
-    - verarbeitung
     - profiling
+    - verarbeitung
+    - verantwortlicher
+    - betroffene-person
+    - personenbezogene-daten
     number: 1
   2:
     content: "Werden {personenbezogene Daten|index:personenbezogene-daten} verarbeitet,\
@@ -28,19 +28,19 @@ paragraphs:
       \ Zwecke derartiger Werbung einzulegen; dies gilt auch f\xFCr das {Profiling|index:profiling},\
       \ soweit es mit solcher Direktwerbung in Verbindung steht."
     index:
-    - profiling
-    - personenbezogene-daten
-    - verarbeitung
     - betroffene-person
+    - verarbeitung
+    - personenbezogene-daten
+    - profiling
     number: 2
   3:
     content: "Widerspricht die {betroffene Person|index:betroffene-person} der {Verarbeitung|index:verarbeitung}\
       \ f\xFCr Zwecke der Direktwerbung, so werden die {personenbezogenen Daten|index:personenbezogene-daten}\
       \ nicht mehr f\xFCr diese Zwecke verarbeitet."
     index:
-    - personenbezogene-daten
-    - verarbeitung
     - betroffene-person
+    - verarbeitung
+    - personenbezogene-daten
     number: 3
   4:
     content: "Die {betroffene Person|index:betroffene-person} muss sp\xE4testens zum\
@@ -57,9 +57,9 @@ paragraphs:
       \ 2002/58/EG ihr Widerspruchsrecht mittels {automatisierter Verfahren|index:automatisiertes-verfahren}\
       \ aus\xFCben, bei denen technische Spezifikationen verwendet werden."
     index:
-    - dienst-der-informationsgesellschaft
     - betroffene-person
     - automatisiertes-verfahren
+    - dienst-der-informationsgesellschaft
     number: 5
   6:
     content: "Die {betroffene Person|index:betroffene-person} hat das Recht, aus Gr\xFC\
@@ -70,9 +70,9 @@ paragraphs:
       \ sei denn, die {Verarbeitung|index:verarbeitung} ist zur Erf\xFCllung einer\
       \ im \xF6ffentlichen Interesse liegenden Aufgabe erforderlich."
     index:
-    - personenbezogene-daten
-    - verarbeitung
     - betroffene-person
+    - verarbeitung
+    - personenbezogene-daten
     number: 6
 section: 4
 title: Widerspruchsrecht

@@ -1,11 +1,43 @@
-content: |-
-  The main establishment of a {controller|index:controller} in the Union should be the place of its central administration in the Union, unless the decisions on the purposes and means of the {processing|index:processing} of {personal data|index:personal-data} are taken in another establishment of the {controller|index:controller} in the Union, in which case that other establishment should be considered to be the main establishment. The main establishment of a {controller|index:controller} in the Union should be determined according to objective criteria and should imply the effective and real exercise of management activities determining the main decisions as to the purposes and means of {processing|index:processing} through stable arrangements. That criterion should not depend on whether the {processing|index:processing} of {personal data|index:personal-data} is carried out at that location. The presence and use of technical means and technologies for {processing|index:processing} {personal data|index:personal-data} or {processing|index:processing} activities do not, in themselves, constitute a main establishment and are therefore not determining criteria for a main establishment. The main establishment of the {processor|index:processor} should be the place of its central administration in the Union or, if it has no central administration in the Union, the place where the main {processing|index:processing} activities take place in the Union. In cases involving both the {controller|index:controller} and the {processor|index:processor}, the competent lead {supervisory authority|index:supervisory-authority} should remain the {supervisory authority|index:supervisory-authority} of the Member State where the {controller|index:controller} has its main establishment, but the {supervisory authority|index:supervisory-authority} of the {processor|index:processor} should be considered to be a {supervisory authority|index:supervisory-authority} concerned and that {supervisory authority|index:supervisory-authority} should participate in the cooperation procedure provided for by this {Regulation|index:regulation}. In any case, the supervisory authorities of the Member State or Member States where the {processor|index:processor} has one or more establishments should not be considered to be supervisory authorities concerned where the draft decision concerns only the {controller|index:controller}. Where the {processing|index:processing} is carried out by a {group of undertakings|index:group-of-undertakings}, the main establishment of the controlling undertaking should be considered to be the main establishment of the {group of undertakings|index:group-of-undertakings}, except where the purposes and means of {processing|index:processing} are determined by another undertaking.
+content: >-
+  The main establishment of a {controller|index:controller} in the Union should be
+  the place of its central administration in the Union, unless the decisions on the
+  purposes and means of the {processing|index:processing} of {personal data|index:personal-data}
+  are taken in another establishment of the {controller|index:controller} in the Union,
+  in which case that other establishment should be considered to be the main establishment.
+  The main establishment of a {controller|index:controller} in the Union should be
+  determined according to objective criteria and should imply the effective and real
+  exercise of management activities determining the main decisions as to the purposes
+  and means of {processing|index:processing} through stable arrangements. That criterion
+  should not depend on whether the {processing|index:processing} of {personal data|index:personal-data}
+  is carried out at that location. The presence and use of technical means and technologies
+  for {processing|index:processing} {personal data|index:personal-data} or {processing|index:processing}
+  activities do not, in themselves, constitute a main establishment and are therefore
+  not determining criteria for a main establishment. The main establishment of the
+  {processor|index:processor} should be the place of its central administration in
+  the Union or, if it has no central administration in the Union, the place where
+  the main {processing|index:processing} activities take place in the Union. In cases
+  involving both the {controller|index:controller} and the {processor|index:processor},
+  the competent lead {supervisory authority|index:supervisory-authority} should remain
+  the {supervisory authority|index:supervisory-authority} of the Member State where
+  the {controller|index:controller} has its main establishment, but the {supervisory
+  authority|index:supervisory-authority} of the {processor|index:processor} should
+  be considered to be a {supervisory authority|index:supervisory-authority} concerned
+  and that {supervisory authority|index:supervisory-authority} should participate
+  in the cooperation procedure provided for by this {Regulation|index:regulation}.
+  In any case, the supervisory authorities of the Member State or Member States where
+  the {processor|index:processor} has one or more establishments should not be considered
+  to be supervisory authorities concerned where the draft decision concerns only the
+  {controller|index:controller}. Where the {processing|index:processing} is carried
+  out by a {group of undertakings|index:group-of-undertakings}, the main establishment
+  of the controlling undertaking should be considered to be the main establishment
+  of the {group of undertakings|index:group-of-undertakings}, except where the purposes
+  and means of {processing|index:processing} are determined by another undertaking.
 index:
-- processing
 - group-of-undertakings
+- regulation
+- personal-data
 - processor
 - supervisory-authority
-- personal-data
-- regulation
+- processing
 - controller
 number: 36

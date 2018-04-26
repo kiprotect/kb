@@ -1,6 +1,8 @@
-content: |-
-  Where Member State law applies by virtue of public international law, this {Regulation|index:regulation} should also apply to a {controller|index:controller} not established in the Union, such as in a Member State's diplomatic mission or consular post.
+content: >-
+  Where Member State law applies by virtue of public international law, this {Regulation|index:regulation}
+  should also apply to a {controller|index:controller} not established in the Union,
+  such as in a Member State's diplomatic mission or consular post.
 index:
-- regulation
 - controller
+- regulation
 number: 25

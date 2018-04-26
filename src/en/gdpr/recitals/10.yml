@@ -22,9 +22,9 @@ content: "In order to ensure a consistent and high level of protection of {natur
   \ the conditions under which the {processing|index:processing} of {personal data|index:personal-data}\
   \ is lawful."
 index:
-- processing
-- natural-person
-- personal-data
 - regulation
+- personal-data
+- processing
 - controller
+- natural-person
 number: 10

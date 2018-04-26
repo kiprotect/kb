@@ -2,8 +2,9 @@ chapter: 11
 number: 99
 paragraphs:
   1:
-    content: |-
-      This {Regulation|index:regulation} shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+    content: >-
+      This {Regulation|index:regulation} shall enter into force on the twentieth day
+      following that of its publication in the Official Journal of the European Union.
     index:
     - regulation
     number: 1

@@ -32,9 +32,9 @@ content: "Die Rechtm\xE4\xDFigkeit der {Verarbeitung|index:verarbeitung} kann du
   \ zum Zwecke der Direktwerbung kann als eine einem berechtigten Interesse dienende\
   \ {Verarbeitung|index:verarbeitung} betrachtet werden."
 index:
-- betroffene-person
-- verantwortlicher
 - verarbeitung
+- verantwortlicher
 - dritter
+- betroffene-person
 - personenbezogene-daten
 number: 47

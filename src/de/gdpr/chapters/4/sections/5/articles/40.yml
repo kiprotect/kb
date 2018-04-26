@@ -9,14 +9,14 @@ paragraphs:
       \ mittleren {Unternehmen|index:unternehmen} zur ordnungsgem\xE4\xDFen Anwendung\
       \ dieser {Verordnung|index:verordnung} beitragen sollen."
     index:
-    - unternehmen
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
+    - unternehmen
     number: 1
   2:
     index:
-    - verantwortlicher
     - verordnung
+    - verantwortlicher
     number: 2
     points:
       a:
@@ -35,8 +35,8 @@ paragraphs:
       d:
         content: '{Pseudonymisierung|index:pseudonymisierung} {personenbezogener Daten|index:personenbezogene-daten};'
         index:
-        - personenbezogene-daten
         - pseudonymisierung
+        - personenbezogene-daten
       e:
         content: "Unterrichtung der \xD6ffentlichkeit und der {betroffenen Personen|index:betroffene-person};"
         index:
@@ -64,16 +64,16 @@ paragraphs:
           \ der {betroffenen Person|index:betroffene-person} von solchen Verletzungen\
           \ des Schutzes {personenbezogener Daten|index:personenbezogene-daten};"
         index:
-        - personenbezogene-daten
-        - "aufsichtsbeh\xF6rde"
         - betroffene-person
+        - "aufsichtsbeh\xF6rde"
+        - personenbezogene-daten
       j:
         content: "die \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
           \ an Drittl\xE4nder oder an {internationale Organisationen|index:internationale-organisation}\
           \ oder"
         index:
-        - internationale-organisation
         - personenbezogene-daten
+        - internationale-organisation
       k:
         content: "au\xDFergerichtliche {Verfahren|index:verfahren} und sonstige Streitbeilegungsverfahren\
           \ zur Beilegung von Streitigkeiten zwischen {Verantwortlichen|index:verantwortlicher}\
@@ -81,10 +81,10 @@ paragraphs:
           \ der {Verarbeitung|index:verarbeitung}, unbeschadet der Rechte {betroffener\
           \ Personen|index:betroffene-person} gem\xE4\xDF den Artikeln 77 und 79."
         index:
-        - verantwortlicher
-        - verfahren
         - betroffene-person
+        - verfahren
         - verarbeitung
+        - verantwortlicher
     preamble: "Verb\xE4nde und andere Vereinigungen, die Kategorien von {Verantwortlichen|index:verantwortlicher}\
       \ oder Auftragsverarbeitern vertreten, k\xF6nnen Verhaltensregeln ausarbeiten\
       \ oder \xE4ndern oder erweitern, mit denen die Anwendung dieser {Verordnung|index:verordnung}\
@@ -105,11 +105,11 @@ paragraphs:
       \ Verpflichtung ein, die geeigneten Garantien anzuwenden, auch im Hinblick auf\
       \ die Rechte der {betroffenen Personen|index:betroffene-person}."
     index:
-    - betroffene-person
-    - verantwortlicher
-    - verordnung
     - internationale-organisation
+    - verordnung
+    - verantwortlicher
     - auftragsverarbeiter
+    - betroffene-person
     - personenbezogene-daten
     number: 3
   4:
@@ -122,10 +122,10 @@ paragraphs:
       \ Befugnisse der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, die nach Artikel\
       \ 55 oder 56 zust\xE4ndig ist."
     index:
-    - verantwortlicher
-    - verfahren
     - auftragsverarbeiter
+    - verfahren
     - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     number: 4
   5:
     content: "Verb\xE4nde und andere Vereinigungen gem\xE4\xDF Absatz 2 des vorliegenden\
@@ -140,8 +140,8 @@ paragraphs:
       nderung oder Erweiterung, wenn sie der Auffassung ist, dass er ausreichende\
       \ geeignete Garantien bietet."
     index:
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
     number: 5
   6:
     content: "Wird durch die Stellungnahme nach Absatz 5 der Entwurf der Verhaltensregeln\
@@ -150,8 +150,8 @@ paragraphs:
       tigkeit} in mehreren Mitgliedstaaten, so nimmt die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
       rde} die Verhaltensregeln in ein Verzeichnis auf und ver\xF6ffentlicht sie."
     index:
-    - "aufsichtsbeh\xF6rde"
     - "verarbeitungst\xE4tigkeit"
+    - "aufsichtsbeh\xF6rde"
     number: 6
   7:
     content: "Bezieht sich der Entwurf der Verhaltensregeln auf {Verarbeitungst\xE4\
@@ -164,10 +164,10 @@ paragraphs:
       \ oder Erweiterung mit dieser {Verordnung|index:verordnung} vereinbar ist oder\
       \ \u2014 im Fall nach Absatz 3 dieses Artikels \u2014 geeignete Garantien vorsieht."
     index:
-    - verfahren
-    - "aufsichtsbeh\xF6rde"
-    - verordnung
     - "verarbeitungst\xE4tigkeit"
+    - verordnung
+    - "aufsichtsbeh\xF6rde"
+    - verfahren
     number: 7
   8:
     content: "Wird durch die Stellungnahme nach Absatz 7 best\xE4tigt, dass der Entwurf\

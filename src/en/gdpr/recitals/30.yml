@@ -1,5 +1,10 @@
-content: |-
-  {Natural persons|index:natural-person} may be associated with online identifiers provided by their devices, applications, tools and protocols, such as internet protocol addresses, cookie identifiers or other identifiers such as radio frequency identification tags. This may leave traces which, in particular when combined with unique identifiers and other information received by the servers, may be used to create profiles of the {natural persons|index:natural-person} and identify them.
+content: >-
+  {Natural persons|index:natural-person} may be associated with online identifiers
+  provided by their devices, applications, tools and protocols, such as internet protocol
+  addresses, cookie identifiers or other identifiers such as radio frequency identification
+  tags. This may leave traces which, in particular when combined with unique identifiers
+  and other information received by the servers, may be used to create profiles of
+  the {natural persons|index:natural-person} and identify them.
 index:
 - natural-person
 number: 30

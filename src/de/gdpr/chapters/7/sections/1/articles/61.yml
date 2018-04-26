@@ -10,8 +10,8 @@ paragraphs:
       nahmen, beispielsweise Ersuchen um vorherige Genehmigungen und eine vorherige\
       \ Konsultation, um Vornahme von Nachpr\xFCfungen und Untersuchungen."
     index:
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
     number: 1
   2:
     content: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} ergreift alle geeigneten\
@@ -43,8 +43,8 @@ paragraphs:
           \ dem die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, bei der das Ersuchen\
           \ eingeht, unterliegt."
         index:
-        - "aufsichtsbeh\xF6rde"
         - verordnung
+        - "aufsichtsbeh\xF6rde"
     preamble: "Die ersuchte {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} lehnt\
       \ das Ersuchen nur ab, wenn"
   5:

@@ -1,7 +1,11 @@
-content: |-
-  Where {personal data|index:personal-data} are processed for historical research purposes, this {Regulation|index:regulation} should also apply to that {processing|index:processing}. This should also include historical research and research for genealogical purposes, bearing in mind that this {Regulation|index:regulation} should not apply to deceased persons.
+content: >-
+  Where {personal data|index:personal-data} are processed for historical research
+  purposes, this {Regulation|index:regulation} should also apply to that {processing|index:processing}.
+  This should also include historical research and research for genealogical purposes,
+  bearing in mind that this {Regulation|index:regulation} should not apply to deceased
+  persons.
 index:
-- personal-data
 - regulation
+- personal-data
 - processing
 number: 160

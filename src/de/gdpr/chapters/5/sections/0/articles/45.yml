@@ -10,8 +10,8 @@ paragraphs:
       \ ein angemessenes Schutzniveau bietet. Eine solche Daten\xFCbermittlung bedarf\
       \ keiner besonderen Genehmigung."
     index:
-    - internationale-organisation
     - personenbezogene-daten
+    - internationale-organisation
     number: 1
   2:
     number: 2
@@ -33,9 +33,9 @@ paragraphs:
           \ deren {personenbezogene Daten|index:personenbezogene-daten} \xFCbermittelt\
           \ werden,"
         index:
-        - internationale-organisation
-        - personenbezogene-daten
         - betroffene-person
+        - personenbezogene-daten
+        - internationale-organisation
       b:
         content: "die Existenz und die wirksame Funktionsweise einer oder mehrerer\
           \ unabh\xE4ngiger {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} in dem\
@@ -46,9 +46,9 @@ paragraphs:
           \ der Aus\xFCbung ihrer Rechte und f\xFCr die Zusammenarbeit mit den {Aufsichtsbeh\xF6\
           rden|index:aufsichtsbeh\xF6rde} der Mitgliedstaaten zust\xE4ndig sind, und"
         index:
-        - internationale-organisation
         - betroffene-person
         - "aufsichtsbeh\xF6rde"
+        - internationale-organisation
       c:
         content: "die von dem betreffenden Drittland bzw. der betreffenden internationalen\
           \ Organisation eingegangenen internationalen Verpflichtungen oder andere\
@@ -77,8 +77,8 @@ paragraphs:
       rde} angegeben. Der Durchf\xFChrungsrechtsakt wird gem\xE4\xDF dem in Artikel\
       \ 93 Absatz 2 genannten Pr\xFCfverfahren erlassen."
     index:
-    - internationale-organisation
     - "aufsichtsbeh\xF6rde"
+    - internationale-organisation
     number: 3
   4:
     content: "Die Kommission \xFCberwacht fortlaufend die Entwicklungen in Drittl\xE4\
@@ -102,8 +102,8 @@ paragraphs:
       \xDF dem in Artikel 93 Absatz 3 genannten {Verfahren|index:verfahren} sofort\
       \ geltende Durchf\xFChrungsrechtsakte."
     index:
-    - internationale-organisation
     - verfahren
+    - internationale-organisation
     number: 5
   6:
     content: "Die Kommission nimmt Beratungen mit dem betreffenden Drittland bzw.\
@@ -118,8 +118,8 @@ paragraphs:
       \ gem\xE4\xDF den Artikeln 46 bis 49 werden durch einen Beschluss nach Absatz\
       \ 5 des vorliegenden Artikels nicht ber\xFChrt."
     index:
-    - internationale-organisation
     - personenbezogene-daten
+    - internationale-organisation
     number: 7
   8:
     content: "Die Kommission ver\xF6ffentlicht im Amtsblatt der Europ\xE4ischen Union\

@@ -5,8 +5,8 @@ number: 15
 paragraphs:
   1:
     index:
-    - personal-data
     - data-subject
+    - personal-data
     - controller
     number: 1
     points:
@@ -19,64 +19,90 @@ paragraphs:
         index:
         - personal-data
       c:
-        content: |-
-          the recipients or categories of {recipient|index:recipient} to whom the {personal data|index:personal-data} have been or will be disclosed, in particular recipients in third countries or international organisations;
+        content: >-
+          the recipients or categories of {recipient|index:recipient} to whom the
+          {personal data|index:personal-data} have been or will be disclosed, in particular
+          recipients in third countries or international organisations;
         index:
-        - personal-data
         - recipient
+        - personal-data
       d:
-        content: |-
-          where possible, the envisaged period for which the {personal data|index:personal-data} will be stored, or, if not possible, the criteria used to determine that period;
+        content: >-
+          where possible, the envisaged period for which the {personal data|index:personal-data}
+          will be stored, or, if not possible, the criteria used to determine that
+          period;
         index:
         - personal-data
       e:
-        content: |-
-          the existence of the right to request from the {controller|index:controller} rectification or erasure of {personal data|index:personal-data} or {restriction of processing|index:restriction-of-processing} of {personal data|index:personal-data} concerning the {data subject|index:data-subject} or to object to such {processing|index:processing};
+        content: >-
+          the existence of the right to request from the {controller|index:controller}
+          rectification or erasure of {personal data|index:personal-data} or {restriction
+          of processing|index:restriction-of-processing} of {personal data|index:personal-data}
+          concerning the {data subject|index:data-subject} or to object to such {processing|index:processing};
         index:
-        - processing
         - data-subject
         - restriction-of-processing
         - personal-data
+        - processing
         - controller
       f:
         content: the right to lodge a complaint with a {supervisory authority|index:supervisory-authority};
         index:
         - supervisory-authority
       g:
-        content: |-
-          where the {personal data|index:personal-data} are not collected from the {data subject|index:data-subject}, any available information as to their source;
+        content: >-
+          where the {personal data|index:personal-data} are not collected from the
+          {data subject|index:data-subject}, any available information as to their
+          source;
         index:
+        - data-subject
         - personal-data
-        - data-subject
       h:
-        content: |-
-          the existence of automated decision-making, including {profiling|index:profiling}, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such {processing|index:processing} for the {data subject|index:data-subject}.
+        content: >-
+          the existence of automated decision-making, including {profiling|index:profiling},
+          referred to in Article 22(1) and (4) and, at least in those cases, meaningful
+          information about the logic involved, as well as the significance and the
+          envisaged consequences of such {processing|index:processing} for the {data
+          subject|index:data-subject}.
         index:
-        - profiling
         - data-subject
+        - profiling
         - processing
-    preamble: |-
-      The {data subject|index:data-subject} shall have the right to obtain from the {controller|index:controller} confirmation as to whether or not {personal data|index:personal-data} concerning him or her are being processed, and, where that is the case, access to the {personal data|index:personal-data} and the following information:
+    preamble: >-
+      The {data subject|index:data-subject} shall have the right to obtain from the
+      {controller|index:controller} confirmation as to whether or not {personal data|index:personal-data}
+      concerning him or her are being processed, and, where that is the case, access
+      to the {personal data|index:personal-data} and the following information:
   2:
-    content: |-
-      Where {personal data|index:personal-data} are transferred to a third country or to an {international organisation|index:international-organisation}, the {data subject|index:data-subject} shall have the right to be informed of the appropriate safeguards pursuant to Article 46 relating to the transfer.
+    content: >-
+      Where {personal data|index:personal-data} are transferred to a third country
+      or to an {international organisation|index:international-organisation}, the
+      {data subject|index:data-subject} shall have the right to be informed of the
+      appropriate safeguards pursuant to Article 46 relating to the transfer.
     index:
-    - international-organisation
-    - personal-data
     - data-subject
+    - personal-data
+    - international-organisation
     number: 2
   3:
-    content: |-
-      The {controller|index:controller} shall provide a copy of the {personal data|index:personal-data} undergoing {processing|index:processing}. For any further copies requested by the {data subject|index:data-subject}, the {controller|index:controller} may charge a reasonable fee based on administrative costs. Where the {data subject|index:data-subject} makes the request by electronic means, and unless otherwise requested by the {data subject|index:data-subject}, the information shall be provided in a commonly used electronic form.
+    content: >-
+      The {controller|index:controller} shall provide a copy of the {personal data|index:personal-data}
+      undergoing {processing|index:processing}. For any further copies requested by
+      the {data subject|index:data-subject}, the {controller|index:controller} may
+      charge a reasonable fee based on administrative costs. Where the {data subject|index:data-subject}
+      makes the request by electronic means, and unless otherwise requested by the
+      {data subject|index:data-subject}, the information shall be provided in a commonly
+      used electronic form.
     index:
     - data-subject
     - personal-data
-    - processing
     - controller
+    - processing
     number: 3
   4:
-    content: |-
-      The right to obtain a copy referred to in paragraph 3 shall not adversely affect the rights and freedoms of others.
+    content: >-
+      The right to obtain a copy referred to in paragraph 3 shall not adversely affect
+      the rights and freedoms of others.
     number: 4
 section: 2
 title: Right of access by the {data subject|index:data-subject}

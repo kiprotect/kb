@@ -12,10 +12,10 @@ content: "Der Beschluss sollte von der federf\xFChrenden {Aufsichtsbeh\xF6rde|in
   \ in der Union von der federf\xFChrenden {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
   rde} mitgeteilt wurde."
 index:
-- verantwortlicher
 - verordnung
-- hauptniederlassung
-- auftragsverarbeiter
 - "aufsichtsbeh\xF6rde"
+- verantwortlicher
 - "verarbeitungst\xE4tigkeit"
+- auftragsverarbeiter
+- hauptniederlassung
 number: 126

@@ -13,10 +13,10 @@ paragraphs:
       nge mit \xE4hnlich hohen Risiken kann eine einzige Absch\xE4tzung vorgenommen\
       \ werden."
     index:
-    - verantwortlicher
-    - personenbezogene-daten
     - "nat\xFCrliche-person"
     - verarbeitung
+    - personenbezogene-daten
+    - verantwortlicher
     number: 1
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} holt bei der Durchf\xFC\
@@ -37,8 +37,8 @@ paragraphs:
           rliche-person} entfalten oder diese in \xE4hnlich erheblicher Weise beeintr\xE4\
           chtigen;"
         index:
-        - profiling
         - "nat\xFCrliche-person"
+        - profiling
         - verarbeitung
       b:
         content: "umfangreiche {Verarbeitung|index:verarbeitung} besonderer Kategorien\
@@ -47,8 +47,8 @@ paragraphs:
           \ \xFCber strafrechtliche Verurteilungen und Straftaten gem\xE4\xDF Artikel\
           \ 10 oder"
         index:
-        - personenbezogene-daten
         - verarbeitung
+        - personenbezogene-daten
       c:
         content: "systematische umfangreiche \xDCberwachung \xF6ffentlich zug\xE4\
           nglicher Bereiche."
@@ -81,10 +81,10 @@ paragraphs:
       \ im Zusammenhang stehen oder die den freien Verkehr {personenbezogener Daten|index:personenbezogene-daten}\
       \ innerhalb der Union erheblich beeintr\xE4chtigen k\xF6nnten."
     index:
-    - personenbezogene-daten
-    - "aufsichtsbeh\xF6rde"
     - "verarbeitungst\xE4tigkeit"
     - betroffene-person
+    - "aufsichtsbeh\xF6rde"
+    - personenbezogene-daten
     number: 6
   7:
     number: 7
@@ -95,8 +95,8 @@ paragraphs:
           \ einschlie\xDFlich der von dem {Verantwortlichen|index:verantwortlicher}\
           \ verfolgten berechtigten Interessen;"
         index:
-        - verantwortlicher
         - verarbeitung
+        - verantwortlicher
       b:
         content: "eine Bewertung der Notwendigkeit und Verh\xE4ltnism\xE4\xDFigkeit\
           \ der Verarbeitungsvorg\xE4nge in Bezug auf den Zweck;"
@@ -114,10 +114,10 @@ paragraphs:
           \ Personen|index:betroffene-person} und sonstiger Betroffener Rechnung getragen\
           \ wird."
         index:
+        - betroffene-person
+        - verordnung
         - verfahren
         - personenbezogene-daten
-        - verordnung
-        - betroffene-person
     preamble: "Die Folgenabsch\xE4tzung enth\xE4lt zumindest Folgendes:"
   8:
     content: "Die Einhaltung genehmigter Verhaltensregeln gem\xE4\xDF Artikel 40 durch\
@@ -127,8 +127,8 @@ paragraphs:
       \ insbesondere f\xFCr die Zwecke einer Datenschutz-Folgenabsch\xE4tzung, geb\xFC\
       hrend zu ber\xFCcksichtigen."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
+    - verantwortlicher
     number: 8
   9:
     content: "Der {Verantwortliche|index:verantwortlicher} holt gegebenenfalls den\
@@ -137,10 +137,10 @@ paragraphs:
       \ gewerblicher oder \xF6ffentlicher Interessen oder der Sicherheit der Verarbeitungsvorg\xE4\
       nge ein."
     index:
-    - verantwortlicher
-    - vertreter
     - betroffene-person
+    - vertreter
     - verarbeitung
+    - verantwortlicher
     number: 9
   10:
     content: "Falls die {Verarbeitung|index:verarbeitung} gem\xE4\xDF Artikel 6 Absatz\
@@ -154,9 +154,9 @@ paragraphs:
       \ den betreffenden {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}\
       \ eine solche Folgenabsch\xE4tzung durchzuf\xFChren."
     index:
-    - verantwortlicher
     - "verarbeitungst\xE4tigkeit"
     - verarbeitung
+    - verantwortlicher
     number: 10
   11:
     content: "Erforderlichenfalls f\xFChrt der {Verantwortliche|index:verantwortlicher}\
@@ -165,8 +165,8 @@ paragraphs:
       \ gilt zumindest, wenn hinsichtlich des mit den Verarbeitungsvorg\xE4ngen verbundenen\
       \ Risikos \xC4nderungen eingetreten sind."
     index:
-    - verantwortlicher
     - verarbeitung
+    - verantwortlicher
     number: 11
 section: 3
 title: "Datenschutz-Folgenabsch\xE4tzung"

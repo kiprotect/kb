@@ -11,10 +11,10 @@ paragraphs:
       \ wird. Den besonderen Bed\xFCrfnissen von Kleinstunternehmen sowie kleinen\
       \ und mittleren {Unternehmen|index:unternehmen} wird Rechnung getragen."
     index:
-    - unternehmen
     - verantwortlicher
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
+    - unternehmen
     number: 1
   2:
     content: "Zus\xE4tzlich zur Einhaltung durch die unter diese {Verordnung|index:verordnung}\
@@ -32,11 +32,11 @@ paragraphs:
       \ die verbindliche und durchsetzbare Verpflichtung ein, diese geeigneten Garantien\
       \ anzuwenden, auch im Hinblick auf die Rechte der {betroffenen Personen|index:betroffene-person}."
     index:
-    - betroffene-person
-    - verantwortlicher
-    - verordnung
     - internationale-organisation
+    - verordnung
+    - verantwortlicher
     - auftragsverarbeiter
+    - betroffene-person
     - personenbezogene-daten
     number: 2
   3:
@@ -52,10 +52,10 @@ paragraphs:
       \ nicht die Aufgaben und Befugnisse der {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
       rde}, die gem\xE4\xDF Artikel 55 oder 56 zust\xE4ndig sind."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     number: 4
   5:
     content: "Eine Zertifizierung nach diesem Artikel wird durch die Zertifizierungsstellen\
@@ -77,11 +77,11 @@ paragraphs:
       \ zur Verf\xFCgung und gew\xE4hrt ihr den in diesem Zusammenhang erforderlichen\
       \ Zugang zu seinen {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}."
     index:
-    - verantwortlicher
-    - verarbeitung
-    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    - verantwortlicher
     - "verarbeitungst\xE4tigkeit"
+    - auftragsverarbeiter
     number: 6
   7:
     content: "Die Zertifizierung wird einem {Verantwortlichen|index:verantwortlicher}\
@@ -93,9 +93,9 @@ paragraphs:
       rde} widerrufen, wenn die Voraussetzungen f\xFCr die Zertifizierung nicht oder\
       \ nicht mehr erf\xFCllt werden."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     number: 7
   8:
     content: "Der Ausschuss nimmt alle Zertifizierungsverfahren und Datenschutzsiegel\

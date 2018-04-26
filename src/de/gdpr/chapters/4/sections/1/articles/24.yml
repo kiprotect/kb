@@ -1,7 +1,7 @@
 chapter: 4
 index:
-- verantwortlicher
 - verarbeitung
+- verantwortlicher
 number: 24
 paragraphs:
   1:
@@ -15,11 +15,11 @@ paragraphs:
       \ erfolgt. Diese Ma\xDFnahmen werden erforderlichenfalls \xFCberpr\xFCft und\
       \ aktualisiert."
     index:
-    - verantwortlicher
-    - "technische-und-organisatorische-ma\xDFnahmen"
+    - "nat\xFCrliche-person"
     - verordnung
     - verarbeitung
-    - "nat\xFCrliche-person"
+    - verantwortlicher
+    - "technische-und-organisatorische-ma\xDFnahmen"
     number: 1
   2:
     content: "Sofern dies in einem angemessenen Verh\xE4ltnis zu den {Verarbeitungst\xE4\
@@ -27,8 +27,8 @@ paragraphs:
       \ gem\xE4\xDF Absatz 1 die Anwendung geeigneter Datenschutzvorkehrungen durch\
       \ den {Verantwortlichen|index:verantwortlicher} umfassen."
     index:
-    - verantwortlicher
     - "verarbeitungst\xE4tigkeit"
+    - verantwortlicher
     number: 2
   3:
     content: "Die Einhaltung der genehmigten Verhaltensregeln gem\xE4\xDF Artikel\

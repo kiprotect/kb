@@ -1,9 +1,22 @@
-content: |-
-  The {controller|index:controller} should communicate to the {data subject|index:data-subject} a {personal data|index:personal-data} breach, without undue delay, where that {personal data|index:personal-data} breach is likely to result in a high risk to the rights and freedoms of the {natural person|index:natural-person} in order to allow him or her to take the necessary precautions. The communication should describe the nature of the {personal data|index:personal-data} breach as well as recommendations for the {natural person|index:natural-person} concerned to mitigate potential adverse effects. Such communications to data subjects should be made as soon as reasonably feasible and in close cooperation with the {supervisory authority|index:supervisory-authority}, respecting guidance provided by it or by other relevant authorities such as law-enforcement authorities. For example, the need to mitigate an immediate risk of damage would call for prompt communication with data subjects whereas the need to implement appropriate measures against continuing or similar {personal data|index:personal-data} breaches may justify more time for communication.
+content: >-
+  The {controller|index:controller} should communicate to the {data subject|index:data-subject}
+  a {personal data|index:personal-data} breach, without undue delay, where that {personal
+  data|index:personal-data} breach is likely to result in a high risk to the rights
+  and freedoms of the {natural person|index:natural-person} in order to allow him
+  or her to take the necessary precautions. The communication should describe the
+  nature of the {personal data|index:personal-data} breach as well as recommendations
+  for the {natural person|index:natural-person} concerned to mitigate potential adverse
+  effects. Such communications to data subjects should be made as soon as reasonably
+  feasible and in close cooperation with the {supervisory authority|index:supervisory-authority},
+  respecting guidance provided by it or by other relevant authorities such as law-enforcement
+  authorities. For example, the need to mitigate an immediate risk of damage would
+  call for prompt communication with data subjects whereas the need to implement appropriate
+  measures against continuing or similar {personal data|index:personal-data} breaches
+  may justify more time for communication.
 index:
-- supervisory-authority
 - data-subject
-- natural-person
+- supervisory-authority
 - personal-data
 - controller
+- natural-person
 number: 86

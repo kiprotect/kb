@@ -1,9 +1,20 @@
-content: |-
-  Directive 95/46/EC should be repealed by this {Regulation|index:regulation}. {Processing|index:processing} already under way on the date of application of this {Regulation|index:regulation} should be brought into conformity with this {Regulation|index:regulation} within the period of two years after which this {Regulation|index:regulation} enters into force. Where {processing|index:processing} is based on {consent|index:consent} pursuant to Directive 95/46/EC, it is not necessary for the {data subject|index:data-subject} to give his or her {consent|index:consent} again if the manner in which the {consent|index:consent} has been given is in line with the conditions of this {Regulation|index:regulation}, so as to allow the {controller|index:controller} to continue such {processing|index:processing} after the date of application of this {Regulation|index:regulation}. Commission decisions adopted and authorisations by supervisory authorities based on Directive 95/46/EC remain in force until amended, replaced or repealed.
+content: >-
+  Directive 95/46/EC should be repealed by this {Regulation|index:regulation}. {Processing|index:processing}
+  already under way on the date of application of this {Regulation|index:regulation}
+  should be brought into conformity with this {Regulation|index:regulation} within
+  the period of two years after which this {Regulation|index:regulation} enters into
+  force. Where {processing|index:processing} is based on {consent|index:consent} pursuant
+  to Directive 95/46/EC, it is not necessary for the {data subject|index:data-subject}
+  to give his or her {consent|index:consent} again if the manner in which the {consent|index:consent}
+  has been given is in line with the conditions of this {Regulation|index:regulation},
+  so as to allow the {controller|index:controller} to continue such {processing|index:processing}
+  after the date of application of this {Regulation|index:regulation}. Commission
+  decisions adopted and authorisations by supervisory authorities based on Directive
+  95/46/EC remain in force until amended, replaced or repealed.
 index:
-- processing
-- data-subject
-- consent
 - regulation
+- data-subject
+- processing
+- consent
 - controller
 number: 171

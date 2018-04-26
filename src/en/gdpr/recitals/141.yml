@@ -1,7 +1,24 @@
-content: |-
-  Every {data subject|index:data-subject} should have the right to lodge a complaint with a single {supervisory authority|index:supervisory-authority}, in particular in the Member State of his or her habitual residence, and the right to an effective judicial remedy in accordance with Article 47 of the Charter if the {data subject|index:data-subject} considers that his or her rights under this {Regulation|index:regulation} are infringed or where the {supervisory authority|index:supervisory-authority} does not act on a complaint, partially or wholly rejects or dismisses a complaint or does not act where such action is necessary to protect the rights of the {data subject|index:data-subject}. The investigation following a complaint should be carried out, subject to judicial review, to the extent that is appropriate in the specific case. The {supervisory authority|index:supervisory-authority} should inform the {data subject|index:data-subject} of the progress and the outcome of the complaint within a reasonable period. If the case requires further investigation or coordination with another {supervisory authority|index:supervisory-authority}, intermediate information should be given to the {data subject|index:data-subject}. In order to facilitate the submission of complaints, each {supervisory authority|index:supervisory-authority} should take measures such as providing a complaint submission form which can also be completed electronically, without excluding other means of communication.
+content: >-
+  Every {data subject|index:data-subject} should have the right to lodge a complaint
+  with a single {supervisory authority|index:supervisory-authority}, in particular
+  in the Member State of his or her habitual residence, and the right to an effective
+  judicial remedy in accordance with Article 47 of the Charter if the {data subject|index:data-subject}
+  considers that his or her rights under this {Regulation|index:regulation} are infringed
+  or where the {supervisory authority|index:supervisory-authority} does not act on
+  a complaint, partially or wholly rejects or dismisses a complaint or does not act
+  where such action is necessary to protect the rights of the {data subject|index:data-subject}.
+  The investigation following a complaint should be carried out, subject to judicial
+  review, to the extent that is appropriate in the specific case. The {supervisory
+  authority|index:supervisory-authority} should inform the {data subject|index:data-subject}
+  of the progress and the outcome of the complaint within a reasonable period. If
+  the case requires further investigation or coordination with another {supervisory
+  authority|index:supervisory-authority}, intermediate information should be given
+  to the {data subject|index:data-subject}. In order to facilitate the submission
+  of complaints, each {supervisory authority|index:supervisory-authority} should take
+  measures such as providing a complaint submission form which can also be completed
+  electronically, without excluding other means of communication.
 index:
+- data-subject
 - supervisory-authority
 - regulation
-- data-subject
 number: 141

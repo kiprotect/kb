@@ -4,7 +4,7 @@ content: "Diese {Verordnung|index:verordnung} sollte auch f\xFCr die {Verarbeitu
   \ z\xE4hlen, wobei darauf hinzuweisen ist, dass diese {Verordnung|index:verordnung}\
   \ nicht f\xFCr verstorbene Personen gelten sollte."
 index:
-- personenbezogene-daten
 - verordnung
 - verarbeitung
+- personenbezogene-daten
 number: 160

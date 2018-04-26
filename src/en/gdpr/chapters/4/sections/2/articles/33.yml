@@ -5,57 +5,78 @@ index:
 number: 33
 paragraphs:
   1:
-    content: |-
-      In the case of a {personal data|index:personal-data} breach, the {controller|index:controller} shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the {personal data|index:personal-data} breach to the {supervisory authority|index:supervisory-authority} competent in accordance with Article 55, unless the {personal data|index:personal-data} breach is unlikely to result in a risk to the rights and freedoms of {natural persons|index:natural-person}. Where the notification to the {supervisory authority|index:supervisory-authority} is not made within 72 hours, it shall be accompanied by reasons for the delay.
+    content: >-
+      In the case of a {personal data|index:personal-data} breach, the {controller|index:controller}
+      shall without undue delay and, where feasible, not later than 72 hours after
+      having become aware of it, notify the {personal data|index:personal-data} breach
+      to the {supervisory authority|index:supervisory-authority} competent in accordance
+      with Article 55, unless the {personal data|index:personal-data} breach is unlikely
+      to result in a risk to the rights and freedoms of {natural persons|index:natural-person}.
+      Where the notification to the {supervisory authority|index:supervisory-authority}
+      is not made within 72 hours, it shall be accompanied by reasons for the delay.
     index:
-    - natural-person
     - supervisory-authority
     - personal-data
     - controller
+    - natural-person
     number: 1
   2:
-    content: |-
-      The {processor|index:processor} shall notify the {controller|index:controller} without undue delay after becoming aware of a {personal data|index:personal-data} breach.
+    content: >-
+      The {processor|index:processor} shall notify the {controller|index:controller}
+      without undue delay after becoming aware of a {personal data|index:personal-data}
+      breach.
     index:
-    - processor
     - personal-data
     - controller
+    - processor
     number: 2
   3:
     number: 3
     points:
       a:
-        content: |-
-          describe the nature of the {personal data|index:personal-data} breach including where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of {personal data|index:personal-data} records concerned;
+        content: >-
+          describe the nature of the {personal data|index:personal-data} breach including
+          where possible, the categories and approximate number of data subjects concerned
+          and the categories and approximate number of {personal data|index:personal-data}
+          records concerned;
         index:
         - personal-data
       b:
-        content: |-
-          communicate the name and contact details of the data protection officer or other contact point where more information can be obtained;
+        content: >-
+          communicate the name and contact details of the data protection officer
+          or other contact point where more information can be obtained;
       c:
         content: describe the likely consequences of the {personal data|index:personal-data}
           breach;
         index:
         - personal-data
       d:
-        content: |-
-          describe the measures taken or proposed to be taken by the {controller|index:controller} to address the {personal data|index:personal-data} breach, including, where appropriate, measures to mitigate its possible adverse effects.
+        content: >-
+          describe the measures taken or proposed to be taken by the {controller|index:controller}
+          to address the {personal data|index:personal-data} breach, including, where
+          appropriate, measures to mitigate its possible adverse effects.
         index:
         - personal-data
         - controller
     preamble: 'The notification referred to in paragraph 1 shall at least:'
   4:
-    content: |-
-      Where, and in so far as, it is not possible to provide the information at the same time, the information may be provided in phases without undue further delay.
+    content: >-
+      Where, and in so far as, it is not possible to provide the information at the
+      same time, the information may be provided in phases without undue further delay.
     number: 4
   5:
-    content: |-
-      The {controller|index:controller} shall document any {personal data|index:personal-data} breaches, comprising the facts relating to the {personal data|index:personal-data} breach, its effects and the remedial action taken. That documentation shall enable the {supervisory authority|index:supervisory-authority} to verify compliance with this Article.
+    content: >-
+      The {controller|index:controller} shall document any {personal data|index:personal-data}
+      breaches, comprising the facts relating to the {personal data|index:personal-data}
+      breach, its effects and the remedial action taken. That documentation shall
+      enable the {supervisory authority|index:supervisory-authority} to verify compliance
+      with this Article.
     index:
     - supervisory-authority
     - personal-data
     - controller
     number: 5
 section: 2
-title: |-
-  Notification of a {personal data|index:personal-data} breach to the {supervisory authority|index:supervisory-authority}
+title: >-
+  Notification of a {personal data|index:personal-data} breach to the {supervisory
+  authority|index:supervisory-authority}

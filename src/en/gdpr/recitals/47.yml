@@ -1,9 +1,34 @@
-content: |-
-  The legitimate interests of a {controller|index:controller}, including those of a {controller|index:controller} to which the {personal data|index:personal-data} may be disclosed, or of a {third party|index:third-party}, may provide a legal basis for {processing|index:processing}, provided that the interests or the fundamental rights and freedoms of the {data subject|index:data-subject} are not overriding, taking into consideration the reasonable expectations of data subjects based on their relationship with the {controller|index:controller}. Such legitimate interest could exist for example where there is a relevant and appropriate relationship between the {data subject|index:data-subject} and the {controller|index:controller} in situations such as where the {data subject|index:data-subject} is a client or in the service of the {controller|index:controller}. At any rate the existence of a legitimate interest would need careful assessment including whether a {data subject|index:data-subject} can reasonably expect at the time and in the context of the collection of the {personal data|index:personal-data} that {processing|index:processing} for that purpose may take place. The interests and fundamental rights of the {data subject|index:data-subject} could in particular override the interest of the data {controller|index:controller} where {personal data|index:personal-data} are processed in circumstances where data subjects do not reasonably expect further {processing|index:processing}. Given that it is for the legislator to provide by law for the legal basis for public authorities to process {personal data|index:personal-data}, that legal basis should not apply to the {processing|index:processing} by public authorities in the performance of their tasks. The {processing|index:processing} of {personal data|index:personal-data} strictly necessary for the purposes of preventing fraud also constitutes a legitimate interest of the data {controller|index:controller} concerned. The {processing|index:processing} of {personal data|index:personal-data} for direct marketing purposes may be regarded as carried out for a legitimate interest.
+content: >-
+  The legitimate interests of a {controller|index:controller}, including those of
+  a {controller|index:controller} to which the {personal data|index:personal-data}
+  may be disclosed, or of a {third party|index:third-party}, may provide a legal basis
+  for {processing|index:processing}, provided that the interests or the fundamental
+  rights and freedoms of the {data subject|index:data-subject} are not overriding,
+  taking into consideration the reasonable expectations of data subjects based on
+  their relationship with the {controller|index:controller}. Such legitimate interest
+  could exist for example where there is a relevant and appropriate relationship between
+  the {data subject|index:data-subject} and the {controller|index:controller} in situations
+  such as where the {data subject|index:data-subject} is a client or in the service
+  of the {controller|index:controller}. At any rate the existence of a legitimate
+  interest would need careful assessment including whether a {data subject|index:data-subject}
+  can reasonably expect at the time and in the context of the collection of the {personal
+  data|index:personal-data} that {processing|index:processing} for that purpose may
+  take place. The interests and fundamental rights of the {data subject|index:data-subject}
+  could in particular override the interest of the data {controller|index:controller}
+  where {personal data|index:personal-data} are processed in circumstances where data
+  subjects do not reasonably expect further {processing|index:processing}. Given that
+  it is for the legislator to provide by law for the legal basis for public authorities
+  to process {personal data|index:personal-data}, that legal basis should not apply
+  to the {processing|index:processing} by public authorities in the performance of
+  their tasks. The {processing|index:processing} of {personal data|index:personal-data}
+  strictly necessary for the purposes of preventing fraud also constitutes a legitimate
+  interest of the data {controller|index:controller} concerned. The {processing|index:processing}
+  of {personal data|index:personal-data} for direct marketing purposes may be regarded
+  as carried out for a legitimate interest.
 index:
-- processing
-- third-party
 - data-subject
 - personal-data
+- processing
+- third-party
 - controller
 number: 47

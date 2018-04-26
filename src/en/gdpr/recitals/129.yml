@@ -1,9 +1,38 @@
-content: |-
-  In order to ensure consistent monitoring and enforcement of this {Regulation|index:regulation} throughout the Union, the supervisory authorities should have in each Member State the same tasks and effective powers, including powers of investigation, corrective powers and sanctions, and authorisation and advisory powers, in particular in cases of complaints from {natural persons|index:natural-person}, and without prejudice to the powers of prosecutorial authorities under Member State law, to bring infringements of this {Regulation|index:regulation} to the attention of the judicial authorities and engage in legal proceedings. Such powers should also include the power to impose a temporary or definitive limitation, including a ban, on {processing|index:processing}. Member States may specify other tasks related to the protection of {personal data|index:personal-data} under this {Regulation|index:regulation}. The powers of supervisory authorities should be exercised in accordance with appropriate procedural safeguards set out in Union and Member State law, impartially, fairly and within a reasonable time. In particular each measure should be appropriate, necessary and proportionate in view of ensuring compliance with this {Regulation|index:regulation}, taking into account the circumstances of each individual case, respect the right of every person to be heard before any individual measure which would affect him or her adversely is taken and avoid superfluous costs and excessive inconveniences for the persons concerned. Investigatory powers as regards access to premises should be exercised in accordance with specific requirements in Member State procedural law, such as the requirement to obtain a prior judicial authorisation. Each legally binding measure of the {supervisory authority|index:supervisory-authority} should be in writing, be clear and unambiguous, indicate the {supervisory authority|index:supervisory-authority} which has issued the measure, the date of issue of the measure, bear the signature of the head, or a member of the {supervisory authority|index:supervisory-authority} authorised by him or her, give the reasons for the measure, and refer to the right of an effective remedy. This should not preclude additional requirements pursuant to Member State procedural law. The adoption of a legally binding decision implies that it may give rise to judicial review in the Member State of the {supervisory authority|index:supervisory-authority} that adopted the decision.
+content: >-
+  In order to ensure consistent monitoring and enforcement of this {Regulation|index:regulation}
+  throughout the Union, the supervisory authorities should have in each Member State
+  the same tasks and effective powers, including powers of investigation, corrective
+  powers and sanctions, and authorisation and advisory powers, in particular in cases
+  of complaints from {natural persons|index:natural-person}, and without prejudice
+  to the powers of prosecutorial authorities under Member State law, to bring infringements
+  of this {Regulation|index:regulation} to the attention of the judicial authorities
+  and engage in legal proceedings. Such powers should also include the power to impose
+  a temporary or definitive limitation, including a ban, on {processing|index:processing}.
+  Member States may specify other tasks related to the protection of {personal data|index:personal-data}
+  under this {Regulation|index:regulation}. The powers of supervisory authorities
+  should be exercised in accordance with appropriate procedural safeguards set out
+  in Union and Member State law, impartially, fairly and within a reasonable time.
+  In particular each measure should be appropriate, necessary and proportionate in
+  view of ensuring compliance with this {Regulation|index:regulation}, taking into
+  account the circumstances of each individual case, respect the right of every person
+  to be heard before any individual measure which would affect him or her adversely
+  is taken and avoid superfluous costs and excessive inconveniences for the persons
+  concerned. Investigatory powers as regards access to premises should be exercised
+  in accordance with specific requirements in Member State procedural law, such as
+  the requirement to obtain a prior judicial authorisation. Each legally binding measure
+  of the {supervisory authority|index:supervisory-authority} should be in writing,
+  be clear and unambiguous, indicate the {supervisory authority|index:supervisory-authority}
+  which has issued the measure, the date of issue of the measure, bear the signature
+  of the head, or a member of the {supervisory authority|index:supervisory-authority}
+  authorised by him or her, give the reasons for the measure, and refer to the right
+  of an effective remedy. This should not preclude additional requirements pursuant
+  to Member State procedural law. The adoption of a legally binding decision implies
+  that it may give rise to judicial review in the Member State of the {supervisory
+  authority|index:supervisory-authority} that adopted the decision.
 index:
-- processing
-- supervisory-authority
-- natural-person
-- personal-data
 - regulation
+- supervisory-authority
+- personal-data
+- processing
+- natural-person
 number: 129

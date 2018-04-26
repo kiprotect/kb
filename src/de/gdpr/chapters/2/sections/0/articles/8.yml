@@ -17,10 +17,10 @@ paragraphs:
       \ zu diesen Zwecken eine niedrigere Altersgrenze vorsehen, die jedoch nicht\
       \ unter dem vollendeten dreizehnten Lebensjahr liegen darf."
     index:
-    - einwilligung
-    - dienst-der-informationsgesellschaft
-    - personenbezogene-daten
     - verarbeitung
+    - personenbezogene-daten
+    - dienst-der-informationsgesellschaft
+    - einwilligung
     number: 1
   2:
     content: "Der {Verantwortliche|index:verantwortlicher} unternimmt unter Ber\xFC\

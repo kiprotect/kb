@@ -9,8 +9,8 @@ content: "Die Grunds\xE4tze und Vorschriften zum Schutz {nat\xFCrlicher Personen
   \ innerhalb des Binnenmarkts sowie zum Wohlergehen {nat\xFCrlicher Personen|index:nat\xFC\
   rliche-person} beitragen."
 index:
-- personenbezogene-daten
 - "nat\xFCrliche-person"
-- verarbeitung
 - verordnung
+- verarbeitung
+- personenbezogene-daten
 number: 2

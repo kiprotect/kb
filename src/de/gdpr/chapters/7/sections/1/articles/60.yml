@@ -22,9 +22,9 @@ paragraphs:
       \ Bezug auf einen {Verantwortlichen|index:verantwortlicher} oder einen {Auftragsverarbeiter|index:auftragsverarbeiter},\
       \ der in einem anderen Mitgliedstaat niedergelassen ist."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     number: 2
   3:
     content: "Die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
@@ -48,8 +48,8 @@ paragraphs:
       rde|index:aufsichtsbeh\xF6rde} das Koh\xE4renzverfahren gem\xE4\xDF Artikel\
       \ 63 f\xFCr die Angelegenheit ein."
     index:
-    - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
     - "aufsichtsbeh\xF6rde"
+    - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
     number: 4
   5:
     content: "Beabsichtigt die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
@@ -59,9 +59,9 @@ paragraphs:
       \ Stellungnahme vor. Der \xFCberarbeitete Beschlussentwurf wird innerhalb von\
       \ zwei Wochen dem {Verfahren|index:verfahren} nach Absatz 4 unterzogen."
     index:
-    - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
-    - "aufsichtsbeh\xF6rde"
     - verfahren
+    - "aufsichtsbeh\xF6rde"
+    - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
     number: 5
   6:
     content: "Legt keine der anderen betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
@@ -85,10 +85,10 @@ paragraphs:
       \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, bei der eine Beschwerde eingereicht\
       \ worden ist, unterrichtet den Beschwerdef\xFChrer \xFCber den Beschluss."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
     - hauptniederlassung
+    - verantwortlicher
     number: 7
   8:
     content: "Wird eine Beschwerde abgelehnt oder abgewiesen, so erl\xE4sst die {Aufsichtsbeh\xF6\
@@ -96,8 +96,8 @@ paragraphs:
       \ von Absatz 7 den Beschluss, teilt ihn dem Beschwerdef\xFChrer mit und setzt\
       \ den {Verantwortlichen|index:verantwortlicher} in Kenntnis."
     index:
-    - verantwortlicher
     - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     number: 8
   9:
     content: "Sind sich die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
@@ -117,10 +117,10 @@ paragraphs:
       hrer mitteilt und den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
       \ hiervon in Kenntnis setzt."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
     - hauptniederlassung
+    - verantwortlicher
     number: 9
   10:
     content: "Nach der Unterrichtung \xFCber den Beschluss der federf\xFChrenden {Aufsichtsbeh\xF6\
@@ -134,10 +134,10 @@ paragraphs:
       \ diese wiederum unterrichtet die anderen betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
       rde}."
     index:
-    - verantwortlicher
+    - "verarbeitungst\xE4tigkeit"
     - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
-    - "verarbeitungst\xE4tigkeit"
+    - verantwortlicher
     number: 10
   11:
     content: "Hat \u2014 in Ausnahmef\xE4llen \u2014 eine betroffene {Aufsichtsbeh\xF6\

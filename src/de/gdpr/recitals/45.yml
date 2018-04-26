@@ -31,8 +31,8 @@ content: "Erfolgt die {Verarbeitung|index:verarbeitung} durch den {Verantwortlic
   \ oder juristische Person des Privatrechts, wie beispielsweise eine Berufsvereinigung,\
   \ handeln sollte."
 index:
-- verantwortlicher
-- personenbezogene-daten
 - verordnung
 - verarbeitung
+- personenbezogene-daten
+- verantwortlicher
 number: 45

@@ -5,23 +5,36 @@ index:
 number: 79
 paragraphs:
   1:
-    content: |-
-      Without prejudice to any available administrative or non-judicial remedy, including the right to lodge a complaint with a {supervisory authority|index:supervisory-authority} pursuant to Article 77, each {data subject|index:data-subject} shall have the right to an effective judicial remedy where he or she considers that his or her rights under this {Regulation|index:regulation} have been infringed as a result of the {processing|index:processing} of his or her {personal data|index:personal-data} in non-compliance with this {Regulation|index:regulation}.
+    content: >-
+      Without prejudice to any available administrative or non-judicial remedy, including
+      the right to lodge a complaint with a {supervisory authority|index:supervisory-authority}
+      pursuant to Article 77, each {data subject|index:data-subject} shall have the
+      right to an effective judicial remedy where he or she considers that his or
+      her rights under this {Regulation|index:regulation} have been infringed as a
+      result of the {processing|index:processing} of his or her {personal data|index:personal-data}
+      in non-compliance with this {Regulation|index:regulation}.
     index:
-    - processing
-    - supervisory-authority
-    - data-subject
-    - personal-data
     - regulation
+    - data-subject
+    - supervisory-authority
+    - personal-data
+    - processing
     number: 1
   2:
-    content: |-
-      Proceedings against a {controller|index:controller} or a {processor|index:processor} shall be brought before the courts of the Member State where the {controller|index:controller} or {processor|index:processor} has an establishment. Alternatively, such proceedings may be brought before the courts of the Member State where the {data subject|index:data-subject} has his or her habitual residence, unless the {controller|index:controller} or {processor|index:processor} is a public authority of a Member State acting in the exercise of its public powers.
+    content: >-
+      Proceedings against a {controller|index:controller} or a {processor|index:processor}
+      shall be brought before the courts of the Member State where the {controller|index:controller}
+      or {processor|index:processor} has an establishment. Alternatively, such proceedings
+      may be brought before the courts of the Member State where the {data subject|index:data-subject}
+      has his or her habitual residence, unless the {controller|index:controller}
+      or {processor|index:processor} is a public authority of a Member State acting
+      in the exercise of its public powers.
     index:
-    - processor
     - data-subject
+    - processor
     - controller
     number: 2
 section: 0
-title: |-
-  Right to an effective judicial remedy against a {controller|index:controller} or {processor|index:processor}
+title: >-
+  Right to an effective judicial remedy against a {controller|index:controller} or
+  {processor|index:processor}

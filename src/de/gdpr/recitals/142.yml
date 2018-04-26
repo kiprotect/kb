@@ -18,9 +18,9 @@ content: "{Betroffene Personen|index:betroffene-person}, die sich in ihren Recht
   \ Person|index:betroffene-person} nicht gestattet werden, im Namen einer {betroffenen\
   \ Person|index:betroffene-person} Schadenersatz zu verlangen."
 index:
-- betroffene-person
 - verordnung
-- verarbeitung
-- personenbezogene-daten
 - "aufsichtsbeh\xF6rde"
+- verarbeitung
+- betroffene-person
+- personenbezogene-daten
 number: 142

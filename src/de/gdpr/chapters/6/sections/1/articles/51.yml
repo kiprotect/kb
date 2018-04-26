@@ -14,9 +14,9 @@ paragraphs:
     index:
     - "nat\xFCrliche-person"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
     - verarbeitung
     - personenbezogene-daten
-    - "aufsichtsbeh\xF6rde"
     number: 1
   2:
     content: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} leistet einen Beitrag\
@@ -24,8 +24,8 @@ paragraphs:
       \ Union. Zu diesem Zweck arbeiten die {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
       rde} untereinander sowie mit der Kommission gem\xE4\xDF Kapitel VII zusammen."
     index:
-    - "aufsichtsbeh\xF6rde"
     - verordnung
+    - "aufsichtsbeh\xF6rde"
     number: 2
   3:
     content: "Gibt es in einem Mitgliedstaat mehr als eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\

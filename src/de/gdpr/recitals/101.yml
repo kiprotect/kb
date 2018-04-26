@@ -24,11 +24,11 @@ content: "Der Fluss {personenbezogener Daten|index:personenbezogene-daten} aus D
   \ von dem {Verantwortlichen|index:verantwortlicher} oder dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
   \ erf\xFCllt werden."
 index:
-- verantwortlicher
-- "empf\xE4nger"
-- verordnung
+- "nat\xFCrliche-person"
 - internationale-organisation
+- verordnung
+- "empf\xE4nger"
+- verantwortlicher
 - auftragsverarbeiter
 - personenbezogene-daten
-- "nat\xFCrliche-person"
 number: 101

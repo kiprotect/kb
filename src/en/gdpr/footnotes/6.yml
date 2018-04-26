@@ -1,7 +1,11 @@
-content: |-
-  {Regulation|index:regulation} (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the {processing|index:processing} of {personal data|index:personal-data} by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+content: >-
+  {Regulation|index:regulation} (EC) No 45/2001 of the European Parliament and of
+  the Council of 18 December 2000 on the protection of individuals with regard to
+  the {processing|index:processing} of {personal data|index:personal-data} by the
+  Community institutions and bodies and on the free movement of such data (OJ L 8,
+  12.1.2001, p. 1).
 index:
-- personal-data
 - regulation
+- personal-data
 - processing
 number: 6

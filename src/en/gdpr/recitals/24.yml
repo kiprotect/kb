@@ -1,11 +1,22 @@
-content: |-
-  The {processing|index:processing} of {personal data|index:personal-data} of data subjects who are in the Union by a {controller|index:controller} or {processor|index:processor} not established in the Union should also be subject to this {Regulation|index:regulation} when it is related to the monitoring of the behaviour of such data subjects in so far as their behaviour takes place within the Union. In order to determine whether a {processing|index:processing} activity can be considered to monitor the behaviour of data subjects, it should be ascertained whether {natural persons|index:natural-person} are tracked on the internet including potential subsequent use of {personal data|index:personal-data} {processing|index:processing} techniques which consist of {profiling|index:profiling} a {natural person|index:natural-person}, particularly in order to take decisions concerning her or him or for analysing or predicting her or his personal preferences, behaviours and attitudes.
+content: >-
+  The {processing|index:processing} of {personal data|index:personal-data} of data
+  subjects who are in the Union by a {controller|index:controller} or {processor|index:processor}
+  not established in the Union should also be subject to this {Regulation|index:regulation}
+  when it is related to the monitoring of the behaviour of such data subjects in so
+  far as their behaviour takes place within the Union. In order to determine whether
+  a {processing|index:processing} activity can be considered to monitor the behaviour
+  of data subjects, it should be ascertained whether {natural persons|index:natural-person}
+  are tracked on the internet including potential subsequent use of {personal data|index:personal-data}
+  {processing|index:processing} techniques which consist of {profiling|index:profiling}
+  a {natural person|index:natural-person}, particularly in order to take decisions
+  concerning her or him or for analysing or predicting her or his personal preferences,
+  behaviours and attitudes.
 index:
-- processing
+- regulation
+- personal-data
 - processor
 - profiling
-- natural-person
-- personal-data
-- regulation
+- processing
 - controller
+- natural-person
 number: 24

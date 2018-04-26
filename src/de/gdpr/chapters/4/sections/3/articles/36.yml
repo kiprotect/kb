@@ -8,9 +8,9 @@ paragraphs:
       \ ein hohes Risiko zur Folge h\xE4tte, sofern der {Verantwortliche|index:verantwortlicher}\
       \ keine Ma\xDFnahmen zur Eind\xE4mmung des Risikos trifft."
     index:
-    - verantwortlicher
     - "aufsichtsbeh\xF6rde"
     - verarbeitung
+    - verantwortlicher
     number: 1
   2:
     content: "Falls die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} der Auffassung\
@@ -31,16 +31,16 @@ paragraphs:
       rde|index:aufsichtsbeh\xF6rde} die f\xFCr die Zwecke der Konsultation angeforderten\
       \ Informationen erhalten hat."
     index:
-    - verantwortlicher
     - verordnung
-    - verarbeitung
-    - auftragsverarbeiter
     - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    - verantwortlicher
+    - auftragsverarbeiter
     number: 2
   3:
     index:
-    - verantwortlicher
     - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     number: 3
     points:
       a:
@@ -50,10 +50,10 @@ paragraphs:
           \ insbesondere bei einer {Verarbeitung|index:verarbeitung} innerhalb einer\
           \ Gruppe von {Unternehmen|index:unternehmen};"
         index:
-        - unternehmen
-        - auftragsverarbeiter
         - verantwortlicher
+        - auftragsverarbeiter
         - verarbeitung
+        - unternehmen
       b:
         content: die Zwecke und die Mittel der beabsichtigten {Verarbeitung|index:verarbeitung};
         index:
@@ -95,9 +95,9 @@ paragraphs:
       \ und der \xF6ffentlichen Gesundheit, die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
       rde} zu konsultieren und deren vorherige Genehmigung einzuholen."
     index:
-    - verantwortlicher
     - "aufsichtsbeh\xF6rde"
     - verarbeitung
+    - verantwortlicher
     number: 5
 section: 3
 title: Vorherige Konsultation

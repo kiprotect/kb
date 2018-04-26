@@ -3,9 +3,9 @@ number: 20
 paragraphs:
   1:
     index:
-    - verantwortlicher
-    - personenbezogene-daten
     - betroffene-person
+    - personenbezogene-daten
+    - verantwortlicher
     number: 1
     points:
       a:
@@ -14,14 +14,15 @@ paragraphs:
           \ a oder auf einem Vertrag gem\xE4\xDF Artikel 6 Absatz 1 Buchstabe b beruht\
           \ und"
         index:
+        - verarbeitung
         - einwilligung
-        - verarbeitung
       b:
-        content: |-
-          die {Verarbeitung|index:verarbeitung} mithilfe {automatisierter Verfahren|index:automatisiertes-verfahren} erfolgt.
+        content: >-
+          die {Verarbeitung|index:verarbeitung} mithilfe {automatisierter Verfahren|index:automatisiertes-verfahren}
+          erfolgt.
         index:
-        - verarbeitung
         - automatisiertes-verfahren
+        - verarbeitung
     preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, die\
       \ sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten}, die\
       \ sie einem {Verantwortlichen|index:verantwortlicher} bereitgestellt hat, in\
@@ -37,9 +38,9 @@ paragraphs:
       \ direkt von einem {Verantwortlichen|index:verantwortlicher} einem anderen {Verantwortlichen|index:verantwortlicher}\
       \ \xFCbermittelt werden, soweit dies technisch machbar ist."
     index:
-    - verantwortlicher
-    - personenbezogene-daten
     - betroffene-person
+    - personenbezogene-daten
+    - verantwortlicher
     number: 2
   3:
     content: "Die Aus\xFCbung des Rechts nach Absatz 1 des vorliegenden Artikels l\xE4\
@@ -48,8 +49,8 @@ paragraphs:
       \ Interesse liegt oder in Aus\xFCbung \xF6ffentlicher Gewalt erfolgt, die dem\
       \ {Verantwortlichen|index:verantwortlicher} \xFCbertragen wurde."
     index:
-    - verantwortlicher
     - verarbeitung
+    - verantwortlicher
     number: 3
   4:
     content: "Das Recht gem\xE4\xDF Absatz 2 darf die Rechte und Freiheiten anderer\

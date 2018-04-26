@@ -2,42 +2,55 @@ chapter: 1
 number: 3
 paragraphs:
   1:
-    content: |-
-      This {Regulation|index:regulation} applies to the {processing|index:processing} of {personal data|index:personal-data} in the context of the activities of an establishment of a {controller|index:controller} or a {processor|index:processor} in the Union, regardless of whether the {processing|index:processing} takes place in the Union or not.
+    content: >-
+      This {Regulation|index:regulation} applies to the {processing|index:processing}
+      of {personal data|index:personal-data} in the context of the activities of an
+      establishment of a {controller|index:controller} or a {processor|index:processor}
+      in the Union, regardless of whether the {processing|index:processing} takes
+      place in the Union or not.
     index:
-    - processing
-    - processor
-    - personal-data
     - regulation
+    - personal-data
+    - processor
+    - processing
     - controller
     number: 1
   2:
     index:
-    - processing
-    - processor
-    - personal-data
     - regulation
+    - personal-data
+    - processor
+    - processing
     - controller
     number: 2
     points:
       a:
-        content: |-
-          the offering of goods or services, irrespective of whether a payment of the {data subject|index:data-subject} is required, to such data subjects in the Union; or
+        content: >-
+          the offering of goods or services, irrespective of whether a payment of
+          the {data subject|index:data-subject} is required, to such data subjects
+          in the Union; or
         index:
         - data-subject
       b:
         content: the monitoring of their behaviour as far as their behaviour takes
           place within the Union.
-    preamble: |-
-      This {Regulation|index:regulation} applies to the {processing|index:processing} of {personal data|index:personal-data} of data subjects who are in the Union by a {controller|index:controller} or {processor|index:processor} not established in the Union, where the {processing|index:processing} activities are related to:
+    preamble: >-
+      This {Regulation|index:regulation} applies to the {processing|index:processing}
+      of {personal data|index:personal-data} of data subjects who are in the Union
+      by a {controller|index:controller} or {processor|index:processor} not established
+      in the Union, where the {processing|index:processing} activities are related
+      to:
   3:
-    content: |-
-      This {Regulation|index:regulation} applies to the {processing|index:processing} of {personal data|index:personal-data} by a {controller|index:controller} not established in the Union, but in a place where Member State law applies by virtue of public international law.
+    content: >-
+      This {Regulation|index:regulation} applies to the {processing|index:processing}
+      of {personal data|index:personal-data} by a {controller|index:controller} not
+      established in the Union, but in a place where Member State law applies by virtue
+      of public international law.
     index:
-    - personal-data
     - regulation
-    - processing
+    - personal-data
     - controller
+    - processing
     number: 3
 section: 0
 title: Territorial scope

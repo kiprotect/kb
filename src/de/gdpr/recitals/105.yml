@@ -11,7 +11,7 @@ content: "Die Kommission sollte neben den internationalen Verpflichtungen, die d
   \ konsultieren, wenn sie das Schutzniveau in Drittl\xE4ndern oder internationalen\
   \ Organisationen bewertet."
 index:
-- internationale-organisation
-- personenbezogene-daten
 - verarbeitung
+- personenbezogene-daten
+- internationale-organisation
 number: 105

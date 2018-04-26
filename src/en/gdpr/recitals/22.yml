@@ -1,9 +1,16 @@
-content: |-
-  Any {processing|index:processing} of {personal data|index:personal-data} in the context of the activities of an establishment of a {controller|index:controller} or a {processor|index:processor} in the Union should be carried out in accordance with this {Regulation|index:regulation}, regardless of whether the {processing|index:processing} itself takes place within the Union. Establishment implies the effective and real exercise of activity through stable arrangements. The legal form of such arrangements, whether through a branch or a subsidiary with a legal personality, is not the determining factor in that respect.
+content: >-
+  Any {processing|index:processing} of {personal data|index:personal-data} in the
+  context of the activities of an establishment of a {controller|index:controller}
+  or a {processor|index:processor} in the Union should be carried out in accordance
+  with this {Regulation|index:regulation}, regardless of whether the {processing|index:processing}
+  itself takes place within the Union. Establishment implies the effective and real
+  exercise of activity through stable arrangements. The legal form of such arrangements,
+  whether through a branch or a subsidiary with a legal personality, is not the determining
+  factor in that respect.
 index:
-- processing
-- processor
-- personal-data
 - regulation
+- personal-data
+- processor
+- processing
 - controller
 number: 22

@@ -2,15 +2,21 @@ chapter: 7
 number: 71
 paragraphs:
   1:
-    content: |-
-      The Board shall draw up an annual report regarding the protection of {natural persons|index:natural-person} with regard to {processing|index:processing} in the Union and, where relevant, in third countries and international organisations. The report shall be made public and be transmitted to the European Parliament, to the Council and to the Commission.
+    content: >-
+      The Board shall draw up an annual report regarding the protection of {natural
+      persons|index:natural-person} with regard to {processing|index:processing} in
+      the Union and, where relevant, in third countries and international organisations.
+      The report shall be made public and be transmitted to the European Parliament,
+      to the Council and to the Commission.
     index:
     - natural-person
     - processing
     number: 1
   2:
-    content: |-
-      The annual report shall include a review of the practical application of the guidelines, recommendations and best practices referred to in point (l) of Article 70(1) as well as of the binding decisions referred to in Article 65.
+    content: >-
+      The annual report shall include a review of the practical application of the
+      guidelines, recommendations and best practices referred to in point (l) of Article
+      70(1) as well as of the binding decisions referred to in Article 65.
     number: 2
 section: 3
 title: Reports

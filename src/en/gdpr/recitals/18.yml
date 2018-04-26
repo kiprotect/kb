@@ -1,8 +1,15 @@
-content: |-
-  This {Regulation|index:regulation} does not apply to the {processing|index:processing} of {personal data|index:personal-data} by a {natural person|index:natural-person} in the course of a purely personal or household activity and thus with no connection to a professional or commercial activity. Personal or household activities could include correspondence and the holding of addresses, or social networking and online activity undertaken within the context of such activities. However, this {Regulation|index:regulation} applies to controllers or processors which provide the means for {processing|index:processing} {personal data|index:personal-data} for such personal or household activities.
+content: >-
+  This {Regulation|index:regulation} does not apply to the {processing|index:processing}
+  of {personal data|index:personal-data} by a {natural person|index:natural-person}
+  in the course of a purely personal or household activity and thus with no connection
+  to a professional or commercial activity. Personal or household activities could
+  include correspondence and the holding of addresses, or social networking and online
+  activity undertaken within the context of such activities. However, this {Regulation|index:regulation}
+  applies to controllers or processors which provide the means for {processing|index:processing}
+  {personal data|index:personal-data} for such personal or household activities.
 index:
-- natural-person
-- personal-data
 - regulation
+- personal-data
+- natural-person
 - processing
 number: 18

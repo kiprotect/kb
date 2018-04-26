@@ -1,8 +1,15 @@
-content: |-
-  The supervisory authorities should monitor the application of the provisions pursuant to this {Regulation|index:regulation} and contribute to its consistent application throughout the Union, in order to protect {natural persons|index:natural-person} in relation to the {processing|index:processing} of their {personal data|index:personal-data} and to facilitate the free flow of {personal data|index:personal-data} within the internal market. For that purpose, the supervisory authorities should cooperate with each other and with the Commission, without the need for any agreement between Member States on the provision of mutual assistance or on such cooperation.
+content: >-
+  The supervisory authorities should monitor the application of the provisions pursuant
+  to this {Regulation|index:regulation} and contribute to its consistent application
+  throughout the Union, in order to protect {natural persons|index:natural-person}
+  in relation to the {processing|index:processing} of their {personal data|index:personal-data}
+  and to facilitate the free flow of {personal data|index:personal-data} within the
+  internal market. For that purpose, the supervisory authorities should cooperate
+  with each other and with the Commission, without the need for any agreement between
+  Member States on the provision of mutual assistance or on such cooperation.
 index:
-- natural-person
-- personal-data
 - regulation
+- personal-data
+- natural-person
 - processing
 number: 123

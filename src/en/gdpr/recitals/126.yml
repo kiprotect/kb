@@ -1,9 +1,17 @@
-content: |-
-  The decision should be agreed jointly by the lead {supervisory authority|index:supervisory-authority} and the supervisory authorities concerned and should be directed towards the main or single establishment of the {controller|index:controller} or {processor|index:processor} and be binding on the {controller|index:controller} and {processor|index:processor}. The {controller|index:controller} or {processor|index:processor} should take the necessary measures to ensure compliance with this {Regulation|index:regulation} and the implementation of the decision notified by the lead {supervisory authority|index:supervisory-authority} to the main establishment of the {controller|index:controller} or {processor|index:processor} as regards the {processing|index:processing} activities in the Union.
+content: >-
+  The decision should be agreed jointly by the lead {supervisory authority|index:supervisory-authority}
+  and the supervisory authorities concerned and should be directed towards the main
+  or single establishment of the {controller|index:controller} or {processor|index:processor}
+  and be binding on the {controller|index:controller} and {processor|index:processor}.
+  The {controller|index:controller} or {processor|index:processor} should take the
+  necessary measures to ensure compliance with this {Regulation|index:regulation}
+  and the implementation of the decision notified by the lead {supervisory authority|index:supervisory-authority}
+  to the main establishment of the {controller|index:controller} or {processor|index:processor}
+  as regards the {processing|index:processing} activities in the Union.
 index:
-- processing
-- processor
-- supervisory-authority
 - regulation
+- supervisory-authority
+- processor
+- processing
 - controller
 number: 126

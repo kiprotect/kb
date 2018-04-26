@@ -7,8 +7,8 @@ content: "Werden {personenbezogene Daten|index:personenbezogene-daten} verarbeit
   cklich auf dieses Recht hingewiesen werden; dieser Hinweis sollte in einer verst\xE4\
   ndlichen und von anderen Informationen getrennten Form erfolgen."
 index:
-- profiling
-- personenbezogene-daten
-- verarbeitung
 - betroffene-person
+- verarbeitung
+- personenbezogene-daten
+- profiling
 number: 70

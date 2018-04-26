@@ -15,10 +15,10 @@ paragraphs:
       \ bei einer T\xE4tigkeit erlangt oder erhoben hat, die einer solchen Geheimhaltungspflicht\
       \ unterliegt."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
-    - personenbezogene-daten
     - "aufsichtsbeh\xF6rde"
+    - personenbezogene-daten
+    - verantwortlicher
     number: 1
   2:
     content: "Jeder Mitgliedstaat teilt der Kommission bis zum 25. Mai 2018 die Vorschriften\

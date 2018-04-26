@@ -4,7 +4,7 @@ content: "Der {Auftragsverarbeiter|index:auftragsverarbeiter} sollte erforderlic
   tzung und der vorherigen Konsultation der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
   rde} ergebenden Auflagen unterst\xFCtzen."
 index:
-- verantwortlicher
 - auftragsverarbeiter
 - "aufsichtsbeh\xF6rde"
+- verantwortlicher
 number: 95

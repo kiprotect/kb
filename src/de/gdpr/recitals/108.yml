@@ -27,12 +27,12 @@ content: "Bei Fehlen eines Angemessenheitsbeschlusses sollte der {Verantwortlich
   \ sollte erlangt werden, wenn die Garantien in nicht rechtsverbindlichen Verwaltungsvereinbarungen\
   \ vorgesehen sind."
 index:
-- betroffene-person
-- verantwortlicher
-- verarbeitung
 - internationale-organisation
 - verbindliche-interne-datenschutzvorschriften
-- auftragsverarbeiter
-- personenbezogene-daten
+- verarbeitung
 - "aufsichtsbeh\xF6rde"
+- verantwortlicher
+- auftragsverarbeiter
+- betroffene-person
+- personenbezogene-daten
 number: 108

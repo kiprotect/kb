@@ -9,8 +9,8 @@ content: "Internationale Abkommen zwischen der Union und Drittl\xE4ndern \xFCber
   \ noch auf andere Bestimmungen des Unionsrechts auswirken und ein angemessenes Schutzniveau\
   \ f\xFCr die Grundrechte der {betroffenen Personen|index:betroffene-person} umfassen."
 index:
-- internationale-organisation
-- personenbezogene-daten
-- verordnung
 - betroffene-person
+- verordnung
+- personenbezogene-daten
+- internationale-organisation
 number: 102

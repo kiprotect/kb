@@ -13,11 +13,11 @@ content: "Um Anreize f\xFCr die Anwendung der {Pseudonymisierung|index:pseudonym
   \ sollte die befugten Personen bei diesem {Verantwortlichen|index:verantwortlicher}\
   \ angeben."
 index:
-- betroffene-person
-- verantwortlicher
-- "technische-und-organisatorische-ma\xDFnahmen"
 - verordnung
 - verarbeitung
-- personenbezogene-daten
+- "technische-und-organisatorische-ma\xDFnahmen"
+- verantwortlicher
 - pseudonymisierung
+- betroffene-person
+- personenbezogene-daten
 number: 29

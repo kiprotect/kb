@@ -8,8 +8,8 @@ content: "{Personenbezogene Daten|index:personenbezogene-daten} in amtlichen Dok
   \ zu amtlichen Dokumenten mit dem Recht auf Schutz {personenbezogener Daten|index:personenbezogene-daten}\
   \ gem\xE4\xDF dieser {Verordnung|index:verordnung} in Einklang zu bringen."
 index:
-- personenbezogene-daten
 - verordnung
+- personenbezogene-daten
 number: 86
 section: 0
 title: "{Verarbeitung|index:verarbeitung} und Zugang der \xD6ffentlichkeit zu amtlichen\

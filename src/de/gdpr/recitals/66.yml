@@ -12,7 +12,7 @@ content: "Um dem \u201ERecht auf Vergessenwerden\u201C im Netz mehr Geltung zu v
   \ Daten|index:personenbezogene-daten} verarbeiten, \xFCber den Antrag der {betroffenen\
   \ Person|index:betroffene-person} zu informieren."
 index:
-- verantwortlicher
-- personenbezogene-daten
 - betroffene-person
+- personenbezogene-daten
+- verantwortlicher
 number: 66

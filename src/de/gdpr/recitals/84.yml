@@ -15,9 +15,9 @@ content: "Damit diese {Verordnung|index:verordnung} in F\xE4llen, in denen die V
   \ vor der {Verarbeitung|index:verarbeitung} konsultiert werden."
 index:
 - "nat\xFCrliche-person"
-- verantwortlicher
 - verordnung
-- verarbeitung
-- personenbezogene-daten
 - "aufsichtsbeh\xF6rde"
+- verarbeitung
+- verantwortlicher
+- personenbezogene-daten
 number: 84

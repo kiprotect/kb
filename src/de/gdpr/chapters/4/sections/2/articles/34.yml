@@ -11,10 +11,10 @@ paragraphs:
       \ der {Verantwortliche|index:verantwortlicher} die {betroffene Person|index:betroffene-person}\
       \ unverz\xFCglich von der Verletzung."
     index:
-    - verantwortlicher
-    - betroffene-person
     - "nat\xFCrliche-person"
+    - betroffene-person
     - verletzung-des-schutzes-personenbezogener-daten
+    - verantwortlicher
     number: 1
   2:
     content: "Die in Absatz 1 genannte Benachrichtigung der {betroffenen Person|index:betroffene-person}\
@@ -40,16 +40,16 @@ paragraphs:
           \ Zugang zu den {personenbezogenen Daten|index:personenbezogene-daten} befugt\
           \ sind, unzug\xE4nglich gemacht werden, etwa durch Verschl\xFCsselung;"
         index:
-        - verantwortlicher
         - personenbezogene-daten
+        - verantwortlicher
       b:
         content: "der {Verantwortliche|index:verantwortlicher} durch nachfolgende\
           \ Ma\xDFnahmen sichergestellt hat, dass das hohe Risiko f\xFCr die Rechte\
           \ und Freiheiten der {betroffenen Personen|index:betroffene-person} gem\xE4\
           \xDF Absatz 1 aller Wahrscheinlichkeit nach nicht mehr besteht;"
         index:
-        - verantwortlicher
         - betroffene-person
+        - verantwortlicher
       c:
         content: "dies mit einem unverh\xE4ltnism\xE4\xDFigen Aufwand verbunden w\xE4\
           re. In diesem Fall hat stattdessen eine \xF6ffentliche Bekanntmachung oder\
@@ -70,11 +70,12 @@ paragraphs:
       \ verlangen, dies nachzuholen, oder sie kann mit einem Beschluss feststellen,\
       \ dass bestimmte der in Absatz 3 genannten Voraussetzungen erf\xFCllt sind."
     index:
-    - verantwortlicher
     - betroffene-person
-    - "aufsichtsbeh\xF6rde"
     - verletzung-des-schutzes-personenbezogener-daten
+    - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     number: 4
 section: 2
-title: |-
-  Benachrichtigung der von einer {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten} {betroffenen Person|index:betroffene-person}
+title: >-
+  Benachrichtigung der von einer {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}
+  {betroffenen Person|index:betroffene-person}

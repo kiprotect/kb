@@ -1,7 +1,7 @@
 chapter: 4
 index:
-- verantwortlicher
 - verarbeitung
+- verantwortlicher
 number: 26
 paragraphs:
   1:
@@ -18,10 +18,10 @@ paragraphs:
       \ der Vereinbarung kann eine Anlaufstelle f\xFCr die {betroffenen Personen|index:betroffene-person}\
       \ angegeben werden."
     index:
-    - verantwortlicher
     - betroffene-person
     - verordnung
     - verarbeitung
+    - verantwortlicher
     number: 1
   2:
     content: "Die Vereinbarung gem\xE4\xDF Absatz 1 muss die jeweiligen tats\xE4chlichen\
@@ -30,8 +30,8 @@ paragraphs:
       \ Das wesentliche der Vereinbarung wird der {betroffenen Person|index:betroffene-person}\
       \ zur Verf\xFCgung gestellt."
     index:
-    - verantwortlicher
     - betroffene-person
+    - verantwortlicher
     number: 2
   3:
     content: "Ungeachtet der Einzelheiten der Vereinbarung gem\xE4\xDF Absatz 1 kann\
@@ -39,9 +39,9 @@ paragraphs:
       \ {Verordnung|index:verordnung} bei und gegen\xFCber jedem einzelnen der {Verantwortlichen|index:verantwortlicher}\
       \ geltend machen."
     index:
-    - verantwortlicher
     - betroffene-person
     - verordnung
+    - verantwortlicher
     number: 3
 section: 1
 title: "Gemeinsam f\xFCr die {Verarbeitung|index:verarbeitung} {Verantwortliche|index:verantwortlicher}"

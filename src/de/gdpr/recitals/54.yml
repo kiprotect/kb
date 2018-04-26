@@ -18,12 +18,12 @@ content: "Aus Gr\xFCnden des \xF6ffentlichen Interesses in Bereichen der \xF6ffe
   \ solche {personenbezogene Daten|index:personenbezogene-daten} zu anderen Zwecken\
   \ verarbeiten."
 index:
-- betroffene-person
-- gesundheitsdaten
-- einwilligung
+- "nat\xFCrliche-person"
 - verordnung
 - verarbeitung
+- einwilligung
+- gesundheitsdaten
 - dritter
+- betroffene-person
 - personenbezogene-daten
-- "nat\xFCrliche-person"
 number: 54

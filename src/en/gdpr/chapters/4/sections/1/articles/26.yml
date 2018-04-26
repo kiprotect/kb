@@ -2,11 +2,20 @@ chapter: 4
 number: 26
 paragraphs:
   1:
-    content: |-
-      Where two or more controllers jointly determine the purposes and means of {processing|index:processing}, they shall be joint controllers. They shall in a transparent manner determine their respective responsibilities for compliance with the obligations under this {Regulation|index:regulation}, in particular as regards the exercising of the rights of the {data subject|index:data-subject} and their respective duties to provide the information referred to in Articles 13 and 14, by means of an arrangement between them unless, and in so far as, the respective responsibilities of the controllers are determined by Union or Member State law to which the controllers are subject. The arrangement may designate a contact point for data subjects.
+    content: >-
+      Where two or more controllers jointly determine the purposes and means of {processing|index:processing},
+      they shall be joint controllers. They shall in a transparent manner determine
+      their respective responsibilities for compliance with the obligations under
+      this {Regulation|index:regulation}, in particular as regards the exercising
+      of the rights of the {data subject|index:data-subject} and their respective
+      duties to provide the information referred to in Articles 13 and 14, by means
+      of an arrangement between them unless, and in so far as, the respective responsibilities
+      of the controllers are determined by Union or Member State law to which the
+      controllers are subject. The arrangement may designate a contact point for data
+      subjects.
     index:
-    - data-subject
     - regulation
+    - data-subject
     - processing
     number: 1
   2:
@@ -17,11 +26,13 @@ paragraphs:
     - data-subject
     number: 2
   3:
-    content: |-
-      Irrespective of the terms of the arrangement referred to in paragraph 1, the {data subject|index:data-subject} may exercise his or her rights under this {Regulation|index:regulation} in respect of and against each of the controllers.
+    content: >-
+      Irrespective of the terms of the arrangement referred to in paragraph 1, the
+      {data subject|index:data-subject} may exercise his or her rights under this
+      {Regulation|index:regulation} in respect of and against each of the controllers.
     index:
-    - regulation
     - data-subject
+    - regulation
     number: 3
 section: 1
 title: Joint controllers

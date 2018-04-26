@@ -5,8 +5,8 @@ number: 47
 paragraphs:
   1:
     index:
-    - verbindliche-interne-datenschutzvorschriften
     - "aufsichtsbeh\xF6rde"
+    - verbindliche-interne-datenschutzvorschriften
     number: 1
     points:
       a:
@@ -16,17 +16,17 @@ paragraphs:
           \ diesen Mitgliedern durchgesetzt werden, und dies auch f\xFCr ihre Besch\xE4\
           ftigten gilt,"
         index:
-        - unternehmen
         - unternehmensgruppe
+        - unternehmen
       b:
         content: "den {betroffenen Personen|index:betroffene-person} ausdr\xFCcklich\
           \ durchsetzbare Rechte in Bezug auf die {Verarbeitung|index:verarbeitung}\
           \ ihrer {personenbezogenen Daten|index:personenbezogene-daten} \xFCbertragen\
           \ und"
         index:
-        - personenbezogene-daten
-        - verarbeitung
         - betroffene-person
+        - verarbeitung
+        - personenbezogene-daten
       c:
         content: "die in Absatz 2 festgelegten Anforderungen erf\xFCllen."
     preamble: "Die zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} genehmigt\
@@ -43,8 +43,8 @@ paragraphs:
           \ oder Gruppe von {Unternehmen|index:unternehmen}, die eine gemeinsame Wirtschaftst\xE4\
           tigkeit aus\xFCben, und jedes ihrer Mitglieder;"
         index:
-        - unternehmen
         - unternehmensgruppe
+        - unternehmen
       b:
         content: "die betreffenden Daten\xFCbermittlungen oder Reihen von Daten\xFC\
           bermittlungen einschlie\xDFlich der betreffenden Arten {personenbezogener\
@@ -52,8 +52,8 @@ paragraphs:
           \ Art der {betroffenen Personen|index:betroffene-person} und das betreffende\
           \ Drittland beziehungsweise die betreffenden Drittl\xE4nder;"
         index:
-        - personenbezogene-daten
         - betroffene-person
+        - personenbezogene-daten
       c:
         content: interne und externe Rechtsverbindlichkeit der betreffenden internen
           Datenschutzvorschriften;
@@ -67,8 +67,8 @@ paragraphs:
           \ Datensicherheit und Anforderungen f\xFCr die Weiter\xFCbermittlung an\
           \ nicht an diese internen Datenschutzvorschriften gebundene Stellen;"
         index:
-        - personenbezogene-daten
         - verarbeitung
+        - personenbezogene-daten
       e:
         content: "die Rechte der {betroffenen Personen|index:betroffene-person} in\
           \ Bezug auf die {Verarbeitung|index:verarbeitung} und die diesen offenstehenden\
@@ -82,12 +82,12 @@ paragraphs:
           \ Verletzung der {verbindlichen internen Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}\
           \ Wiedergutmachung und gegebenenfalls Schadenersatz zu erhalten;"
         index:
-        - betroffene-person
         - automatisierte-verarbeitung
-        - verarbeitung
         - verbindliche-interne-datenschutzvorschriften
         - profiling
         - "aufsichtsbeh\xF6rde"
+        - verarbeitung
+        - betroffene-person
       f:
         content: "die von dem in einem Mitgliedstaat niedergelassenen {Verantwortlichen|index:verantwortlicher}\
           \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} \xFCbernommene Haftung\
@@ -99,10 +99,10 @@ paragraphs:
           \ wenn er nachweist, dass der Umstand, durch den der Schaden eingetreten\
           \ ist, dem betreffenden Mitglied nicht zur Last gelegt werden kann;"
         index:
-        - verantwortlicher
-        - verbindliche-interne-datenschutzvorschriften
-        - auftragsverarbeiter
         - unternehmensgruppe
+        - auftragsverarbeiter
+        - verbindliche-interne-datenschutzvorschriften
+        - verantwortlicher
       g:
         content: "die Art und Weise, wie die {betroffenen Personen|index:betroffene-person}\
           \ \xFCber die Bestimmungen der Artikel 13 und 14 hinaus \xFCber die {verbindlichen\
@@ -110,8 +110,8 @@ paragraphs:
           \ und insbesondere \xFCber die unter den Buchstaben d, e und f dieses Absatzes\
           \ genannten Aspekte informiert werden;"
         index:
-        - verbindliche-interne-datenschutzvorschriften
         - betroffene-person
+        - verbindliche-interne-datenschutzvorschriften
       h:
         content: "die Aufgaben jedes gem\xE4\xDF Artikel 37 benannten Datenschutzbeauftragten\
           \ oder jeder anderen Person oder Einrichtung, die mit der \xDCberwachung\
@@ -121,9 +121,9 @@ paragraphs:
           \ \xDCberwachung der Schulungsma\xDFnahmen und dem Umgang mit Beschwerden\
           \ befasst ist;"
         index:
-        - unternehmen
-        - verbindliche-interne-datenschutzvorschriften
         - unternehmensgruppe
+        - verbindliche-interne-datenschutzvorschriften
+        - unternehmen
       i:
         content: die Beschwerdeverfahren;
         index:
@@ -143,12 +143,12 @@ paragraphs:
           tigkeit aus\xFCben, mitgeteilt werden und sollten der zust\xE4ndigen {Aufsichtsbeh\xF6\
           rde|index:aufsichtsbeh\xF6rde} auf Anfrage zur Verf\xFCgung gestellt werden;"
         index:
-        - verfahren
-        - betroffene-person
-        - unternehmen
         - unternehmensgruppe
         - verbindliche-interne-datenschutzvorschriften
+        - verfahren
         - "aufsichtsbeh\xF6rde"
+        - unternehmen
+        - betroffene-person
       k:
         content: "die {Verfahren|index:verfahren} f\xFCr die Meldung und Erfassung\
           \ von \xC4nderungen der Vorschriften und ihre Meldung an die {Aufsichtsbeh\xF6\
@@ -165,10 +165,10 @@ paragraphs:
           \ Ergebnisse von \xDCberpr\xFCfungen der unter Buchstabe j genannten Ma\xDF\
           nahmen gegen\xFCber der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde};"
         index:
-        - unternehmen
+        - unternehmensgruppe
         - verfahren
         - "aufsichtsbeh\xF6rde"
-        - unternehmensgruppe
+        - unternehmen
       m:
         content: "die Meldeverfahren zur Unterrichtung der zust\xE4ndigen {Aufsichtsbeh\xF6\
           rde|index:aufsichtsbeh\xF6rde} \xFCber jegliche f\xFCr ein Mitglied der\
@@ -178,17 +178,18 @@ paragraphs:
           \ auswirken k\xF6nnten, die die {verbindlichen internen Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}\
           \ bieten, und"
         index:
-        - unternehmen
-        - verbindliche-interne-datenschutzvorschriften
-        - "aufsichtsbeh\xF6rde"
         - unternehmensgruppe
+        - "aufsichtsbeh\xF6rde"
+        - verbindliche-interne-datenschutzvorschriften
+        - unternehmen
       n:
         content: "geeignete Datenschutzschulungen f\xFCr Personal mit st\xE4ndigem\
           \ oder regelm\xE4\xDFigem Zugang zu {personenbezogenen Daten|index:personenbezogene-daten}."
         index:
         - personenbezogene-daten
-    preamble: |-
-      Die {verbindlichen internen Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften} nach Absatz 1 enthalten mindestens folgende Angaben:
+    preamble: >-
+      Die {verbindlichen internen Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}
+      nach Absatz 1 enthalten mindestens folgende Angaben:
   3:
     content: "Die Kommission kann das Format und die {Verfahren|index:verfahren} f\xFC\
       r den Informationsaustausch \xFCber {verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}\
@@ -197,10 +198,10 @@ paragraphs:
       \ festlegen. Diese Durchf\xFChrungsrechtsakte werden gem\xE4\xDF dem Pr\xFC\
       fverfahren nach Artikel 93 Absatz 2 erlassen."
     index:
-    - verantwortlicher
-    - verbindliche-interne-datenschutzvorschriften
-    - "aufsichtsbeh\xF6rde"
     - verfahren
+    - "aufsichtsbeh\xF6rde"
+    - verbindliche-interne-datenschutzvorschriften
+    - verantwortlicher
     number: 3
 section: 0
 title: '{Verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}'

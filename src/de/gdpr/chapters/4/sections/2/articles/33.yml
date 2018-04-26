@@ -1,7 +1,7 @@
 chapter: 4
 index:
-- personenbezogene-daten
 - "aufsichtsbeh\xF6rde"
+- personenbezogene-daten
 number: 33
 paragraphs:
   1:
@@ -15,10 +15,10 @@ paragraphs:
       \ die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} nicht binnen 72 Stunden,\
       \ so ist ihr eine Begr\xFCndung f\xFCr die Verz\xF6gerung beizuf\xFCgen."
     index:
-    - verantwortlicher
-    - "aufsichtsbeh\xF6rde"
     - "nat\xFCrliche-person"
     - verletzung-des-schutzes-personenbezogener-daten
+    - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
     number: 1
   2:
     content: "Wenn dem {Auftragsverarbeiter|index:auftragsverarbeiter} eine {Verletzung\
@@ -26,9 +26,9 @@ paragraphs:
       \ bekannt wird, meldet er diese dem {Verantwortlichen|index:verantwortlicher}\
       \ unverz\xFCglich."
     index:
-    - verantwortlicher
     - auftragsverarbeiter
     - verletzung-des-schutzes-personenbezogener-daten
+    - verantwortlicher
     number: 2
   3:
     number: 3
@@ -46,8 +46,9 @@ paragraphs:
         content: "den Namen und die Kontaktdaten des Datenschutzbeauftragten oder\
           \ einer sonstigen Anlaufstelle f\xFCr weitere Informationen;"
       c:
-        content: |-
-          eine Beschreibung der wahrscheinlichen Folgen der {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten};
+        content: >-
+          eine Beschreibung der wahrscheinlichen Folgen der {Verletzung des Schutzes
+          personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten};
         index:
         - verletzung-des-schutzes-personenbezogener-daten
       d:
@@ -57,8 +58,8 @@ paragraphs:
           \ und gegebenenfalls Ma\xDFnahmen zur Abmilderung ihrer m\xF6glichen nachteiligen\
           \ Auswirkungen."
         index:
-        - verantwortlicher
         - verletzung-des-schutzes-personenbezogener-daten
+        - verantwortlicher
     preamble: "Die Meldung gem\xE4\xDF Absatz 1 enth\xE4lt zumindest folgende Informationen:"
   4:
     content: "Wenn und soweit die Informationen nicht zur gleichen Zeit bereitgestellt\
@@ -77,10 +78,10 @@ paragraphs:
       \ muss der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} die \xDCberpr\xFC\
       fung der Einhaltung der Bestimmungen dieses Artikels erm\xF6glichen."
     index:
-    - verantwortlicher
-    - personenbezogene-daten
-    - "aufsichtsbeh\xF6rde"
     - verletzung-des-schutzes-personenbezogener-daten
+    - "aufsichtsbeh\xF6rde"
+    - personenbezogene-daten
+    - verantwortlicher
     number: 5
 section: 2
 title: "Meldung von Verletzungen des Schutzes {personenbezogener Daten|index:personenbezogene-daten}\

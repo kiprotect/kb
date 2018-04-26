@@ -2,22 +2,40 @@ chapter: 4
 number: 36
 paragraphs:
   1:
-    content: |-
-      The {controller|index:controller} shall consult the {supervisory authority|index:supervisory-authority} prior to {processing|index:processing} where a data protection impact assessment under Article 35 indicates that the {processing|index:processing} would result in a high risk in the absence of measures taken by the {controller|index:controller} to mitigate the risk.
+    content: >-
+      The {controller|index:controller} shall consult the {supervisory authority|index:supervisory-authority}
+      prior to {processing|index:processing} where a data protection impact assessment
+      under Article 35 indicates that the {processing|index:processing} would result
+      in a high risk in the absence of measures taken by the {controller|index:controller}
+      to mitigate the risk.
     index:
     - supervisory-authority
-    - processing
     - controller
+    - processing
     number: 1
   2:
-    content: |-
-      Where the {supervisory authority|index:supervisory-authority} is of the opinion that the intended {processing|index:processing} referred to in paragraph 1 would infringe this {Regulation|index:regulation}, in particular where the {controller|index:controller} has insufficiently {identified|index:identified} or mitigated the risk, the {supervisory authority|index:supervisory-authority} shall, within period of up to eight weeks of receipt of the request for consultation, provide written advice to the {controller|index:controller} and, where applicable to the {processor|index:processor}, and may use any of its powers referred to in Article 58. That period may be extended by six weeks, taking into account the complexity of the intended {processing|index:processing}. The {supervisory authority|index:supervisory-authority} shall inform the {controller|index:controller} and, where applicable, the {processor|index:processor}, of any such extension within one month of receipt of the request for consultation together with the reasons for the delay. Those periods may be suspended until the {supervisory authority|index:supervisory-authority} has obtained information it has requested for the purposes of the consultation.
+    content: >-
+      Where the {supervisory authority|index:supervisory-authority} is of the opinion
+      that the intended {processing|index:processing} referred to in paragraph 1 would
+      infringe this {Regulation|index:regulation}, in particular where the {controller|index:controller}
+      has insufficiently {identified|index:identified} or mitigated the risk, the
+      {supervisory authority|index:supervisory-authority} shall, within period of
+      up to eight weeks of receipt of the request for consultation, provide written
+      advice to the {controller|index:controller} and, where applicable to the {processor|index:processor},
+      and may use any of its powers referred to in Article 58. That period may be
+      extended by six weeks, taking into account the complexity of the intended {processing|index:processing}.
+      The {supervisory authority|index:supervisory-authority} shall inform the {controller|index:controller}
+      and, where applicable, the {processor|index:processor}, of any such extension
+      within one month of receipt of the request for consultation together with the
+      reasons for the delay. Those periods may be suspended until the {supervisory
+      authority|index:supervisory-authority} has obtained information it has requested
+      for the purposes of the consultation.
     index:
-    - identified
-    - processing
-    - processor
-    - supervisory-authority
     - regulation
+    - supervisory-authority
+    - processor
+    - processing
+    - identified
     - controller
     number: 2
   3:
@@ -27,19 +45,22 @@ paragraphs:
     number: 3
     points:
       a:
-        content: |-
-          where applicable, the respective responsibilities of the {controller|index:controller}, joint controllers and processors involved in the {processing|index:processing}, in particular for {processing|index:processing} within a {group of undertakings|index:group-of-undertakings};
+        content: >-
+          where applicable, the respective responsibilities of the {controller|index:controller},
+          joint controllers and processors involved in the {processing|index:processing},
+          in particular for {processing|index:processing} within a {group of undertakings|index:group-of-undertakings};
         index:
         - group-of-undertakings
-        - processing
         - controller
+        - processing
       b:
         content: the purposes and means of the intended {processing|index:processing};
         index:
         - processing
       c:
-        content: |-
-          the measures and safeguards provided to protect the rights and freedoms of data subjects pursuant to this {Regulation|index:regulation};
+        content: >-
+          the measures and safeguards provided to protect the rights and freedoms
+          of data subjects pursuant to this {Regulation|index:regulation};
         index:
         - regulation
       d:
@@ -51,22 +72,32 @@ paragraphs:
         content: any other information requested by the {supervisory authority|index:supervisory-authority}.
         index:
         - supervisory-authority
-    preamble: |-
-      When consulting the {supervisory authority|index:supervisory-authority} pursuant to paragraph 1, the {controller|index:controller} shall provide the {supervisory authority|index:supervisory-authority} with:
+    preamble: >-
+      When consulting the {supervisory authority|index:supervisory-authority} pursuant
+      to paragraph 1, the {controller|index:controller} shall provide the {supervisory
+      authority|index:supervisory-authority} with:
   4:
-    content: |-
-      Member States shall consult the {supervisory authority|index:supervisory-authority} during the preparation of a proposal for a legislative measure to be adopted by a national parliament, or of a regulatory measure based on such a legislative measure, which relates to {processing|index:processing}.
+    content: >-
+      Member States shall consult the {supervisory authority|index:supervisory-authority}
+      during the preparation of a proposal for a legislative measure to be adopted
+      by a national parliament, or of a regulatory measure based on such a legislative
+      measure, which relates to {processing|index:processing}.
     index:
     - supervisory-authority
     - processing
     number: 4
   5:
-    content: |-
-      Notwithstanding paragraph 1, Member State law may require controllers to consult with, and obtain prior authorisation from, the {supervisory authority|index:supervisory-authority} in relation to {processing|index:processing} by a {controller|index:controller} for the performance of a task carried out by the {controller|index:controller} in the public interest, including {processing|index:processing} in relation to social protection and public health.
+    content: >-
+      Notwithstanding paragraph 1, Member State law may require controllers to consult
+      with, and obtain prior authorisation from, the {supervisory authority|index:supervisory-authority}
+      in relation to {processing|index:processing} by a {controller|index:controller}
+      for the performance of a task carried out by the {controller|index:controller}
+      in the public interest, including {processing|index:processing} in relation
+      to social protection and public health.
     index:
     - supervisory-authority
-    - processing
     - controller
+    - processing
     number: 5
 section: 3
 title: Prior consultation

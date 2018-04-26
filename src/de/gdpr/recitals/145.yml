@@ -8,7 +8,7 @@ content: "Bei {Verfahren|index:verfahren} gegen {Verantwortliche|index:verantwor
   \ Befugnisse t\xE4tig geworden ist."
 index:
 - verantwortlicher
+- betroffene-person
 - verfahren
 - auftragsverarbeiter
-- betroffene-person
 number: 145
