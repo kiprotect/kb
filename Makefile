@@ -13,7 +13,7 @@ beam: sass
 	beam -vv up --site src/site.yml
 
 beam-prod: sass
-	beam up --site src/site-prod.yml
+	beam -vv up --site src/site-prod.yml
 
 docs:	beam
 
