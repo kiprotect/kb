@@ -160,10 +160,10 @@ resources** (e.g. European law texts, images and code). Here, the term **resourc
 includes but is not limited to texts, images, code and any other assets that
 are provided as part of this project.
 
-The original resources are licensed under a 
+All original resources that are not software code (see below for that) are licensed under a 
 [**Creative Commons Attribution-ShareAlike (CC BY-SA)**](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
-license, which allows commercial and non-commercial use of the resources. The
-full text of the license can be viewed on the linked website and is included
+license, which allows commercial and non-commercial use of the resources. 
+The full text of the license can be viewed on the linked website and is included
 with this project in [German](https://github.com/DPKit/gdpr-portal/LICENSE-DE)
 and [English](https://github.com/DPKit/gdpr-portal/LICENSE-DE). If you
 use original resources from this project you need to attribute them to this
@@ -181,6 +181,9 @@ project in the following way:
 Please note that the license agreement does not extend to third-party resources
 and resources, so please carefully read the section below before you re-use
 any third-party resources from this project.
+
+Original software code published as part of this project is released under a
+[BSD 3 Clause License](https://github.com/DPKit/gdpr-portal/LICENSE-CODE).
 
 ## Exceptions / Custom Licences
 
@@ -225,3 +228,7 @@ If you have questions regarding this project here's how to get answers:
 
 Please do not create issues for GDPR-related questions, as this is what our
 discussion board is for!
+
+# Imprint
+
+This project is maintained by 7scientists GmbH (https://7scientists.com).
