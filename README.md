@@ -1,4 +1,4 @@
-[Deutsche Version](https://github.com/DPKit/gdpr-portal/blob/master/README-DE.md
+[Deutsche Version](https://github.com/DPKit/gdpr-portal/blob/master/README-DE.md)
 
 # Introduction
 
