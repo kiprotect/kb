@@ -49,7 +49,7 @@ When contributing, please follow this process:
   improvement.
 * When all open questions and the collected feedback is addressed, we merge
   your improvement into the master branch and publish it on
-  [our portal](https://gdpr-portal.dpkit.com).
+  [our portal](https://gdpr.dpkit.com).
 
 # Contributors
 
