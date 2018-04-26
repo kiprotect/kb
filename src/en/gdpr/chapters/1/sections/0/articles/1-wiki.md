@@ -12,4 +12,4 @@ sdfsdf sdfs fdsfsdfsfdsf sdf
 
 [this is an internal link to art 50]({{'gdpr-article-50'|href}})
 
-[this is an internal link to the DE page]({{'de:gdpr-article-50'|href}})
+[this is an internal link to the DE page]({{'gdpr-article-50'|href(language='de')}})
