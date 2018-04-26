@@ -168,12 +168,13 @@ The following third-party resources have been used to build this community porta
   purposes you will need to buy a proper license.
 * [Beam-Up](https://pypi.org/project/beam-up/)
 * [Bulma.io](https://www.bulma.io): A MIT-licensed Flexbox CSS framework 
+* [Preact.js](https://preactjs.com/): A MIT-licensed frontend library.
+* Fonts: [IBM Plex](https://github.com/IBM/plex), [Open Sans](https://github.com/google/fonts/tree/master/apache/opensans) and [Roboto](https://github.com/google/roboto)
 * [Futuro Icons by Bloomicon](http://bloomicon.com/): 7scientists GmbH acquired
   a license for using the icons on the DP-Kit websites(s). If you want to
   re-use the icons for other purposes than this project you will need to
   buy a license yourself.
-* [Creative Commons Logos](https://creativecommons.org/)
-* [Octicon Logo](https://en.wikipedia.org/wiki/File:Octicons-mark-github.svg)
+* Logos: [Creative Commons](https://creativecommons.org/), [Octicon](https://en.wikipedia.org/wiki/File:Octicons-mark-github.svg)
 * [European Laws from EUR-Lex](https://eur-lex.europa.eu/content/legal-notice/legal-notice.html#droits)
 
 We take intellectual property rights very serious. If you think that any
