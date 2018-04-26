@@ -136,6 +136,10 @@ class LawBuilder(BaseBuilder):
                     for entry in crawl_index(article):
                         index[name].add(entry)
                     obj = {
+                        'title' : '{} {} {}'.format(
+                            self.site.translate(language, 'gdpr'),
+                            self.site.translate(language, 'article'),
+                            article['number']),
                         'type' : 'html',
                         'data' : article,
                         'name' : name,
@@ -254,7 +258,6 @@ class LawBuilder(BaseBuilder):
             'definition' : {}, #we need a dummy object otherwise Jinja complains
             'definitions' : sorted_definitions,
             'grouped_definitions' : grouped_definitions,
-            
             'law' : law,
             'title' : self.site.translate(language, 'index-overview')
         }
@@ -309,7 +312,7 @@ class LawBuilder(BaseBuilder):
             'article' : article['data'],
             'law' : law,
             'tab' : 'article',
-            'title' : '{} {} {}'.format(self.site.translate(language, 'gdpr'), self.site.translate(language, 'article'), article['data']['number'])
+            'title' : article['title'],
         }
         input = self.site.load(law['templates']['article'])
         output = self.site.process(input, article, vars, language)
@@ -328,7 +331,6 @@ class LawBuilder(BaseBuilder):
             'chapter' : article['data']['chapter'],
             'section' : article['data']['section'],
             'number' : article['data']['number'],
-            'title' : '{} {} {} - {}'.format(self.site.translate(language, 'gdpr'), self.site.translate(language, 'article'), article['data']['number'], self.site.translate(language, name)),
             'name' : name,
         }
         src_path = '{dir}/chapters/{chapter}/sections/{section}/articles/{number}-{name}.md'.format(**d)
@@ -336,14 +338,15 @@ class LawBuilder(BaseBuilder):
 
         repo_url = self.site.config.get('repo-url')
         edit_url = '{}/blob/master/{}/{}'.format(repo_url, self.site.src_path, src_path)
-        new_url = '{}/blob/master/README.md#{}'.format(repo_url, name)
+        new_url = '{}/blob/master/README{}.md#{}'.format(repo_url, '-{}'.format(language.upper()) if language != 'en' else '', name)
 
         vars = {
             'article' : article['data'],
             'law' : law,
             'tab' : name,
             'edit_url' : edit_url,
-            'new_url' : new_url
+            'new_url' : new_url,
+            'title' : '{} - {}'.format(article['title'], self.site.translate(language, name))
         }
 
         if os.path.exists(full_src_path):
@@ -358,7 +361,6 @@ class LawBuilder(BaseBuilder):
             parsed_markdown = self.site.process(src, obj, vars, language)
             #we do another Jinja pass (to parse links etc.)
             vars['{}_content'.format(name)] = self.site.process(parsed_markdown, {'type': 'html'}, vars, language)
-
         input = self.site.load(law['templates'][name])
         output = self.site.process(input, {'type' : 'html', 'name' : article['{}_name'.format(name)]}, vars, language)
         filename = self.site.get_dst(article['{}_slug'.format(name)], language)
