@@ -1,3 +1,6 @@
+sudo: enabled
+language: python
+python: ["3.6"]
 before_install:
 - openssl aes-256-cbc -K $encrypted_511a9cc1f979_key -iv $encrypted_511a9cc1f979_iv
   -in gdpr-ssh-key.enc -out /tmp/gdpr-ssh-key -d
