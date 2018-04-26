@@ -1,0 +1,230 @@
+chapter: 7
+number: 70
+paragraphs:
+  1:
+    index:
+    - verordnung
+    number: 1
+    points:
+      a:
+        content: "\xDCberwachung und Sicherstellung der ordnungsgem\xE4\xDFen Anwendung\
+          \ dieser {Verordnung|index:verordnung} in den in den Artikeln 64 und 65\
+          \ genannten F\xE4llen unbeschadet der Aufgaben der nationalen {Aufsichtsbeh\xF6\
+          rden|index:aufsichtsbeh\xF6rde};"
+        index:
+        - "aufsichtsbeh\xF6rde"
+        - verordnung
+      b:
+        content: "Beratung der Kommission in allen Fragen, die im Zusammenhang mit\
+          \ dem Schutz {personenbezogener Daten|index:personenbezogene-daten} in der\
+          \ Union stehen, einschlie\xDFlich etwaiger Vorschl\xE4ge zur \xC4nderung\
+          \ dieser {Verordnung|index:verordnung};"
+        index:
+        - personenbezogene-daten
+        - verordnung
+      c:
+        content: "Beratung der Kommission \xFCber das Format und die {Verfahren|index:verfahren}\
+          \ f\xFCr den Austausch von Informationen zwischen den {Verantwortlichen|index:verantwortlicher},\
+          \ den Auftragsverarbeitern und den {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+          rde} in Bezug auf {verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften};"
+        index:
+        - verfahren
+        - verbindliche-interne-datenschutzvorschriften
+        - verantwortlicher
+        - "aufsichtsbeh\xF6rde"
+      d:
+        content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
+          \ zu {Verfahren|index:verfahren} f\xFCr die L\xF6schung gem\xE4\xDF Artikel\
+          \ 17 Absatz 2 von Links zu {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ oder Kopien oder Replikationen dieser Daten aus \xF6ffentlich zug\xE4\
+          nglichen Kommunikationsdiensten;"
+        index:
+        - verfahren
+        - personenbezogene-daten
+      e:
+        content: "Pr\xFCfung \u2014 von sich aus, auf Antrag eines seiner Mitglieder\
+          \ oder auf Ersuchen der Kommission \u2014 von die Anwendung dieser {Verordnung|index:verordnung}\
+          \ betreffenden Fragen und Bereitstellung von Leitlinien, Empfehlungen und\
+          \ bew\xE4hrten {Verfahren|index:verfahren} zwecks Sicherstellung einer einheitlichen\
+          \ Anwendung dieser {Verordnung|index:verordnung};"
+        index:
+        - verfahren
+        - verordnung
+      f:
+        content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
+          \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zur n\xE4heren Bestimmung\
+          \ der Kriterien und Bedingungen f\xFCr die auf {Profiling|index:profiling}\
+          \ beruhenden Entscheidungen gem\xE4\xDF Artikel 22 Absatz 2;"
+        index:
+        - verfahren
+        - profiling
+      g:
+        content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
+          \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes f\xFCr die Feststellung\
+          \ von Verletzungen des Schutzes {personenbezogener Daten|index:personenbezogene-daten}\
+          \ und die Festlegung der Unverz\xFCglichkeit im Sinne des Artikels 33 Abs\xE4\
+          tze 1 und 2, und zu den spezifischen Umst\xE4nden, unter denen der {Verantwortliche|index:verantwortlicher}\
+          \ oder der {Auftragsverarbeiter|index:auftragsverarbeiter} die {Verletzung\
+          \ des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+          \ zu melden hat;"
+        index:
+        - auftragsverarbeiter
+        - verletzung-des-schutzes-personenbezogener-daten
+        - verantwortlicher
+        - personenbezogene-daten
+        - verfahren
+      h:
+        content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
+          \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zu den Umst\xE4nden,\
+          \ unter denen eine {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+          \ voraussichtlich ein hohes Risiko f\xFCr die Rechte und Freiheiten {nat\xFC\
+          rlicher Personen|index:nat\xFCrliche-person} im Sinne des Artikels 34 Absatz\
+          \ 1 zur Folge hat;"
+        index:
+        - verletzung-des-schutzes-personenbezogener-daten
+        - verfahren
+        - "nat\xFCrliche-person"
+      i:
+        content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
+          \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zur n\xE4heren Bestimmung\
+          \ der in Artikel 47 aufgef\xFChrten Kriterien und Anforderungen f\xFCr die\
+          \ \xDCbermittlungen {personenbezogener Daten|index:personenbezogene-daten},\
+          \ die auf {verbindlichen internen Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}\
+          \ von {Verantwortlichen|index:verantwortlicher} oder Auftragsverarbeitern\
+          \ beruhen, und der dort aufgef\xFChrten weiteren erforderlichen Anforderungen\
+          \ zum Schutz {personenbezogener Daten|index:personenbezogene-daten} der\
+          \ {betroffenen Personen|index:betroffene-person};"
+        index:
+        - betroffene-person
+        - verfahren
+        - personenbezogene-daten
+        - verantwortlicher
+        - verbindliche-interne-datenschutzvorschriften
+      j:
+        content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
+          \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zur n\xE4heren Bestimmung\
+          \ der Kriterien und Bedingungen f\xFCr die \xDCbermittlungen {personenbezogener\
+          \ Daten|index:personenbezogene-daten} gem\xE4\xDF Artikel 49 Absatz 1;"
+        index:
+        - verfahren
+        - personenbezogene-daten
+      k:
+        content: "Ausarbeitung von Leitlinien f\xFCr die {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+          rde} in Bezug auf die Anwendung von Ma\xDFnahmen nach Artikel 58 Abs\xE4\
+          tze 1, 2 und 3 und die Festsetzung von Geldbu\xDFen gem\xE4\xDF Artikel\
+          \ 83;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      l:
+        content: "\xDCberpr\xFCfung der praktischen Anwendung der unter den Buchstaben\
+          \ e und f genannten Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren};"
+        index:
+        - verfahren
+      m:
+        content: "Bereitstellung von Leitlinien, Empfehlungen und bew\xE4hrten {Verfahren|index:verfahren}\
+          \ gem\xE4\xDF Buchstabe e des vorliegenden Absatzes zur Festlegung gemeinsamer\
+          \ {Verfahren|index:verfahren} f\xFCr die von {nat\xFCrlichen Personen|index:nat\xFC\
+          rliche-person} vorgenommene Meldung von Verst\xF6\xDFen gegen diese {Verordnung|index:verordnung}\
+          \ gem\xE4\xDF Artikel 54 Absatz 2;"
+        index:
+        - "nat\xFCrliche-person"
+        - verordnung
+        - verfahren
+      n:
+        content: "F\xF6rderung der Ausarbeitung von Verhaltensregeln und der Einrichtung\
+          \ von datenschutzspezifischen Zertifizierungsverfahren sowie Datenschutzsiegeln\
+          \ und -pr\xFCfzeichen gem\xE4\xDF den Artikeln 40 und 42;"
+        index:
+        - verfahren
+      o:
+        content: "Akkreditierung von Zertifizierungsstellen und deren regelm\xE4\xDF\
+          ige \xDCberpr\xFCfung gem\xE4\xDF Artikel 43 und F\xFChrung eines \xF6ffentlichen\
+          \ Registers der akkreditierten Einrichtungen gem\xE4\xDF Artikel 43 Absatz\
+          \ 6 und der in Drittl\xE4ndern niedergelassenen akkreditierten {Verantwortlichen|index:verantwortlicher}\
+          \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} gem\xE4\xDF Artikel\
+          \ 42 Absatz 7;"
+        index:
+        - verantwortlicher
+        - auftragsverarbeiter
+      p:
+        content: "Pr\xE4zisierung der in Artikel 43 Absatz 3 genannten Anforderungen\
+          \ im Hinblick auf die Akkreditierung von Zertifizierungsstellen gem\xE4\xDF\
+          \ Artikel 42;"
+      q:
+        content: "Abgabe einer Stellungnahme f\xFCr die Kommission zu den Zertifizierungsanforderungen\
+          \ gem\xE4\xDF Artikel 43 Absatz 8;"
+      r:
+        content: "Abgabe einer Stellungnahme f\xFCr die Kommission zu den Bildsymbolen\
+          \ gem\xE4\xDF Artikel 12 Absatz 7;"
+      s:
+        content: "Abgabe einer Stellungnahme f\xFCr die Kommission zur Beurteilung\
+          \ der Angemessenheit des in einem Drittland oder einer internationalen Organisation\
+          \ gebotenen Schutzniveaus einschlie\xDFlich zur Beurteilung der Frage, ob\
+          \ das Drittland, das Gebiet, ein oder mehrere spezifische Sektoren in diesem\
+          \ Drittland oder eine {internationale Organisation|index:internationale-organisation}\
+          \ kein angemessenes Schutzniveau mehr gew\xE4hrleistet. Zu diesem Zweck\
+          \ gibt die Kommission dem Ausschuss alle erforderlichen Unterlagen, darunter\
+          \ den Schriftwechsel mit der Regierung des Drittlands, dem Gebiet oder spezifischen\
+          \ Sektor oder der internationalen Organisation;"
+        index:
+        - internationale-organisation
+      t:
+        content: "Abgabe von Stellungnahmen im Koh\xE4renzverfahren gem\xE4\xDF Artikel\
+          \ 64 Absatz 1 zu Beschlussentw\xFCrfen von {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+          rde}, zu Angelegenheiten, die nach Artikel 64 Absatz 2 vorgelegt wurden\
+          \ und um Erlass verbindlicher Beschl\xFCsse gem\xE4\xDF Artikel 65, einschlie\xDF\
+          lich der in Artikel 66 genannten F\xE4lle;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      u:
+        content: "F\xF6rderung der Zusammenarbeit und eines wirksamen bilateralen\
+          \ und multilateralen Austauschs von Informationen und bew\xE4hrten {Verfahren|index:verfahren}\
+          \ zwischen den {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde};"
+        index:
+        - verfahren
+        - "aufsichtsbeh\xF6rde"
+      v:
+        content: "F\xF6rderung von Schulungsprogrammen und Erleichterung des Personalaustausches\
+          \ zwischen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} sowie gegebenenfalls\
+          \ mit {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} von Drittl\xE4ndern\
+          \ oder mit internationalen Organisationen;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      w:
+        content: "F\xF6rderung des Austausches von Fachwissen und von Dokumentationen\
+          \ \xFCber Datenschutzvorschriften und -praxis mit Datenschutzaufsichtsbeh\xF6\
+          rden in aller Welt;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      x:
+        content: "Abgabe von Stellungnahmen zu den auf Unionsebene erarbeiteten Verhaltensregeln\
+          \ gem\xE4\xDF Artikel 40 Absatz 9 und"
+      y:
+        content: "F\xFChrung eines \xF6ffentlich zug\xE4nglichen elektronischen Registers\
+          \ der Beschl\xFCsse der {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde}\
+          \ und Gerichte in Bezug auf Fragen, die im Rahmen des Koh\xE4renzverfahrens\
+          \ behandelt wurden."
+        index:
+        - "aufsichtsbeh\xF6rde"
+    preamble: "Der Ausschuss stellt die einheitliche Anwendung dieser {Verordnung|index:verordnung}\
+      \ sicher. Hierzu nimmt der Ausschuss von sich aus oder gegebenenfalls auf Ersuchen\
+      \ der Kommission insbesondere folgende T\xE4tigkeiten wahr:"
+  2:
+    content: "Die Kommission kann, wenn sie den Ausschuss um Rat ersucht, unter Ber\xFC\
+      cksichtigung der Dringlichkeit des Sachverhalts eine Frist angeben."
+    number: 2
+  3:
+    content: "Der Ausschuss leitet seine Stellungnahmen, Leitlinien, Empfehlungen\
+      \ und bew\xE4hrten {Verfahren|index:verfahren} an die Kommission und an den\
+      \ in Artikel 93 genannten Ausschuss weiter und ver\xF6ffentlicht sie."
+    index:
+    - verfahren
+    number: 3
+  4:
+    content: "Der Ausschuss konsultiert gegebenenfalls interessierte Kreise und gibt\
+      \ ihnen Gelegenheit, innerhalb einer angemessenen Frist Stellung zu nehmen.\
+      \ Unbeschadet des Artikels 76 macht der Ausschuss die Ergebnisse der Konsultation\
+      \ der \xD6ffentlichkeit zug\xE4nglich."
+    number: 4
+section: 3
+title: Aufgaben des Ausschusses

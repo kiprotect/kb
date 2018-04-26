@@ -1,0 +1,27 @@
+chapter: 9
+index:
+- processing
+number: 85
+paragraphs:
+  1:
+    content: |-
+      Member States shall by law reconcile the right to the protection of {personal data|index:personal-data} pursuant to this {Regulation|index:regulation} with the right to freedom of expression and information, including {processing|index:processing} for journalistic purposes and the purposes of academic, artistic or literary expression.
+    index:
+    - personal-data
+    - regulation
+    - processing
+    number: 1
+  2:
+    content: |-
+      For {processing|index:processing} carried out for journalistic purposes or the purpose of academic artistic or literary expression, Member States shall provide for exemptions or derogations from Chapter II (principles), Chapter III (rights of the data subject), Chapter IV ({controller|index:controller} and processor), Chapter V (transfer of {personal data|index:personal-data} to third countries or international organisations), Chapter VI (independent supervisory authorities), Chapter VII (cooperation and consistency) and Chapter IX (specific data {processing|index:processing} situations) if they are necessary to reconcile the right to the protection of {personal data|index:personal-data} with the freedom of expression and information.
+    index:
+    - personal-data
+    - controller
+    - processing
+    number: 2
+  3:
+    content: |-
+      Each Member State shall notify to the Commission the provisions of its law which it has adopted pursuant to paragraph 2 and, without delay, any subsequent amendment law or amendment affecting them.
+    number: 3
+section: 0
+title: '{Processing|index:processing} and freedom of expression and information'

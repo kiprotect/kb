@@ -1,0 +1,11 @@
+index:
+- betroffene-person
+number: 3
+roman_number: III
+sections:
+- $include: sections/1/main.yml
+- $include: sections/2/main.yml
+- $include: sections/3/main.yml
+- $include: sections/4/main.yml
+- $include: sections/5/main.yml
+title: Rechte der {betroffenen Person|index:betroffene-person}

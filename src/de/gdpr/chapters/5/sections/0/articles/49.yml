@@ -1,0 +1,134 @@
+chapter: 5
+number: 49
+paragraphs:
+  1:
+    index:
+    - personenbezogene-daten
+    - internationale-organisation
+    number: 1
+    points:
+      a:
+        content: "die {betroffene Person|index:betroffene-person} hat in die vorgeschlagene\
+          \ Daten\xFCbermittlung ausdr\xFCcklich eingewilligt, nachdem sie \xFCber\
+          \ die f\xFCr sie bestehenden m\xF6glichen Risiken derartiger Daten\xFCbermittlungen\
+          \ ohne Vorliegen eines Angemessenheitsbeschlusses und ohne geeignete Garantien\
+          \ unterrichtet wurde,"
+        index:
+        - betroffene-person
+      b:
+        content: "die \xDCbermittlung ist f\xFCr die Erf\xFCllung eines Vertrags zwischen\
+          \ der {betroffenen Person|index:betroffene-person} und dem {Verantwortlichen|index:verantwortlicher}\
+          \ oder zur Durchf\xFChrung von vorvertraglichen Ma\xDFnahmen auf Antrag\
+          \ der {betroffenen Person|index:betroffene-person} erforderlich,"
+        index:
+        - verantwortlicher
+        - betroffene-person
+      c:
+        content: "die \xDCbermittlung ist zum Abschluss oder zur Erf\xFCllung eines\
+          \ im Interesse der {betroffenen Person|index:betroffene-person} von dem\
+          \ {Verantwortlichen|index:verantwortlicher} mit einer anderen nat\xFCrlichen\
+          \ oder juristischen Person geschlossenen Vertrags erforderlich,"
+        index:
+        - verantwortlicher
+        - betroffene-person
+      d:
+        content: "die \xDCbermittlung ist aus wichtigen Gr\xFCnden des \xF6ffentlichen\
+          \ Interesses notwendig,"
+      e:
+        content: "die \xDCbermittlung ist zur Geltendmachung, Aus\xFCbung oder Verteidigung\
+          \ von Rechtsanspr\xFCchen erforderlich,"
+      f:
+        content: "die \xDCbermittlung ist zum Schutz lebenswichtiger Interessen der\
+          \ {betroffenen Person|index:betroffene-person} oder anderer Personen erforderlich,\
+          \ sofern die {betroffene Person|index:betroffene-person} aus physischen\
+          \ oder rechtlichen Gr\xFCnden au\xDFerstande ist, ihre {Einwilligung|index:einwilligung}\
+          \ zu geben,"
+        index:
+        - betroffene-person
+        - einwilligung
+      g:
+        content: "die \xDCbermittlung erfolgt aus einem Register, das gem\xE4\xDF\
+          \ dem Recht der Union oder der Mitgliedstaaten zur Information der \xD6\
+          ffentlichkeit bestimmt ist und entweder der gesamten \xD6ffentlichkeit oder\
+          \ allen Personen, die ein berechtigtes Interesse nachweisen k\xF6nnen, zur\
+          \ Einsichtnahme offensteht, aber nur soweit die im Recht der Union oder\
+          \ der Mitgliedstaaten festgelegten Voraussetzungen f\xFCr die Einsichtnahme\
+          \ im Einzelfall gegeben sind. Falls die \xDCbermittlung nicht auf eine Bestimmung\
+          \ der Artikel 45 oder 46 \u2014 einschlie\xDFlich der {verbindlichen internen\
+          \ Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}\
+          \ \u2014 gest\xFCtzt werden k\xF6nnte und keine der Ausnahmen f\xFCr einen\
+          \ bestimmten Fall gem\xE4\xDF dem ersten Unterabsatz anwendbar ist, darf\
+          \ eine \xDCbermittlung an ein Drittland oder eine {internationale Organisation|index:internationale-organisation}\
+          \ nur dann erfolgen, wenn die \xDCbermittlung nicht wiederholt erfolgt,\
+          \ nur eine begrenzte Zahl von {betroffenen Personen|index:betroffene-person}\
+          \ betrifft, f\xFCr die Wahrung der zwingenden berechtigten Interessen des\
+          \ {Verantwortlichen|index:verantwortlicher} erforderlich ist, sofern die\
+          \ Interessen oder die Rechte und Freiheiten der {betroffenen Person|index:betroffene-person}\
+          \ nicht \xFCberwiegen, und der {Verantwortliche|index:verantwortlicher}\
+          \ alle Umst\xE4nde der Daten\xFCbermittlung beurteilt und auf der Grundlage\
+          \ dieser Beurteilung geeignete Garantien in Bezug auf den Schutz {personenbezogener\
+          \ Daten|index:personenbezogene-daten} vorgesehen hat. Der {Verantwortliche|index:verantwortlicher}\
+          \ setzt die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} von der \xDC\
+          bermittlung in Kenntnis. Der {Verantwortliche|index:verantwortlicher} unterrichtet\
+          \ die {betroffene Person|index:betroffene-person} \xFCber die \xDCbermittlung\
+          \ und seine zwingenden berechtigten Interessen; dies erfolgt zus\xE4tzlich\
+          \ zu den der {betroffenen Person|index:betroffene-person} nach den Artikeln\
+          \ 13 und 14 mitgeteilten Informationen."
+        index:
+        - betroffene-person
+        - internationale-organisation
+        - verantwortlicher
+        - personenbezogene-daten
+        - verbindliche-interne-datenschutzvorschriften
+        - "aufsichtsbeh\xF6rde"
+    preamble: "Falls weder ein Angemessenheitsbeschluss nach Artikel 45 Absatz 3 vorliegt\
+      \ noch geeignete Garantien nach Artikel 46, einschlie\xDFlich verbindlicher\
+      \ interner Datenschutzvorschriften, bestehen, ist eine \xDCbermittlung oder\
+      \ eine Reihe von \xDCbermittlungen {personenbezogener Daten|index:personenbezogene-daten}\
+      \ an ein Drittland oder an eine {internationale Organisation|index:internationale-organisation}\
+      \ nur unter einer der folgenden Bedingungen zul\xE4ssig:"
+  2:
+    content: "Daten\xFCbermittlungen gem\xE4\xDF Absatz 1 Unterabsatz 1 Buchstabe\
+      \ g d\xFCrfen nicht die Gesamtheit oder ganze Kategorien der im Register enthaltenen\
+      \ {personenbezogenen Daten|index:personenbezogene-daten} umfassen. Wenn das\
+      \ Register der Einsichtnahme durch Personen mit berechtigtem Interesse dient,\
+      \ darf die \xDCbermittlung nur auf Anfrage dieser Personen oder nur dann erfolgen,\
+      \ wenn diese Personen die Adressaten der \xDCbermittlung sind."
+    index:
+    - personenbezogene-daten
+    number: 2
+  3:
+    content: "Absatz 1 Unterabsatz 1 Buchstaben a, b und c und sowie Absatz 1 Unterabsatz\
+      \ 2 gelten nicht f\xFCr T\xE4tigkeiten, die Beh\xF6rden in Aus\xFCbung ihrer\
+      \ hoheitlichen Befugnisse durchf\xFChren."
+    number: 3
+  4:
+    content: "Das \xF6ffentliche Interesse im Sinne des Absatzes 1 Unterabsatz 1 Buchstabe\
+      \ d muss im Unionsrecht oder im Recht des Mitgliedstaats, dem der {Verantwortliche|index:verantwortlicher}\
+      \ unterliegt, anerkannt sein."
+    index:
+    - verantwortlicher
+    number: 4
+  5:
+    content: "Liegt kein Angemessenheitsbeschluss vor, so k\xF6nnen im Unionsrecht\
+      \ oder im Recht der Mitgliedstaaten aus wichtigen Gr\xFCnden des \xF6ffentlichen\
+      \ Interesses ausdr\xFCcklich Beschr\xE4nkungen der \xDCbermittlung bestimmter\
+      \ Kategorien von {personenbezogenen Daten|index:personenbezogene-daten} an Drittl\xE4\
+      nder oder {internationale Organisationen|index:internationale-organisation}\
+      \ vorgesehen werden. Die Mitgliedstaaten teilen der Kommission derartige Bestimmungen\
+      \ mit."
+    index:
+    - personenbezogene-daten
+    - internationale-organisation
+    number: 5
+  6:
+    content: "Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ erfasst die von ihm vorgenommene Beurteilung sowie die angemessenen Garantien\
+      \ im Sinne des Absatzes 1 Unterabsatz 2 des vorliegenden Artikels in der Dokumentation\
+      \ gem\xE4\xDF Artikel 30."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 6
+section: 0
+title: "Ausnahmen f\xFCr bestimmte F\xE4lle"

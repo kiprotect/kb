@@ -1,0 +1,42 @@
+chapter: 4
+index:
+- verantwortlicher
+- verarbeitung
+number: 24
+paragraphs:
+  1:
+    content: "Der {Verantwortliche|index:verantwortlicher} setzt unter Ber\xFCcksichtigung\
+      \ der Art, des Umfangs, der Umst\xE4nde und der Zwecke der {Verarbeitung|index:verarbeitung}\
+      \ sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere der Risiken\
+      \ f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFCrliche-person}\
+      \ geeignete {technische und organisatorische Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+      nahmen} um, um sicherzustellen und den Nachweis daf\xFCr erbringen zu k\xF6\
+      nnen, dass die {Verarbeitung|index:verarbeitung} gem\xE4\xDF dieser {Verordnung|index:verordnung}\
+      \ erfolgt. Diese Ma\xDFnahmen werden erforderlichenfalls \xFCberpr\xFCft und\
+      \ aktualisiert."
+    index:
+    - verordnung
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verantwortlicher
+    - "nat\xFCrliche-person"
+    - verarbeitung
+    number: 1
+  2:
+    content: "Sofern dies in einem angemessenen Verh\xE4ltnis zu den {Verarbeitungst\xE4\
+      tigkeiten|index:verarbeitungst\xE4tigkeit} steht, m\xFCssen die Ma\xDFnahmen\
+      \ gem\xE4\xDF Absatz 1 die Anwendung geeigneter Datenschutzvorkehrungen durch\
+      \ den {Verantwortlichen|index:verantwortlicher} umfassen."
+    index:
+    - "verarbeitungst\xE4tigkeit"
+    - verantwortlicher
+    number: 2
+  3:
+    content: "Die Einhaltung der genehmigten Verhaltensregeln gem\xE4\xDF Artikel\
+      \ 40 oder eines genehmigten Zertifizierungsverfahrens gem\xE4\xDF Artikel 42\
+      \ kann als Gesichtspunkt herangezogen werden, um die Erf\xFCllung der Pflichten\
+      \ des {Verantwortlichen|index:verantwortlicher} nachzuweisen."
+    index:
+    - verantwortlicher
+    number: 3
+section: 1
+title: "Verantwortung des f\xFCr die {Verarbeitung|index:verarbeitung} {Verantwortlichen|index:verantwortlicher}"

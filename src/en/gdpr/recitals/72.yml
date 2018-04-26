@@ -1,0 +1,11 @@
+content: "{Profiling|index:profiling} is subject to the rules of this {Regulation|index:regulation}\
+  \ governing the {processing|index:processing} of {personal data|index:personal-data},\
+  \ such as the legal grounds for {processing|index:processing} or data protection\
+  \ principles. The European Data Protection Board established by this {Regulation|index:regulation}\
+  \ (the \u2018Board\u2019) should be able to issue guidance in that context."
+index:
+- personal-data
+- regulation
+- profiling
+- processing
+number: 72

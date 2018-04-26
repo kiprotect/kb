@@ -1,0 +1,176 @@
+chapter: 6
+number: 58
+paragraphs:
+  1:
+    index:
+    - supervisory-authority
+    number: 1
+    points:
+      a:
+        content: |-
+          to order the {controller|index:controller} and the {processor|index:processor}, and, where applicable, the controller's or the processor's {representative|index:representative} to provide any information it requires for the performance of its tasks;
+        index:
+        - processor
+        - representative
+        - controller
+      b:
+        content: to carry out investigations in the form of data protection audits;
+      c:
+        content: to carry out a review on certifications issued pursuant to Article
+          42(7);
+      d:
+        content: |-
+          to notify the {controller|index:controller} or the {processor|index:processor} of an alleged infringement of this {Regulation|index:regulation};
+        index:
+        - regulation
+        - processor
+        - controller
+      e:
+        content: |-
+          to obtain, from the {controller|index:controller} and the {processor|index:processor}, access to all {personal data|index:personal-data} and to all information necessary for the performance of its tasks;
+        index:
+        - personal-data
+        - processor
+        - controller
+      f:
+        content: |-
+          to obtain access to any premises of the {controller|index:controller} and the {processor|index:processor}, including to any data {processing|index:processing} equipment and means, in accordance with Union or Member State procedural law.
+        index:
+        - processor
+        - controller
+        - processing
+    preamble: |-
+      Each {supervisory authority|index:supervisory-authority} shall have all of the following investigative powers:
+  2:
+    index:
+    - supervisory-authority
+    number: 2
+    points:
+      a:
+        content: |-
+          to issue warnings to a {controller|index:controller} or {processor|index:processor} that intended {processing|index:processing} operations are likely to infringe provisions of this {Regulation|index:regulation};
+        index:
+        - regulation
+        - processor
+        - controller
+        - processing
+      b:
+        content: |-
+          to issue reprimands to a {controller|index:controller} or a {processor|index:processor} where {processing|index:processing} operations have infringed provisions of this {Regulation|index:regulation};
+        index:
+        - regulation
+        - processor
+        - controller
+        - processing
+      c:
+        content: |-
+          to order the {controller|index:controller} or the {processor|index:processor} to comply with the data subject's requests to exercise his or her rights pursuant to this {Regulation|index:regulation};
+        index:
+        - regulation
+        - processor
+        - controller
+      d:
+        content: |-
+          to order the {controller|index:controller} or {processor|index:processor} to bring {processing|index:processing} operations into compliance with the provisions of this {Regulation|index:regulation}, where appropriate, in a specified manner and within a specified period;
+        index:
+        - regulation
+        - processor
+        - controller
+        - processing
+      e:
+        content: |-
+          to order the {controller|index:controller} to communicate a {personal data|index:personal-data} breach to the {data subject|index:data-subject};
+        index:
+        - personal-data
+        - data-subject
+        - controller
+      f:
+        content: to impose a temporary or definitive limitation including a ban on
+          {processing|index:processing};
+        index:
+        - processing
+      g:
+        content: |-
+          to order the rectification or erasure of {personal data|index:personal-data} or {restriction of processing|index:restriction-of-processing} pursuant to Articles 16, 17 and 18 and the notification of such actions to recipients to whom the {personal data|index:personal-data} have been disclosed pursuant to Article 17(2) and Article 19;
+        index:
+        - personal-data
+        - restriction-of-processing
+      h:
+        content: |-
+          to withdraw a certification or to order the certification body to withdraw a certification issued pursuant to Articles 42 and 43, or to order the certification body not to issue certification if the requirements for the certification are not or are no longer met;
+      i:
+        content: |-
+          to impose an administrative fine pursuant to Article 83, in addition to, or instead of measures referred to in this paragraph, depending on the circumstances of each individual case;
+      j:
+        content: |-
+          to order the suspension of data flows to a {recipient|index:recipient} in a third country or to an {international organisation|index:international-organisation}.
+        index:
+        - international-organisation
+        - recipient
+    preamble: |-
+      Each {supervisory authority|index:supervisory-authority} shall have all of the following corrective powers:
+  3:
+    index:
+    - supervisory-authority
+    number: 3
+    points:
+      a:
+        content: |-
+          to advise the {controller|index:controller} in accordance with the prior consultation procedure referred to in Article 36;
+        index:
+        - controller
+      b:
+        content: |-
+          to issue, on its own initiative or on request, opinions to the national parliament, the Member State government or, in accordance with Member State law, to other institutions and bodies as well as to the public on any issue related to the protection of {personal data|index:personal-data};
+        index:
+        - personal-data
+      c:
+        content: |-
+          to authorise {processing|index:processing} referred to in Article 36(5), if the law of the Member State requires such prior authorisation;
+        index:
+        - processing
+      d:
+        content: to issue an opinion and approve draft codes of conduct pursuant to
+          Article 40(5);
+      e:
+        content: to accredit certification bodies pursuant to Article 43;
+      f:
+        content: to issue certifications and approve criteria of certification in
+          accordance with Article 42(5);
+      g:
+        content: |-
+          to adopt standard data protection clauses referred to in Article 28(8) and in point (d) of Article 46(2);
+      h:
+        content: to authorise contractual clauses referred to in point (a) of Article
+          46(3);
+      i:
+        content: to authorise administrative arrangements referred to in point (b)
+          of Article 46(3);
+      j:
+        content: to approve {binding corporate rules|index:binding-corporate-rules}
+          pursuant to Article 47.
+        index:
+        - binding-corporate-rules
+    preamble: |-
+      Each {supervisory authority|index:supervisory-authority} shall have all of the following authorisation and advisory powers:
+  4:
+    content: |-
+      The exercise of the powers conferred on the {supervisory authority|index:supervisory-authority} pursuant to this Article shall be subject to appropriate safeguards, including effective judicial remedy and due process, set out in Union and Member State law in accordance with the Charter.
+    index:
+    - supervisory-authority
+    number: 4
+  5:
+    content: |-
+      Each Member State shall provide by law that its {supervisory authority|index:supervisory-authority} shall have the power to bring infringements of this {Regulation|index:regulation} to the attention of the judicial authorities and where appropriate, to commence or engage otherwise in legal proceedings, in order to enforce the provisions of this {Regulation|index:regulation}.
+    index:
+    - regulation
+    - supervisory-authority
+    number: 5
+  6:
+    content: |-
+      Each Member State may provide by law that its {supervisory authority|index:supervisory-authority} shall have additional powers to those referred to in paragraphs 1, 2 and 3. The exercise of those powers shall not impair the effective operation of Chapter VII.
+    index:
+    - supervisory-authority
+    number: 6
+section: 2
+title: Powers

@@ -1,0 +1,9 @@
+articles:
+- $include: articles/32.yml
+- $include: articles/33.yml
+- $include: articles/34.yml
+chapter: 4
+index:
+- personal-data
+number: 2
+title: Security of {personal data|index:personal-data}

@@ -1,0 +1,15 @@
+chapter: 3
+content: "Die {betroffene Person|index:betroffene-person} hat das Recht, von dem {Verantwortlichen|index:verantwortlicher}\
+  \ unverz\xFCglich die Berichtigung sie betreffender unrichtiger {personenbezogener\
+  \ Daten|index:personenbezogene-daten} zu verlangen. Unter Ber\xFCcksichtigung der\
+  \ Zwecke der {Verarbeitung|index:verarbeitung} hat die {betroffene Person|index:betroffene-person}\
+  \ das Recht, die Vervollst\xE4ndigung unvollst\xE4ndiger {personenbezogener Daten|index:personenbezogene-daten}\
+  \ \u2014 auch mittels einer erg\xE4nzenden Erkl\xE4rung \u2014 zu verlangen."
+index:
+- verantwortlicher
+- personenbezogene-daten
+- betroffene-person
+- verarbeitung
+number: 16
+section: 3
+title: Recht auf Berichtigung

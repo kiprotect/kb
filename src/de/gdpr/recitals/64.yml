@@ -1,0 +1,11 @@
+content: "Der {Verantwortliche|index:verantwortlicher} sollte alle vertretbaren Mittel\
+  \ nutzen, um die Identit\xE4t einer Auskunft suchenden {betroffenen Person|index:betroffene-person}\
+  \ zu \xFCberpr\xFCfen, insbesondere im Rahmen von Online-Diensten und im Fall von\
+  \ Online-Kennungen. Ein {Verantwortlicher|index:verantwortlicher} sollte {personenbezogene\
+  \ Daten|index:personenbezogene-daten} nicht allein zu dem Zweck speichern, auf m\xF6\
+  gliche Auskunftsersuchen reagieren zu k\xF6nnen."
+index:
+- verantwortlicher
+- personenbezogene-daten
+- betroffene-person
+number: 64

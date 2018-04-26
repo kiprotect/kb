@@ -1,0 +1,16 @@
+content: "{Verantwortliche|index:verantwortlicher}, die Teil einer {Unternehmensgruppe|index:unternehmensgruppe}\
+  \ oder einer Gruppe von Einrichtungen sind, die einer zentralen Stelle zugeordnet\
+  \ sind k\xF6nnen ein berechtigtes Interesse haben, {personenbezogene Daten|index:personenbezogene-daten}\
+  \ innerhalb der {Unternehmensgruppe|index:unternehmensgruppe} f\xFCr interne Verwaltungszwecke,\
+  \ einschlie\xDFlich der {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ von Kunden und Besch\xE4ftigten, zu \xFCbermitteln. Die Grundprinzipien f\xFC\
+  r die \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten} innerhalb\
+  \ von Unternehmensgruppen an ein {Unternehmen|index:unternehmen} in einem Drittland\
+  \ bleiben unber\xFChrt."
+index:
+- unternehmen
+- personenbezogene-daten
+- verantwortlicher
+- unternehmensgruppe
+- verarbeitung
+number: 48

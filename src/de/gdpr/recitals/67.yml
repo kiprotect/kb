@@ -1,0 +1,18 @@
+content: "Methoden zur Beschr\xE4nkung der {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten} k\xF6nnten unter anderem darin bestehen, dass\
+  \ ausgew\xE4hlte {personenbezogenen Daten|index:personenbezogene-daten} vor\xFC\
+  bergehend auf ein anderes Verarbeitungssystem \xFCbertragen werden, dass sie f\xFC\
+  r Nutzer gesperrt werden oder dass ver\xF6ffentliche Daten vor\xFCbergehend von\
+  \ einer Website entfernt werden. In automatisierten {Dateisystemen|index:dateisystem}\
+  \ sollte die {Einschr\xE4nkung der Verarbeitung|index:einschr\xE4nkung-der-verarbeitung}\
+  \ grunds\xE4tzlich durch technische Mittel so erfolgen, dass die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} in keiner Weise weiterverarbeitet werden und\
+  \ nicht ver\xE4ndert werden k\xF6nnen. Auf die Tatsache, dass die {Verarbeitung|index:verarbeitung}\
+  \ der {personenbezogenen Daten|index:personenbezogene-daten} beschr\xE4nkt wurde,\
+  \ sollte in dem System unmissverst\xE4ndlich hingewiesen werden."
+index:
+- "einschr\xE4nkung-der-verarbeitung"
+- personenbezogene-daten
+- dateisystem
+- verarbeitung
+number: 67

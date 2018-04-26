@@ -1,0 +1,15 @@
+chapter: 7
+number: 73
+paragraphs:
+  1:
+    content: "Der Ausschuss w\xE4hlt aus dem Kreis seiner Mitglieder mit einfacher\
+      \ Mehrheit einen Vorsitzenden und zwei stellvertretende Vorsitzende."
+    number: 1
+  2:
+    content: "Die Amtszeit des Vorsitzenden und seiner beiden Stellvertreter betr\xE4\
+      gt f\xFCnf Jahre; ihre einmalige Wiederwahl ist zul\xE4ssig."
+    index:
+    - vertreter
+    number: 2
+section: 3
+title: Vorsitz

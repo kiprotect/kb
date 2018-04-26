@@ -1,0 +1,10 @@
+content: |-
+  In order to prevent creating a serious risk of circumvention, the protection of {natural persons|index:natural-person} should be technologically neutral and should not depend on the techniques used. The protection of {natural persons|index:natural-person} should apply to the {processing|index:processing} of {personal data|index:personal-data} by {automated means|index:automated-means}, as well as to manual {processing|index:processing}, if the {personal data|index:personal-data} are contained or are intended to be contained in a {filing system|index:filing-system}. Files or sets of files, as well as their cover pages, which are not structured according to specific criteria should not fall within the scope of this {Regulation|index:regulation}.
+index:
+- regulation
+- filing-system
+- personal-data
+- automated-means
+- natural-person
+- processing
+number: 15

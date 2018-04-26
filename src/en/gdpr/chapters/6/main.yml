@@ -1,0 +1,6 @@
+number: 6
+roman_number: VI
+sections:
+- $include: sections/1/main.yml
+- $include: sections/2/main.yml
+title: Independent supervisory authorities

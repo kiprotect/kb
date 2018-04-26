@@ -1,0 +1,25 @@
+content: "Hat ein mit einem {Verfahren|index:verfahren} gegen die Entscheidung einer\
+  \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} befasstes Gericht Anlass zu der\
+  \ Vermutung, dass ein dieselbe {Verarbeitung|index:verarbeitung} betreffendes {Verfahren|index:verfahren}\
+  \ \u2014 etwa zu demselben Gegenstand in Bezug auf die {Verarbeitung|index:verarbeitung}\
+  \ durch denselben {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ oder wegen desselben Anspruchs \u2014 vor einem zust\xE4ndigen Gericht in einem\
+  \ anderen Mitgliedstaat anh\xE4ngig ist, so sollte es mit diesem Gericht Kontakt\
+  \ aufnehmen, um sich zu vergewissern, dass ein solches verwandtes {Verfahren|index:verfahren}\
+  \ existiert. Sind verwandte {Verfahren|index:verfahren} vor einem Gericht in einem\
+  \ anderen Mitgliedstaat anh\xE4ngig, so kann jedes sp\xE4ter angerufene Gericht\
+  \ das {Verfahren|index:verfahren} aussetzen oder sich auf Anfrage einer Partei auch\
+  \ zugunsten des zuerst angerufenen Gerichts f\xFCr unzust\xE4ndig erkl\xE4ren, wenn\
+  \ dieses sp\xE4ter angerufene Gericht f\xFCr die betreffenden {Verfahren|index:verfahren}\
+  \ zust\xE4ndig ist und die Verbindung von solchen verwandten {Verfahren|index:verfahren}\
+  \ nach seinem Recht zul\xE4ssig ist. {Verfahren|index:verfahren} gelten als miteinander\
+  \ verwandt, wenn zwischen ihnen eine so enge Beziehung gegeben ist, dass eine gemeinsame\
+  \ Verhandlung und Entscheidung geboten erscheint, um zu vermeiden, dass in getrennten\
+  \ {Verfahren|index:verfahren} einander widersprechende Entscheidungen ergehen."
+index:
+- auftragsverarbeiter
+- verfahren
+- verantwortlicher
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
+number: 144

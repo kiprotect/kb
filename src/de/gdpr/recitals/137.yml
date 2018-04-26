@@ -1,0 +1,10 @@
+content: "Es kann dringender Handlungsbedarf zum Schutz der Rechte und Freiheiten\
+  \ von {betroffenen Personen|index:betroffene-person} bestehen, insbesondere wenn\
+  \ eine erhebliche Behinderung der Durchsetzung des Rechts einer {betroffenen Person|index:betroffene-person}\
+  \ droht. Eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} sollte daher hinreichend\
+  \ begr\xFCndete einstweilige Ma\xDFnahmen in ihrem Hoheitsgebiet mit einer festgelegten\
+  \ Geltungsdauer von h\xF6chstens drei Monaten erlassen k\xF6nnen."
+index:
+- betroffene-person
+- "aufsichtsbeh\xF6rde"
+number: 137

@@ -1,0 +1,45 @@
+content: "{Personenbezogene Daten|index:personenbezogene-daten}, die ihrem Wesen nach\
+  \ hinsichtlich der Grundrechte und Grundfreiheiten besonders sensibel sind, verdienen\
+  \ einen besonderen Schutz, da im Zusammenhang mit ihrer {Verarbeitung|index:verarbeitung}\
+  \ erhebliche Risiken f\xFCr die Grundrechte und Grundfreiheiten auftreten k\xF6\
+  nnen. Diese {personenbezogenen Daten|index:personenbezogene-daten} sollten {personenbezogene\
+  \ Daten|index:personenbezogene-daten} umfassen, aus denen die rassische oder ethnische\
+  \ Herkunft hervorgeht, wobei die Verwendung des Begriffs \u201Erassische Herkunft\u201C\
+  \ in dieser {Verordnung|index:verordnung} nicht bedeutet, dass die Union Theorien,\
+  \ mit denen versucht wird, die Existenz verschiedener menschlicher Rassen zu belegen,\
+  \ guthei\xDFt. Die {Verarbeitung|index:verarbeitung} von Lichtbildern sollte nicht\
+  \ grunds\xE4tzlich als {Verarbeitung|index:verarbeitung} besonderer Kategorien von\
+  \ {personenbezogenen Daten|index:personenbezogene-daten} angesehen werden, da Lichtbilder\
+  \ nur dann von der Definition des Begriffs \u201E{biometrische Daten|index:biometrische-daten}\u201C\
+  \ erfasst werden, wenn sie mit speziellen technischen Mitteln verarbeitet werden,\
+  \ die die eindeutige Identifizierung oder Authentifizierung einer {nat\xFCrlichen\
+  \ Person|index:nat\xFCrliche-person} erm\xF6glichen. Derartige {personenbezogene\
+  \ Daten|index:personenbezogene-daten} sollten nicht verarbeitet werden, es sei denn,\
+  \ die {Verarbeitung|index:verarbeitung} ist in den in dieser {Verordnung|index:verordnung}\
+  \ dargelegten besonderen F\xE4llen zul\xE4ssig, wobei zu ber\xFCcksichtigen ist,\
+  \ dass im Recht der Mitgliedstaaten besondere Datenschutzbestimmungen festgelegt\
+  \ sein k\xF6nnen, um die Anwendung der Bestimmungen dieser {Verordnung|index:verordnung}\
+  \ anzupassen, damit die Einhaltung einer rechtlichen Verpflichtung oder die Wahrnehmung\
+  \ einer Aufgabe im \xF6ffentlichen Interesse oder die Aus\xFCbung \xF6ffentlicher\
+  \ Gewalt, die dem {Verantwortlichen|index:verantwortlicher} \xFCbertragen wurde,\
+  \ m\xF6glich ist. Zus\xE4tzlich zu den speziellen Anforderungen an eine derartige\
+  \ {Verarbeitung|index:verarbeitung} sollten die allgemeinen Grunds\xE4tze und andere\
+  \ Bestimmungen dieser {Verordnung|index:verordnung}, insbesondere hinsichtlich der\
+  \ Bedingungen f\xFCr eine rechtm\xE4\xDFige {Verarbeitung|index:verarbeitung}, gelten.\
+  \ Ausnahmen von dem allgemeinen Verbot der {Verarbeitung|index:verarbeitung} dieser\
+  \ besonderen Kategorien {personenbezogener Daten|index:personenbezogene-daten} sollten\
+  \ ausdr\xFCcklich vorgesehen werden, unter anderem bei ausdr\xFCcklicher {Einwilligung|index:einwilligung}\
+  \ der {betroffenen Person|index:betroffene-person} oder bei bestimmten Notwendigkeiten,\
+  \ insbesondere wenn die {Verarbeitung|index:verarbeitung} im Rahmen rechtm\xE4\xDF\
+  iger T\xE4tigkeiten bestimmter Vereinigungen oder Stiftungen vorgenommen wird, die\
+  \ sich f\xFCr die Aus\xFCbung von Grundfreiheiten einsetzen."
+index:
+- betroffene-person
+- verordnung
+- biometrische-daten
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- einwilligung
+- verarbeitung
+number: 51

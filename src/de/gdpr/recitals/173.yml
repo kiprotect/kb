@@ -1,0 +1,19 @@
+content: "Diese {Verordnung|index:verordnung} sollte auf alle Fragen des Schutzes\
+  \ der Grundrechte und Grundfreiheiten bei der {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} Anwendung finden, die nicht\
+  \ den in der Richtlinie 2002/58/EG des Europ\xE4ischen Parlaments und des Rates\
+  \ (18) bestimmte Pflichten, die dasselbe Ziel verfolgen, unterliegen, einschlie\xDF\
+  lich der Pflichten des {Verantwortlichen|index:verantwortlicher} und der Rechte\
+  \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person}. Um das Verh\xE4ltnis zwischen\
+  \ der vorliegenden {Verordnung|index:verordnung} und der Richtlinie 2002/58/EG klarzustellen,\
+  \ sollte die Richtlinie entsprechend ge\xE4ndert werden. Sobald diese {Verordnung|index:verordnung}\
+  \ angenommen ist, sollte die Richtlinie 2002/58/EG einer \xDCberpr\xFCfung unterzogen\
+  \ werden, um insbesondere die Koh\xE4renz mit dieser {Verordnung|index:verordnung}\
+  \ zu gew\xE4hrleisten \u2014"
+index:
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 173

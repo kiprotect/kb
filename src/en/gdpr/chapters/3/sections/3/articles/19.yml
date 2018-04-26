@@ -1,0 +1,13 @@
+chapter: 3
+content: |-
+  The {controller|index:controller} shall communicate any rectification or erasure of {personal data|index:personal-data} or {restriction of processing|index:restriction-of-processing} carried out in accordance with Article 16, Article 17(1) and Article 18 to each {recipient|index:recipient} to whom the {personal data|index:personal-data} have been disclosed, unless this proves impossible or involves disproportionate effort. The {controller|index:controller} shall inform the {data subject|index:data-subject} about those recipients if the {data subject|index:data-subject} requests it.
+index:
+- data-subject
+- restriction-of-processing
+- controller
+- personal-data
+- recipient
+number: 19
+section: 3
+title: |-
+  Notification obligation regarding rectification or erasure of {personal data|index:personal-data} or {restriction of processing|index:restriction-of-processing}

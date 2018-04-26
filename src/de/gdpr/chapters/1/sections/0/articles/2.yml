@@ -1,0 +1,62 @@
+chapter: 1
+number: 2
+paragraphs:
+  1:
+    content: "Diese {Verordnung|index:verordnung} gilt f\xFCr die ganz oder teilweise\
+      \ automatisierte {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+      \ sowie f\xFCr die nichtautomatisierte {Verarbeitung|index:verarbeitung} {personenbezogener\
+      \ Daten|index:personenbezogene-daten}, die in einem {Dateisystem|index:dateisystem}\
+      \ gespeichert sind oder gespeichert werden sollen."
+    index:
+    - personenbezogene-daten
+    - dateisystem
+    - verordnung
+    - verarbeitung
+    number: 1
+  2:
+    index:
+    - personenbezogene-daten
+    - verordnung
+    - verarbeitung
+    number: 2
+    points:
+      a:
+        content: "im Rahmen einer T\xE4tigkeit, die nicht in den Anwendungsbereich\
+          \ des Unionsrechts f\xE4llt,"
+      b:
+        content: "durch die Mitgliedstaaten im Rahmen von T\xE4tigkeiten, die in den\
+          \ Anwendungsbereich von Titel V Kapitel 2 EUV fallen,"
+      c:
+        content: "durch {nat\xFCrliche Personen|index:nat\xFCrliche-person} zur Aus\xFC\
+          bung ausschlie\xDFlich pers\xF6nlicher oder famili\xE4rer T\xE4tigkeiten,"
+        index:
+        - "nat\xFCrliche-person"
+      d:
+        content: "durch die zust\xE4ndigen Beh\xF6rden zum Zwecke der Verh\xFCtung,\
+          \ Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung,\
+          \ einschlie\xDFlich des Schutzes vor und der Abwehr von Gefahren f\xFCr\
+          \ die \xF6ffentliche Sicherheit."
+    preamble: |-
+      Diese {Verordnung|index:verordnung} findet keine Anwendung auf die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}
+  3:
+    content: "F\xFCr die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+      \ durch die Organe, Einrichtungen, \xC4mter und Agenturen der Union gilt die\
+      \ {Verordnung|index:verordnung} (EG) Nr. 45/2001. Die {Verordnung|index:verordnung}\
+      \ (EG) Nr. 45/2001 und sonstige Rechtsakte der Union, die diese {Verarbeitung|index:verarbeitung}\
+      \ {personenbezogener Daten|index:personenbezogene-daten} regeln, werden im Einklang\
+      \ mit Artikel 98 an die Grunds\xE4tze und Vorschriften der vorliegenden {Verordnung|index:verordnung}\
+      \ angepasst."
+    index:
+    - personenbezogene-daten
+    - verordnung
+    - verarbeitung
+    number: 3
+  4:
+    content: "Die vorliegende {Verordnung|index:verordnung} l\xE4sst die Anwendung\
+      \ der Richtlinie 2000/31/EG und speziell die Vorschriften der Artikel 12 bis\
+      \ 15 dieser Richtlinie zur Verantwortlichkeit der Vermittler unber\xFChrt."
+    index:
+    - verordnung
+    number: 4
+section: 0
+title: Sachlicher Anwendungsbereich

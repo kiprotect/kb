@@ -1,0 +1,29 @@
+chapter: 9
+number: 90
+paragraphs:
+  1:
+    content: "Die Mitgliedstaaten k\xF6nnen die Befugnisse der {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+      rde} im Sinne des Artikels 58 Absatz 1 Buchstaben e und f gegen\xFCber den {Verantwortlichen|index:verantwortlicher}\
+      \ oder den Auftragsverarbeitern, die nach Unionsrecht oder dem Recht der Mitgliedstaaten\
+      \ oder nach einer von den zust\xE4ndigen nationalen Stellen erlassenen Verpflichtung\
+      \ dem Berufsgeheimnis oder einer gleichwertigen Geheimhaltungspflicht unterliegen,\
+      \ regeln, soweit dies notwendig und verh\xE4ltnism\xE4\xDFig ist, um das Recht\
+      \ auf Schutz der {personenbezogenen Daten|index:personenbezogene-daten} mit\
+      \ der Pflicht zur Geheimhaltung in Einklang zu bringen. Diese Vorschriften gelten\
+      \ nur in Bezug auf {personenbezogene Daten|index:personenbezogene-daten}, die\
+      \ der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ bei einer T\xE4tigkeit erlangt oder erhoben hat, die einer solchen Geheimhaltungspflicht\
+      \ unterliegt."
+    index:
+    - auftragsverarbeiter
+    - personenbezogene-daten
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    number: 1
+  2:
+    content: "Jeder Mitgliedstaat teilt der Kommission bis zum 25. Mai 2018 die Vorschriften\
+      \ mit, die er aufgrund von Absatz 1 erl\xE4sst, und setzt sie unverz\xFCglich\
+      \ von allen weiteren \xC4nderungen dieser Vorschriften in Kenntnis."
+    number: 2
+section: 0
+title: Geheimhaltungspflichten

@@ -1,0 +1,39 @@
+content: "Zum Schutz der in Bezug auf die {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten} bestehenden Rechte und Freiheiten {nat\xFC\
+  rlicher Personen|index:nat\xFCrliche-person} ist es erforderlich, dass geeignete\
+  \ {technische und organisatorische Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+  nahmen} getroffen werden, damit die Anforderungen dieser {Verordnung|index:verordnung}\
+  \ erf\xFCllt werden. Um die Einhaltung dieser {Verordnung|index:verordnung} nachweisen\
+  \ zu k\xF6nnen, sollte der {Verantwortliche|index:verantwortlicher} interne Strategien\
+  \ festlegen und Ma\xDFnahmen ergreifen, die insbesondere den Grunds\xE4tzen des\
+  \ Datenschutzes durch Technik (data protection by design) und durch datenschutzfreundliche\
+  \ Voreinstellungen (data protection by default) Gen\xFCge tun. Solche Ma\xDFnahmen\
+  \ k\xF6nnten unter anderem darin bestehen, dass die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} minimiert wird, {personenbezogene\
+  \ Daten|index:personenbezogene-daten} so schnell wie m\xF6glich pseudonymisiert\
+  \ werden, Transparenz in Bezug auf die Funktionen und die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} hergestellt wird, der {betroffenen\
+  \ Person|index:betroffene-person} erm\xF6glicht wird, die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} zu \xFCberwachen, und der\
+  \ {Verantwortliche|index:verantwortlicher} in die Lage versetzt wird, Sicherheitsfunktionen\
+  \ zu schaffen und zu verbessern. In Bezug auf Entwicklung, Gestaltung, Auswahl und\
+  \ Nutzung von Anwendungen, Diensten und Produkten, die entweder auf der {Verarbeitung|index:verarbeitung}\
+  \ von {personenbezogenen Daten|index:personenbezogene-daten} beruhen oder zur Erf\xFC\
+  llung ihrer Aufgaben {personenbezogene Daten|index:personenbezogene-daten} verarbeiten,\
+  \ sollten die Hersteller der Produkte, Dienste und Anwendungen ermutigt werden,\
+  \ das Recht auf Datenschutz bei der Entwicklung und Gestaltung der Produkte, Dienste\
+  \ und Anwendungen zu ber\xFCcksichtigen und unter geb\xFChrender Ber\xFCcksichtigung\
+  \ des Stands der Technik sicherzustellen, dass die {Verantwortlichen|index:verantwortlicher}\
+  \ und die Verarbeiter in der Lage sind, ihren Datenschutzpflichten nachzukommen.\
+  \ Den Grunds\xE4tzen des Datenschutzes durch Technik und durch datenschutzfreundliche\
+  \ Voreinstellungen sollte auch bei \xF6ffentlichen Ausschreibungen Rechnung getragen\
+  \ werden."
+index:
+- betroffene-person
+- verordnung
+- "technische-und-organisatorische-ma\xDFnahmen"
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 78

@@ -1,0 +1,51 @@
+chapter: 11
+number: 97
+paragraphs:
+  1:
+    content: "Bis zum 25. Mai 2020 und danach alle vier Jahre legt die Kommission\
+      \ dem Europ\xE4ischen Parlament und dem Rat einen Bericht \xFCber die Bewertung\
+      \ und \xDCberpr\xFCfung dieser {Verordnung|index:verordnung} vor. Die Berichte\
+      \ werden \xF6ffentlich gemacht."
+    index:
+    - verordnung
+    number: 1
+  2:
+    number: 2
+    points:
+      a:
+        content: "des Kapitels V \xFCber die \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
+          \ an Drittl\xE4nder oder an {internationale Organisationen|index:internationale-organisation}\
+          \ insbesondere im Hinblick auf die gem\xE4\xDF Artikel 45 Absatz 3 der vorliegenden\
+          \ {Verordnung|index:verordnung} erlassenen Beschl\xFCsse sowie die gem\xE4\
+          \xDF Artikel 25 Absatz 6 der Richtlinie 95/46/EG erlassenen Feststellungen,"
+        index:
+        - personenbezogene-daten
+        - internationale-organisation
+        - verordnung
+      b:
+        content: "des Kapitels VII \xFCber Zusammenarbeit und Koh\xE4renz."
+    preamble: "Im Rahmen der Bewertungen und \xDCberpr\xFCfungen nach Absatz 1 pr\xFC\
+      ft die Kommission insbesondere die Anwendung und die Wirkungsweise"
+  3:
+    content: "F\xFCr den in Absatz 1 genannten Zweck kann die Kommission Informationen\
+      \ von den Mitgliedstaaten und den {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+      rde} anfordern."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 3
+  4:
+    content: "Bei den in den Abs\xE4tzen 1 und 2 genannten Bewertungen und \xDCberpr\xFC\
+      fungen ber\xFCcksichtigt die Kommission die Standpunkte und Feststellungen des\
+      \ Europ\xE4ischen Parlaments, des Rates und anderer einschl\xE4giger Stellen\
+      \ oder Quellen."
+    number: 4
+  5:
+    content: "Die Kommission legt erforderlichenfalls geeignete Vorschl\xE4ge zur\
+      \ \xC4nderung dieser {Verordnung|index:verordnung} vor und ber\xFCcksichtigt\
+      \ dabei insbesondere die Entwicklungen in der Informationstechnologie und die\
+      \ Fortschritte in der Informationsgesellschaft."
+    index:
+    - verordnung
+    number: 5
+section: 0
+title: Berichte der Kommission

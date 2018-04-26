@@ -1,0 +1,22 @@
+content: "Beh\xF6rden, gegen\xFCber denen {personenbezogene Daten|index:personenbezogene-daten}\
+  \ aufgrund einer rechtlichen Verpflichtung f\xFCr die Aus\xFCbung ihres offiziellen\
+  \ Auftrags offengelegt werden, wie Steuer- und Zollbeh\xF6rden, Finanzermittlungsstellen,\
+  \ unabh\xE4ngige Verwaltungsbeh\xF6rden oder Finanzmarktbeh\xF6rden, die f\xFCr\
+  \ die Regulierung und Aufsicht von Wertpapierm\xE4rkten zust\xE4ndig sind, sollten\
+  \ nicht als {Empf\xE4nger|index:empf\xE4nger} gelten, wenn sie {personenbezogene\
+  \ Daten|index:personenbezogene-daten} erhalten, die f\xFCr die Durchf\xFChrung \u2014\
+  \ gem\xE4\xDF dem Unionsrecht oder dem Recht der Mitgliedstaaten \u2014 eines einzelnen\
+  \ Untersuchungsauftrags im Interesse der Allgemeinheit erforderlich sind. Antr\xE4\
+  ge auf Offenlegung, die von Beh\xF6rden ausgehen, sollten immer schriftlich erfolgen,\
+  \ mit Gr\xFCnden versehen sein und gelegentlichen Charakter haben, und sie sollten\
+  \ nicht vollst\xE4ndige {Dateisysteme|index:dateisystem} betreffen oder zur Verkn\xFC\
+  pfung von {Dateisystemen|index:dateisystem} f\xFChren. Die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} durch die genannten Beh\xF6\
+  rden sollte den f\xFCr die Zwecke der {Verarbeitung|index:verarbeitung} geltenden\
+  \ Datenschutzvorschriften entsprechen."
+index:
+- personenbezogene-daten
+- dateisystem
+- verarbeitung
+- "empf\xE4nger"
+number: 31

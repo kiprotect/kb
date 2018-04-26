@@ -1,0 +1,39 @@
+content: "Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ sollte Sch\xE4den, die einer Person aufgrund einer {Verarbeitung|index:verarbeitung}\
+  \ entstehen, die mit dieser {Verordnung|index:verordnung} nicht im Einklang steht,\
+  \ ersetzen. Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ sollte von seiner Haftung befreit werden, wenn er nachweist, dass er in keiner\
+  \ Weise f\xFCr den Schaden verantwortlich ist. Der Begriff des Schadens sollte im\
+  \ Lichte der Rechtsprechung des Gerichtshofs weit auf eine Art und Weise ausgelegt\
+  \ werden, die den Zielen dieser {Verordnung|index:verordnung} in vollem Umfang entspricht.\
+  \ Dies gilt unbeschadet von Schadenersatzforderungen aufgrund von Verst\xF6\xDF\
+  en gegen andere Vorschriften des Unionsrechts oder des Rechts der Mitgliedstaaten.\
+  \ Zu einer {Verarbeitung|index:verarbeitung}, die mit der vorliegenden {Verordnung|index:verordnung}\
+  \ nicht im Einklang steht, z\xE4hlt auch eine {Verarbeitung|index:verarbeitung},\
+  \ die nicht mit den nach Ma\xDFgabe der vorliegenden {Verordnung|index:verordnung}\
+  \ erlassenen delegierten Rechtsakten und Durchf\xFChrungsrechtsakten und Rechtsvorschriften\
+  \ der Mitgliedstaaten zur Pr\xE4zisierung von Bestimmungen der vorliegenden {Verordnung|index:verordnung}\
+  \ im Einklang steht. Die {betroffenen Personen|index:betroffene-person} sollten\
+  \ einen vollst\xE4ndigen und wirksamen Schadenersatz f\xFCr den erlittenen Schaden\
+  \ erhalten. Sind {Verantwortliche|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ an derselben {Verarbeitung|index:verarbeitung} beteiligt, so sollte jeder {Verantwortliche|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} f\xFCr den gesamten Schaden\
+  \ haftbar gemacht werden. Werden sie jedoch nach Ma\xDFgabe des Rechts der Mitgliedstaaten\
+  \ zu demselben {Verfahren|index:verfahren} hinzugezogen, so k\xF6nnen sie im Verh\xE4\
+  ltnis zu der Verantwortung anteilm\xE4\xDFig haftbar gemacht werden, die jeder {Verantwortliche|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} f\xFCr den durch die {Verarbeitung|index:verarbeitung}\
+  \ entstandenen Schaden zu tragen hat, sofern sichergestellt ist, dass die {betroffene\
+  \ Person|index:betroffene-person} einen vollst\xE4ndigen und wirksamen Schadenersatz\
+  \ f\xFCr den erlittenen Schaden erh\xE4lt. Jeder {Verantwortliche|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter}, der den vollen Schadenersatz\
+  \ geleistet hat, kann anschlie\xDFend ein R\xFCckgriffsverfahren gegen andere an\
+  \ derselben {Verarbeitung|index:verarbeitung} beteiligte {Verantwortliche|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} anstrengen."
+index:
+- betroffene-person
+- verordnung
+- auftragsverarbeiter
+- verfahren
+- verantwortlicher
+- verarbeitung
+number: 146

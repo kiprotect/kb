@@ -1,0 +1,14 @@
+<table class="table is-striped is-hoverable is-fullwidth">
+    <tbody>
+    {% for art in section.articles %}
+        <tr>
+            <td>
+                {{'article'|translate}} {{art.number}}
+            </td>
+            <td>
+                <a href="{{'gdpr-article-%d'|format(art.number)|href}}">{{art.title|law_markup(lang, remove=True)|safe}}</a>
+            </td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>

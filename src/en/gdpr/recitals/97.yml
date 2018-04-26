@@ -1,0 +1,9 @@
+content: |-
+  Where the {processing|index:processing} is carried out by a public authority, except for courts or independent judicial authorities when acting in their judicial capacity, where, in the private sector, {processing|index:processing} is carried out by a {controller|index:controller} whose core activities consist of {processing|index:processing} operations that require regular and systematic monitoring of the data subjects on a large scale, or where the core activities of the {controller|index:controller} or the {processor|index:processor} consist of {processing|index:processing} on a large scale of special categories of {personal data|index:personal-data} and data relating to criminal convictions and offences, a person with expert knowledge of data protection law and practices should assist the {controller|index:controller} or {processor|index:processor} to monitor internal compliance with this {Regulation|index:regulation}. In the private sector, the core activities of a {controller|index:controller} relate to its primary activities and do not relate to the {processing|index:processing} of {personal data|index:personal-data} as ancillary activities. The necessary level of expert knowledge should be determined in particular according to the data {processing|index:processing} operations carried out and the protection required for the {personal data|index:personal-data} processed by the {controller|index:controller} or the {processor|index:processor}. Such data protection officers, whether or not they are an employee of the {controller|index:controller}, should be in a position to perform their duties and tasks in an independent manner.
+index:
+- regulation
+- processor
+- controller
+- personal-data
+- processing
+number: 97

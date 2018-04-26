@@ -1,0 +1,26 @@
+content: "Diese {Verordnung|index:verordnung} sollte auch f\xFCr die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} zu statistischen Zwecken\
+  \ gelten. Das Unionsrecht oder das Recht der Mitgliedstaaten sollte in den Grenzen\
+  \ dieser {Verordnung|index:verordnung} den statistischen Inhalt, die Zugangskontrolle,\
+  \ die Spezifikationen f\xFCr die {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten} zu statistischen Zwecken und geeignete Ma\xDF\
+  nahmen zur Sicherung der Rechte und Freiheiten der {betroffenen Personen|index:betroffene-person}\
+  \ und zur Sicherstellung der statistischen Geheimhaltung bestimmen. Unter dem Begriff\
+  \ \u201Estatistische Zwecke\u201C ist jeder f\xFCr die Durchf\xFChrung statistischer\
+  \ Untersuchungen und die Erstellung statistischer Ergebnisse erforderliche Vorgang\
+  \ der Erhebung und {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ zu verstehen. Diese statistischen Ergebnisse k\xF6nnen f\xFCr verschiedene Zwecke,\
+  \ so auch f\xFCr wissenschaftliche Forschungszwecke, weiterverwendet werden. Im\
+  \ Zusammenhang mit den statistischen Zwecken wird vorausgesetzt, dass die Ergebnisse\
+  \ der {Verarbeitung|index:verarbeitung} zu statistischen Zwecken keine {personenbezogenen\
+  \ Daten|index:personenbezogene-daten}, sondern aggregierte Daten sind und diese\
+  \ Ergebnisse oder {personenbezogenen Daten|index:personenbezogene-daten} nicht f\xFC\
+  r Ma\xDFnahmen oder Entscheidungen gegen\xFCber einzelnen {nat\xFCrlichen Personen|index:nat\xFC\
+  rliche-person} verwendet werden."
+index:
+- betroffene-person
+- verordnung
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 162

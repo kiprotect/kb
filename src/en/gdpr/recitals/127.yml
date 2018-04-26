@@ -1,0 +1,33 @@
+content: "Each {supervisory authority|index:supervisory-authority} not acting as the\
+  \ lead {supervisory authority|index:supervisory-authority} should be competent to\
+  \ handle local cases where the {controller|index:controller} or {processor|index:processor}\
+  \ is established in more than one Member State, but the subject matter of the specific\
+  \ {processing|index:processing} concerns only {processing|index:processing} carried\
+  \ out in a single Member State and involves only data subjects in that single Member\
+  \ State, for example, where the subject matter concerns the {processing|index:processing}\
+  \ of employees' {personal data|index:personal-data} in the specific employment context\
+  \ of a Member State. In such cases, the {supervisory authority|index:supervisory-authority}\
+  \ should inform the lead {supervisory authority|index:supervisory-authority} without\
+  \ delay about the matter. After being informed, the lead {supervisory authority|index:supervisory-authority}\
+  \ should decide, whether it will handle the case pursuant to the provision on cooperation\
+  \ between the lead {supervisory authority|index:supervisory-authority} and other\
+  \ supervisory authorities concerned (\u2018one-stop-shop mechanism\u2019), or whether\
+  \ the {supervisory authority|index:supervisory-authority} which informed it should\
+  \ handle the case at local level. When deciding whether it will handle the case,\
+  \ the lead {supervisory authority|index:supervisory-authority} should take into\
+  \ account whether there is an establishment of the {controller|index:controller}\
+  \ or {processor|index:processor} in the Member State of the {supervisory authority|index:supervisory-authority}\
+  \ which informed it in order to ensure effective enforcement of a decision vis-\xE0\
+  -vis the {controller|index:controller} or {processor|index:processor}. Where the\
+  \ lead {supervisory authority|index:supervisory-authority} decides to handle the\
+  \ case, the {supervisory authority|index:supervisory-authority} which informed it\
+  \ should have the possibility to submit a draft for a decision, of which the lead\
+  \ {supervisory authority|index:supervisory-authority} should take utmost account\
+  \ when preparing its draft decision in that one-stop-shop mechanism."
+index:
+- processor
+- controller
+- personal-data
+- supervisory-authority
+- processing
+number: 127

@@ -1,0 +1,44 @@
+chapter: 3
+number: 20
+paragraphs:
+  1:
+    index:
+    - personal-data
+    - data-subject
+    - controller
+    number: 1
+    points:
+      a:
+        content: |-
+          the {processing|index:processing} is based on {consent|index:consent} pursuant to point (a) of Article 6(1) or point (a) of Article 9(2) or on a contract pursuant to point (b) of Article 6(1); and
+        index:
+        - consent
+        - processing
+      b:
+        content: the {processing|index:processing} is carried out by {automated means|index:automated-means}.
+        index:
+        - automated-means
+        - processing
+    preamble: |-
+      The {data subject|index:data-subject} shall have the right to receive the {personal data|index:personal-data} concerning him or her, which he or she has provided to a {controller|index:controller}, in a structured, commonly used and machine-readable format and have the right to transmit those data to another {controller|index:controller} without hindrance from the {controller|index:controller} to which the {personal data|index:personal-data} have been provided, where:
+  2:
+    content: |-
+      In exercising his or her right to data portability pursuant to paragraph 1, the {data subject|index:data-subject} shall have the right to have the {personal data|index:personal-data} transmitted directly from one {controller|index:controller} to another, where technically feasible.
+    index:
+    - personal-data
+    - data-subject
+    - controller
+    number: 2
+  3:
+    content: |-
+      The exercise of the right referred to in paragraph 1 of this Article shall be without prejudice to Article 17. That right shall not apply to {processing|index:processing} necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the {controller|index:controller}.
+    index:
+    - controller
+    - processing
+    number: 3
+  4:
+    content: The right referred to in paragraph 1 shall not adversely affect the rights
+      and freedoms of others.
+    number: 4
+section: 3
+title: Right to data portability

@@ -1,0 +1,9 @@
+content: |-
+  Where {personal data|index:personal-data} are processed for statistical purposes, this {Regulation|index:regulation} should apply to that {processing|index:processing}. Union or Member State law should, within the limits of this {Regulation|index:regulation}, determine statistical content, control of access, specifications for the {processing|index:processing} of {personal data|index:personal-data} for statistical purposes and appropriate measures to safeguard the rights and freedoms of the {data subject|index:data-subject} and for ensuring statistical confidentiality. Statistical purposes mean any operation of collection and the {processing|index:processing} of {personal data|index:personal-data} necessary for statistical surveys or for the production of statistical results. Those statistical results may further be used for different purposes, including a scientific research purpose. The statistical purpose implies that the result of {processing|index:processing} for statistical purposes is not {personal data|index:personal-data}, but aggregate data, and that this result or the {personal data|index:personal-data} are not used in support of measures or decisions regarding any particular {natural person|index:natural-person}.
+index:
+- data-subject
+- regulation
+- personal-data
+- natural-person
+- processing
+number: 162

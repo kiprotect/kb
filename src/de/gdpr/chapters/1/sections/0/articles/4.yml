@@ -1,0 +1,395 @@
+chapter: 1
+definitions:
+  1:
+    content: "\u201E{personenbezogene Daten|index:personenbezogene-daten}\u201C alle\
+      \ Informationen, die sich auf eine {identifizierte|index:identifiziert} oder\
+      \ {identifizierbare|index:identifizierbar} {nat\xFCrliche Person|index:nat\xFC\
+      rliche-person} (im Folgenden \u201E{betroffene Person|index:betroffene-person}\u201C\
+      ) beziehen; als {identifizierbar|index:identifizierbar} wird eine {nat\xFCrliche\
+      \ Person|index:nat\xFCrliche-person} angesehen, die direkt oder indirekt, insbesondere\
+      \ mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu\
+      \ Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen\
+      \ Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen,\
+      \ wirtschaftlichen, kulturellen oder sozialen Identit\xE4t dieser {nat\xFCrlichen\
+      \ Person|index:nat\xFCrliche-person} sind, identifiziert werden kann;"
+    index:
+    - betroffene-person
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
+    - identifizierbar
+    - identifiziert
+    number: 1
+  2:
+    content: "\u201E{Verarbeitung|index:verarbeitung}\u201C jeden mit oder ohne Hilfe\
+      \ {automatisierter Verfahren|index:automatisiertes-verfahren} ausgef\xFChrten\
+      \ Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit {personenbezogenen\
+      \ Daten|index:personenbezogene-daten} wie das Erheben, das Erfassen, die Organisation,\
+      \ das Ordnen, die Speicherung, die Anpassung oder Ver\xE4nderung, das Auslesen,\
+      \ das Abfragen, die Verwendung, die Offenlegung durch \xDCbermittlung, Verbreitung\
+      \ oder eine andere Form der Bereitstellung, den Abgleich oder die Verkn\xFC\
+      pfung, die Einschr\xE4nkung, das L\xF6schen oder die Vernichtung;"
+    index:
+    - personenbezogene-daten
+    - automatisiertes-verfahren
+    - verarbeitung
+    number: 2
+  3:
+    content: "\u201E{Einschr\xE4nkung der Verarbeitung|index:einschr\xE4nkung-der-verarbeitung}\u201C\
+      \ die Markierung gespeicherter {personenbezogener Daten|index:personenbezogene-daten}\
+      \ mit dem Ziel, ihre k\xFCnftige {Verarbeitung|index:verarbeitung} einzuschr\xE4\
+      nken;"
+    index:
+    - "einschr\xE4nkung-der-verarbeitung"
+    - personenbezogene-daten
+    - verarbeitung
+    number: 3
+  4:
+    content: "\u201E{Profiling|index:profiling}\u201C jede Art der {automatisierten\
+      \ Verarbeitung|index:automatisierte-verarbeitung} {personenbezogener Daten|index:personenbezogene-daten},\
+      \ die darin besteht, dass diese {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ verwendet werden, um bestimmte pers\xF6nliche Aspekte, die sich auf eine {nat\xFC\
+      rliche Person|index:nat\xFCrliche-person} beziehen, zu bewerten, insbesondere\
+      \ um Aspekte bez\xFCglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit,\
+      \ pers\xF6nliche Vorlieben, Interessen, Zuverl\xE4ssigkeit, Verhalten, Aufenthaltsort\
+      \ oder Ortswechsel dieser {nat\xFCrlichen Person|index:nat\xFCrliche-person}\
+      \ zu analysieren oder vorherzusagen;"
+    index:
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
+    - automatisierte-verarbeitung
+    - profiling
+    number: 4
+  5:
+    content: "\u201E{Pseudonymisierung|index:pseudonymisierung}\u201C die {Verarbeitung|index:verarbeitung}\
+      \ {personenbezogener Daten|index:personenbezogene-daten} in einer Weise, dass\
+      \ die {personenbezogenen Daten|index:personenbezogene-daten} ohne Hinzuziehung\
+      \ zus\xE4tzlicher Informationen nicht mehr einer spezifischen {betroffenen Person|index:betroffene-person}\
+      \ zugeordnet werden k\xF6nnen, sofern diese zus\xE4tzlichen Informationen gesondert\
+      \ aufbewahrt werden und {technischen und organisatorischen Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+      nahmen} unterliegen, die gew\xE4hrleisten, dass die {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ nicht einer {identifizierten|index:identifiziert} oder {identifizierbaren|index:identifizierbar}\
+      \ {nat\xFCrlichen Person|index:nat\xFCrliche-person} zugewiesen werden;"
+    index:
+    - betroffene-person
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - pseudonymisierung
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
+    - identifizierbar
+    - identifiziert
+    - verarbeitung
+    number: 5
+  6:
+    content: "\u201E{Dateisystem|index:dateisystem}\u201C jede strukturierte Sammlung\
+      \ {personenbezogener Daten|index:personenbezogene-daten}, die nach bestimmten\
+      \ Kriterien zug\xE4nglich sind, unabh\xE4ngig davon, ob diese Sammlung zentral,\
+      \ dezentral oder nach funktionalen oder geografischen Gesichtspunkten geordnet\
+      \ gef\xFChrt wird;"
+    index:
+    - personenbezogene-daten
+    - dateisystem
+    number: 6
+  7:
+    content: "\u201E{Verantwortlicher|index:verantwortlicher}\u201C die nat\xFCrliche\
+      \ oder juristische Person, Beh\xF6rde, Einrichtung oder andere Stelle, die allein\
+      \ oder gemeinsam mit anderen \xFCber die Zwecke und Mittel der {Verarbeitung|index:verarbeitung}\
+      \ von {personenbezogenen Daten|index:personenbezogene-daten} entscheidet; sind\
+      \ die Zwecke und Mittel dieser {Verarbeitung|index:verarbeitung} durch das Unionsrecht\
+      \ oder das Recht der Mitgliedstaaten vorgegeben, so kann der {Verantwortliche|index:verantwortlicher}\
+      \ beziehungsweise k\xF6nnen die bestimmten Kriterien seiner Benennung nach dem\
+      \ Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden;"
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - verarbeitung
+    number: 7
+  8:
+    content: "\u201E{Auftragsverarbeiter|index:auftragsverarbeiter}\u201C eine nat\xFC\
+      rliche oder juristische Person, Beh\xF6rde, Einrichtung oder andere Stelle,\
+      \ die {personenbezogene Daten|index:personenbezogene-daten} im Auftrag des {Verantwortlichen|index:verantwortlicher}\
+      \ verarbeitet;"
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - auftragsverarbeiter
+    number: 8
+  9:
+    content: "\u201E{Empf\xE4nger|index:empf\xE4nger}\u201C eine nat\xFCrliche oder\
+      \ juristische Person, Beh\xF6rde, Einrichtung oder andere Stelle, der {personenbezogene\
+      \ Daten|index:personenbezogene-daten} offengelegt werden, unabh\xE4ngig davon,\
+      \ ob es sich bei ihr um einen {Dritten|index:dritter} handelt oder nicht. Beh\xF6\
+      rden, die im Rahmen eines bestimmten Untersuchungsauftrags nach dem Unionsrecht\
+      \ oder dem Recht der Mitgliedstaaten m\xF6glicherweise {personenbezogene Daten|index:personenbezogene-daten}\
+      \ erhalten, gelten jedoch nicht als {Empf\xE4nger|index:empf\xE4nger}; die {Verarbeitung|index:verarbeitung}\
+      \ dieser Daten durch die genannten Beh\xF6rden erfolgt im Einklang mit den geltenden\
+      \ Datenschutzvorschriften gem\xE4\xDF den Zwecken der {Verarbeitung|index:verarbeitung};"
+    index:
+    - personenbezogene-daten
+    - dritter
+    - verarbeitung
+    - "empf\xE4nger"
+    number: 9
+  10:
+    content: "\u201E{Dritter|index:dritter}\u201C eine nat\xFCrliche oder juristische\
+      \ Person, Beh\xF6rde, Einrichtung oder andere Stelle, au\xDFer der {betroffenen\
+      \ Person|index:betroffene-person}, dem {Verantwortlichen|index:verantwortlicher},\
+      \ dem {Auftragsverarbeiter|index:auftragsverarbeiter} und den Personen, die\
+      \ unter der unmittelbaren Verantwortung des {Verantwortlichen|index:verantwortlicher}\
+      \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} befugt sind, die\
+      \ {personenbezogenen Daten|index:personenbezogene-daten} zu verarbeiten;"
+    index:
+    - betroffene-person
+    - dritter
+    - auftragsverarbeiter
+    - verantwortlicher
+    - personenbezogene-daten
+    number: 10
+  11:
+    content: "\u201E{Einwilligung|index:einwilligung}\u201C der {betroffenen Person|index:betroffene-person}\
+      \ jede freiwillig f\xFCr den bestimmten Fall, in informierter Weise und unmissverst\xE4\
+      ndlich abgegebene Willensbekundung in Form einer Erkl\xE4rung oder einer sonstigen\
+      \ eindeutigen best\xE4tigenden Handlung, mit der die {betroffene Person|index:betroffene-person}\
+      \ zu verstehen gibt, dass sie mit der {Verarbeitung|index:verarbeitung} der\
+      \ sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten} einverstanden\
+      \ ist;"
+    index:
+    - personenbezogene-daten
+    - betroffene-person
+    - einwilligung
+    - verarbeitung
+    number: 11
+  12:
+    content: "\u201E{Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\u201C\
+      \ eine Verletzung der Sicherheit, die, ob unbeabsichtigt oder unrechtm\xE4\xDF\
+      ig, zur Vernichtung, zum Verlust, zur Ver\xE4nderung, oder zur unbefugten Offenlegung\
+      \ von beziehungsweise zum unbefugten Zugang zu {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ f\xFChrt, die \xFCbermittelt, gespeichert oder auf sonstige Weise verarbeitet\
+      \ wurden;"
+    index:
+    - verletzung-des-schutzes-personenbezogener-daten
+    - personenbezogene-daten
+    number: 12
+  13:
+    content: "\u201E{genetische Daten|index:genetische-daten}\u201C {personenbezogene\
+      \ Daten|index:personenbezogene-daten} zu den ererbten oder erworbenen genetischen\
+      \ Eigenschaften einer {nat\xFCrlichen Person|index:nat\xFCrliche-person}, die\
+      \ eindeutige Informationen \xFCber die Physiologie oder die Gesundheit dieser\
+      \ {nat\xFCrlichen Person|index:nat\xFCrliche-person} liefern und insbesondere\
+      \ aus der Analyse einer biologischen Probe der betreffenden {nat\xFCrlichen\
+      \ Person|index:nat\xFCrliche-person} gewonnen wurden;"
+    index:
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
+    - genetische-daten
+    number: 13
+  14:
+    content: "\u201E{biometrische Daten|index:biometrische-daten}\u201C mit speziellen\
+      \ technischen {Verfahren|index:verfahren} gewonnene {personenbezogene Daten|index:personenbezogene-daten}\
+      \ zu den physischen, physiologischen oder verhaltenstypischen Merkmalen einer\
+      \ {nat\xFCrlichen Person|index:nat\xFCrliche-person}, die die eindeutige Identifizierung\
+      \ dieser {nat\xFCrlichen Person|index:nat\xFCrliche-person} erm\xF6glichen oder\
+      \ best\xE4tigen, wie Gesichtsbilder oder daktyloskopische Daten;"
+    index:
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
+    - verfahren
+    - biometrische-daten
+    number: 14
+  15:
+    content: "\u201E{Gesundheitsdaten|index:gesundheitsdaten}\u201C {personenbezogene\
+      \ Daten|index:personenbezogene-daten}, die sich auf die k\xF6rperliche oder\
+      \ geistige Gesundheit einer {nat\xFCrlichen Person|index:nat\xFCrliche-person},\
+      \ einschlie\xDFlich der Erbringung von Gesundheitsdienstleistungen, beziehen\
+      \ und aus denen Informationen \xFCber deren Gesundheitszustand hervorgehen;"
+    index:
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
+    - gesundheitsdaten
+    number: 15
+  16:
+    number: 16
+    index:
+    - hauptniederlassung
+    points:
+      a:
+        content: |-
+          im Falle eines {Verantwortlichen|index:verantwortlicher} mit Niederlassungen in mehr als einem Mitgliedstaat den Ort seiner Hauptverwaltung in der Union, es sei denn, die Entscheidungen hinsichtlich der Zwecke und Mittel der {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten} werden in einer anderen Niederlassung des {Verantwortlichen|index:verantwortlicher} in der Union getroffen und diese Niederlassung ist befugt, diese Entscheidungen umsetzen zu lassen; in diesem Fall gilt die Niederlassung, die derartige Entscheidungen trifft, als {Hauptniederlassung|index:hauptniederlassung};
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+        - hauptniederlassung
+        - verarbeitung
+      b:
+        content: "im Falle eines {Auftragsverarbeiters|index:auftragsverarbeiter}\
+          \ mit Niederlassungen in mehr als einem Mitgliedstaat den Ort seiner Hauptverwaltung\
+          \ in der Union oder, sofern der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ keine Hauptverwaltung in der Union hat, die Niederlassung des {Auftragsverarbeiters|index:auftragsverarbeiter}\
+          \ in der Union, in der die {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4\
+          tigkeit} im Rahmen der T\xE4tigkeiten einer Niederlassung eines {Auftragsverarbeiters|index:auftragsverarbeiter}\
+          \ haupts\xE4chlich stattfinden, soweit der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ spezifischen Pflichten aus dieser {Verordnung|index:verordnung} unterliegt;"
+        index:
+        - auftragsverarbeiter
+        - "verarbeitungst\xE4tigkeit"
+        - verordnung
+    preamble: "\u201E{Hauptniederlassung|index:hauptniederlassung}\u201C"
+  17:
+    content: "\u201E{Vertreter|index:vertreter}\u201C eine in der Union niedergelassene\
+      \ nat\xFCrliche oder juristische Person, die von dem {Verantwortlichen|index:verantwortlicher}\
+      \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} schriftlich gem\xE4\xDF\
+      \ Artikel 27 bestellt wurde und den {Verantwortlichen|index:verantwortlicher}\
+      \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} in Bezug auf die ihnen\
+      \ jeweils nach dieser {Verordnung|index:verordnung} obliegenden Pflichten vertritt;"
+    index:
+    - auftragsverarbeiter
+    - verantwortlicher
+    - hauptniederlassung
+    - verordnung
+    - vertreter
+    number: 17
+  18:
+    content: "\u201E{Unternehmen|index:unternehmen}\u201C eine nat\xFCrliche und juristische\
+      \ Person, die eine wirtschaftliche T\xE4tigkeit aus\xFCbt, unabh\xE4ngig von\
+      \ ihrer Rechtsform, einschlie\xDFlich Personengesellschaften oder Vereinigungen,\
+      \ die regelm\xE4\xDFig einer wirtschaftlichen T\xE4tigkeit nachgehen;"
+    index:
+    - unternehmen
+    number: 18
+  19:
+    content: "\u201E{Unternehmensgruppe|index:unternehmensgruppe}\u201C eine Gruppe,\
+      \ die aus einem herrschenden {Unternehmen|index:unternehmen} und den von diesem\
+      \ abh\xE4ngigen {Unternehmen|index:unternehmen} besteht;"
+    index:
+    - unternehmen
+    - unternehmensgruppe
+    number: 19
+  20:
+    content: "\u201E{verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}\u201C\
+      \ Ma\xDFnahmen zum Schutz {personenbezogener Daten|index:personenbezogene-daten},\
+      \ zu deren Einhaltung sich ein im Hoheitsgebiet eines Mitgliedstaats niedergelassener\
+      \ {Verantwortlicher|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ verpflichtet im Hinblick auf Daten\xFCbermittlungen oder eine Kategorie von\
+      \ Daten\xFCbermittlungen {personenbezogener Daten|index:personenbezogene-daten}\
+      \ an einen {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ derselben {Unternehmensgruppe|index:unternehmensgruppe} oder derselben Gruppe\
+      \ von {Unternehmen|index:unternehmen}, die eine gemeinsame Wirtschaftst\xE4\
+      tigkeit aus\xFCben, in einem oder mehreren Drittl\xE4ndern;"
+    index:
+    - auftragsverarbeiter
+    - unternehmen
+    - personenbezogene-daten
+    - unternehmensgruppe
+    - verantwortlicher
+    - verbindliche-interne-datenschutzvorschriften
+    number: 20
+  21:
+    content: "\u201E{Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\u201C eine von\
+      \ einem Mitgliedstaat gem\xE4\xDF Artikel 51 eingerichtete unabh\xE4ngige staatliche\
+      \ Stelle;"
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 21
+  22:
+    index:
+    - personenbezogene-daten
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 22
+    points:
+      a:
+        content: "der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ im Hoheitsgebiet des Mitgliedstaats dieser {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+          rde} niedergelassen ist,"
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - "aufsichtsbeh\xF6rde"
+      b:
+        content: "diese {Verarbeitung|index:verarbeitung} erhebliche Auswirkungen\
+          \ auf {betroffene Personen|index:betroffene-person} mit Wohnsitz im Mitgliedstaat\
+          \ dieser {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} hat oder haben\
+          \ kann oder"
+        index:
+        - betroffene-person
+        - "aufsichtsbeh\xF6rde"
+        - verarbeitung
+      c:
+        content: "eine Beschwerde bei dieser {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+          rde} eingereicht wurde;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+    preamble: "\u201Ebetroffene {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\u201C\
+      \ eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, die von der {Verarbeitung|index:verarbeitung}\
+      \ {personenbezogener Daten|index:personenbezogene-daten} betroffen ist, weil"
+  23:
+    index:
+    - verarbeitung
+    number: 23
+    points:
+      a:
+        content: "eine {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten},\
+          \ die im Rahmen der T\xE4tigkeiten von Niederlassungen eines {Verantwortlichen|index:verantwortlicher}\
+          \ oder eines {Auftragsverarbeiters|index:auftragsverarbeiter} in der Union\
+          \ in mehr als einem Mitgliedstaat erfolgt, wenn der {Verantwortliche|index:verantwortlicher}\
+          \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} in mehr als einem\
+          \ Mitgliedstaat niedergelassen ist, oder"
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+        - auftragsverarbeiter
+        - verarbeitung
+      b:
+        content: "eine {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten},\
+          \ die im Rahmen der T\xE4tigkeiten einer einzelnen Niederlassung eines {Verantwortlichen|index:verantwortlicher}\
+          \ oder eines {Auftragsverarbeiters|index:auftragsverarbeiter} in der Union\
+          \ erfolgt, die jedoch erhebliche Auswirkungen auf {betroffene Personen|index:betroffene-person}\
+          \ in mehr als einem Mitgliedstaat hat oder haben kann;"
+        index:
+        - betroffene-person
+        - auftragsverarbeiter
+        - verantwortlicher
+        - personenbezogene-daten
+        - verarbeitung
+    preamble: "\u201Egrenz\xFCberschreitende {Verarbeitung|index:verarbeitung}\u201C\
+      \ entweder"
+  24:
+    content: "\u201E{ma\xDFgeblicher und begr\xFCndeter Einspruch|index:ma\xDFgeblicher-und-begr\xFC\
+      ndeter-einspruch}\u201C einen Einspruch gegen einen Beschlussentwurf im Hinblick\
+      \ darauf, ob ein Versto\xDF gegen diese {Verordnung|index:verordnung} vorliegt\
+      \ oder ob beabsichtigte Ma\xDFnahmen gegen den {Verantwortlichen|index:verantwortlicher}\
+      \ oder den {Auftragsverarbeiter|index:auftragsverarbeiter} im Einklang mit dieser\
+      \ {Verordnung|index:verordnung} steht, wobei aus diesem Einspruch die Tragweite\
+      \ der Risiken klar hervorgeht, die von dem Beschlussentwurf in Bezug auf die\
+      \ Grundrechte und Grundfreiheiten der {betroffenen Personen|index:betroffene-person}\
+      \ und gegebenenfalls den freien Verkehr {personenbezogener Daten|index:personenbezogene-daten}\
+      \ in der Union ausgehen;"
+    index:
+    - betroffene-person
+    - auftragsverarbeiter
+    - verordnung
+    - verantwortlicher
+    - personenbezogene-daten
+    - "ma\xDFgeblicher-und-begr\xFCndeter-einspruch"
+    number: 24
+  25:
+    content: "\u201E{Dienst der Informationsgesellschaft|index:dienst-der-informationsgesellschaft}\u201C\
+      \ eine Dienstleistung im Sinne des Artikels 1 Nummer 1 Buchstabe b der Richtlinie\
+      \ (EU) 2015/1535 des Europ\xE4ischen Parlaments und des Rates (19);"
+    index:
+    - dienst-der-informationsgesellschaft
+    number: 25
+  26:
+    content: "\u201E{internationale Organisation|index:internationale-organisation}\u201C\
+      \ eine v\xF6lkerrechtliche Organisation und ihre nachgeordneten Stellen oder\
+      \ jede sonstige Einrichtung, die durch eine zwischen zwei oder mehr L\xE4ndern\
+      \ geschlossene \xDCbereinkunft oder auf der Grundlage einer solchen \xDCbereinkunft\
+      \ geschaffen wurde."
+    index:
+    - internationale-organisation
+    number: 26
+index:
+- verordnung
+number: 4
+preamble: 'Im Sinne dieser {Verordnung|index:verordnung} bezeichnet der Ausdruck:'
+section: 0
+title: Begriffsbestimmungen

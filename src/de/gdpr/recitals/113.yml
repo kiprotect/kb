@@ -1,0 +1,27 @@
+content: "\xDCbermittlungen, die als nicht wiederholt erfolgend gelten k\xF6nnen und\
+  \ nur eine begrenzte Zahl von {betroffenen Personen|index:betroffene-person} betreffen,\
+  \ k\xF6nnten auch zur Wahrung der zwingenden berechtigten Interessen des {Verantwortlichen|index:verantwortlicher}\
+  \ m\xF6glich sein, sofern die Interessen oder Rechte und Freiheiten der {betroffenen\
+  \ Person|index:betroffene-person} nicht \xFCberwiegen und der {Verantwortliche|index:verantwortlicher}\
+  \ s\xE4mtliche Umst\xE4nde der Daten\xFCbermittlung gepr\xFCft hat. Der {Verantwortliche|index:verantwortlicher}\
+  \ sollte insbesondere die Art der {personenbezogenen Daten|index:personenbezogene-daten},\
+  \ den Zweck und die Dauer der vorgesehenen {Verarbeitung|index:verarbeitung}, die\
+  \ Situation im Herkunftsland, in dem betreffenden Drittland und im Endbestimmungsland\
+  \ ber\xFCcksichtigen und angemessene Garantien zum Schutz der Grundrechte und Grundfreiheiten\
+  \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person} in Bezug auf die {Verarbeitung|index:verarbeitung}\
+  \ ihrer {personenbezogener Daten|index:personenbezogene-daten} vorsehen. Diese \xDC\
+  bermittlungen sollten nur in den verbleibenden F\xE4llen m\xF6glich sein, in denen\
+  \ keiner der anderen Gr\xFCnde f\xFCr die \xDCbermittlung anwendbar ist. Bei wissenschaftlichen\
+  \ oder historischen Forschungszwecken oder bei statistischen Zwecken sollten die\
+  \ legitimen gesellschaftlichen Erwartungen in Bezug auf einen Wissenszuwachs ber\xFC\
+  cksichtigt werden. Der {Verantwortliche|index:verantwortlicher} sollte die {Aufsichtsbeh\xF6\
+  rde|index:aufsichtsbeh\xF6rde} und die {betroffene Person|index:betroffene-person}\
+  \ von der \xDCbermittlung in Kenntnis setzen."
+index:
+- betroffene-person
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
+number: 113

@@ -1,0 +1,67 @@
+content: "Die {betroffene Person|index:betroffene-person} sollte das Recht haben,\
+  \ keiner Entscheidung \u2014 was eine Ma\xDFnahme einschlie\xDFen kann \u2014 zur\
+  \ Bewertung von sie betreffenden pers\xF6nlichen Aspekten unterworfen zu werden,\
+  \ die ausschlie\xDFlich auf einer {automatisierten Verarbeitung|index:automatisierte-verarbeitung}\
+  \ beruht und die rechtliche Wirkung f\xFCr die {betroffene Person|index:betroffene-person}\
+  \ entfaltet oder sie in \xE4hnlicher Weise erheblich beeintr\xE4chtigt, wie die\
+  \ automatische Ablehnung eines Online-Kreditantrags oder Online-Einstellungsverfahren\
+  \ ohne jegliches menschliche Eingreifen. Zu einer derartigen {Verarbeitung|index:verarbeitung}\
+  \ z\xE4hlt auch das \u201E{Profiling|index:profiling}\u201C, das in jeglicher Form\
+  \ {automatisierter Verarbeitung|index:automatisierte-verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten} unter Bewertung der pers\xF6nlichen Aspekte\
+  \ in Bezug auf eine {nat\xFCrliche Person|index:nat\xFCrliche-person} besteht, insbesondere\
+  \ zur Analyse oder Prognose von Aspekten bez\xFCglich Arbeitsleistung, wirtschaftliche\
+  \ Lage, Gesundheit, pers\xF6nliche Vorlieben oder Interessen, Zuverl\xE4ssigkeit\
+  \ oder Verhalten, Aufenthaltsort oder Ortswechsel der {betroffenen Person|index:betroffene-person},\
+  \ soweit dies rechtliche Wirkung f\xFCr die {betroffene Person|index:betroffene-person}\
+  \ entfaltet oder sie in \xE4hnlicher Weise erheblich beeintr\xE4chtigt. Eine auf\
+  \ einer derartigen {Verarbeitung|index:verarbeitung}, einschlie\xDFlich des {Profilings|index:profiling},\
+  \ beruhende Entscheidungsfindung sollte allerdings erlaubt sein, wenn dies nach\
+  \ dem Unionsrecht oder dem Recht der Mitgliedstaaten, dem der f\xFCr die {Verarbeitung|index:verarbeitung}\
+  \ {Verantwortliche|index:verantwortlicher} unterliegt, ausdr\xFCcklich zul\xE4ssig\
+  \ ist, auch um im Einklang mit den Vorschriften, Standards und Empfehlungen der\
+  \ Institutionen der Union oder der nationalen Aufsichtsgremien Betrug und Steuerhinterziehung\
+  \ zu \xFCberwachen und zu verhindern und die Sicherheit und Zuverl\xE4ssigkeit eines\
+  \ von dem {Verantwortlichen|index:verantwortlicher} bereitgestellten Dienstes zu\
+  \ gew\xE4hrleisten, oder wenn dies f\xFCr den Abschluss oder die Erf\xFCllung eines\
+  \ Vertrags zwischen der {betroffenen Person|index:betroffene-person} und einem {Verantwortlichen|index:verantwortlicher}\
+  \ erforderlich ist oder wenn die {betroffene Person|index:betroffene-person} ihre\
+  \ ausdr\xFCckliche {Einwilligung|index:einwilligung} hierzu erteilt hat. In jedem\
+  \ Fall sollte eine solche {Verarbeitung|index:verarbeitung} mit angemessenen Garantien\
+  \ verbunden sein, einschlie\xDFlich der spezifischen Unterrichtung der {betroffenen\
+  \ Person|index:betroffene-person} und des Anspruchs auf direktes Eingreifen einer\
+  \ Person, auf Darlegung des eigenen Standpunkts, auf Erl\xE4uterung der nach einer\
+  \ entsprechenden Bewertung getroffenen Entscheidung sowie des Rechts auf Anfechtung\
+  \ der Entscheidung. Diese Ma\xDFnahme sollte kein Kind betreffen. Um unter Ber\xFC\
+  cksichtigung der besonderen Umst\xE4nde und Rahmenbedingungen, unter denen die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} verarbeitet werden, der {betroffenen Person|index:betroffene-person}\
+  \ gegen\xFCber eine faire und transparente {Verarbeitung|index:verarbeitung} zu\
+  \ gew\xE4hrleisten, sollte der f\xFCr die {Verarbeitung|index:verarbeitung} {Verantwortliche|index:verantwortlicher}\
+  \ geeignete mathematische oder statistische {Verfahren|index:verfahren} f\xFCr das\
+  \ {Profiling|index:profiling} verwenden, {technische und organisatorische Ma\xDF\
+  nahmen|index:technische-und-organisatorische-ma\xDFnahmen} treffen, mit denen in\
+  \ geeigneter Weise insbesondere sichergestellt wird, dass Faktoren, die zu unrichtigen\
+  \ {personenbezogenen Daten|index:personenbezogene-daten} f\xFChren, korrigiert werden\
+  \ und das Risiko von Fehlern minimiert wird, und {personenbezogene Daten|index:personenbezogene-daten}\
+  \ in einer Weise sichern, dass den potenziellen Bedrohungen f\xFCr die Interessen\
+  \ und Rechte der {betroffenen Person|index:betroffene-person} Rechnung getragen\
+  \ wird und mit denen verhindert wird, dass es gegen\xFCber {nat\xFCrlichen Personen|index:nat\xFC\
+  rliche-person} aufgrund von Rasse, ethnischer Herkunft, politischer Meinung, Religion\
+  \ oder Weltanschauung, Gewerkschaftszugeh\xF6rigkeit, genetischer Anlagen oder Gesundheitszustand\
+  \ sowie sexueller Orientierung zu diskriminierenden Wirkungen oder zu Ma\xDFnahmen\
+  \ kommt, die eine solche Wirkung haben. Automatisierte Entscheidungsfindung und\
+  \ {Profiling|index:profiling} auf der Grundlage besonderer Kategorien von {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} sollten nur unter bestimmten Bedingungen erlaubt\
+  \ sein."
+index:
+- betroffene-person
+- profiling
+- automatisierte-verarbeitung
+- "technische-und-organisatorische-ma\xDFnahmen"
+- verfahren
+- personenbezogene-daten
+- verantwortlicher
+- "nat\xFCrliche-person"
+- einwilligung
+- verarbeitung
+number: 71

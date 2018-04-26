@@ -1,0 +1,15 @@
+{% extends("with_side_menu.html") %}
+{% block extra_nav %}
+    {% include "common/law/_index_nav.html" %}
+{% endblock %}
+{%block content%}
+<div class="glossary-definition content">
+    <h2 class="title">{{definition.title}}</h2>
+    {% if definition.description is defined or definition['official-description'] is defined %}
+        <p class="description">
+            {{definition.description or definition['official-description']|law_markup(lang)|safe}}
+        </p>
+    {% endif %}
+</div>
+
+{%endblock%}

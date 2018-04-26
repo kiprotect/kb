@@ -1,0 +1,43 @@
+chapter: 9
+index:
+- verarbeitung
+number: 88
+paragraphs:
+  1:
+    content: "Die Mitgliedstaaten k\xF6nnen durch Rechtsvorschriften oder durch Kollektivvereinbarungen\
+      \ spezifischere Vorschriften zur Gew\xE4hrleistung des Schutzes der Rechte und\
+      \ Freiheiten hinsichtlich der {Verarbeitung|index:verarbeitung} personenbezogener\
+      \ Besch\xE4ftigtendaten im Besch\xE4ftigungskontext, insbesondere f\xFCr Zwecke\
+      \ der Einstellung, der Erf\xFCllung des Arbeitsvertrags einschlie\xDFlich der\
+      \ Erf\xFCllung von durch Rechtsvorschriften oder durch Kollektivvereinbarung\
+      \ en festgelegten Pflichten, des Managements, der Planung und der Organisation\
+      \ der Arbeit, der Gleichheit und Diversit\xE4t am Arbeitsplatz, der Gesundheit\
+      \ und Sicherheit am Arbeitsplatz, des Schutzes des Eigentums der Arbeitgeber\
+      \ oder der Kunden sowie f\xFCr Zwecke der Inanspruchnahme der mit der Besch\xE4\
+      ftigung zusammenh\xE4ngenden individuellen oder kollektiven Rechte und Leistungen\
+      \ und f\xFCr Zwecke der Beendigung des Besch\xE4ftigungsverh\xE4ltnisses vorsehen."
+    index:
+    - verarbeitung
+    number: 1
+  2:
+    content: "Diese Vorschriften umfassen angemessene und besondere Ma\xDFnahmen zur\
+      \ Wahrung der menschlichen W\xFCrde, der berechtigten Interessen und der Grundrechte\
+      \ der {betroffenen Person|index:betroffene-person}, insbesondere im Hinblick\
+      \ auf die Transparenz der {Verarbeitung|index:verarbeitung}, die \xDCbermittlung\
+      \ {personenbezogener Daten|index:personenbezogene-daten} innerhalb einer {Unternehmensgruppe|index:unternehmensgruppe}\
+      \ oder einer Gruppe von {Unternehmen|index:unternehmen}, die eine gemeinsame\
+      \ Wirtschaftst\xE4tigkeit aus\xFCben, und die \xDCberwachungssysteme am Arbeitsplatz."
+    index:
+    - betroffene-person
+    - unternehmen
+    - personenbezogene-daten
+    - unternehmensgruppe
+    - verarbeitung
+    number: 2
+  3:
+    content: "Jeder Mitgliedstaat teilt der Kommission bis zum 25. Mai 2018 die Rechtsvorschriften,\
+      \ die er aufgrund von Absatz 1 erl\xE4sst, sowie unverz\xFCglich alle sp\xE4\
+      teren \xC4nderungen dieser Vorschriften mit."
+    number: 3
+section: 0
+title: "Datenverarbeitung im Besch\xE4ftigungskontext"

@@ -1,0 +1,46 @@
+content: "Jede {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ sollte rechtm\xE4\xDFig und nach Treu und Glauben erfolgen. F\xFCr {nat\xFCrliche\
+  \ Personen|index:nat\xFCrliche-person} sollte Transparenz dahingehend bestehen,\
+  \ dass sie betreffende {personenbezogene Daten|index:personenbezogene-daten} erhoben,\
+  \ verwendet, eingesehen oder anderweitig verarbeitet werden und in welchem Umfang\
+  \ die {personenbezogenen Daten|index:personenbezogene-daten} verarbeitet werden\
+  \ und k\xFCnftig noch verarbeitet werden. Der Grundsatz der Transparenz setzt voraus,\
+  \ dass alle Informationen und Mitteilungen zur {Verarbeitung|index:verarbeitung}\
+  \ dieser {personenbezogenen Daten|index:personenbezogene-daten} leicht zug\xE4nglich\
+  \ und verst\xE4ndlich und in klarer und einfacher Sprache abgefasst sind. Dieser\
+  \ Grundsatz betrifft insbesondere die Informationen \xFCber die Identit\xE4t des\
+  \ {Verantwortlichen|index:verantwortlicher} und die Zwecke der {Verarbeitung|index:verarbeitung}\
+  \ und sonstige Informationen, die eine faire und transparente {Verarbeitung|index:verarbeitung}\
+  \ im Hinblick auf die betroffenen {nat\xFCrlichen Personen|index:nat\xFCrliche-person}\
+  \ gew\xE4hrleisten, sowie deren Recht, eine Best\xE4tigung und Auskunft dar\xFC\
+  ber zu erhalten, welche sie betreffende {personenbezogene Daten|index:personenbezogene-daten}\
+  \ verarbeitet werden. {Nat\xFCrliche Personen|index:nat\xFCrliche-person} sollten\
+  \ \xFCber die Risiken, Vorschriften, Garantien und Rechte im Zusammenhang mit der\
+  \ {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ informiert und dar\xFCber aufgekl\xE4rt werden, wie sie ihre diesbez\xFCglichen\
+  \ Rechte geltend machen k\xF6nnen. Insbesondere sollten die bestimmten Zwecke, zu\
+  \ denen die {personenbezogenen Daten|index:personenbezogene-daten} verarbeitet werden,\
+  \ eindeutig und rechtm\xE4\xDFig sein und zum Zeitpunkt der Erhebung der {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} feststehen. Die {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ sollten f\xFCr die Zwecke, zu denen sie verarbeitet werden, angemessen und erheblich\
+  \ sowie auf das f\xFCr die Zwecke ihrer {Verarbeitung|index:verarbeitung} notwendige\
+  \ Ma\xDF beschr\xE4nkt sein. Dies erfordert insbesondere, dass die Speicherfrist\
+  \ f\xFCr {personenbezogene Daten|index:personenbezogene-daten} auf das unbedingt\
+  \ erforderliche Mindestma\xDF beschr\xE4nkt bleibt. {Personenbezogene Daten|index:personenbezogene-daten}\
+  \ sollten nur verarbeitet werden d\xFCrfen, wenn der Zweck der {Verarbeitung|index:verarbeitung}\
+  \ nicht in zumutbarer Weise durch andere Mittel erreicht werden kann. Um sicherzustellen,\
+  \ dass die {personenbezogenen Daten|index:personenbezogene-daten} nicht l\xE4nger\
+  \ als n\xF6tig gespeichert werden, sollte der {Verantwortliche|index:verantwortlicher}\
+  \ Fristen f\xFCr ihre L\xF6schung oder regelm\xE4\xDFige \xDCberpr\xFCfung vorsehen.\
+  \ Es sollten alle vertretbaren Schritte unternommen werden, damit unrichtige {personenbezogene\
+  \ Daten|index:personenbezogene-daten} gel\xF6scht oder berichtigt werden. {Personenbezogene\
+  \ Daten|index:personenbezogene-daten} sollten so verarbeitet werden, dass ihre Sicherheit\
+  \ und Vertraulichkeit hinreichend gew\xE4hrleistet ist, wozu auch geh\xF6rt, dass\
+  \ Unbefugte keinen Zugang zu den Daten haben und weder die Daten noch die Ger\xE4\
+  te, mit denen diese verarbeitet werden, benutzen k\xF6nnen."
+index:
+- "nat\xFCrliche-person"
+- personenbezogene-daten
+- verantwortlicher
+- verarbeitung
+number: 39

@@ -1,0 +1,8 @@
+articles:
+- $include: articles/51.yml
+- $include: articles/52.yml
+- $include: articles/53.yml
+- $include: articles/54.yml
+chapter: 6
+number: 1
+title: Independent status

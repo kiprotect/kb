@@ -1,0 +1,38 @@
+translations:
+  blog-title:
+    en: Data Protection For Startups
+    de: Datenschutz für Startups
+  blog-description:
+    en: This is our blog!
+    de: Dies ist unser Blog!
+  about-us:
+    en: About us
+    de: Über uns
+  imprint:
+    en: Imprint
+    de: Impressum
+  overview:
+    de: Übersicht
+    en: Overview
+  curated-by:
+    de: Kuratiert von
+    en: Curated by
+  menu:
+    de: Menü
+    en: Menu
+  cookie-notice-title:
+    en: Cookie Notice
+    de: Cookie-Hinweis
+  cookie-notice-text:
+    en: >
+      This site uses cookies for navigation, authentication, caching and
+      anonymous visitor statistics. By continuing to use this
+      site you agree to the use of these cookies. To learn more, please read our
+    de: >
+      Diese Webseite nutzt Cookies für Navigation, Authentifizierung,
+      Caching und anonyme Besucherstatistiken.
+      Durch Weiternutzung dieser Seite erklären Sie sich mit der Nutzung von
+      Cookies einverstanden. Um mehr zu erfahren, lesen Sie bitte unser 
+  cookie-notice-ok:
+    en: I understand
+    de: Verstanden

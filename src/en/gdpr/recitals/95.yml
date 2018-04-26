@@ -1,0 +1,7 @@
+content: |-
+  The {processor|index:processor} should assist the {controller|index:controller}, where necessary and upon request, in ensuring compliance with the obligations deriving from the carrying out of data protection impact assessments and from prior consultation of the {supervisory authority|index:supervisory-authority}.
+index:
+- processor
+- supervisory-authority
+- controller
+number: 95

@@ -1,0 +1,24 @@
+content: "Die {Verarbeitung|index:verarbeitung} von {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ durch Beh\xF6rden, Computer-Notdienste (Computer Emergency Response Teams \u2014\
+  \ CERT, beziehungsweise Computer Security Incident Response Teams \u2014 CSIRT),\
+  \ Betreiber von elektronischen Kommunikationsnetzen und -diensten sowie durch Anbieter\
+  \ von Sicherheitstechnologien und -diensten stellt in dem Ma\xDFe ein berechtigtes\
+  \ Interesse des jeweiligen {Verantwortlichen|index:verantwortlicher} dar, wie dies\
+  \ f\xFCr die Gew\xE4hrleistung der Netz- und Informationssicherheit unbedingt notwendig\
+  \ und verh\xE4ltnism\xE4\xDFig ist, d.h. soweit dadurch die F\xE4higkeit eines Netzes\
+  \ oder Informationssystems gew\xE4hrleistet wird, mit einem vorgegebenen Grad der\
+  \ Zuverl\xE4ssigkeit St\xF6rungen oder widerrechtliche oder mutwillige Eingriffe\
+  \ abzuwehren, die die Verf\xFCgbarkeit, Authentizit\xE4t, Vollst\xE4ndigkeit und\
+  \ Vertraulichkeit von gespeicherten oder \xFCbermittelten {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ sowie die Sicherheit damit zusammenh\xE4ngender Dienste, die \xFCber diese Netze\
+  \ oder Informationssysteme angeboten werden bzw. zug\xE4nglich sind, beeintr\xE4\
+  chtigen. Ein solches berechtigtes Interesse k\xF6nnte beispielsweise darin bestehen,\
+  \ den Zugang Unbefugter zu elektronischen Kommunikationsnetzen und die Verbreitung\
+  \ sch\xE4dlicher Programmcodes zu verhindern sowie Angriffe in Form der gezielten\
+  \ \xDCberlastung von Servern (\u201EDenial of service\u201C-Angriffe) und Sch\xE4\
+  digungen von Computer- und elektronischen Kommunikationssystemen abzuwehren."
+index:
+- verantwortlicher
+- personenbezogene-daten
+- verarbeitung
+number: 49

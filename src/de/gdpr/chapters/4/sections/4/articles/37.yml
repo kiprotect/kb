@@ -1,0 +1,94 @@
+chapter: 4
+number: 37
+paragraphs:
+  1:
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 1
+    points:
+      a:
+        content: "die {Verarbeitung|index:verarbeitung} von einer Beh\xF6rde oder\
+          \ \xF6ffentlichen Stelle durchgef\xFChrt wird, mit Ausnahme von Gerichten,\
+          \ die im Rahmen ihrer justiziellen T\xE4tigkeit handeln,"
+        index:
+        - verarbeitung
+      b:
+        content: "die Kernt\xE4tigkeit des {Verantwortlichen|index:verantwortlicher}\
+          \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} in der Durchf\xFC\
+          hrung von Verarbeitungsvorg\xE4ngen besteht, welche aufgrund ihrer Art,\
+          \ ihres Umfangs und/oder ihrer Zwecke eine umfangreiche regelm\xE4\xDFige\
+          \ und systematische \xDCberwachung von {betroffenen Personen|index:betroffene-person}\
+          \ erforderlich machen, oder"
+        index:
+        - verantwortlicher
+        - betroffene-person
+        - auftragsverarbeiter
+      c:
+        content: "die Kernt\xE4tigkeit des {Verantwortlichen|index:verantwortlicher}\
+          \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} in der umfangreichen\
+          \ {Verarbeitung|index:verarbeitung} besonderer Kategorien von Daten gem\xE4\
+          \xDF Artikel 9 oder von {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ \xFCber strafrechtliche Verurteilungen und Straftaten gem\xE4\xDF Artikel\
+          \ 10 besteht."
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+        - auftragsverarbeiter
+        - verarbeitung
+    preamble: |-
+      Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter} benennen auf jeden Fall einen Datenschutzbeauftragten, wenn
+  2:
+    content: |-
+      Eine {Unternehmensgruppe|index:unternehmensgruppe} darf einen gemeinsamen Datenschutzbeauftragten ernennen, sofern von jeder Niederlassung aus der Datenschutzbeauftragte leicht erreicht werden kann.
+    index:
+    - unternehmensgruppe
+    number: 2
+  3:
+    content: "Falls es sich bei dem {Verantwortlichen|index:verantwortlicher} oder\
+      \ dem {Auftragsverarbeiter|index:auftragsverarbeiter} um eine Beh\xF6rde oder\
+      \ \xF6ffentliche Stelle handelt, kann f\xFCr mehrere solcher Beh\xF6rden oder\
+      \ Stellen unter Ber\xFCcksichtigung ihrer Organisationsstruktur und ihrer Gr\xF6\
+      \xDFe ein gemeinsamer Datenschutzbeauftragter benannt werden."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 3
+  4:
+    content: "In anderen als den in Absatz 1 genannten F\xE4llen k\xF6nnen der {Verantwortliche|index:verantwortlicher}\
+      \ oder der {Auftragsverarbeiter|index:auftragsverarbeiter} oder Verb\xE4nde\
+      \ und andere Vereinigungen, die Kategorien von {Verantwortlichen|index:verantwortlicher}\
+      \ oder Auftragsverarbeitern vertreten, einen Datenschutzbeauftragten benennen;\
+      \ falls dies nach dem Recht der Union oder der Mitgliedstaaten vorgeschrieben\
+      \ ist, m\xFCssen sie einen solchen benennen. Der Datenschutzbeauftragte kann\
+      \ f\xFCr derartige Verb\xE4nde und andere Vereinigungen, die {Verantwortliche|index:verantwortlicher}\
+      \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} vertreten, handeln."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 4
+  5:
+    content: "Der Datenschutzbeauftragte wird auf der Grundlage seiner beruflichen\
+      \ Qualifikation und insbesondere des Fachwissens benannt, das er auf dem Gebiet\
+      \ des Datenschutzrechts und der Datenschutzpraxis besitzt, sowie auf der Grundlage\
+      \ seiner F\xE4higkeit zur Erf\xFCllung der in Artikel 39 genannten Aufgaben."
+    number: 5
+  6:
+    content: "Der Datenschutzbeauftragte kann Besch\xE4ftigter des {Verantwortlichen|index:verantwortlicher}\
+      \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} sein oder seine\
+      \ Aufgaben auf der Grundlage eines Dienstleistungsvertrags erf\xFCllen."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 6
+  7:
+    content: "Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ ver\xF6ffentlicht die Kontaktdaten des Datenschutzbeauftragten und teilt diese\
+      \ Daten der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} mit."
+    index:
+    - auftragsverarbeiter
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    number: 7
+section: 4
+title: Benennung eines Datenschutzbeauftragten

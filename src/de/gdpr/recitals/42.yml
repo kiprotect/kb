@@ -1,0 +1,25 @@
+content: "Erfolgt die {Verarbeitung|index:verarbeitung} mit {Einwilligung|index:einwilligung}\
+  \ der {betroffenen Person|index:betroffene-person}, sollte der {Verantwortliche|index:verantwortlicher}\
+  \ nachweisen k\xF6nnen, dass die {betroffene Person|index:betroffene-person} ihre\
+  \ {Einwilligung|index:einwilligung} zu dem Verarbeitungsvorgang gegeben hat. Insbesondere\
+  \ bei Abgabe einer schriftlichen Erkl\xE4rung in anderer Sache sollten Garantien\
+  \ sicherstellen, dass die {betroffene Person|index:betroffene-person} wei\xDF, dass\
+  \ und in welchem Umfang sie ihre {Einwilligung|index:einwilligung} erteilt. Gem\xE4\
+  \xDF der Richtlinie 93/13/EWG des Rates (10) sollte eine vom {Verantwortlichen|index:verantwortlicher}\
+  \ vorformulierte Einwilligungserkl\xE4rung in verst\xE4ndlicher und leicht zug\xE4\
+  nglicher Form in einer klaren und einfachen Sprache zur Verf\xFCgung gestellt werden,\
+  \ und sie sollte keine missbr\xE4uchlichen Klauseln beinhalten. Damit sie in Kenntnis\
+  \ der Sachlage ihre {Einwilligung|index:einwilligung} geben kann, sollte die {betroffene\
+  \ Person|index:betroffene-person} mindestens wissen, wer der {Verantwortliche|index:verantwortlicher}\
+  \ ist und f\xFCr welche Zwecke ihre {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ verarbeitet werden sollen. Es sollte nur dann davon ausgegangen werden, dass sie\
+  \ ihre {Einwilligung|index:einwilligung} freiwillig gegeben hat, wenn sie eine echte\
+  \ oder freie Wahl hat und somit in der Lage ist, die {Einwilligung|index:einwilligung}\
+  \ zu verweigern oder zur\xFCckzuziehen, ohne Nachteile zu erleiden."
+index:
+- betroffene-person
+- verantwortlicher
+- personenbezogene-daten
+- einwilligung
+- verarbeitung
+number: 42

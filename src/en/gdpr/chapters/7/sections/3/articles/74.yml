@@ -1,0 +1,23 @@
+chapter: 7
+number: 74
+paragraphs:
+  1:
+    number: 1
+    points:
+      a:
+        content: to convene the meetings of the Board and prepare its agenda;
+      b:
+        content: |-
+          to notify decisions adopted by the Board pursuant to Article 65 to the lead {supervisory authority|index:supervisory-authority} and the supervisory authorities concerned;
+        index:
+        - supervisory-authority
+      c:
+        content: |-
+          to ensure the timely performance of the tasks of the Board, in particular in relation to the consistency mechanism referred to in Article 63.
+    preamble: 'The Chair shall have the following tasks:'
+  2:
+    content: |-
+      The Board shall lay down the allocation of tasks between the Chair and the deputy chairs in its rules of procedure.
+    number: 2
+section: 3
+title: Tasks of the Chair

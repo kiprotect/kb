@@ -1,0 +1,4 @@
+$include: site.yml
+languages:
+  en: #we remove the prefix for the English version (as we will solve it  with nginx)
+    link-prefix: ''

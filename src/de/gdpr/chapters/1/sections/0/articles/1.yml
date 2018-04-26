@@ -1,0 +1,35 @@
+chapter: 1
+number: 1
+paragraphs:
+  1:
+    content: "Diese {Verordnung|index:verordnung} enth\xE4lt Vorschriften zum Schutz\
+      \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person} bei der {Verarbeitung|index:verarbeitung}\
+      \ {personenbezogener Daten|index:personenbezogene-daten} und zum freien Verkehr\
+      \ solcher Daten."
+    index:
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
+    - verordnung
+    - verarbeitung
+    number: 1
+  2:
+    content: "Diese {Verordnung|index:verordnung} sch\xFCtzt die Grundrechte und Grundfreiheiten\
+      \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person} und insbesondere deren\
+      \ Recht auf Schutz {personenbezogener Daten|index:personenbezogene-daten}."
+    index:
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
+    - verordnung
+    number: 2
+  3:
+    content: "Der freie Verkehr {personenbezogener Daten|index:personenbezogene-daten}\
+      \ in der Union darf aus Gr\xFCnden des Schutzes {nat\xFCrlicher Personen|index:nat\xFC\
+      rliche-person} bei der {Verarbeitung|index:verarbeitung} {personenbezogener\
+      \ Daten|index:personenbezogene-daten} weder eingeschr\xE4nkt noch verboten werden."
+    index:
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
+    - verarbeitung
+    number: 3
+section: 0
+title: Gegenstand und Ziele

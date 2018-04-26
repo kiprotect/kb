@@ -1,0 +1,40 @@
+content: "Eine {betroffene Person|index:betroffene-person} sollte ein Recht auf Berichtigung\
+  \ der sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten} besitzen\
+  \ sowie ein \u201ERecht auf Vergessenwerden\u201C, wenn die Speicherung ihrer Daten\
+  \ gegen diese {Verordnung|index:verordnung} oder gegen das Unionsrecht oder das\
+  \ Recht der Mitgliedstaaten, dem der {Verantwortliche|index:verantwortlicher} unterliegt,\
+  \ verst\xF6\xDFt. Insbesondere sollten {betroffene Personen|index:betroffene-person}\
+  \ Anspruch darauf haben, dass ihre {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ gel\xF6scht und nicht mehr verarbeitet werden, wenn die {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ hinsichtlich der Zwecke, f\xFCr die sie erhoben bzw. anderweitig verarbeitet wurden,\
+  \ nicht mehr ben\xF6tigt werden, wenn die {betroffenen Personen|index:betroffene-person}\
+  \ ihre {Einwilligung|index:einwilligung} in die {Verarbeitung|index:verarbeitung}\
+  \ widerrufen oder Widerspruch gegen die {Verarbeitung|index:verarbeitung} der sie\
+  \ betreffenden {personenbezogenen Daten|index:personenbezogene-daten} eingelegt\
+  \ haben oder wenn die {Verarbeitung|index:verarbeitung} ihrer {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} aus anderen Gr\xFCnden gegen diese {Verordnung|index:verordnung}\
+  \ verst\xF6\xDFt. Dieses Recht ist insbesondere wichtig in F\xE4llen, in denen die\
+  \ {betroffene Person|index:betroffene-person} ihre {Einwilligung|index:einwilligung}\
+  \ noch im Kindesalter gegeben hat und insofern die mit der {Verarbeitung|index:verarbeitung}\
+  \ verbundenen Gefahren nicht in vollem Umfang absehen konnte und die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} \u2014 insbesondere die im Internet gespeicherten\
+  \ \u2014 sp\xE4ter l\xF6schen m\xF6chte. Die {betroffene Person|index:betroffene-person}\
+  \ sollte dieses Recht auch dann aus\xFCben k\xF6nnen, wenn sie kein Kind mehr ist.\
+  \ Die weitere Speicherung der {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ sollte jedoch rechtm\xE4\xDFig sein, wenn dies f\xFCr die Aus\xFCbung des Rechts\
+  \ auf freie Meinungs\xE4u\xDFerung und Information, zur Erf\xFCllung einer rechtlichen\
+  \ Verpflichtung, f\xFCr die Wahrnehmung einer Aufgabe, die im \xF6ffentlichen Interesse\
+  \ liegt oder in Aus\xFCbung \xF6ffentlicher Gewalt erfolgt, die dem {Verantwortlichen|index:verantwortlicher}\
+  \ \xFCbertragen wurde, aus Gr\xFCnden des \xF6ffentlichen Interesses im Bereich\
+  \ der \xF6ffentlichen Gesundheit, f\xFCr im \xF6ffentlichen Interesse liegende Archivzwecke,\
+  \ zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen\
+  \ Zwecken oder zur Geltendmachung, Aus\xFCbung oder Verteidigung von Rechtsanspr\xFC\
+  chen erforderlich ist."
+index:
+- betroffene-person
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- einwilligung
+- verarbeitung
+number: 65

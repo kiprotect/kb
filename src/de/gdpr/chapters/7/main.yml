@@ -1,0 +1,7 @@
+number: 7
+roman_number: VII
+sections:
+- $include: sections/1/main.yml
+- $include: sections/2/main.yml
+- $include: sections/3/main.yml
+title: "Zusammenarbeit und Koh\xE4renz"

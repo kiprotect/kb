@@ -1,0 +1,77 @@
+chapter: 8
+number: 82
+paragraphs:
+  1:
+    content: "Jede Person, der wegen eines Versto\xDFes gegen diese {Verordnung|index:verordnung}\
+      \ ein materieller oder immaterieller Schaden entstanden ist, hat Anspruch auf\
+      \ Schadenersatz gegen den {Verantwortlichen|index:verantwortlicher} oder gegen\
+      \ den {Auftragsverarbeiter|index:auftragsverarbeiter}."
+    index:
+    - auftragsverarbeiter
+    - verantwortlicher
+    - verordnung
+    number: 1
+  2:
+    content: "Jeder an einer {Verarbeitung|index:verarbeitung} beteiligte {Verantwortliche|index:verantwortlicher}\
+      \ haftet f\xFCr den Schaden, der durch eine nicht dieser {Verordnung|index:verordnung}\
+      \ entsprechende {Verarbeitung|index:verarbeitung} verursacht wurde. Ein {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ haftet f\xFCr den durch eine {Verarbeitung|index:verarbeitung} verursachten\
+      \ Schaden nur dann, wenn er seinen speziell den Auftragsverarbeitern auferlegten\
+      \ Pflichten aus dieser {Verordnung|index:verordnung} nicht nachgekommen ist\
+      \ oder unter Nichtbeachtung der rechtm\xE4\xDFig erteilten Anweisungen des f\xFC\
+      r die Datenverarbeitung {Verantwortlichen|index:verantwortlicher} oder gegen\
+      \ diese Anweisungen gehandelt hat."
+    index:
+    - auftragsverarbeiter
+    - verantwortlicher
+    - verordnung
+    - verarbeitung
+    number: 2
+  3:
+    content: "Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ wird von der Haftung gem\xE4\xDF Absatz 2 befreit, wenn er nachweist, dass\
+      \ er in keinerlei Hinsicht f\xFCr den Umstand, durch den der Schaden eingetreten\
+      \ ist, verantwortlich ist."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 3
+  4:
+    content: "Ist mehr als ein {Verantwortlicher|index:verantwortlicher} oder mehr\
+      \ als ein {Auftragsverarbeiter|index:auftragsverarbeiter} bzw. sowohl ein {Verantwortlicher|index:verantwortlicher}\
+      \ als auch ein {Auftragsverarbeiter|index:auftragsverarbeiter} an derselben\
+      \ {Verarbeitung|index:verarbeitung} beteiligt und sind sie gem\xE4\xDF den Abs\xE4\
+      tzen 2 und 3 f\xFCr einen durch die {Verarbeitung|index:verarbeitung} verursachten\
+      \ Schaden verantwortlich, so haftet jeder {Verantwortliche|index:verantwortlicher}\
+      \ oder jeder {Auftragsverarbeiter|index:auftragsverarbeiter} f\xFCr den gesamten\
+      \ Schaden, damit ein wirksamer Schadensersatz f\xFCr die {betroffene Person|index:betroffene-person}\
+      \ sichergestellt ist."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    - auftragsverarbeiter
+    - verarbeitung
+    number: 4
+  5:
+    content: "Hat ein {Verantwortlicher|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ gem\xE4\xDF Absatz 4 vollst\xE4ndigen Schadenersatz f\xFCr den erlittenen\
+      \ Schaden gezahlt, so ist dieser {Verantwortliche|index:verantwortlicher} oder\
+      \ {Auftragsverarbeiter|index:auftragsverarbeiter} berechtigt, von den \xFCbrigen\
+      \ an derselben {Verarbeitung|index:verarbeitung} beteiligten f\xFCr die Datenverarbeitung\
+      \ {Verantwortlichen|index:verantwortlicher} oder Auftragsverarbeitern den Teil\
+      \ des Schadenersatzes zur\xFCckzufordern, der unter den in Absatz 2 festgelegten\
+      \ Bedingungen ihrem Anteil an der Verantwortung f\xFCr den Schaden entspricht."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    - verarbeitung
+    number: 5
+  6:
+    content: "Mit Gerichtsverfahren zur Inanspruchnahme des Rechts auf Schadenersatz\
+      \ sind die Gerichte zu befassen, die nach den in Artikel 79 Absatz 2 genannten\
+      \ Rechtsvorschriften des Mitgliedstaats zust\xE4ndig sind."
+    index:
+    - verfahren
+    number: 6
+section: 0
+title: Haftung und Recht auf Schadenersatz

@@ -1,0 +1,17 @@
+content: "Eine {Unternehmensgruppe|index:unternehmensgruppe} sollte aus einem herrschenden\
+  \ {Unternehmen|index:unternehmen} und den von diesem abh\xE4ngigen {Unternehmen|index:unternehmen}\
+  \ bestehen, wobei das herrschende {Unternehmen|index:unternehmen} dasjenige sein\
+  \ sollte, das zum Beispiel aufgrund der Eigentumsverh\xE4ltnisse, der finanziellen\
+  \ Beteiligung oder der f\xFCr das {Unternehmen|index:unternehmen} geltenden Vorschriften\
+  \ oder der Befugnis, Datenschutzvorschriften umsetzen zu lassen, einen beherrschenden\
+  \ Einfluss auf die \xFCbrigen {Unternehmen|index:unternehmen} aus\xFCben kann. Ein\
+  \ {Unternehmen|index:unternehmen}, das die {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten} in ihm angeschlossenen {Unternehmen|index:unternehmen}\
+  \ kontrolliert, sollte zusammen mit diesen als eine \u201E{Unternehmensgruppe|index:unternehmensgruppe}\u201C\
+  \ betrachtet werden."
+index:
+- unternehmen
+- personenbezogene-daten
+- unternehmensgruppe
+- verarbeitung
+number: 37

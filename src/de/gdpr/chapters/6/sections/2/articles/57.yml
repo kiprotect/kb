@@ -1,0 +1,162 @@
+chapter: 6
+number: 57
+paragraphs:
+  1:
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verordnung
+    number: 1
+    points:
+      a:
+        content: "die Anwendung dieser {Verordnung|index:verordnung} \xFCberwachen\
+          \ und durchsetzen;"
+        index:
+        - verordnung
+      b:
+        content: "die \xD6ffentlichkeit f\xFCr die Risiken, Vorschriften, Garantien\
+          \ und Rechte im Zusammenhang mit der {Verarbeitung|index:verarbeitung} sensibilisieren\
+          \ und sie dar\xFCber aufkl\xE4ren. Besondere Beachtung finden dabei spezifische\
+          \ Ma\xDFnahmen f\xFCr Kinder;"
+        index:
+        - verarbeitung
+      c:
+        content: "im Einklang mit dem Recht des Mitgliedsstaats das nationale Parlament,\
+          \ die Regierung und andere Einrichtungen und Gremien \xFCber legislative\
+          \ und administrative Ma\xDFnahmen zum Schutz der Rechte und Freiheiten {nat\xFC\
+          rlicher Personen|index:nat\xFCrliche-person} in Bezug auf die {Verarbeitung|index:verarbeitung}\
+          \ beraten;"
+        index:
+        - "nat\xFCrliche-person"
+        - verarbeitung
+      d:
+        content: "die {Verantwortlichen|index:verantwortlicher} und die {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ f\xFCr die ihnen aus dieser {Verordnung|index:verordnung} entstehenden\
+          \ Pflichten sensibilisieren;"
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - verordnung
+      e:
+        content: "auf Anfrage jeder {betroffenen Person|index:betroffene-person} Informationen\
+          \ \xFCber die Aus\xFCbung ihrer Rechte aufgrund dieser {Verordnung|index:verordnung}\
+          \ zur Verf\xFCgung stellen und gegebenenfalls zu diesem Zweck mit den {Aufsichtsbeh\xF6\
+          rden|index:aufsichtsbeh\xF6rde} in anderen Mitgliedstaaten zusammenarbeiten;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+        - betroffene-person
+        - verordnung
+      f:
+        content: "sich mit Beschwerden einer {betroffenen Person|index:betroffene-person}\
+          \ oder Beschwerden einer Stelle, einer Organisation oder eines Verbandes\
+          \ gem\xE4\xDF Artikel 80 befassen, den Gegenstand der Beschwerde in angemessenem\
+          \ Umfang untersuchen und den Beschwerdef\xFChrer innerhalb einer angemessenen\
+          \ Frist \xFCber den Fortgang und das Ergebnis der Untersuchung unterrichten,\
+          \ insbesondere, wenn eine weitere Untersuchung oder Koordinierung mit einer\
+          \ anderen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} notwendig ist;"
+        index:
+        - betroffene-person
+        - "aufsichtsbeh\xF6rde"
+      g:
+        content: "mit anderen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} zusammenarbeiten,\
+          \ auch durch Informationsaustausch, und ihnen Amtshilfe leisten, um die\
+          \ einheitliche Anwendung und Durchsetzung dieser {Verordnung|index:verordnung}\
+          \ zu gew\xE4hrleisten;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+        - verordnung
+      h:
+        content: "Untersuchungen \xFCber die Anwendung dieser {Verordnung|index:verordnung}\
+          \ durchf\xFChren, auch auf der Grundlage von Informationen einer anderen\
+          \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} oder einer anderen Beh\xF6\
+          rde;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+        - verordnung
+      i:
+        content: "ma\xDFgebliche Entwicklungen verfolgen, soweit sie sich auf den\
+          \ Schutz {personenbezogener Daten|index:personenbezogene-daten} auswirken,\
+          \ insbesondere die Entwicklung der Informations- und Kommunikationstechnologie\
+          \ und der Gesch\xE4ftspraktiken;"
+        index:
+        - personenbezogene-daten
+      j:
+        content: |-
+          Standardvertragsklauseln im Sinne des Artikels 28 Absatz 8 und des Artikels 46 Absatz 2 Buchstabe d festlegen;
+      k:
+        content: "eine Liste der Verarbeitungsarten erstellen und f\xFChren, f\xFC\
+          r die gem\xE4\xDF Artikel 35 Absatz 4 eine Datenschutz-Folgenabsch\xE4tzung\
+          \ durchzuf\xFChren ist;"
+      l:
+        content: "Beratung in Bezug auf die in Artikel 36 Absatz 2 genannten Verarbeitungsvorg\xE4\
+          nge leisten;"
+      m:
+        content: "die Ausarbeitung von Verhaltensregeln gem\xE4\xDF Artikel 40 Absatz\
+          \ 1 f\xF6rdern und zu diesen Verhaltensregeln, die ausreichende Garantien\
+          \ im Sinne des Artikels 40 Absatz 5 bieten m\xFCssen, Stellungnahmen abgeben\
+          \ und sie billigen;"
+      n:
+        content: "die Einf\xFChrung von Datenschutzzertifizierungsmechanismen und\
+          \ von Datenschutzsiegeln und -pr\xFCfzeichen nach Artikel 42 Absatz 1 anregen\
+          \ und Zertifizierungskriterien nach Artikel 42 Absatz 5 billigen;"
+      o:
+        content: "gegebenenfalls die nach Artikel 42 Absatz 7 erteilten Zertifizierungen\
+          \ regelm\xE4\xDFig \xFCberpr\xFCfen;"
+      p:
+        content: "die Kriterien f\xFCr die Akkreditierung einer Stelle f\xFCr die\
+          \ \xDCberwachung der Einhaltung der Verhaltensregeln gem\xE4\xDF Artikel\
+          \ 41 und einer Zertifizierungsstelle gem\xE4\xDF Artikel 43 abfassen und\
+          \ ver\xF6ffentlichen;"
+      q:
+        content: "die Akkreditierung einer Stelle f\xFCr die \xDCberwachung der Einhaltung\
+          \ der Verhaltensregeln gem\xE4\xDF Artikel 41 und einer Zertifizierungsstelle\
+          \ gem\xE4\xDF Artikel 43 vornehmen;"
+      r:
+        content: Vertragsklauseln und Bestimmungen im Sinne des Artikels 46 Absatz
+          3 genehmigen;
+      s:
+        content: "verbindliche interne Vorschriften gem\xE4\xDF Artikel 47 genehmigen;"
+      t:
+        content: "Beitr\xE4ge zur T\xE4tigkeit des Ausschusses leisten;"
+      u:
+        content: "interne Verzeichnisse \xFCber Verst\xF6\xDFe gegen diese {Verordnung|index:verordnung}\
+          \ und gem\xE4\xDF Artikel 58 Absatz 2 ergriffene Ma\xDFnahmen und"
+        index:
+        - verordnung
+      v:
+        content: "jede sonstige Aufgabe im Zusammenhang mit dem Schutz {personenbezogener\
+          \ Daten|index:personenbezogene-daten} erf\xFCllen."
+        index:
+        - personenbezogene-daten
+    preamble: "Unbeschadet anderer in dieser {Verordnung|index:verordnung} dargelegter\
+      \ Aufgaben muss jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} in ihrem\
+      \ Hoheitsgebiet"
+  2:
+    content: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} erleichtert das\
+      \ Einreichen von in Absatz 1 Buchstabe f genannten Beschwerden durch Ma\xDF\
+      nahmen wie etwa die Bereitstellung eines Beschwerdeformulars, das auch elektronisch\
+      \ ausgef\xFCllt werden kann, ohne dass andere Kommunikationsmittel ausgeschlossen\
+      \ werden."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 2
+  3:
+    content: "Die Erf\xFCllung der Aufgaben jeder {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} ist f\xFCr die {betroffene Person|index:betroffene-person} und gegebenenfalls\
+      \ f\xFCr den Datenschutzbeauftragten unentgeltlich."
+    index:
+    - betroffene-person
+    - "aufsichtsbeh\xF6rde"
+    number: 3
+  4:
+    content: "Bei offenkundig unbegr\xFCndeten oder \u2014 insbesondere im Fall von\
+      \ h\xE4ufiger Wiederholung \u2014 exzessiven Anfragen kann die {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} eine angemessene Geb\xFChr auf der Grundlage\
+      \ der Verwaltungskosten verlangen oder sich weigern, aufgrund der Anfrage t\xE4\
+      tig zu werden. In diesem Fall tr\xE4gt die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} die Beweislast f\xFCr den offenkundig unbegr\xFCndeten oder exzessiven\
+      \ Charakter der Anfrage."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 4
+section: 2
+title: Aufgaben

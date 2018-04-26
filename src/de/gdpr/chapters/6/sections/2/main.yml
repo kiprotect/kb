@@ -1,0 +1,9 @@
+articles:
+- $include: articles/55.yml
+- $include: articles/56.yml
+- $include: articles/57.yml
+- $include: articles/58.yml
+- $include: articles/59.yml
+chapter: 6
+number: 2
+title: "Zust\xE4ndigkeit, Aufgaben und Befugnisse"

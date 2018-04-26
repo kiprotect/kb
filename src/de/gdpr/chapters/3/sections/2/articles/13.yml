@@ -1,0 +1,143 @@
+chapter: 3
+index:
+- personenbezogene-daten
+- betroffene-person
+number: 13
+paragraphs:
+  1:
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - betroffene-person
+    number: 1
+    points:
+      a:
+        content: |-
+          den Namen und die Kontaktdaten des {Verantwortlichen|index:verantwortlicher} sowie gegebenenfalls seines Vertreters;
+        index:
+        - verantwortlicher
+      b:
+        content: gegebenenfalls die Kontaktdaten des Datenschutzbeauftragten;
+      c:
+        content: "die Zwecke, f\xFCr die die {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ verarbeitet werden sollen, sowie die Rechtsgrundlage f\xFCr die {Verarbeitung|index:verarbeitung};"
+        index:
+        - personenbezogene-daten
+        - verarbeitung
+      d:
+        content: |-
+          wenn die {Verarbeitung|index:verarbeitung} auf Artikel 6 Absatz 1 Buchstabe f beruht, die berechtigten Interessen, die von dem {Verantwortlichen|index:verantwortlicher} oder einem {Dritten|index:dritter} verfolgt werden;
+        index:
+        - verantwortlicher
+        - dritter
+        - verarbeitung
+      e:
+        content: "gegebenenfalls die {Empf\xE4nger|index:empf\xE4nger} oder Kategorien\
+          \ von Empf\xE4ngern der {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ und"
+        index:
+        - personenbezogene-daten
+        - "empf\xE4nger"
+      f:
+        content: "gegebenenfalls die Absicht des {Verantwortlichen|index:verantwortlicher},\
+          \ die {personenbezogenen Daten|index:personenbezogene-daten} an ein Drittland\
+          \ oder eine {internationale Organisation|index:internationale-organisation}\
+          \ zu \xFCbermitteln, sowie das Vorhandensein oder das Fehlen eines Angemessenheitsbeschlusses\
+          \ der Kommission oder im Falle von \xDCbermittlungen gem\xE4\xDF Artikel\
+          \ 46 oder Artikel 47 oder Artikel 49 Absatz 1 Unterabsatz 2 einen Verweis\
+          \ auf die geeigneten oder angemessenen Garantien und die M\xF6glichkeit,\
+          \ wie eine Kopie von ihnen zu erhalten ist, oder wo sie verf\xFCgbar sind."
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+        - internationale-organisation
+    preamble: |-
+      Werden {personenbezogene Daten|index:personenbezogene-daten} bei der {betroffenen Person|index:betroffene-person} erhoben, so teilt der {Verantwortliche|index:verantwortlicher} der {betroffenen Person|index:betroffene-person} zum Zeitpunkt der Erhebung dieser Daten Folgendes mit:
+  2:
+    index:
+    - verantwortlicher
+    - betroffene-person
+    - verarbeitung
+    number: 2
+    points:
+      a:
+        content: "die Dauer, f\xFCr die die {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ gespeichert werden oder, falls dies nicht m\xF6glich ist, die Kriterien\
+          \ f\xFCr die Festlegung dieser Dauer;"
+        index:
+        - personenbezogene-daten
+      b:
+        content: "das Bestehen eines Rechts auf Auskunft seitens des {Verantwortlichen|index:verantwortlicher}\
+          \ \xFCber die betreffenden {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ sowie auf Berichtigung oder L\xF6schung oder auf {Einschr\xE4nkung der\
+          \ Verarbeitung|index:einschr\xE4nkung-der-verarbeitung} oder eines Widerspruchsrechts\
+          \ gegen die {Verarbeitung|index:verarbeitung} sowie des Rechts auf Daten\xFC\
+          bertragbarkeit;"
+        index:
+        - "einschr\xE4nkung-der-verarbeitung"
+        - personenbezogene-daten
+        - verantwortlicher
+        - verarbeitung
+      c:
+        content: "wenn die {Verarbeitung|index:verarbeitung} auf Artikel 6 Absatz\
+          \ 1 Buchstabe a oder Artikel 9 Absatz 2 Buchstabe a beruht, das Bestehen\
+          \ eines Rechts, die {Einwilligung|index:einwilligung} jederzeit zu widerrufen,\
+          \ ohne dass die Rechtm\xE4\xDFigkeit der aufgrund der {Einwilligung|index:einwilligung}\
+          \ bis zum Widerruf erfolgten {Verarbeitung|index:verarbeitung} ber\xFChrt\
+          \ wird;"
+        index:
+        - einwilligung
+        - verarbeitung
+      d:
+        content: "das Bestehen eines Beschwerderechts bei einer {Aufsichtsbeh\xF6\
+          rde|index:aufsichtsbeh\xF6rde};"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      e:
+        content: "ob die Bereitstellung der {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ gesetzlich oder vertraglich vorgeschrieben oder f\xFCr einen Vertragsabschluss\
+          \ erforderlich ist, ob die {betroffene Person|index:betroffene-person} verpflichtet\
+          \ ist, die {personenbezogenen Daten|index:personenbezogene-daten} bereitzustellen,\
+          \ und welche m\xF6gliche Folgen die Nichtbereitstellung h\xE4tte und"
+        index:
+        - personenbezogene-daten
+        - betroffene-person
+      f:
+        content: "das Bestehen einer automatisierten Entscheidungsfindung einschlie\xDF\
+          lich {Profiling|index:profiling} gem\xE4\xDF Artikel 22 Abs\xE4tze 1 und\
+          \ 4 und \u2014 zumindest in diesen F\xE4llen \u2014 aussagekr\xE4ftige Informationen\
+          \ \xFCber die involvierte Logik sowie die Tragweite und die angestrebten\
+          \ Auswirkungen einer derartigen {Verarbeitung|index:verarbeitung} f\xFC\
+          r die {betroffene Person|index:betroffene-person}."
+        index:
+        - betroffene-person
+        - verarbeitung
+        - profiling
+    preamble: "Zus\xE4tzlich zu den Informationen gem\xE4\xDF Absatz 1 stellt der\
+      \ {Verantwortliche|index:verantwortlicher} der {betroffenen Person|index:betroffene-person}\
+      \ zum Zeitpunkt der Erhebung dieser Daten folgende weitere Informationen zur\
+      \ Verf\xFCgung, die notwendig sind, um eine faire und transparente {Verarbeitung|index:verarbeitung}\
+      \ zu gew\xE4hrleisten:"
+  3:
+    content: "Beabsichtigt der {Verantwortliche|index:verantwortlicher}, die {personenbezogenen\
+      \ Daten|index:personenbezogene-daten} f\xFCr einen anderen Zweck weiterzuverarbeiten\
+      \ als den, f\xFCr den die {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ erhoben wurden, so stellt er der {betroffenen Person|index:betroffene-person}\
+      \ vor dieser Weiterverarbeitung Informationen \xFCber diesen anderen Zweck und\
+      \ alle anderen ma\xDFgeblichen Informationen gem\xE4\xDF Absatz 2 zur Verf\xFC\
+      gung."
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - betroffene-person
+    number: 3
+  4:
+    content: "Die Abs\xE4tze 1, 2 und 3 finden keine Anwendung, wenn und soweit die\
+      \ {betroffene Person|index:betroffene-person} bereits \xFCber die Informationen\
+      \ verf\xFCgt."
+    index:
+    - betroffene-person
+    number: 4
+section: 2
+title: |-
+  Informationspflicht bei Erhebung von {personenbezogenen Daten|index:personenbezogene-daten} bei der {betroffenen Person|index:betroffene-person}

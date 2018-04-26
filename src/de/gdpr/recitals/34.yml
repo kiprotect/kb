@@ -1,0 +1,13 @@
+content: "{Genetische Daten|index:genetische-daten} sollten als {personenbezogene\
+  \ Daten|index:personenbezogene-daten} \xFCber die ererbten oder erworbenen genetischen\
+  \ Eigenschaften einer {nat\xFCrlichen Person|index:nat\xFCrliche-person} definiert\
+  \ werden, die aus der Analyse einer biologischen Probe der betreffenden {nat\xFC\
+  rlichen Person|index:nat\xFCrliche-person}, insbesondere durch eine Chromosomen,\
+  \ Desoxyribonukleins\xE4ure (DNS)- oder Ribonukleins\xE4ure (RNS)-Analyse oder der\
+  \ Analyse eines anderen Elements, durch die gleichwertige Informationen erlangt\
+  \ werden k\xF6nnen, gewonnen werden."
+index:
+- "nat\xFCrliche-person"
+- personenbezogene-daten
+- genetische-daten
+number: 34

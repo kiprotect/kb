@@ -1,0 +1,46 @@
+@import 'print.scss';
+
+@page:first {
+
+    padding-top: 40px;
+
+    @top-right {
+        content: "";
+        font-family: "IBM Plex Sans";
+        height: 40px;
+        display: block;
+        padding-right: 20px;
+        position: absolute;
+        margin-top: 40px;
+        background: $ss-green;
+        font-weight: 600;
+        color: #fff;
+    }
+
+}
+
+@page {
+
+    padding-top: 10px;
+
+    @top-right {
+      height: 10px;
+      content: "";
+      display: block;
+      position: absolute;
+      margin-top: 10px;
+      background: $ss-green;
+   }
+
+   @bottom-right {
+      height: 10px;
+      content: "";
+      display: block;
+      position: absolute;
+      bottom: 0;
+      margin-bottom: 10px;
+      background: $ss-green;
+    }
+
+}
+  

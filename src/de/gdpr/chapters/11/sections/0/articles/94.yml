@@ -1,0 +1,20 @@
+chapter: 11
+number: 94
+paragraphs:
+  1:
+    content: Die Richtlinie 95/46/EG wird mit Wirkung vom 25. Mai 2018 aufgehoben.
+    number: 1
+  2:
+    content: "Verweise auf die aufgehobene Richtlinie gelten als Verweise auf die\
+      \ vorliegende {Verordnung|index:verordnung}. Verweise auf die durch Artikel\
+      \ 29 der Richtlinie 95/46/EG eingesetzte Gruppe f\xFCr den Schutz von Personen\
+      \ bei der {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+      \ gelten als Verweise auf den kraft dieser {Verordnung|index:verordnung} errichteten\
+      \ Europ\xE4ischen Datenschutzausschuss."
+    index:
+    - personenbezogene-daten
+    - verordnung
+    - verarbeitung
+    number: 2
+section: 0
+title: Aufhebung der Richtlinie 95/46/EG

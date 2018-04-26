@@ -1,0 +1,83 @@
+chapter: 4
+index:
+- verarbeitung
+number: 32
+paragraphs:
+  1:
+    index:
+    - auftragsverarbeiter
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verantwortlicher
+    - "nat\xFCrliche-person"
+    - verarbeitung
+    number: 1
+    points:
+      a:
+        content: "die {Pseudonymisierung|index:pseudonymisierung} und Verschl\xFC\
+          sselung {personenbezogener Daten|index:personenbezogene-daten};"
+        index:
+        - personenbezogene-daten
+        - pseudonymisierung
+      b:
+        content: "die F\xE4higkeit, die Vertraulichkeit, Integrit\xE4t, Verf\xFCgbarkeit\
+          \ und Belastbarkeit der Systeme und Dienste im Zusammenhang mit der {Verarbeitung|index:verarbeitung}\
+          \ auf Dauer sicherzustellen;"
+        index:
+        - verarbeitung
+      c:
+        content: "die F\xE4higkeit, die Verf\xFCgbarkeit der {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ und den Zugang zu ihnen bei einem physischen oder technischen Zwischenfall\
+          \ rasch wiederherzustellen;"
+        index:
+        - personenbezogene-daten
+      d:
+        content: "ein {Verfahren|index:verfahren} zur regelm\xE4\xDFigen \xDCberpr\xFC\
+          fung, Bewertung und Evaluierung der Wirksamkeit der {technischen und organisatorischen\
+          \ Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDFnahmen} zur Gew\xE4\
+          hrleistung der Sicherheit der {Verarbeitung|index:verarbeitung}."
+        index:
+        - verfahren
+        - "technische-und-organisatorische-ma\xDFnahmen"
+        - verarbeitung
+    preamble: "Unter Ber\xFCcksichtigung des Stands der Technik, der Implementierungskosten\
+      \ und der Art, des Umfangs, der Umst\xE4nde und der Zwecke der {Verarbeitung|index:verarbeitung}\
+      \ sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos\
+      \ f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFCrliche-person}\
+      \ treffen der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ geeignete {technische und organisatorische Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+      nahmen}, um ein dem Risiko angemessenes Schutzniveau zu gew\xE4hrleisten; diese\
+      \ Ma\xDFnahmen schlie\xDFen unter anderem Folgendes ein:"
+  2:
+    content: "Bei der Beurteilung des angemessenen Schutzniveaus sind insbesondere\
+      \ die Risiken zu ber\xFCcksichtigen, die mit der {Verarbeitung|index:verarbeitung}\
+      \ verbunden sind, insbesondere durch \u2014 ob unbeabsichtigt oder unrechtm\xE4\
+      \xDFig \u2014 Vernichtung, Verlust, Ver\xE4nderung oder unbefugte Offenlegung\
+      \ von beziehungsweise unbefugten Zugang zu {personenbezogenen Daten|index:personenbezogene-daten},\
+      \ die \xFCbermittelt, gespeichert oder auf andere Weise verarbeitet wurden."
+    index:
+    - personenbezogene-daten
+    - verarbeitung
+    number: 2
+  3:
+    content: "Die Einhaltung genehmigter Verhaltensregeln gem\xE4\xDF Artikel 40 oder\
+      \ eines genehmigten Zertifizierungsverfahrens gem\xE4\xDF Artikel 42 kann als\
+      \ Faktor herangezogen werden, um die Erf\xFCllung der in Absatz 1 des vorliegenden\
+      \ Artikels genannten Anforderungen nachzuweisen."
+    number: 3
+  4:
+    content: "Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ {unternehmen|index:unternehmen} Schritte, um sicherzustellen, dass ihnen unterstellte\
+      \ {nat\xFCrliche Personen|index:nat\xFCrliche-person}, die Zugang zu {personenbezogenen\
+      \ Daten|index:personenbezogene-daten} haben, diese nur auf Anweisung des {Verantwortlichen|index:verantwortlicher}\
+      \ verarbeiten, es sei denn, sie sind nach dem Recht der Union oder der Mitgliedstaaten\
+      \ zur {Verarbeitung|index:verarbeitung} verpflichtet."
+    index:
+    - auftragsverarbeiter
+    - unternehmen
+    - personenbezogene-daten
+    - verantwortlicher
+    - "nat\xFCrliche-person"
+    - verarbeitung
+    number: 4
+section: 2
+title: Sicherheit der {Verarbeitung|index:verarbeitung}

@@ -1,0 +1,19 @@
+content: "Damit die {Verarbeitung|index:verarbeitung} rechtm\xE4\xDFig ist, m\xFC\
+  ssen {personenbezogene Daten|index:personenbezogene-daten} mit {Einwilligung|index:einwilligung}\
+  \ der {betroffenen Person|index:betroffene-person} oder auf einer sonstigen zul\xE4\
+  ssigen Rechtsgrundlage verarbeitet werden, die sich aus dieser {Verordnung|index:verordnung}\
+  \ oder \u2014 wann immer in dieser {Verordnung|index:verordnung} darauf Bezug genommen\
+  \ wird \u2014 aus dem sonstigen Unionsrecht oder dem Recht der Mitgliedstaaten ergibt,\
+  \ so unter anderem auf der Grundlage, dass sie zur Erf\xFCllung der rechtlichen\
+  \ Verpflichtung, der der {Verantwortliche|index:verantwortlicher} unterliegt, oder\
+  \ zur Erf\xFCllung eines Vertrags, dessen Vertragspartei die {betroffene Person|index:betroffene-person}\
+  \ ist, oder f\xFCr die Durchf\xFChrung vorvertraglicher Ma\xDFnahmen, die auf Anfrage\
+  \ der {betroffenen Person|index:betroffene-person} erfolgen, erforderlich ist."
+index:
+- betroffene-person
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- einwilligung
+- verarbeitung
+number: 40

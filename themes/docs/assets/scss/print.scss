@@ -1,0 +1,136 @@
+@import 'main.scss';
+
+@media print {
+    .page-break { display: block; page-break-before: always; }
+}
+
+.page{
+  page-break-before: always;
+  position: relative;
+  overflow: hidden;
+}
+
+section {
+  page-break-before: always;
+  padding: 40px;
+}
+
+@page {
+  size: A4;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+img.logo-small {
+    height:64px;
+    width: auto;
+    border-radius: 100%;    
+}
+
+html, body {
+    color: #000;
+    font-family: "IBM Plex Sans";
+    height: 100%;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 160%;
+}
+
+.page {
+  page-break-before: always;
+  height: 100%;
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "IBM Plex Sans";
+  font-weight: 400;
+  text-align: left;
+  page-break-after: avoid;
+  margin:0;
+  color: $ss-lightblue;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  padding:0;
+}
+
+h1 {
+
+  &.title{
+    font-size: 60px;
+  }
+
+  font-weight: 300;
+  font-size: 40px;
+  margin-top: 0;
+}
+
+body {
+  counter-reset: chapternum;
+  font-size: 14px;
+}
+
+p {
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+p.lead {
+  font-weight: bolder;
+  font-size: 18px;
+  text-align:left;
+}
+
+ul {
+  margin-left: 20px;
+  list-style: square;
+  text-align: justify;
+}
+
+
+@media print {
+
+  .left-column {
+    position: fixed;
+    height: 100%;
+    width: 70%;
+    padding: 20px 40px 20px 40px;
+  }
+
+  .right-column {
+    position: fixed;
+    left: 70%;
+    width: 30%;
+    height: 100%;
+    padding: 20px 40px 20px 20px;
+    background: $ss-blue;
+    color: #fff;
+
+    h1, h2, h3, h4, h5 {
+        color: $ss-green;
+      }
+
+    ul {
+        font-size: 12px;
+        text-align: left;
+    } 
+    
+}
+
+  .right-column p {
+    font-size: 12px;
+    line-height: 180%;
+    text-align: left;
+  }
+
+  .right-column h3, .right-column h4 {
+    margin-top: 30px;
+  }
+
+  .right-column h4:first-child {
+    margin-top: 30px;
+  }
+
+}

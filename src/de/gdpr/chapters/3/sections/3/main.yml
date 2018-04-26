@@ -1,0 +1,9 @@
+articles:
+- $include: articles/16.yml
+- $include: articles/17.yml
+- $include: articles/18.yml
+- $include: articles/19.yml
+- $include: articles/20.yml
+chapter: 3
+number: 3
+title: "Berichtigung und L\xF6schung"

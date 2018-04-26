@@ -1,0 +1,158 @@
+chapter: 3
+index:
+- personal-data
+- data-subject
+number: 14
+paragraphs:
+  1:
+    index:
+    - personal-data
+    - data-subject
+    - controller
+    number: 1
+    points:
+      a:
+        content: |-
+          the identity and the contact details of the {controller|index:controller} and, where applicable, of the controller's {representative|index:representative};
+        index:
+        - representative
+        - controller
+      b:
+        content: the contact details of the data protection officer, where applicable;
+      c:
+        content: |-
+          the purposes of the {processing|index:processing} for which the {personal data|index:personal-data} are intended as well as the legal basis for the {processing|index:processing};
+        index:
+        - personal-data
+        - processing
+      d:
+        content: the categories of {personal data|index:personal-data} concerned;
+        index:
+        - personal-data
+      e:
+        content: the recipients or categories of recipients of the {personal data|index:personal-data},
+          if any;
+        index:
+        - personal-data
+      f:
+        content: |-
+          where applicable, that the {controller|index:controller} intends to transfer {personal data|index:personal-data} to a {recipient|index:recipient} in a third country or {international organisation|index:international-organisation} and the existence or absence of an adequacy decision by the Commission, or in the case of transfers referred to in Article 46 or 47, or the second subparagraph of Article 49(1), reference to the appropriate or suitable safeguards and the means to obtain a copy of them or where they have been made available.
+        index:
+        - personal-data
+        - international-organisation
+        - recipient
+        - controller
+    preamble: |-
+      Where {personal data|index:personal-data} have not been obtained from the {data subject|index:data-subject}, the {controller|index:controller} shall provide the {data subject|index:data-subject} with the following information:
+  2:
+    index:
+    - data-subject
+    - controller
+    - processing
+    number: 2
+    points:
+      a:
+        content: |-
+          the period for which the {personal data|index:personal-data} will be stored, or if that is not possible, the criteria used to determine that period;
+        index:
+        - personal-data
+      b:
+        content: |-
+          where the {processing|index:processing} is based on point (f) of Article 6(1), the legitimate interests pursued by the {controller|index:controller} or by a {third party|index:third-party};
+        index:
+        - third-party
+        - controller
+        - processing
+      c:
+        content: |-
+          the existence of the right to request from the {controller|index:controller} access to and rectification or erasure of {personal data|index:personal-data} or {restriction of processing|index:restriction-of-processing} concerning the {data subject|index:data-subject} and to object to {processing|index:processing} as well as the right to data portability;
+        index:
+        - data-subject
+        - restriction-of-processing
+        - controller
+        - personal-data
+        - processing
+      d:
+        content: |-
+          where {processing|index:processing} is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to withdraw {consent|index:consent} at any time, without affecting the lawfulness of {processing|index:processing} based on {consent|index:consent} before its withdrawal;
+        index:
+        - consent
+        - processing
+      e:
+        content: the right to lodge a complaint with a {supervisory authority|index:supervisory-authority};
+        index:
+        - supervisory-authority
+      f:
+        content: |-
+          from which source the {personal data|index:personal-data} originate, and if applicable, whether it came from publicly accessible sources;
+        index:
+        - personal-data
+      g:
+        content: |-
+          the existence of automated decision-making, including {profiling|index:profiling}, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such {processing|index:processing} for the {data subject|index:data-subject}.
+        index:
+        - data-subject
+        - profiling
+        - processing
+    preamble: |-
+      In addition to the information referred to in paragraph 1, the {controller|index:controller} shall provide the {data subject|index:data-subject} with the following information necessary to ensure fair and transparent {processing|index:processing} in respect of the data subject:
+  3:
+    index:
+    - controller
+    number: 3
+    points:
+      a:
+        content: |-
+          within a reasonable period after obtaining the {personal data|index:personal-data}, but at the latest within one month, having regard to the specific circumstances in which the {personal data|index:personal-data} are processed;
+        index:
+        - personal-data
+      b:
+        content: |-
+          if the {personal data|index:personal-data} are to be used for communication with the {data subject|index:data-subject}, at the latest at the time of the first communication to that {data subject|index:data-subject}; or
+        index:
+        - personal-data
+        - data-subject
+      c:
+        content: |-
+          if a disclosure to another {recipient|index:recipient} is envisaged, at the latest when the {personal data|index:personal-data} are first disclosed.
+        index:
+        - personal-data
+        - recipient
+    preamble: 'The {controller|index:controller} shall provide the information referred
+      to in paragraphs 1 and 2:'
+  4:
+    content: |-
+      Where the {controller|index:controller} intends to further process the {personal data|index:personal-data} for a purpose other than that for which the {personal data|index:personal-data} were obtained, the {controller|index:controller} shall provide the {data subject|index:data-subject} prior to that further {processing|index:processing} with information on that other purpose and with any relevant further information as referred to in paragraph 2.
+    index:
+    - personal-data
+    - data-subject
+    - controller
+    - processing
+    number: 4
+  5:
+    number: 5
+    points:
+      a:
+        content: the {data subject|index:data-subject} already has the information;
+        index:
+        - data-subject
+      b:
+        content: |-
+          the provision of such information proves impossible or would involve a disproportionate effort, in particular for {processing|index:processing} for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes, subject to the conditions and safeguards referred to in Article 89(1) or in so far as the obligation referred to in paragraph 1 of this Article is likely to render impossible or seriously impair the achievement of the objectives of that {processing|index:processing}. In such cases the {controller|index:controller} shall take appropriate measures to protect the data subject's rights and freedoms and legitimate interests, including making the information publicly available;
+        index:
+        - controller
+        - processing
+      c:
+        content: |-
+          obtaining or disclosure is expressly laid down by Union or Member State law to which the {controller|index:controller} is subject and which provides appropriate measures to protect the data subject's legitimate interests; or
+        index:
+        - controller
+      d:
+        content: |-
+          where the {personal data|index:personal-data} must remain confidential subject to an obligation of professional secrecy regulated by Union or Member State law, including a statutory obligation of secrecy.
+        index:
+        - personal-data
+    preamble: 'Paragraphs 1 to 4 shall not apply where and insofar as:'
+section: 2
+title: |-
+  Information to be provided where {personal data|index:personal-data} have not been obtained from the {data subject|index:data-subject}

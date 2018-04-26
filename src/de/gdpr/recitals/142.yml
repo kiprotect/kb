@@ -1,0 +1,26 @@
+content: "{Betroffene Personen|index:betroffene-person}, die sich in ihren Rechten\
+  \ gem\xE4\xDF dieser {Verordnung|index:verordnung} verletzt sehen, sollten das Recht\
+  \ haben, nach dem Recht eines Mitgliedstaats gegr\xFCndete Einrichtungen, Organisationen\
+  \ oder Verb\xE4nde ohne Gewinnerzielungsabsicht, deren satzungsm\xE4\xDFige Ziele\
+  \ im \xF6ffentlichem Interesse liegen und die im Bereich des Schutzes {personenbezogener\
+  \ Daten|index:personenbezogene-daten} t\xE4tig sind, zu beauftragen, in ihrem Namen\
+  \ Beschwerde bei einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} oder einen\
+  \ gerichtlichen Rechtsbehelf einzulegen oder das Recht auf Schadensersatz in Anspruch\
+  \ zu nehmen, sofern dieses im Recht der Mitgliedstaaten vorgesehen ist. Die Mitgliedstaaten\
+  \ k\xF6nnen vorsehen, dass diese Einrichtungen, Organisationen oder Verb\xE4nde\
+  \ das Recht haben, unabh\xE4ngig vom Auftrag einer {betroffenen Person|index:betroffene-person}\
+  \ in dem betreffenden Mitgliedstaat eine eigene Beschwerde einzulegen, und das Recht\
+  \ auf einen wirksamen gerichtlichen Rechtsbehelf haben sollten, wenn sie Grund zu\
+  \ der Annahme haben, dass die Rechte der {betroffenen Person|index:betroffene-person}\
+  \ infolge einer nicht im Einklang mit dieser {Verordnung|index:verordnung} stehenden\
+  \ {Verarbeitung|index:verarbeitung} verletzt worden sind. Diesen Einrichtungen,\
+  \ Organisationen oder Verb\xE4nden kann unabh\xE4ngig vom Auftrag einer {betroffenen\
+  \ Person|index:betroffene-person} nicht gestattet werden, im Namen einer {betroffenen\
+  \ Person|index:betroffene-person} Schadenersatz zu verlangen."
+index:
+- betroffene-person
+- verordnung
+- personenbezogene-daten
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
+number: 142

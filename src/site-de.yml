@@ -1,0 +1,20 @@
+title: GDPR - Community Portal
+language: Deutsch
+prefix: ''
+date-format: '%d.%m.%Y'
+pages:
+  - src: common/index.html
+    name: index
+    index: true
+    title: Willkommen
+    hidden: true
+  - src: de/impressum.html
+    name: imprint
+    in_menu: true
+    slug: impressum
+    title: Impressum
+    hidden: true
+law:
+  $include: de/gdpr/main.yml
+  templates:
+    $include: law_templates.yml

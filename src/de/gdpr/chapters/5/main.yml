@@ -1,0 +1,9 @@
+index:
+- personenbezogene-daten
+- internationale-organisation
+number: 5
+roman_number: V
+sections:
+- $include: sections/0/main.yml
+title: "\xDCbermittlungen {personenbezogener Daten|index:personenbezogene-daten} an\
+  \ Drittl\xE4nder oder an {internationale Organisationen|index:internationale-organisation}"

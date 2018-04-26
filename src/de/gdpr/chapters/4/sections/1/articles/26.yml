@@ -1,0 +1,47 @@
+chapter: 4
+index:
+- verantwortlicher
+- verarbeitung
+number: 26
+paragraphs:
+  1:
+    content: "Legen zwei oder mehr {Verantwortliche|index:verantwortlicher} gemeinsam\
+      \ die Zwecke der und die Mittel zur {Verarbeitung|index:verarbeitung} fest,\
+      \ so sind sie gemeinsam {Verantwortliche|index:verantwortlicher}. Sie legen\
+      \ in einer Vereinbarung in transparenter Form fest, wer von ihnen welche Verpflichtung\
+      \ gem\xE4\xDF dieser {Verordnung|index:verordnung} erf\xFCllt, insbesondere\
+      \ was die Wahrnehmung der Rechte der {betroffenen Person|index:betroffene-person}\
+      \ angeht, und wer welchen Informationspflichten gem\xE4\xDF den Artikeln 13\
+      \ und 14 nachkommt, sofern und soweit die jeweiligen Aufgaben der {Verantwortlichen|index:verantwortlicher}\
+      \ nicht durch Rechtsvorschriften der Union oder der Mitgliedstaaten, denen die\
+      \ {Verantwortlichen|index:verantwortlicher} unterliegen, festgelegt sind. In\
+      \ der Vereinbarung kann eine Anlaufstelle f\xFCr die {betroffenen Personen|index:betroffene-person}\
+      \ angegeben werden."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    - verordnung
+    - verarbeitung
+    number: 1
+  2:
+    content: "Die Vereinbarung gem\xE4\xDF Absatz 1 muss die jeweiligen tats\xE4chlichen\
+      \ Funktionen und Beziehungen der gemeinsam {Verantwortlichen|index:verantwortlicher}\
+      \ gegen\xFCber {betroffenen Personen|index:betroffene-person} geb\xFChrend widerspiegeln.\
+      \ Das wesentliche der Vereinbarung wird der {betroffenen Person|index:betroffene-person}\
+      \ zur Verf\xFCgung gestellt."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    number: 2
+  3:
+    content: "Ungeachtet der Einzelheiten der Vereinbarung gem\xE4\xDF Absatz 1 kann\
+      \ die {betroffene Person|index:betroffene-person} ihre Rechte im Rahmen dieser\
+      \ {Verordnung|index:verordnung} bei und gegen\xFCber jedem einzelnen der {Verantwortlichen|index:verantwortlicher}\
+      \ geltend machen."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    - verordnung
+    number: 3
+section: 1
+title: "Gemeinsam f\xFCr die {Verarbeitung|index:verarbeitung} {Verantwortliche|index:verantwortlicher}"

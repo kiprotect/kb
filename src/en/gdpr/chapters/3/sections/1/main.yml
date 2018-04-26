@@ -1,0 +1,5 @@
+articles:
+- $include: articles/12.yml
+chapter: 3
+number: 1
+title: Transparency and modalities

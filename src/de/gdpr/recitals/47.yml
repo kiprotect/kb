@@ -1,0 +1,40 @@
+content: "Die Rechtm\xE4\xDFigkeit der {Verarbeitung|index:verarbeitung} kann durch\
+  \ die berechtigten Interessen eines {Verantwortlichen|index:verantwortlicher}, auch\
+  \ eines {Verantwortlichen|index:verantwortlicher}, dem die {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ offengelegt werden d\xFCrfen, oder eines {Dritten|index:dritter} begr\xFCndet\
+  \ sein, sofern die Interessen oder die Grundrechte und Grundfreiheiten der {betroffenen\
+  \ Person|index:betroffene-person} nicht \xFCberwiegen; dabei sind die vern\xFCnftigen\
+  \ Erwartungen der {betroffenen Person|index:betroffene-person}, die auf ihrer Beziehung\
+  \ zu dem {Verantwortlichen|index:verantwortlicher} beruhen, zu ber\xFCcksichtigen.\
+  \ Ein berechtigtes Interesse k\xF6nnte beispielsweise vorliegen, wenn eine ma\xDF\
+  gebliche und angemessene Beziehung zwischen der {betroffenen Person|index:betroffene-person}\
+  \ und dem {Verantwortlichen|index:verantwortlicher} besteht, z. B. wenn die {betroffene\
+  \ Person|index:betroffene-person} ein Kunde des {Verantwortlichen|index:verantwortlicher}\
+  \ ist oder in seinen Diensten steht. Auf jeden Fall w\xE4re das Bestehen eines berechtigten\
+  \ Interesses besonders sorgf\xE4ltig abzuw\xE4gen, wobei auch zu pr\xFCfen ist,\
+  \ ob eine {betroffene Person|index:betroffene-person} zum Zeitpunkt der Erhebung\
+  \ der {personenbezogenen Daten|index:personenbezogene-daten} und angesichts der\
+  \ Umst\xE4nde, unter denen sie erfolgt, vern\xFCnftigerweise absehen kann, dass\
+  \ m\xF6glicherweise eine {Verarbeitung|index:verarbeitung} f\xFCr diesen Zweck erfolgen\
+  \ wird. Insbesondere dann, wenn {personenbezogene Daten|index:personenbezogene-daten}\
+  \ in Situationen verarbeitet werden, in denen eine {betroffene Person|index:betroffene-person}\
+  \ vern\xFCnftigerweise nicht mit einer weiteren {Verarbeitung|index:verarbeitung}\
+  \ rechnen muss, k\xF6nnten die Interessen und Grundrechte der {betroffenen Person|index:betroffene-person}\
+  \ das Interesse des {Verantwortlichen|index:verantwortlicher} \xFCberwiegen. Da\
+  \ es dem Gesetzgeber obliegt, per Rechtsvorschrift die Rechtsgrundlage f\xFCr die\
+  \ {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ durch die Beh\xF6rden zu schaffen, sollte diese Rechtsgrundlage nicht f\xFCr Verarbeitungen\
+  \ durch Beh\xF6rden gelten, die diese in Erf\xFCllung ihrer Aufgaben vornehmen.\
+  \ Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ im f\xFCr die Verhinderung von Betrug unbedingt erforderlichen Umfang stellt ebenfalls\
+  \ ein berechtigtes Interesse des jeweiligen {Verantwortlichen|index:verantwortlicher}\
+  \ dar. Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ zum Zwecke der Direktwerbung kann als eine einem berechtigten Interesse dienende\
+  \ {Verarbeitung|index:verarbeitung} betrachtet werden."
+index:
+- betroffene-person
+- dritter
+- verantwortlicher
+- personenbezogene-daten
+- verarbeitung
+number: 47

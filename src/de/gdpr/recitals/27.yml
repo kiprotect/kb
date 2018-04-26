@@ -1,0 +1,9 @@
+content: "Diese {Verordnung|index:verordnung} gilt nicht f\xFCr die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} Verstorbener. Die Mitgliedstaaten k\xF6nnen\
+  \ Vorschriften f\xFCr die {Verarbeitung|index:verarbeitung} der {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} Verstorbener vorsehen."
+index:
+- personenbezogene-daten
+- verordnung
+- verarbeitung
+number: 27

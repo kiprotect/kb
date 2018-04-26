@@ -1,0 +1,10 @@
+content: "Der {Auftragsverarbeiter|index:auftragsverarbeiter} sollte erforderlichenfalls\
+  \ den {Verantwortlichen|index:verantwortlicher} auf Anfrage bei der Gew\xE4hrleistung\
+  \ der Einhaltung der sich aus der Durchf\xFChrung der Datenschutz-Folgenabsch\xE4\
+  tzung und der vorherigen Konsultation der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+  rde} ergebenden Auflagen unterst\xFCtzen."
+index:
+- auftragsverarbeiter
+- verantwortlicher
+- "aufsichtsbeh\xF6rde"
+number: 95

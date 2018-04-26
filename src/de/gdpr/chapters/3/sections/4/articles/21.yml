@@ -1,0 +1,78 @@
+chapter: 3
+number: 21
+paragraphs:
+  1:
+    content: "Die {betroffene Person|index:betroffene-person} hat das Recht, aus Gr\xFC\
+      nden, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die {Verarbeitung|index:verarbeitung}\
+      \ sie betreffender {personenbezogener Daten|index:personenbezogene-daten}, die\
+      \ aufgrund von Artikel 6 Absatz 1 Buchstaben e oder f erfolgt, Widerspruch einzulegen;\
+      \ dies gilt auch f\xFCr ein auf diese Bestimmungen gest\xFCtztes {Profiling|index:profiling}.\
+      \ Der {Verantwortliche|index:verantwortlicher} verarbeitet die {personenbezogenen\
+      \ Daten|index:personenbezogene-daten} nicht mehr, es sei denn, er kann zwingende\
+      \ schutzw\xFCrdige Gr\xFCnde f\xFCr die {Verarbeitung|index:verarbeitung} nachweisen,\
+      \ die die Interessen, Rechte und Freiheiten der {betroffenen Person|index:betroffene-person}\
+      \ \xFCberwiegen, oder die {Verarbeitung|index:verarbeitung} dient der Geltendmachung,\
+      \ Aus\xFCbung oder Verteidigung von Rechtsanspr\xFCchen."
+    index:
+    - betroffene-person
+    - profiling
+    - verantwortlicher
+    - personenbezogene-daten
+    - verarbeitung
+    number: 1
+  2:
+    content: "Werden {personenbezogene Daten|index:personenbezogene-daten} verarbeitet,\
+      \ um Direktwerbung zu betreiben, so hat die {betroffene Person|index:betroffene-person}\
+      \ das Recht, jederzeit Widerspruch gegen die {Verarbeitung|index:verarbeitung}\
+      \ sie betreffender {personenbezogener Daten|index:personenbezogene-daten} zum\
+      \ Zwecke derartiger Werbung einzulegen; dies gilt auch f\xFCr das {Profiling|index:profiling},\
+      \ soweit es mit solcher Direktwerbung in Verbindung steht."
+    index:
+    - personenbezogene-daten
+    - betroffene-person
+    - verarbeitung
+    - profiling
+    number: 2
+  3:
+    content: "Widerspricht die {betroffene Person|index:betroffene-person} der {Verarbeitung|index:verarbeitung}\
+      \ f\xFCr Zwecke der Direktwerbung, so werden die {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ nicht mehr f\xFCr diese Zwecke verarbeitet."
+    index:
+    - personenbezogene-daten
+    - betroffene-person
+    - verarbeitung
+    number: 3
+  4:
+    content: "Die {betroffene Person|index:betroffene-person} muss sp\xE4testens zum\
+      \ Zeitpunkt der ersten Kommunikation mit ihr ausdr\xFCcklich auf das in den\
+      \ Abs\xE4tzen 1 und 2 genannte Recht hingewiesen werden; dieser Hinweis hat\
+      \ in einer verst\xE4ndlichen und von anderen Informationen getrennten Form zu\
+      \ erfolgen."
+    index:
+    - betroffene-person
+    number: 4
+  5:
+    content: "Im Zusammenhang mit der Nutzung von {Diensten der Informationsgesellschaft|index:dienst-der-informationsgesellschaft}\
+      \ kann die {betroffene Person|index:betroffene-person} ungeachtet der Richtlinie\
+      \ 2002/58/EG ihr Widerspruchsrecht mittels {automatisierter Verfahren|index:automatisiertes-verfahren}\
+      \ aus\xFCben, bei denen technische Spezifikationen verwendet werden."
+    index:
+    - automatisiertes-verfahren
+    - betroffene-person
+    - dienst-der-informationsgesellschaft
+    number: 5
+  6:
+    content: "Die {betroffene Person|index:betroffene-person} hat das Recht, aus Gr\xFC\
+      nden, die sich aus ihrer besonderen Situation ergeben, gegen die sie betreffende\
+      \ {Verarbeitung|index:verarbeitung} sie betreffender {personenbezogener Daten|index:personenbezogene-daten},\
+      \ die zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen\
+      \ Zwecken gem\xE4\xDF Artikel 89 Absatz 1 erfolgt, Widerspruch einzulegen, es\
+      \ sei denn, die {Verarbeitung|index:verarbeitung} ist zur Erf\xFCllung einer\
+      \ im \xF6ffentlichen Interesse liegenden Aufgabe erforderlich."
+    index:
+    - personenbezogene-daten
+    - betroffene-person
+    - verarbeitung
+    number: 6
+section: 4
+title: Widerspruchsrecht

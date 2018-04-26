@@ -1,0 +1,15 @@
+content: "Bei der detaillierten Regelung des Formats und der {Verfahren|index:verfahren}\
+  \ f\xFCr die Meldung von Verletzungen des Schutzes {personenbezogener Daten|index:personenbezogene-daten}\
+  \ sollten die Umst\xE4nde der Verletzung hinreichend ber\xFCcksichtigt werden, beispielsweise\
+  \ ob {personenbezogene Daten|index:personenbezogene-daten} durch geeignete technische\
+  \ Sicherheitsvorkehrungen gesch\xFCtzt waren, die die Wahrscheinlichkeit eines Identit\xE4\
+  tsbetrugs oder anderer Formen des Datenmissbrauchs wirksam verringern. \xDCberdies\
+  \ sollten solche Regeln und {Verfahren|index:verfahren} den berechtigten Interessen\
+  \ der Strafverfolgungsbeh\xF6rden in F\xE4llen Rechnung tragen, in denen die Untersuchung\
+  \ der Umst\xE4nde einer {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+  \ durch eine fr\xFChzeitige Offenlegung in unn\xF6tiger Weise behindert w\xFCrde."
+index:
+- verletzung-des-schutzes-personenbezogener-daten
+- personenbezogene-daten
+- verfahren
+number: 88

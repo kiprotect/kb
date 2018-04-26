@@ -1,0 +1,16 @@
+content: "Zum Nachweis der Einhaltung dieser {Verordnung|index:verordnung} sollte\
+  \ der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ ein Verzeichnis der {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit},\
+  \ die seiner Zust\xE4ndigkeit unterliegen, f\xFChren. Jeder {Verantwortliche|index:verantwortlicher}\
+  \ und jeder {Auftragsverarbeiter|index:auftragsverarbeiter} sollte verpflichtet\
+  \ sein, mit der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} zusammenzuarbeiten\
+  \ und dieser auf Anfrage das entsprechende Verzeichnis vorzulegen, damit die betreffenden\
+  \ Verarbeitungsvorg\xE4nge anhand dieser Verzeichnisse kontrolliert werden k\xF6\
+  nnen."
+index:
+- "verarbeitungst\xE4tigkeit"
+- verordnung
+- auftragsverarbeiter
+- verantwortlicher
+- "aufsichtsbeh\xF6rde"
+number: 82

@@ -1,0 +1,34 @@
+content: "Damit einer {nat\xFCrlichen Person|index:nat\xFCrliche-person} der gem\xE4\
+  \xDF dieser {Verordnung|index:verordnung} gew\xE4hrleistete Schutz nicht vorenthalten\
+  \ wird, sollte die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ von {betroffenen Personen|index:betroffene-person}, die sich in der Union befinden,\
+  \ durch einen nicht in der Union niedergelassenen {Verantwortlichen|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} dieser {Verordnung|index:verordnung}\
+  \ unterliegen, wenn die {Verarbeitung|index:verarbeitung} dazu dient, diesen {betroffenen\
+  \ Personen|index:betroffene-person} gegen Entgelt oder unentgeltlich Waren oder\
+  \ Dienstleistungen anzubieten. Um festzustellen, ob dieser {Verantwortliche|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} {betroffenen Personen|index:betroffene-person},\
+  \ die sich in der Union befinden, Waren oder Dienstleistungen anbietet, sollte festgestellt\
+  \ werden, ob der {Verantwortliche|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ offensichtlich beabsichtigt, {betroffenen Personen|index:betroffene-person} in\
+  \ einem oder mehreren Mitgliedstaaten der Union Dienstleistungen anzubieten. W\xE4\
+  hrend die blo\xDFe Zug\xE4nglichkeit der Website des {Verantwortlichen|index:verantwortlicher},\
+  \ des {Auftragsverarbeiters|index:auftragsverarbeiter} oder eines Vermittlers in\
+  \ der Union, einer E-Mail-Adresse oder anderer Kontaktdaten oder die Verwendung\
+  \ einer Sprache, die in dem Drittland, in dem der {Verantwortliche|index:verantwortlicher}\
+  \ niedergelassen ist, allgemein gebr\xE4uchlich ist, hierf\xFCr kein ausreichender\
+  \ Anhaltspunkt ist, k\xF6nnen andere Faktoren wie die Verwendung einer Sprache oder\
+  \ W\xE4hrung, die in einem oder mehreren Mitgliedstaaten gebr\xE4uchlich ist, in\
+  \ Verbindung mit der M\xF6glichkeit, Waren und Dienstleistungen in dieser anderen\
+  \ Sprache zu bestellen, oder die Erw\xE4hnung von Kunden oder Nutzern, die sich\
+  \ in der Union befinden, darauf hindeuten, dass der {Verantwortliche|index:verantwortlicher}\
+  \ beabsichtigt, den Personen in der Union Waren oder Dienstleistungen anzubieten."
+index:
+- betroffene-person
+- verordnung
+- auftragsverarbeiter
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 23

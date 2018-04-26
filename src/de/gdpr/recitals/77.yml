@@ -1,0 +1,19 @@
+content: "Anleitungen, wie der {Verantwortliche|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ geeignete Ma\xDFnahmen durchzuf\xFChren hat und wie die Einhaltung der Anforderungen\
+  \ nachzuweisen ist, insbesondere was die Ermittlung des mit der {Verarbeitung|index:verarbeitung}\
+  \ verbundenen Risikos, dessen Absch\xE4tzung in Bezug auf Ursache, Art, Eintrittswahrscheinlichkeit\
+  \ und Schwere und die Festlegung bew\xE4hrter {Verfahren|index:verfahren} f\xFC\
+  r dessen Eind\xE4mmung betrifft, k\xF6nnten insbesondere in Form von genehmigten\
+  \ Verhaltensregeln, genehmigten Zertifizierungsverfahren, Leitlinien des Ausschusses\
+  \ oder Hinweisen eines Datenschutzbeauftragten gegeben werden. Der Ausschuss kann\
+  \ ferner Leitlinien f\xFCr Verarbeitungsvorg\xE4nge ausgeben, bei denen davon auszugehen\
+  \ ist, dass sie kein hohes Risiko f\xFCr die Rechte und Freiheiten {nat\xFCrlicher\
+  \ Personen|index:nat\xFCrliche-person} mit sich bringen, und angeben, welche Abhilfema\xDF\
+  nahmen in diesen F\xE4llen ausreichend sein k\xF6nnen."
+index:
+- auftragsverarbeiter
+- verantwortlicher
+- verfahren
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 77

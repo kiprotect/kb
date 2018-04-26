@@ -1,0 +1,213 @@
+chapter: 8
+number: 83
+paragraphs:
+  1:
+    content: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} stellt sicher,\
+      \ dass die Verh\xE4ngung von Geldbu\xDFen gem\xE4\xDF diesem Artikel f\xFCr\
+      \ Verst\xF6\xDFe gegen diese {Verordnung|index:verordnung} gem\xE4\xDF den Abs\xE4\
+      tzen 5 und 6 in jedem Einzelfall wirksam, verh\xE4ltnism\xE4\xDFig und abschreckend\
+      \ ist."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verordnung
+    number: 1
+  2:
+    number: 2
+    points:
+      a:
+        content: "Art, Schwere und Dauer des Versto\xDFes unter Ber\xFCcksichtigung\
+          \ der Art, des Umfangs oder des Zwecks der betreffenden {Verarbeitung|index:verarbeitung}\
+          \ sowie der Zahl der von der {Verarbeitung|index:verarbeitung} {betroffenen\
+          \ Personen|index:betroffene-person} und des Ausma\xDFes des von ihnen erlittenen\
+          \ Schadens;"
+        index:
+        - betroffene-person
+        - verarbeitung
+      b:
+        content: "Vors\xE4tzlichkeit oder Fahrl\xE4ssigkeit des Versto\xDFes;"
+      c:
+        content: "jegliche von dem {Verantwortlichen|index:verantwortlicher} oder\
+          \ dem {Auftragsverarbeiter|index:auftragsverarbeiter} getroffenen Ma\xDF\
+          nahmen zur Minderung des den {betroffenen Personen|index:betroffene-person}\
+          \ entstandenen Schadens;"
+        index:
+        - verantwortlicher
+        - betroffene-person
+        - auftragsverarbeiter
+      d:
+        content: "Grad der Verantwortung des {Verantwortlichen|index:verantwortlicher}\
+          \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} unter Ber\xFC\
+          cksichtigung der von ihnen gem\xE4\xDF den Artikeln 25 und 32 getroffenen\
+          \ {technischen und organisatorischen Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+          nahmen};"
+        index:
+        - verantwortlicher
+        - "technische-und-organisatorische-ma\xDFnahmen"
+        - auftragsverarbeiter
+      e:
+        content: "etwaige einschl\xE4gige fr\xFChere Verst\xF6\xDFe des {Verantwortlichen|index:verantwortlicher}\
+          \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter};"
+        index:
+        - verantwortlicher
+        - auftragsverarbeiter
+      f:
+        content: "Umfang der Zusammenarbeit mit der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+          rde}, um dem Versto\xDF abzuhelfen und seine m\xF6glichen nachteiligen Auswirkungen\
+          \ zu mindern;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      g:
+        content: "Kategorien {personenbezogener Daten|index:personenbezogene-daten},\
+          \ die von dem Versto\xDF betroffen sind;"
+        index:
+        - personenbezogene-daten
+      h:
+        content: "Art und Weise, wie der Versto\xDF der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+          rde} bekannt wurde, insbesondere ob und gegebenenfalls in welchem Umfang\
+          \ der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ den Versto\xDF mitgeteilt hat;"
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - "aufsichtsbeh\xF6rde"
+      i:
+        content: "Einhaltung der nach Artikel 58 Absatz 2 fr\xFCher gegen den f\xFC\
+          r den betreffenden {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ in Bezug auf denselben Gegenstand angeordneten Ma\xDFnahmen, wenn solche\
+          \ Ma\xDFnahmen angeordnet wurden;"
+        index:
+        - verantwortlicher
+        - auftragsverarbeiter
+      j:
+        content: |-
+          Einhaltung von genehmigten Verhaltensregeln nach Artikel 40 oder genehmigten Zertifizierungsverfahren nach Artikel 42 und
+        index:
+        - verfahren
+      k:
+        content: "jegliche anderen erschwerenden oder mildernden Umst\xE4nde im jeweiligen\
+          \ Fall, wie unmittelbar oder mittelbar durch den Versto\xDF erlangte finanzielle\
+          \ Vorteile oder vermiedene Verluste."
+    preamble: "Geldbu\xDFen werden je nach den Umst\xE4nden des Einzelfalls zus\xE4\
+      tzlich zu oder anstelle von Ma\xDFnahmen nach Artikel 58 Absatz 2 Buchstaben\
+      \ a bis h und i verh\xE4ngt. Bei der Entscheidung \xFCber die Verh\xE4ngung\
+      \ einer Geldbu\xDFe und \xFCber deren Betrag wird in jedem Einzelfall Folgendes\
+      \ geb\xFChrend ber\xFCcksichtigt:"
+  3:
+    content: "Verst\xF6\xDFt ein {Verantwortlicher|index:verantwortlicher} oder ein\
+      \ {Auftragsverarbeiter|index:auftragsverarbeiter} bei gleichen oder miteinander\
+      \ verbundenen Verarbeitungsvorg\xE4ngen vors\xE4tzlich oder fahrl\xE4ssig gegen\
+      \ mehrere Bestimmungen dieser {Verordnung|index:verordnung}, so \xFCbersteigt\
+      \ der Gesamtbetrag der Geldbu\xDFe nicht den Betrag f\xFCr den schwerwiegendsten\
+      \ Versto\xDF."
+    index:
+    - auftragsverarbeiter
+    - verantwortlicher
+    - verordnung
+    number: 3
+  4:
+    number: 4
+    points:
+      a:
+        content: "die Pflichten der {Verantwortlichen|index:verantwortlicher} und\
+          \ der {Auftragsverarbeiter|index:auftragsverarbeiter} gem\xE4\xDF den Artikeln\
+          \ 8, 11, 25 bis 39, 42 und 43;"
+        index:
+        - verantwortlicher
+        - auftragsverarbeiter
+      b:
+        content: "die Pflichten der Zertifizierungsstelle gem\xE4\xDF den Artikeln\
+          \ 42 und 43;"
+      c:
+        content: "die Pflichten der \xDCberwachungsstelle gem\xE4\xDF Artikel 41 Absatz\
+          \ 4."
+    preamble: "Bei Verst\xF6\xDFen gegen die folgenden Bestimmungen werden im Einklang\
+      \ mit Absatz 2 Geldbu\xDFen von bis zu 10 000 000 EUR oder im Fall eines Unternehmens\
+      \ von bis zu 2 % seines gesamten weltweit erzielten Jahresumsatzes des vorangegangenen\
+      \ Gesch\xE4ftsjahrs verh\xE4ngt, je nachdem, welcher der Betr\xE4ge h\xF6her\
+      \ ist:"
+  5:
+    number: 5
+    points:
+      a:
+        content: "die Grunds\xE4tze f\xFCr die {Verarbeitung|index:verarbeitung},\
+          \ einschlie\xDFlich der Bedingungen f\xFCr die {Einwilligung|index:einwilligung},\
+          \ gem\xE4\xDF den Artikeln 5, 6, 7 und 9;"
+        index:
+        - einwilligung
+        - verarbeitung
+      b:
+        content: "die Rechte der {betroffenen Person|index:betroffene-person} gem\xE4\
+          \xDF den Artikeln 12 bis 22;"
+        index:
+        - betroffene-person
+      c:
+        content: "die \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
+          \ an einen {Empf\xE4nger|index:empf\xE4nger} in einem Drittland oder an\
+          \ eine {internationale Organisation|index:internationale-organisation} gem\xE4\
+          \xDF den Artikeln 44 bis 49;"
+        index:
+        - personenbezogene-daten
+        - internationale-organisation
+        - "empf\xE4nger"
+      d:
+        content: "alle Pflichten gem\xE4\xDF den Rechtsvorschriften der Mitgliedstaaten,\
+          \ die im Rahmen des Kapitels IX erlassen wurden;"
+      e:
+        content: "Nichtbefolgung einer Anweisung oder einer vor\xFCbergehenden oder\
+          \ endg\xFCltigen Beschr\xE4nkung oder Aussetzung der Daten\xFCbermittlung\
+          \ durch die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} gem\xE4\xDF\
+          \ Artikel 58 Absatz 2 oder Nichtgew\xE4hrung des Zugangs unter Versto\xDF\
+          \ gegen Artikel 58 Absatz 1."
+        index:
+        - "aufsichtsbeh\xF6rde"
+    preamble: "Bei Verst\xF6\xDFen gegen die folgenden Bestimmungen werden im Einklang\
+      \ mit Absatz 2 Geldbu\xDFen von bis zu 20 000 000 EUR oder im Fall eines Unternehmens\
+      \ von bis zu 4 % seines gesamten weltweit erzielten Jahresumsatzes des vorangegangenen\
+      \ Gesch\xE4ftsjahrs verh\xE4ngt, je nachdem, welcher der Betr\xE4ge h\xF6her\
+      \ ist:"
+  6:
+    content: "Bei Nichtbefolgung einer Anweisung der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} gem\xE4\xDF Artikel 58 Absatz 2 werden im Einklang mit Absatz 2 des vorliegenden\
+      \ Artikels Geldbu\xDFen von bis zu 20 000 000 EUR oder im Fall eines Unternehmens\
+      \ von bis zu 4 % seines gesamten weltweit erzielten Jahresumsatzes des vorangegangenen\
+      \ Gesch\xE4ftsjahrs verh\xE4ngt, je nachdem, welcher der Betr\xE4ge h\xF6her\
+      \ ist."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 6
+  7:
+    content: "Unbeschadet der Abhilfebefugnisse der {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+      rde} gem\xE4\xDF Artikel 58 Absatz 2 kann jeder Mitgliedstaat Vorschriften daf\xFC\
+      r festlegen, ob und in welchem Umfang gegen Beh\xF6rden und \xF6ffentliche Stellen,\
+      \ die in dem betreffenden Mitgliedstaat niedergelassen sind, Geldbu\xDFen verh\xE4\
+      ngt werden k\xF6nnen."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 7
+  8:
+    content: "Die Aus\xFCbung der eigenen Befugnisse durch eine {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} gem\xE4\xDF diesem Artikel muss angemessenen\
+      \ Verfahrensgarantien gem\xE4\xDF dem Unionsrecht und dem Recht der Mitgliedstaaten,\
+      \ einschlie\xDFlich wirksamer gerichtlicher Rechtsbehelfe und ordnungsgem\xE4\
+      \xDFer {Verfahren|index:verfahren}, unterliegen."
+    index:
+    - verfahren
+    - "aufsichtsbeh\xF6rde"
+    number: 8
+  9:
+    content: "Sieht die Rechtsordnung eines Mitgliedstaats keine Geldbu\xDFen vor,\
+      \ kann dieser Artikel so angewandt werden, dass die Geldbu\xDFe von der zust\xE4\
+      ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} in die Wege geleitet\
+      \ und von den zust\xE4ndigen nationalen Gerichten verh\xE4ngt wird, wobei sicherzustellen\
+      \ ist, dass diese Rechtsbehelfe wirksam sind und die gleiche Wirkung wie die\
+      \ von {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} verh\xE4ngten Geldbu\xDF\
+      en haben. In jeden Fall m\xFCssen die verh\xE4ngten Geldbu\xDFen wirksam, verh\xE4\
+      ltnism\xE4\xDFig und abschreckend sein. Die betreffenden Mitgliedstaaten teilen\
+      \ der Kommission bis zum 25. Mai 2018 die Rechtsvorschriften mit, die sie aufgrund\
+      \ dieses Absatzes erlassen, sowie unverz\xFCglich alle sp\xE4teren \xC4nderungsgesetze\
+      \ oder \xC4nderungen dieser Vorschriften."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 9
+section: 0
+title: "Allgemeine Bedingungen f\xFCr die Verh\xE4ngung von Geldbu\xDFen"

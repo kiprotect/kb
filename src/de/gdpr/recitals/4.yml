@@ -1,0 +1,19 @@
+content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ sollte im Dienste der Menschheit stehen. Das Recht auf Schutz der {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} ist kein uneingeschr\xE4nktes Recht; es muss\
+  \ im Hinblick auf seine gesellschaftliche Funktion gesehen und unter Wahrung des\
+  \ Verh\xE4ltnism\xE4\xDFigkeitsprinzips gegen andere Grundrechte abgewogen werden.\
+  \ Diese {Verordnung|index:verordnung} steht im Einklang mit allen Grundrechten und\
+  \ achtet alle Freiheiten und Grunds\xE4tze, die mit der Charta anerkannt wurden\
+  \ und in den Europ\xE4ischen Vertr\xE4gen verankert sind, insbesondere Achtung des\
+  \ Privat- und Familienlebens, der Wohnung und der Kommunikation, Schutz {personenbezogener\
+  \ Daten|index:personenbezogene-daten}, Gedanken-, Gewissens- und Religionsfreiheit,\
+  \ Freiheit der Meinungs\xE4u\xDFerung und Informationsfreiheit, unternehmerische\
+  \ Freiheit, Recht auf einen wirksamen Rechtsbehelf und ein faires {Verfahren|index:verfahren}\
+  \ und Vielfalt der Kulturen, Religionen und Sprachen."
+index:
+- verfahren
+- personenbezogene-daten
+- verordnung
+- verarbeitung
+number: 4

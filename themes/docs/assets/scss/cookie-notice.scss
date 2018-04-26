@@ -1,0 +1,22 @@
+
+.message.cookie-notice {
+    display: none;
+    @media(min-width: 768px){
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        max-width: 300px;
+    }
+    @media(max-width:767px){
+        border: none;
+        border-radius: 0;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        margin-bottom:0;
+        margin-right: 0;
+    }
+    .message-body {
+        font-size: 0.8em;
+    }
+}

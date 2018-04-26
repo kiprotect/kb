@@ -1,0 +1,7 @@
+articles:
+- $include: articles/1.yml
+- $include: articles/2.yml
+- $include: articles/3.yml
+- $include: articles/4.yml
+chapter: 1
+number: 0

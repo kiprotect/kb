@@ -1,0 +1,29 @@
+content: "Aus Gr\xFCnden des \xF6ffentlichen Interesses in Bereichen der \xF6ffentlichen\
+  \ Gesundheit kann es notwendig sein, besondere Kategorien {personenbezogener Daten|index:personenbezogene-daten}\
+  \ auch ohne {Einwilligung|index:einwilligung} der {betroffenen Person|index:betroffene-person}\
+  \ zu verarbeiten. Diese {Verarbeitung|index:verarbeitung} sollte angemessenen und\
+  \ besonderen Ma\xDFnahmen zum Schutz der Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFC\
+  rliche-person} unterliegen. In diesem Zusammenhang sollte der Begriff \u201E\xF6\
+  ffentliche Gesundheit\u201C im Sinne der {Verordnung|index:verordnung} (EG) Nr.\
+  \ 1338/2008 des Europ\xE4ischen Parlaments und des Rates (11) ausgelegt werden und\
+  \ alle Elemente im Zusammenhang mit der Gesundheit wie den Gesundheitszustand einschlie\xDF\
+  lich Morbidit\xE4t und Behinderung, die sich auf diesen Gesundheitszustand auswirkenden\
+  \ Determinanten, den Bedarf an Gesundheitsversorgung, die der Gesundheitsversorgung\
+  \ zugewiesenen Mittel, die Bereitstellung von Gesundheitsversorgungsleistungen und\
+  \ den allgemeinen Zugang zu diesen Leistungen sowie die entsprechenden Ausgaben\
+  \ und die Finanzierung und schlie\xDFlich die Ursachen der Mortalit\xE4t einschlie\xDF\
+  en. Eine solche {Verarbeitung|index:verarbeitung} von {Gesundheitsdaten|index:gesundheitsdaten}\
+  \ aus Gr\xFCnden des \xF6ffentlichen Interesses darf nicht dazu f\xFChren, dass\
+  \ {Dritte|index:dritter}, unter anderem Arbeitgeber oder Versicherungs- und Finanzunternehmen,\
+  \ solche {personenbezogene Daten|index:personenbezogene-daten} zu anderen Zwecken\
+  \ verarbeiten."
+index:
+- betroffene-person
+- dritter
+- verordnung
+- personenbezogene-daten
+- gesundheitsdaten
+- "nat\xFCrliche-person"
+- einwilligung
+- verarbeitung
+number: 54

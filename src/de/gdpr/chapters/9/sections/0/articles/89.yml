@@ -1,0 +1,61 @@
+chapter: 9
+index:
+- verarbeitung
+number: 89
+paragraphs:
+  1:
+    content: "Die {Verarbeitung|index:verarbeitung} zu im \xF6ffentlichen Interesse\
+      \ liegenden Archivzwecken, zu wissenschaftlichen oder historischen Forschungszwecken\
+      \ oder zu statistischen Zwecken unterliegt geeigneten Garantien f\xFCr die Rechte\
+      \ und Freiheiten der {betroffenen Person|index:betroffene-person} gem\xE4\xDF\
+      \ dieser {Verordnung|index:verordnung}. Mit diesen Garantien wird sichergestellt,\
+      \ dass {technische und organisatorische Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+      nahmen} bestehen, mit denen insbesondere die Achtung des Grundsatzes der Datenminimierung\
+      \ gew\xE4hrleistet wird. Zu diesen Ma\xDFnahmen kann die {Pseudonymisierung|index:pseudonymisierung}\
+      \ geh\xF6ren, sofern es m\xF6glich ist, diese Zwecke auf diese Weise zu erf\xFC\
+      llen. In allen F\xE4llen, in denen diese Zwecke durch die Weiterverarbeitung,\
+      \ bei der die Identifizierung von {betroffenen Personen|index:betroffene-person}\
+      \ nicht oder nicht mehr m\xF6glich ist, erf\xFCllt werden k\xF6nnen, werden\
+      \ diese Zwecke auf diese Weise erf\xFCllt."
+    index:
+    - betroffene-person
+    - verordnung
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - pseudonymisierung
+    - verarbeitung
+    number: 1
+  2:
+    content: "Werden {personenbezogene Daten|index:personenbezogene-daten} zu wissenschaftlichen\
+      \ oder historischen Forschungszwecken oder zu statistischen Zwecken verarbeitet,\
+      \ k\xF6nnen vorbehaltlich der Bedingungen und Garantien gem\xE4\xDF Absatz 1\
+      \ des vorliegenden Artikels im Unionsrecht oder im Recht der Mitgliedstaaten\
+      \ insoweit Ausnahmen von den Rechten gem\xE4\xDF der Artikel 15, 16, 18 und\
+      \ 21 vorgesehen werden, als diese Rechte voraussichtlich die Verwirklichung\
+      \ der spezifischen Zwecke unm\xF6glich machen oder ernsthaft beeintr\xE4chtigen\
+      \ und solche Ausnahmen f\xFCr die Erf\xFCllung dieser Zwecke notwendig sind."
+    index:
+    - personenbezogene-daten
+    number: 2
+  3:
+    content: "Werden {personenbezogene Daten|index:personenbezogene-daten} f\xFCr\
+      \ im \xF6ffentlichen Interesse liegende Archivzwecke verarbeitet, k\xF6nnen\
+      \ vorbehaltlich der Bedingungen und Garantien gem\xE4\xDF Absatz 1 des vorliegenden\
+      \ Artikels im Unionsrecht oder im Recht der Mitgliedstaaten insoweit Ausnahmen\
+      \ von den Rechten gem\xE4\xDF der Artikel 15, 16, 18, 19, 20 und 21 vorgesehen\
+      \ werden, als diese Rechte voraussichtlich die Verwirklichung der spezifischen\
+      \ Zwecke unm\xF6glich machen oder ernsthaft beeintr\xE4chtigen und solche Ausnahmen\
+      \ f\xFCr die Erf\xFCllung dieser Zwecke notwendig sind."
+    index:
+    - personenbezogene-daten
+    number: 3
+  4:
+    content: "Dient die in den Abs\xE4tzen 2 und 3 genannte {Verarbeitung|index:verarbeitung}\
+      \ gleichzeitig einem anderen Zweck, gelten die Ausnahmen nur f\xFCr die {Verarbeitung|index:verarbeitung}\
+      \ zu den in diesen Abs\xE4tzen genannten Zwecken."
+    index:
+    - verarbeitung
+    number: 4
+section: 0
+title: "Garantien und Ausnahmen in Bezug auf die {Verarbeitung|index:verarbeitung}\
+  \ zu im \xF6ffentlichen Interesse liegenden Archivzwecken, zu wissenschaftlichen\
+  \ oder historischen Forschungszwecken und zu statistischen Zwecken"

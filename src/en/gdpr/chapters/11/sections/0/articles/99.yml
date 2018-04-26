@@ -1,0 +1,14 @@
+chapter: 11
+number: 99
+paragraphs:
+  1:
+    content: |-
+      This {Regulation|index:regulation} shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+    index:
+    - regulation
+    number: 1
+  2:
+    content: It shall apply from 25 May 2018.
+    number: 2
+section: 0
+title: Entry into force and application

@@ -1,0 +1,13 @@
+articles:
+- $include: articles/68.yml
+- $include: articles/69.yml
+- $include: articles/70.yml
+- $include: articles/71.yml
+- $include: articles/72.yml
+- $include: articles/73.yml
+- $include: articles/74.yml
+- $include: articles/75.yml
+- $include: articles/76.yml
+chapter: 7
+number: 3
+title: European data protection board

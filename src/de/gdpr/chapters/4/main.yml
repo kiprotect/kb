@@ -1,0 +1,12 @@
+index:
+- verantwortlicher
+- auftragsverarbeiter
+number: 4
+roman_number: IV
+sections:
+- $include: sections/1/main.yml
+- $include: sections/2/main.yml
+- $include: sections/3/main.yml
+- $include: sections/4/main.yml
+- $include: sections/5/main.yml
+title: '{Verantwortlicher|index:verantwortlicher} und {Auftragsverarbeiter|index:auftragsverarbeiter}'

@@ -1,0 +1,23 @@
+content: "Dass sie betreffende {personenbezogene Daten|index:personenbezogene-daten}\
+  \ verarbeitet werden, sollte der {betroffenen Person|index:betroffene-person} zum\
+  \ Zeitpunkt der Erhebung mitgeteilt werden oder, falls die Daten nicht von ihr,\
+  \ sondern aus einer anderen Quelle erlangt werden, innerhalb einer angemessenen\
+  \ Frist, die sich nach dem konkreten Einzelfall richtet. Wenn die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} rechtm\xE4\xDFig einem anderen {Empf\xE4nger|index:empf\xE4\
+  nger} offengelegt werden d\xFCrfen, sollte die {betroffene Person|index:betroffene-person}\
+  \ bei der erstmaligen Offenlegung der {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ f\xFCr diesen {Empf\xE4nger|index:empf\xE4nger} dar\xFCber aufgekl\xE4rt werden.\
+  \ Beabsichtigt der {Verantwortliche|index:verantwortlicher}, die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} f\xFCr einen anderen Zweck zu verarbeiten\
+  \ als den, f\xFCr den die Daten erhoben wurden, so sollte er der {betroffenen Person|index:betroffene-person}\
+  \ vor dieser Weiterverarbeitung Informationen \xFCber diesen anderen Zweck und andere\
+  \ erforderliche Informationen zur Verf\xFCgung stellen. Konnte der {betroffenen\
+  \ Person|index:betroffene-person} nicht mitgeteilt werden, woher die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} stammen, weil verschiedene Quellen benutzt\
+  \ wurden, so sollte die Unterrichtung allgemein gehalten werden."
+index:
+- verantwortlicher
+- personenbezogene-daten
+- betroffene-person
+- "empf\xE4nger"
+number: 61

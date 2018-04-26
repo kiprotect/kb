@@ -1,0 +1,39 @@
+content: "Besondere Kategorien {personenbezogener Daten|index:personenbezogene-daten},\
+  \ die eines h\xF6heren Schutzes verdienen, sollten nur dann f\xFCr gesundheitsbezogene\
+  \ Zwecke verarbeitet werden, wenn dies f\xFCr das Erreichen dieser Zwecke im Interesse\
+  \ einzelner {nat\xFCrlicher Personen|index:nat\xFCrliche-person} und der Gesellschaft\
+  \ insgesamt erforderlich ist, insbesondere im Zusammenhang mit der Verwaltung der\
+  \ Dienste und Systeme des Gesundheits- oder Sozialbereichs, einschlie\xDFlich der\
+  \ {Verarbeitung|index:verarbeitung} dieser Daten durch die Verwaltung und die zentralen\
+  \ nationalen Gesundheitsbeh\xF6rden zwecks Qualit\xE4tskontrolle, Verwaltungsinformationen\
+  \ und der allgemeinen nationalen und lokalen \xDCberwachung des Gesundheitssystems\
+  \ oder des Sozialsystems und zwecks Gew\xE4hrleistung der Kontinuit\xE4t der Gesundheits-\
+  \ und Sozialf\xFCrsorge und der grenz\xFCberschreitenden Gesundheitsversorgung oder\
+  \ Sicherstellung und \xDCberwachung der Gesundheit und Gesundheitswarnungen oder\
+  \ f\xFCr im \xF6ffentlichen Interesse liegende Archivzwecke, zu wissenschaftlichen\
+  \ oder historischen Forschungszwecken oder statistischen Zwecken, die auf Rechtsvorschriften\
+  \ der Union oder der Mitgliedstaaten beruhen, die einem im \xF6ffentlichen Interesse\
+  \ liegenden Ziel dienen m\xFCssen, sowie f\xFCr Studien, die im \xF6ffentlichen\
+  \ Interesse im Bereich der \xF6ffentlichen Gesundheit durchgef\xFChrt werden. Diese\
+  \ {Verordnung|index:verordnung} sollte daher harmonisierte Bedingungen f\xFCr die\
+  \ {Verarbeitung|index:verarbeitung} besonderer Kategorien personenbezogener {Gesundheitsdaten|index:gesundheitsdaten}\
+  \ im Hinblick auf bestimmte Erfordernisse harmonisieren, insbesondere wenn die {Verarbeitung|index:verarbeitung}\
+  \ dieser Daten f\xFCr gesundheitsbezogene Zwecke von Personen durchgef\xFChrt wird,\
+  \ die gem\xE4\xDF einer rechtlichen Verpflichtung dem Berufsgeheimnis unterliegen.\
+  \ Im Recht der Union oder der Mitgliedstaaten sollten besondere und angemessene\
+  \ Ma\xDFnahmen zum Schutz der Grundrechte und der {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person} vorgesehen werden. Den Mitgliedstaaten\
+  \ sollte gestattet werden, weitere Bedingungen \u2014 einschlie\xDFlich Beschr\xE4\
+  nkungen \u2014 in Bezug auf die {Verarbeitung|index:verarbeitung} von genetischen\
+  \ Daten, biometrischen Daten oder {Gesundheitsdaten|index:gesundheitsdaten} beizubehalten\
+  \ oder einzuf\xFChren. Dies sollte jedoch den freien Verkehr {personenbezogener\
+  \ Daten|index:personenbezogene-daten} innerhalb der Union nicht beeintr\xE4chtigen,\
+  \ falls die betreffenden Bedingungen f\xFCr die grenz\xFCberschreitende {Verarbeitung|index:verarbeitung}\
+  \ solcher Daten gelten."
+index:
+- verordnung
+- personenbezogene-daten
+- gesundheitsdaten
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 53

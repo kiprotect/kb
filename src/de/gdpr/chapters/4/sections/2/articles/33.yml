@@ -1,0 +1,87 @@
+chapter: 4
+index:
+- personenbezogene-daten
+- "aufsichtsbeh\xF6rde"
+number: 33
+paragraphs:
+  1:
+    content: "Im Falle einer {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+      \ meldet der {Verantwortliche|index:verantwortlicher} unverz\xFCglich und m\xF6\
+      glichst binnen 72 Stunden, nachdem ihm die Verletzung bekannt wurde, diese der\
+      \ gem\xE4\xDF Artikel 51 zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde}, es sei denn, dass die {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+      \ voraussichtlich nicht zu einem Risiko f\xFCr die Rechte und Freiheiten {nat\xFC\
+      rlicher Personen|index:nat\xFCrliche-person} f\xFChrt. Erfolgt die Meldung an\
+      \ die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} nicht binnen 72 Stunden,\
+      \ so ist ihr eine Begr\xFCndung f\xFCr die Verz\xF6gerung beizuf\xFCgen."
+    index:
+    - verletzung-des-schutzes-personenbezogener-daten
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - "nat\xFCrliche-person"
+    number: 1
+  2:
+    content: "Wenn dem {Auftragsverarbeiter|index:auftragsverarbeiter} eine {Verletzung\
+      \ des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+      \ bekannt wird, meldet er diese dem {Verantwortlichen|index:verantwortlicher}\
+      \ unverz\xFCglich."
+    index:
+    - verletzung-des-schutzes-personenbezogener-daten
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 2
+  3:
+    number: 3
+    points:
+      a:
+        content: "eine Beschreibung der Art der {Verletzung des Schutzes personenbezogener\
+          \ Daten|index:verletzung-des-schutzes-personenbezogener-daten}, soweit m\xF6\
+          glich mit Angabe der Kategorien und der ungef\xE4hren Zahl der {betroffenen\
+          \ Personen|index:betroffene-person}, der betroffenen Kategorien und der\
+          \ ungef\xE4hren Zahl der betroffenen personenbezogenen Datens\xE4tze;"
+        index:
+        - verletzung-des-schutzes-personenbezogener-daten
+        - betroffene-person
+      b:
+        content: "den Namen und die Kontaktdaten des Datenschutzbeauftragten oder\
+          \ einer sonstigen Anlaufstelle f\xFCr weitere Informationen;"
+      c:
+        content: |-
+          eine Beschreibung der wahrscheinlichen Folgen der {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten};
+        index:
+        - verletzung-des-schutzes-personenbezogener-daten
+      d:
+        content: "eine Beschreibung der von dem {Verantwortlichen|index:verantwortlicher}\
+          \ ergriffenen oder vorgeschlagenen Ma\xDFnahmen zur Behebung der {Verletzung\
+          \ des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+          \ und gegebenenfalls Ma\xDFnahmen zur Abmilderung ihrer m\xF6glichen nachteiligen\
+          \ Auswirkungen."
+        index:
+        - verletzung-des-schutzes-personenbezogener-daten
+        - verantwortlicher
+    preamble: "Die Meldung gem\xE4\xDF Absatz 1 enth\xE4lt zumindest folgende Informationen:"
+  4:
+    content: "Wenn und soweit die Informationen nicht zur gleichen Zeit bereitgestellt\
+      \ werden k\xF6nnen, kann der {Verantwortliche|index:verantwortlicher} diese\
+      \ Informationen ohne unangemessene weitere Verz\xF6gerung schrittweise zur Verf\xFC\
+      gung stellen."
+    index:
+    - verantwortlicher
+    number: 4
+  5:
+    content: "Der {Verantwortliche|index:verantwortlicher} dokumentiert Verletzungen\
+      \ des Schutzes {personenbezogener Daten|index:personenbezogene-daten} einschlie\xDF\
+      lich aller im Zusammenhang mit der {Verletzung des Schutzes personenbezogener\
+      \ Daten|index:verletzung-des-schutzes-personenbezogener-daten} stehenden Fakten,\
+      \ von deren Auswirkungen und der ergriffenen Abhilfema\xDFnahmen. Diese Dokumentation\
+      \ muss der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} die \xDCberpr\xFC\
+      fung der Einhaltung der Bestimmungen dieses Artikels erm\xF6glichen."
+    index:
+    - verletzung-des-schutzes-personenbezogener-daten
+    - personenbezogene-daten
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    number: 5
+section: 2
+title: "Meldung von Verletzungen des Schutzes {personenbezogener Daten|index:personenbezogene-daten}\
+  \ an die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}"

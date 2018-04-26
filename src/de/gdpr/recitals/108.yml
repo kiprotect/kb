@@ -1,0 +1,38 @@
+content: "Bei Fehlen eines Angemessenheitsbeschlusses sollte der {Verantwortliche|index:verantwortlicher}\
+  \ oder der {Auftragsverarbeiter|index:auftragsverarbeiter} als Ausgleich f\xFCr\
+  \ den in einem Drittland bestehenden Mangel an Datenschutz geeignete Garantien f\xFC\
+  r den Schutz der {betroffenen Person|index:betroffene-person} vorsehen. Diese geeigneten\
+  \ Garantien k\xF6nnen darin bestehen, dass auf {verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften},\
+  \ von der Kommission oder von einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+  rde} angenommene Standarddatenschutzklauseln oder von einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+  rde} genehmigte Vertragsklauseln zur\xFCckgegriffen wird. Diese Garantien sollten\
+  \ sicherstellen, dass die Datenschutzvorschriften und die Rechte der {betroffenen\
+  \ Personen|index:betroffene-person} auf eine der {Verarbeitung|index:verarbeitung}\
+  \ innerhalb der Union angemessene Art und Weise beachtet werden; dies gilt auch\
+  \ hinsichtlich der Verf\xFCgbarkeit von durchsetzbaren Rechten der {betroffenen\
+  \ Person|index:betroffene-person} und von wirksamen Rechtsbehelfen einschlie\xDF\
+  lich des Rechts auf wirksame verwaltungsrechtliche oder gerichtliche Rechtsbehelfe\
+  \ sowie des Rechts auf Geltendmachung von Schadenersatzanspr\xFCchen in der Union\
+  \ oder in einem Drittland. Sie sollten sich insbesondere auf die Einhaltung der\
+  \ allgemeinen Grunds\xE4tze f\xFCr die {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten}, die Grunds\xE4tze des Datenschutzes durch\
+  \ Technik und durch datenschutzfreundliche Voreinstellungen beziehen. Daten\xFC\
+  bermittlungen d\xFCrfen auch von Beh\xF6rden oder \xF6ffentlichen Stellen an Beh\xF6\
+  rden oder \xF6ffentliche Stellen in Drittl\xE4ndern oder an {internationale Organisationen|index:internationale-organisation}\
+  \ mit entsprechenden Pflichten oder Aufgaben vorgenommen werden, auch auf der Grundlage\
+  \ von Bestimmungen, die in Verwaltungsvereinbarungen \u2014 wie beispielsweise einer\
+  \ gemeinsamen Absichtserkl\xE4rung \u2013, mit denen den {betroffenen Personen|index:betroffene-person}\
+  \ durchsetzbare und wirksame Rechte einger\xE4umt werden, aufzunehmen sind. Die\
+  \ Genehmigung der zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
+  \ sollte erlangt werden, wenn die Garantien in nicht rechtsverbindlichen Verwaltungsvereinbarungen\
+  \ vorgesehen sind."
+index:
+- betroffene-person
+- internationale-organisation
+- auftragsverarbeiter
+- verantwortlicher
+- personenbezogene-daten
+- verbindliche-interne-datenschutzvorschriften
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
+number: 108

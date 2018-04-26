@@ -1,0 +1,83 @@
+chapter: 5
+number: 46
+paragraphs:
+  1:
+    content: |-
+      In the absence of a decision pursuant to Article 45(3), a {controller|index:controller} or {processor|index:processor} may transfer {personal data|index:personal-data} to a third country or an {international organisation|index:international-organisation} only if the {controller|index:controller} or {processor|index:processor} has provided appropriate safeguards, and on condition that enforceable {data subject|index:data-subject} rights and effective legal remedies for data subjects are available.
+    index:
+    - data-subject
+    - international-organisation
+    - processor
+    - controller
+    - personal-data
+    number: 1
+  2:
+    index:
+    - supervisory-authority
+    number: 2
+    points:
+      a:
+        content: a legally binding and enforceable instrument between public authorities
+          or bodies;
+      b:
+        content: '{binding corporate rules|index:binding-corporate-rules} in accordance
+          with Article 47;'
+        index:
+        - binding-corporate-rules
+      c:
+        content: |-
+          standard data protection clauses adopted by the Commission in accordance with the examination procedure referred to in Article 93(2);
+      d:
+        content: |-
+          standard data protection clauses adopted by a {supervisory authority|index:supervisory-authority} and approved by the Commission pursuant to the examination procedure referred to in Article 93(2);
+        index:
+        - supervisory-authority
+      e:
+        content: |-
+          an approved code of conduct pursuant to Article 40 together with binding and enforceable commitments of the {controller|index:controller} or {processor|index:processor} in the third country to apply the appropriate safeguards, including as regards data subjects' rights; or
+        index:
+        - processor
+        - controller
+      f:
+        content: |-
+          an approved certification mechanism pursuant to Article 42 together with binding and enforceable commitments of the {controller|index:controller} or {processor|index:processor} in the third country to apply the appropriate safeguards, including as regards data subjects' rights.
+        index:
+        - processor
+        - controller
+    preamble: |-
+      The appropriate safeguards referred to in paragraph 1 may be provided for, without requiring any specific authorisation from a {supervisory authority|index:supervisory-authority}, by:
+  3:
+    index:
+    - supervisory-authority
+    number: 3
+    points:
+      a:
+        content: |-
+          contractual clauses between the {controller|index:controller} or {processor|index:processor} and the {controller|index:controller}, {processor|index:processor} or the {recipient|index:recipient} of the {personal data|index:personal-data} in the third country or {international organisation|index:international-organisation}; or
+        index:
+        - international-organisation
+        - processor
+        - controller
+        - personal-data
+        - recipient
+      b:
+        content: |-
+          provisions to be inserted into administrative arrangements between public authorities or bodies which include enforceable and effective {data subject|index:data-subject} rights.
+        index:
+        - data-subject
+    preamble: |-
+      Subject to the authorisation from the competent {supervisory authority|index:supervisory-authority}, the appropriate safeguards referred to in paragraph 1 may also be provided for, in particular, by:
+  4:
+    content: |-
+      The {supervisory authority|index:supervisory-authority} shall apply the consistency mechanism referred to in Article 63 in the cases referred to in paragraph 3 of this Article.
+    index:
+    - supervisory-authority
+    number: 4
+  5:
+    content: |-
+      Authorisations by a Member State or {supervisory authority|index:supervisory-authority} on the basis of Article 26(2) of Directive 95/46/EC shall remain valid until amended, replaced or repealed, if necessary, by that {supervisory authority|index:supervisory-authority}. Decisions adopted by the Commission on the basis of Article 26(4) of Directive 95/46/EC shall remain in force until amended, replaced or repealed, if necessary, by a Commission Decision adopted in accordance with paragraph 2 of this Article.
+    index:
+    - supervisory-authority
+    number: 5
+section: 0
+title: Transfers subject to appropriate safeguards

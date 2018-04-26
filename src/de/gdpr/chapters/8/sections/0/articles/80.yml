@@ -1,0 +1,38 @@
+chapter: 8
+index:
+- betroffene-person
+number: 80
+paragraphs:
+  1:
+    content: "Die {betroffene Person|index:betroffene-person} hat das Recht, eine\
+      \ Einrichtung, Organisationen oder Vereinigung ohne Gewinnerzielungsabsicht,\
+      \ die ordnungsgem\xE4\xDF nach dem Recht eines Mitgliedstaats gegr\xFCndet ist,\
+      \ deren satzungsm\xE4\xDFige Ziele im \xF6ffentlichem Interesse liegen und die\
+      \ im Bereich des Schutzes der Rechte und Freiheiten von {betroffenen Personen|index:betroffene-person}\
+      \ in Bezug auf den Schutz ihrer {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ t\xE4tig ist, zu beauftragen, in ihrem Namen eine Beschwerde einzureichen,\
+      \ in ihrem Namen die in den Artikeln 77, 78 und 79 genannten Rechte wahrzunehmen\
+      \ und das Recht auf Schadensersatz gem\xE4\xDF Artikel 82 in Anspruch zu nehmen,\
+      \ sofern dieses im Recht der Mitgliedstaaten vorgesehen ist."
+    index:
+    - personenbezogene-daten
+    - betroffene-person
+    number: 1
+  2:
+    content: "Die Mitgliedstaaten k\xF6nnen vorsehen, dass jede der in Absatz 1 des\
+      \ vorliegenden Artikels genannten Einrichtungen, Organisationen oder Vereinigungen\
+      \ unabh\xE4ngig von einem Auftrag der {betroffenen Person|index:betroffene-person}\
+      \ in diesem Mitgliedstaat das Recht hat, bei der gem\xE4\xDF Artikel 77 zust\xE4\
+      ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} eine Beschwerde einzulegen\
+      \ und die in den Artikeln 78 und 79 aufgef\xFChrten Rechte in Anspruch zu nehmen,\
+      \ wenn ihres Erachtens die Rechte einer {betroffenen Person|index:betroffene-person}\
+      \ gem\xE4\xDF dieser {Verordnung|index:verordnung} infolge einer {Verarbeitung|index:verarbeitung}\
+      \ verletzt worden sind."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - betroffene-person
+    - verordnung
+    - verarbeitung
+    number: 2
+section: 0
+title: Vertretung von {betroffenen Personen|index:betroffene-person}

@@ -1,0 +1,103 @@
+chapter: 4
+number: 36
+paragraphs:
+  1:
+    content: "Der {Verantwortliche|index:verantwortlicher} konsultiert vor der {Verarbeitung|index:verarbeitung}\
+      \ die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, wenn aus einer Datenschutz-Folgenabsch\xE4\
+      tzung gem\xE4\xDF Artikel 35 hervorgeht, dass die {Verarbeitung|index:verarbeitung}\
+      \ ein hohes Risiko zur Folge h\xE4tte, sofern der {Verantwortliche|index:verantwortlicher}\
+      \ keine Ma\xDFnahmen zur Eind\xE4mmung des Risikos trifft."
+    index:
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 1
+  2:
+    content: "Falls die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} der Auffassung\
+      \ ist, dass die geplante {Verarbeitung|index:verarbeitung} gem\xE4\xDF Absatz\
+      \ 1 nicht im Einklang mit dieser {Verordnung|index:verordnung} st\xFCnde, insbesondere\
+      \ weil der {Verantwortliche|index:verantwortlicher} das Risiko nicht ausreichend\
+      \ ermittelt oder nicht ausreichend einged\xE4mmt hat, unterbreitet sie dem {Verantwortlichen|index:verantwortlicher}\
+      \ und gegebenenfalls dem {Auftragsverarbeiter|index:auftragsverarbeiter} innerhalb\
+      \ eines Zeitraums von bis zu acht Wochen nach Erhalt des Ersuchens um Konsultation\
+      \ entsprechende schriftliche Empfehlungen und kann ihre in Artikel 58 genannten\
+      \ Befugnisse aus\xFCben. Diese Frist kann unter Ber\xFCcksichtigung der Komplexit\xE4\
+      t der geplanten {Verarbeitung|index:verarbeitung} um sechs Wochen verl\xE4ngert\
+      \ werden. Die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} unterrichtet den\
+      \ {Verantwortlichen|index:verantwortlicher} oder gegebenenfalls den {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ \xFCber eine solche Fristverl\xE4ngerung innerhalb eines Monats nach Eingang\
+      \ des Antrags auf Konsultation zusammen mit den Gr\xFCnden f\xFCr die Verz\xF6\
+      gerung. Diese Fristen k\xF6nnen ausgesetzt werden, bis die {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} die f\xFCr die Zwecke der Konsultation angeforderten\
+      \ Informationen erhalten hat."
+    index:
+    - auftragsverarbeiter
+    - verordnung
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 2
+  3:
+    index:
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    number: 3
+    points:
+      a:
+        content: "gegebenenfalls Angaben zu den jeweiligen Zust\xE4ndigkeiten des\
+          \ {Verantwortlichen|index:verantwortlicher}, der gemeinsam {Verantwortlichen|index:verantwortlicher}\
+          \ und der an der {Verarbeitung|index:verarbeitung} beteiligten {Auftragsverarbeiter|index:auftragsverarbeiter},\
+          \ insbesondere bei einer {Verarbeitung|index:verarbeitung} innerhalb einer\
+          \ Gruppe von {Unternehmen|index:unternehmen};"
+        index:
+        - unternehmen
+        - verantwortlicher
+        - auftragsverarbeiter
+        - verarbeitung
+      b:
+        content: die Zwecke und die Mittel der beabsichtigten {Verarbeitung|index:verarbeitung};
+        index:
+        - verarbeitung
+      c:
+        content: "die zum Schutz der Rechte und Freiheiten der {betroffenen Personen|index:betroffene-person}\
+          \ gem\xE4\xDF dieser {Verordnung|index:verordnung} vorgesehenen Ma\xDFnahmen\
+          \ und Garantien;"
+        index:
+        - betroffene-person
+        - verordnung
+      d:
+        content: gegebenenfalls die Kontaktdaten des Datenschutzbeauftragten;
+      e:
+        content: "die Datenschutz-Folgenabsch\xE4tzung gem\xE4\xDF Artikel 35 und"
+      f:
+        content: "alle sonstigen von der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+          rde} angeforderten Informationen."
+        index:
+        - "aufsichtsbeh\xF6rde"
+    preamble: "Der {Verantwortliche|index:verantwortlicher} stellt der {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} bei einer Konsultation gem\xE4\xDF Absatz 1 folgende\
+      \ Informationen zur Verf\xFCgung:"
+  4:
+    content: "Die Mitgliedstaaten konsultieren die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} bei der Ausarbeitung eines Vorschlags f\xFCr von einem nationalen Parlament\
+      \ zu erlassende Gesetzgebungsma\xDFnahmen oder von auf solchen Gesetzgebungsma\xDF\
+      nahmen basierenden Regelungsma\xDFnahmen, die die {Verarbeitung|index:verarbeitung}\
+      \ betreffen."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 4
+  5:
+    content: "Ungeachtet des Absatzes 1 k\xF6nnen {Verantwortliche|index:verantwortlicher}\
+      \ durch das Recht der Mitgliedstaaten verpflichtet werden, bei der {Verarbeitung|index:verarbeitung}\
+      \ zur Erf\xFCllung einer im \xF6ffentlichen Interesse liegenden Aufgabe, einschlie\xDF\
+      lich der {Verarbeitung|index:verarbeitung} zu Zwecken der sozialen Sicherheit\
+      \ und der \xF6ffentlichen Gesundheit, die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} zu konsultieren und deren vorherige Genehmigung einzuholen."
+    index:
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 5
+section: 3
+title: Vorherige Konsultation

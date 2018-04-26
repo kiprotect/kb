@@ -1,0 +1,6 @@
+article: file://common/law/article.html
+summary: file://common/law/article_summary.html
+wiki: file://common/law/article_wiki.html
+index_page: file://common/law/index_page.html
+index_overview: file://common/law/index_overview.html
+articles_overview: file://common/law/articles_overview.html

@@ -1,0 +1,15 @@
+content: "Die Pflicht, Informationen zur Verf\xFCgung zu stellen, er\xFCbrigt sich\
+  \ jedoch, wenn die {betroffene Person|index:betroffene-person} die Information bereits\
+  \ hat, wenn die Speicherung oder Offenlegung der {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ ausdr\xFCcklich durch Rechtsvorschriften geregelt ist oder wenn sich die Unterrichtung\
+  \ der {betroffenen Person|index:betroffene-person} als unm\xF6glich erweist oder\
+  \ mit unverh\xE4ltnism\xE4\xDFig hohem Aufwand verbunden ist. Letzteres k\xF6nnte\
+  \ insbesondere bei Verarbeitungen f\xFCr im \xF6ffentlichen Interesse liegende Archivzwecke,\
+  \ zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen\
+  \ Zwecken der Fall sein. Als Anhaltspunkte sollten dabei die Zahl der {betroffenen\
+  \ Personen|index:betroffene-person}, das Alter der Daten oder etwaige geeignete\
+  \ Garantien in Betracht gezogen werden."
+index:
+- personenbezogene-daten
+- betroffene-person
+number: 62

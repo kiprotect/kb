@@ -1,0 +1,14 @@
+content: "Bei {Verfahren|index:verfahren} gegen {Verantwortliche|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} sollte es dem Kl\xE4ger \xFC\
+  berlassen bleiben, ob er die Gerichte des Mitgliedstaats anruft, in dem der {Verantwortliche|index:verantwortlicher}\
+  \ oder der {Auftragsverarbeiter|index:auftragsverarbeiter} eine Niederlassung hat,\
+  \ oder des Mitgliedstaats, in dem die {betroffene Person|index:betroffene-person}\
+  \ ihren Aufenthaltsort hat; dies gilt nicht, wenn es sich bei dem {Verantwortlichen|index:verantwortlicher}\
+  \ um eine Beh\xF6rde eines Mitgliedstaats handelt, die in Aus\xFCbung ihrer hoheitlichen\
+  \ Befugnisse t\xE4tig geworden ist."
+index:
+- verfahren
+- verantwortlicher
+- betroffene-person
+- auftragsverarbeiter
+number: 145

@@ -1,0 +1,8 @@
+articles:
+- $include: articles/40.yml
+- $include: articles/41.yml
+- $include: articles/42.yml
+- $include: articles/43.yml
+chapter: 4
+number: 5
+title: Codes of conduct and certification

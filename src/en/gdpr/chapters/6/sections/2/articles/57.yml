@@ -1,0 +1,124 @@
+chapter: 6
+number: 57
+paragraphs:
+  1:
+    index:
+    - regulation
+    - supervisory-authority
+    number: 1
+    points:
+      a:
+        content: monitor and enforce the application of this {Regulation|index:regulation};
+        index:
+        - regulation
+      b:
+        content: |-
+          promote public awareness and understanding of the risks, rules, safeguards and rights in relation to {processing|index:processing}. Activities addressed specifically to children shall receive specific attention;
+        index:
+        - processing
+      c:
+        content: |-
+          advise, in accordance with Member State law, the national parliament, the government, and other institutions and bodies on legislative and administrative measures relating to the protection of natural persons' rights and freedoms with regard to {processing|index:processing};
+        index:
+        - processing
+      d:
+        content: |-
+          promote the awareness of controllers and processors of their obligations under this {Regulation|index:regulation};
+        index:
+        - regulation
+      e:
+        content: |-
+          upon request, provide information to any {data subject|index:data-subject} concerning the exercise of their rights under this {Regulation|index:regulation} and, if appropriate, cooperate with the supervisory authorities in other Member States to that end;
+        index:
+        - data-subject
+        - regulation
+      f:
+        content: |-
+          handle complaints lodged by a {data subject|index:data-subject}, or by a body, organisation or association in accordance with Article 80, and investigate, to the extent appropriate, the subject matter of the complaint and inform the complainant of the progress and the outcome of the investigation within a reasonable period, in particular if further investigation or coordination with another {supervisory authority|index:supervisory-authority} is necessary;
+        index:
+        - data-subject
+        - supervisory-authority
+      g:
+        content: |-
+          cooperate with, including sharing information and provide mutual assistance to, other supervisory authorities with a view to ensuring the consistency of application and enforcement of this {Regulation|index:regulation};
+        index:
+        - regulation
+      h:
+        content: |-
+          conduct investigations on the application of this {Regulation|index:regulation}, including on the basis of information received from another {supervisory authority|index:supervisory-authority} or other public authority;
+        index:
+        - regulation
+        - supervisory-authority
+      i:
+        content: |-
+          monitor relevant developments, insofar as they have an impact on the protection of {personal data|index:personal-data}, in particular the development of information and communication technologies and commercial practices;
+        index:
+        - personal-data
+      j:
+        content: adopt standard contractual clauses referred to in Article 28(8) and
+          in point (d) of Article 46(2);
+      k:
+        content: |-
+          establish and maintain a list in relation to the requirement for data protection impact assessment pursuant to Article 35(4);
+      l:
+        content: give advice on the {processing|index:processing} operations referred
+          to in Article 36(2);
+        index:
+        - processing
+      m:
+        content: |-
+          encourage the drawing up of codes of conduct pursuant to Article 40(1) and provide an opinion and approve such codes of conduct which provide sufficient safeguards, pursuant to Article 40(5);
+      n:
+        content: |-
+          encourage the establishment of data protection certification mechanisms and of data protection seals and marks pursuant to Article 42(1), and approve the criteria of certification pursuant to Article 42(5);
+      o:
+        content: |-
+          where applicable, carry out a periodic review of certifications issued in accordance with Article 42(7);
+      p:
+        content: |-
+          draft and publish the criteria for accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
+      q:
+        content: |-
+          conduct the accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
+      r:
+        content: authorise contractual clauses and provisions referred to in Article
+          46(3);
+      s:
+        content: approve {binding corporate rules|index:binding-corporate-rules} pursuant
+          to Article 47;
+        index:
+        - binding-corporate-rules
+      t:
+        content: contribute to the activities of the Board;
+      u:
+        content: |-
+          keep internal records of infringements of this {Regulation|index:regulation} and of measures taken in accordance with Article 58(2); and
+        index:
+        - regulation
+      v:
+        content: fulfil any other tasks related to the protection of {personal data|index:personal-data}.
+        index:
+        - personal-data
+    preamble: |-
+      Without prejudice to other tasks set out under this {Regulation|index:regulation}, each {supervisory authority|index:supervisory-authority} shall on its territory:
+  2:
+    content: |-
+      Each {supervisory authority|index:supervisory-authority} shall facilitate the submission of complaints referred to in point (f) of paragraph 1 by measures such as a complaint submission form which can also be completed electronically, without excluding other means of communication.
+    index:
+    - supervisory-authority
+    number: 2
+  3:
+    content: |-
+      The performance of the tasks of each {supervisory authority|index:supervisory-authority} shall be free of charge for the {data subject|index:data-subject} and, where applicable, for the data protection officer.
+    index:
+    - data-subject
+    - supervisory-authority
+    number: 3
+  4:
+    content: |-
+      Where requests are manifestly unfounded or excessive, in particular because of their repetitive character, the {supervisory authority|index:supervisory-authority} may charge a reasonable fee based on administrative costs, or refuse to act on the request. The {supervisory authority|index:supervisory-authority} shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request.
+    index:
+    - supervisory-authority
+    number: 4
+section: 2
+title: Tasks

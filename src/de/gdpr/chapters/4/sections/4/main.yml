@@ -1,0 +1,7 @@
+articles:
+- $include: articles/37.yml
+- $include: articles/38.yml
+- $include: articles/39.yml
+chapter: 4
+number: 4
+title: Datenschutzbeauftragter

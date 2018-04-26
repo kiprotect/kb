@@ -1,0 +1,71 @@
+chapter: 4
+index:
+- verantwortlicher
+- vertreter
+number: 27
+paragraphs:
+  1:
+    content: "In den F\xE4llen gem\xE4\xDF Artikel 3 Absatz 2 benennt der {Verantwortliche|index:verantwortlicher}\
+      \ oder der {Auftragsverarbeiter|index:auftragsverarbeiter} schriftlich einen\
+      \ {Vertreter|index:vertreter} in der Union."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    - vertreter
+    number: 1
+  2:
+    number: 2
+    points:
+      a:
+        content: "eine {Verarbeitung|index:verarbeitung}, die gelegentlich erfolgt,\
+          \ nicht die umfangreiche {Verarbeitung|index:verarbeitung} besonderer Datenkategorien\
+          \ im Sinne des Artikels 9 Absatz 1 oder die umfangreiche {Verarbeitung|index:verarbeitung}\
+          \ von {personenbezogenen Daten|index:personenbezogene-daten} \xFCber strafrechtliche\
+          \ Verurteilungen und Straftaten im Sinne des Artikels 10 einschlie\xDFt\
+          \ und unter Ber\xFCcksichtigung der Art, der Umst\xE4nde, des Umfangs und\
+          \ der Zwecke der {Verarbeitung|index:verarbeitung} voraussichtlich nicht\
+          \ zu einem Risiko f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFC\
+          rliche-person} f\xFChrt, oder"
+        index:
+        - "nat\xFCrliche-person"
+        - personenbezogene-daten
+        - verarbeitung
+      b:
+        content: "Beh\xF6rden oder \xF6ffentliche Stellen."
+    preamble: "Die Pflicht gem\xE4\xDF Absatz 1 des vorliegenden Artikels gilt nicht\
+      \ f\xFCr"
+  3:
+    content: |-
+      Der {Vertreter|index:vertreter} muss in einem der Mitgliedstaaten niedergelassen sein, in denen die {betroffenen Personen|index:betroffene-person}, deren {personenbezogene Daten|index:personenbezogene-daten} im Zusammenhang mit den ihnen angebotenen Waren oder Dienstleistungen verarbeitet werden oder deren Verhalten beobachtet wird, sich befinden.
+    index:
+    - personenbezogene-daten
+    - betroffene-person
+    - vertreter
+    number: 3
+  4:
+    content: "Der {Vertreter|index:vertreter} wird durch den {Verantwortlichen|index:verantwortlicher}\
+      \ oder den {Auftragsverarbeiter|index:auftragsverarbeiter} beauftragt, zus\xE4\
+      tzlich zu diesem oder an seiner Stelle insbesondere f\xFCr {Aufsichtsbeh\xF6\
+      rden|index:aufsichtsbeh\xF6rde} und {betroffene Personen|index:betroffene-person}\
+      \ bei s\xE4mtlichen Fragen im Zusammenhang mit der {Verarbeitung|index:verarbeitung}\
+      \ zur Gew\xE4hrleistung der Einhaltung dieser {Verordnung|index:verordnung}\
+      \ als Anlaufstelle zu dienen."
+    index:
+    - betroffene-person
+    - verordnung
+    - auftragsverarbeiter
+    - vertreter
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 4
+  5:
+    content: |-
+      Die Benennung eines Vertreters durch den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter} erfolgt unbeschadet etwaiger rechtlicher Schritte gegen den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter} selbst.
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 5
+section: 1
+title: |-
+  {Vertreter|index:vertreter} von nicht in der Union niedergelassenen {Verantwortlichen|index:verantwortlicher} oder Auftragsverarbeitern

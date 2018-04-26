@@ -1,0 +1,14 @@
+content: "Werden {personenbezogene Daten|index:personenbezogene-daten} verarbeitet,\
+  \ um Direktwerbung zu betreiben, so sollte die {betroffene Person|index:betroffene-person}\
+  \ jederzeit unentgeltlich insoweit Widerspruch gegen eine solche \u2014 urspr\xFC\
+  ngliche oder sp\xE4tere \u2014 {Verarbeitung|index:verarbeitung} einschlie\xDFlich\
+  \ des {Profilings|index:profiling} einlegen k\xF6nnen, als sie mit dieser Direktwerbung\
+  \ zusammenh\xE4ngt. Die {betroffene Person|index:betroffene-person} sollte ausdr\xFC\
+  cklich auf dieses Recht hingewiesen werden; dieser Hinweis sollte in einer verst\xE4\
+  ndlichen und von anderen Informationen getrennten Form erfolgen."
+index:
+- personenbezogene-daten
+- betroffene-person
+- verarbeitung
+- profiling
+number: 70

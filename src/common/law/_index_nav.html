@@ -1,0 +1,19 @@
+<aside class="menu">
+    <p class="menu-label">
+        <a href="{{'gdpr-index-overview'|href}}">{{'index-overview'|translate}}</a>
+    </p>
+    <ul class="menu-list glossary">
+    {% for group in grouped_definitions %}
+        <li>
+            <a class="{% if definition.group == group.i %}is-open is-active{%endif%}" data-toggle="collapse" data-target="group-{{loop.index}}-nav">{{group.from}} - {{group.to}}</a>
+                <ul class="{% if definition.group != group.i %}is-hidden{%endif%}" id="group-{{loop.index}}-nav">
+                {% for name, defn in group.definitions %}
+                    <li>
+                        <a class="{% if definition.name == name %}is-open is-active{%endif%}" href="{{'gdpr-index-%s'|format(name)|href}}">{{defn.title}}</a>
+                    </li>
+                {% endfor %}
+                </ul>
+        </li>
+    {% endfor %}
+    </ul>
+</aside>                

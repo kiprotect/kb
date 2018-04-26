@@ -1,0 +1,176 @@
+relevant-articles:
+  de: Relevante Artikel
+  en: Relevant articles
+article:
+  de: Artikel
+  en: Article
+quick-access:
+  de: Schnellzugriff
+  en: Quick Access
+articles-overview:
+  de: DSGVO
+  en: GDPR
+index-overview:
+  de: Glossar
+  en: Glossary 
+summary:
+  de: Zusammenfassung
+  en: Summary
+wiki:
+  de: Wiki
+  en: Wiki
+q-and-a:
+  de: Fragen &amp; Antworten
+  en: Q &amp; A
+section:
+  de: Abschnitt
+  en: Section
+chapter:
+  de: Kapitel
+  en: Chapter
+point:
+  de: Absatz
+  en: Point
+paragraph:
+  de: Paragraph
+  en: Paragraph
+no-summary-content:
+  de: >
+    Es scheint so, als gäbe es zu diesem Artikel noch keine Zusammenfassung! Du
+    kannst selbst einen neuen Eintrag anlegen, <a href="{new_url}">hier</a>
+    gibt es mehr Informationen dazu.
+  en: >
+    Seems like there's no summary available for this article yet. You
+    can create a new Wiki yourself, follow <a href="{new_url}">this link</a>
+    for instructions.
+no-wiki-content:
+  de: >
+    Es scheint so, als gäbe es zu diesem Artikel noch keinen Wiki-Eintrag! Du
+    kannst selbst einen neuen Eintrag anlegen, <a href="{new_url}">hier</a>
+    gibt es mehr Informationen dazu.
+  en: >
+    Seems like there's no Wiki content available for this article yet. You
+    can create a new Wiki yourself, follow <a href="{new_url}">this link</a>
+    for instructions.
+site-title:
+  de: DSGVO - Community-Portal
+  en: GDRP - Community Portal
+site-subtitle:
+  de: >
+    Willkommen! Dies ist ein gemeinschaftlich gepflegtes Informationsportal zur
+    europäischen Datenschutz-Grundverordnung (DSGVO). Ziel des Projekts ist,
+    eine freie, umfangreiche und relevante Dokumentation zur Umsetzung der
+    DS-GVO in Unternehmen und Organisationen zu schaffen.
+  en: >
+    Welcome! This website is a community-organized information portal abou the
+    European Data Protection Regulation (GDPR). Our aim is to provide free,
+    high-quality and extensive documentation that help you to make the GDPR
+    work for your business or organization.
+new:
+  de: Neu
+  en: New
+main-news:
+  de: >
+    Annotierter Gesamttext der DSGVO mit Querverweisen als übersichtliche
+    HTML-Version oder downloadbares E-Book (PDF).
+  en: >
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+    ut aliquip ex ea commodo consequat.
+by:
+  de: von
+  en: by
+learn-more:
+  de: Mehr erfahren
+  en: Learn more
+open-source-title:
+  de: Open-Source
+  en: Open-Source
+open-source-description:
+  de: >
+    Alle Materialien auf dieser Webseite sind inklusive ihres Quellcodes
+    auf <a href="{repo_url}">Github</a> verfügbar. Sie
+    sind so leicht für eigene Zwecke nutzen. Du kannst die Materialien
+    herunterladen oder mithelfen, diese für alle zu verbessern.
+  en: >
+    All the materials on this website (including their source code) are
+    available as open-source on <a href="{repo_url}">Github</a>,
+    which makes it easy to use them for your purposes. You can easily
+    download all material there or help to improve them.
+license-title:
+  de: Frei verwendbar
+  en: Freely usable
+license-description:
+  de: >
+    Alle originären Materialien auf dieser Webseite sind unter einer liberalen
+    "Creative-Commons" Lizenz für die kommerzielle und nicht-kommerzielle Nutzung
+    freigegeben. Du kannst die Materialien daher nach belieben weiterverwenden,
+    anpassen und nutzen solange du die Lizenzbedingungen beachtest. 
+  en: >
+    All original material on this website is licensed under a liberal
+    "Creative-Commons" license for commercial and non-commercial use. You
+    can therefore freely use, mix and adapt the materials according to your
+    needs, as long as you honor the license terms.
+depth-title:
+  de: Relevant &amp; informativ
+  en: Relevant &amp; informative
+wiki-title:
+  de: Wiki
+  en: Wiki
+the-law-title:
+  de: Der Gesetzestext
+  en: The law text
+summaries-title:
+  de: Kurz-Zusammenfassungen
+  en: Short Summaries
+wiki-description:
+  de: >
+    Wiki-Seiten zu einzelnen Artikeln der DSGVO helfen, schnell relevanten
+    Informationen wie Links, Hilfestellungen oder Lösungen zu finden
+    oder mit anderen zu teilen.
+  en: >
+    Wiki pages about individual articles of the GDPR help you to quickly find
+    and share relevant information such as links, tutorials or solutions.
+summaries-description:
+  de: >
+    Kurzzusammenfassungen der wichtigsten Artikel helfen dir, schnell einen
+    Überblick zu erhalten und einschätzen zu können, ob ein bestimmter Artikel
+    für dich relevant ist.
+  en: >
+    Short summaries of the most important articles help you to quickly get
+    a graps of their content and decide if they are relevant to you.
+the-law-description:
+  de: >
+    Der Gesetzestext in annotierter und angereicherter Form hilft dir, schnell
+    einen Überblick zur DSGVO zu bekommen und mit wenigen Klicks alle
+    relevanten Information zu erreichen.
+  en: >
+    An annotated and enriched version of the law text helps you to quickly
+    get an overview of the GDPR and find all relevant information with just
+    a few clicks.
+depth-description:
+  de: >
+    Wir versuchen, Informationen zur DSGVO zur Verfügung zu stellen,
+    die in die Tiefe gehen und für die Umsetzung in der Praxis wirklich relevant
+    sind. Hier wirst du keine flachen Marketing-Artikel oder PR-Texte finden, versprochen.
+  en: >
+    We try our best to provide deep, relevant information about the GDPR that 
+    will help you to put it into use at your company. We will never post or
+    write shallow marketing or PR articles on this website, promised.
+under-construction:
+  de: >
+    Dieses Portal befindet sich noch im Aufbau, manche Inhalte können daher
+    unvollständig sein oder Fehler beinhalten. Du kannst mithelfen, dieses
+    Projekt zu verbessern: Mehr Informationen findest du auf <a href="{link}">Github</a>.
+  en: >
+    This portal is still under construction, some pages content be incomplete
+    or contain errors. You can help to improve this project: More information
+    is available on <a href="{link}">Github</a>.
+index:
+  de: glossar
+  en: glossary
+gdpr:
+  en: GDPR
+  de: DSGVO
+entry:
+  de: Eintrag
+  en: Entry

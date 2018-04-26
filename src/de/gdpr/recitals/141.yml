@@ -1,0 +1,24 @@
+content: "Jede {betroffene Person|index:betroffene-person} sollte das Recht haben,\
+  \ bei einer einzigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} insbesondere\
+  \ in dem Mitgliedstaat ihres gew\xF6hnlichen Aufenthalts eine Beschwerde einzureichen\
+  \ und gem\xE4\xDF Artikel 47 der Charta einen wirksamen gerichtlichen Rechtsbehelf\
+  \ einzulegen, wenn sie sich in ihren Rechten gem\xE4\xDF dieser {Verordnung|index:verordnung}\
+  \ verletzt sieht oder wenn die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} auf\
+  \ eine Beschwerde hin nicht t\xE4tig wird, eine Beschwerde teilweise oder ganz abweist\
+  \ oder ablehnt oder nicht t\xE4tig wird, obwohl dies zum Schutz der Rechte der {betroffenen\
+  \ Person|index:betroffene-person} notwendig ist. Die auf eine Beschwerde folgende\
+  \ Untersuchung sollte vorbehaltlich gerichtlicher \xDCberpr\xFCfung so weit gehen,\
+  \ wie dies im Einzelfall angemessen ist. Die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+  rde} sollte die {betroffene Person|index:betroffene-person} innerhalb eines angemessenen\
+  \ Zeitraums \xFCber den Fortgang und die Ergebnisse der Beschwerde unterrichten.\
+  \ Sollten weitere Untersuchungen oder die Abstimmung mit einer anderen {Aufsichtsbeh\xF6\
+  rde|index:aufsichtsbeh\xF6rde} erforderlich sein, sollte die {betroffene Person|index:betroffene-person}\
+  \ \xFCber den Zwischenstand informiert werden. Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+  rde} sollte Ma\xDFnahmen zur Erleichterung der Einreichung von Beschwerden treffen,\
+  \ wie etwa die Bereitstellung eines Beschwerdeformulars, das auch elektronisch ausgef\xFC\
+  llt werden kann, ohne dass andere Kommunikationsmittel ausgeschlossen werden."
+index:
+- "aufsichtsbeh\xF6rde"
+- betroffene-person
+- verordnung
+number: 141

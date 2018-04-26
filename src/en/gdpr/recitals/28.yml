@@ -1,0 +1,11 @@
+content: "The application of {pseudonymisation|index:pseudonymisation} to {personal\
+  \ data|index:personal-data} can reduce the risks to the data subjects concerned\
+  \ and help controllers and processors to meet their data-protection obligations.\
+  \ The explicit introduction of \u2018{pseudonymisation|index:pseudonymisation}\u2019\
+  \ in this {Regulation|index:regulation} is not intended to preclude any other measures\
+  \ of data protection."
+index:
+- personal-data
+- regulation
+- pseudonymisation
+number: 28

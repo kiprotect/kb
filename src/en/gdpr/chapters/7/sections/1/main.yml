@@ -1,0 +1,7 @@
+articles:
+- $include: articles/60.yml
+- $include: articles/61.yml
+- $include: articles/62.yml
+chapter: 7
+number: 1
+title: Cooperation

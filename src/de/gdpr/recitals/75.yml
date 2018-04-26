@@ -1,0 +1,36 @@
+content: "Die Risiken f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFC\
+  rliche-person} \u2014 mit unterschiedlicher Eintrittswahrscheinlichkeit und Schwere\
+  \ \u2014 k\xF6nnen aus einer {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten} hervorgehen, die zu einem physischen, materiellen\
+  \ oder immateriellen Schaden f\xFChren k\xF6nnte, insbesondere wenn die {Verarbeitung|index:verarbeitung}\
+  \ zu einer Diskriminierung, einem Identit\xE4tsdiebstahl oder -betrug, einem finanziellen\
+  \ Verlust, einer Rufsch\xE4digung, einem Verlust der Vertraulichkeit von dem Berufsgeheimnis\
+  \ unterliegenden {personenbezogenen Daten|index:personenbezogene-daten}, der unbefugten\
+  \ Aufhebung der {Pseudonymisierung|index:pseudonymisierung} oder anderen erheblichen\
+  \ wirtschaftlichen oder gesellschaftlichen Nachteilen f\xFChren kann, wenn die {betroffenen\
+  \ Personen|index:betroffene-person} um ihre Rechte und Freiheiten gebracht oder\
+  \ daran gehindert werden, die sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ zu kontrollieren, wenn {personenbezogene Daten|index:personenbezogene-daten},\
+  \ aus denen die rassische oder ethnische Herkunft, politische Meinungen, religi\xF6\
+  se oder weltanschauliche \xDCberzeugungen oder die Zugeh\xF6rigkeit zu einer Gewerkschaft\
+  \ hervorgehen, und {genetische Daten|index:genetische-daten}, {Gesundheitsdaten|index:gesundheitsdaten}\
+  \ oder das Sexualleben oder strafrechtliche Verurteilungen und Straftaten oder damit\
+  \ zusammenh\xE4ngende Sicherungsma\xDFregeln betreffende Daten verarbeitet werden,\
+  \ wenn pers\xF6nliche Aspekte bewertet werden, insbesondere wenn Aspekte, die die\
+  \ Arbeitsleistung, wirtschaftliche Lage, Gesundheit, pers\xF6nliche Vorlieben oder\
+  \ Interessen, die Zuverl\xE4ssigkeit oder das Verhalten, den Aufenthaltsort oder\
+  \ Ortswechsel betreffen, analysiert oder prognostiziert werden, um pers\xF6nliche\
+  \ Profile zu erstellen oder zu nutzen, wenn {personenbezogene Daten|index:personenbezogene-daten}\
+  \ schutzbed\xFCrftiger {nat\xFCrlicher Personen|index:nat\xFCrliche-person}, insbesondere\
+  \ Daten von Kindern, verarbeitet werden oder wenn die {Verarbeitung|index:verarbeitung}\
+  \ eine gro\xDFe Menge {personenbezogener Daten|index:personenbezogene-daten} und\
+  \ eine gro\xDFe Anzahl von {betroffenen Personen|index:betroffene-person} betrifft."
+index:
+- betroffene-person
+- genetische-daten
+- pseudonymisierung
+- personenbezogene-daten
+- gesundheitsdaten
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 75

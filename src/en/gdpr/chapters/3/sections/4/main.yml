@@ -1,0 +1,6 @@
+articles:
+- $include: articles/21.yml
+- $include: articles/22.yml
+chapter: 3
+number: 4
+title: Right to object and automated individual decision-making

@@ -1,0 +1,8 @@
+index:
+- "aufsichtsbeh\xF6rde"
+number: 6
+roman_number: VI
+sections:
+- $include: sections/1/main.yml
+- $include: sections/2/main.yml
+title: "Unabh\xE4ngige {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde}"

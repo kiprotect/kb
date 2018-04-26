@@ -1,0 +1,13 @@
+content: |-
+  Where a {controller|index:controller} or a {processor|index:processor} not established in the Union is {processing|index:processing} {personal data|index:personal-data} of data subjects who are in the Union whose {processing|index:processing} activities are related to the offering of goods or services, irrespective of whether a payment of the {data subject|index:data-subject} is required, to such data subjects in the Union, or to the monitoring of their behaviour as far as their behaviour takes place within the Union, the {controller|index:controller} or the {processor|index:processor} should designate a {representative|index:representative}, unless the {processing|index:processing} is occasional, does not include {processing|index:processing}, on a large scale, of special categories of {personal data|index:personal-data} or the {processing|index:processing} of {personal data|index:personal-data} relating to criminal convictions and offences, and is unlikely to result in a risk to the rights and freedoms of {natural persons|index:natural-person}, taking into account the nature, context, scope and purposes of the {processing|index:processing} or if the {controller|index:controller} is a public authority or body. The {representative|index:representative} should act on behalf of the {controller|index:controller} or the {processor|index:processor} and may be addressed by any {supervisory authority|index:supervisory-authority}. The {representative|index:representative} should be explicitly designated by a written mandate of the {controller|index:controller} or of the {processor|index:processor} to act on its behalf with regard to its obligations under this {Regulation|index:regulation}. The designation of such a {representative|index:representative} does not affect the responsibility or liability of the {controller|index:controller} or of the {processor|index:processor} under this {Regulation|index:regulation}. Such a {representative|index:representative} should perform its tasks according to the mandate received from the {controller|index:controller} or {processor|index:processor}, including cooperating with the competent supervisory authorities with regard to any action taken to ensure compliance with this {Regulation|index:regulation}. The designated {representative|index:representative} should be subject to enforcement proceedings in the event of non-compliance by the {controller|index:controller} or {processor|index:processor}.
+index:
+- data-subject
+- representative
+- processor
+- regulation
+- controller
+- personal-data
+- natural-person
+- supervisory-authority
+- processing
+number: 80

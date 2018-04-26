@@ -1,0 +1,171 @@
+chapter: 2
+index:
+- verarbeitung
+number: 6
+paragraphs:
+  1:
+    index:
+    - verarbeitung
+    number: 1
+    points:
+      a:
+        content: "Die {betroffene Person|index:betroffene-person} hat ihre {Einwilligung|index:einwilligung}\
+          \ zu der {Verarbeitung|index:verarbeitung} der sie betreffenden {personenbezogenen\
+          \ Daten|index:personenbezogene-daten} f\xFCr einen oder mehrere bestimmte\
+          \ Zwecke gegeben;"
+        index:
+        - personenbezogene-daten
+        - betroffene-person
+        - einwilligung
+        - verarbeitung
+      b:
+        content: "die {Verarbeitung|index:verarbeitung} ist f\xFCr die Erf\xFCllung\
+          \ eines Vertrags, dessen Vertragspartei die {betroffene Person|index:betroffene-person}\
+          \ ist, oder zur Durchf\xFChrung vorvertraglicher Ma\xDFnahmen erforderlich,\
+          \ die auf Anfrage der {betroffenen Person|index:betroffene-person} erfolgen;"
+        index:
+        - betroffene-person
+        - verarbeitung
+      c:
+        content: "die {Verarbeitung|index:verarbeitung} ist zur Erf\xFCllung einer\
+          \ rechtlichen Verpflichtung erforderlich, der der {Verantwortliche|index:verantwortlicher}\
+          \ unterliegt;"
+        index:
+        - verantwortlicher
+        - verarbeitung
+      d:
+        content: "die {Verarbeitung|index:verarbeitung} ist erforderlich, um lebenswichtige\
+          \ Interessen der {betroffenen Person|index:betroffene-person} oder einer\
+          \ anderen {nat\xFCrlichen Person|index:nat\xFCrliche-person} zu sch\xFC\
+          tzen;"
+        index:
+        - "nat\xFCrliche-person"
+        - betroffene-person
+        - verarbeitung
+      e:
+        content: "die {Verarbeitung|index:verarbeitung} ist f\xFCr die Wahrnehmung\
+          \ einer Aufgabe erforderlich, die im \xF6ffentlichen Interesse liegt oder\
+          \ in Aus\xFCbung \xF6ffentlicher Gewalt erfolgt, die dem {Verantwortlichen|index:verantwortlicher}\
+          \ \xFCbertragen wurde;"
+        index:
+        - verantwortlicher
+        - verarbeitung
+      f:
+        content: "die {Verarbeitung|index:verarbeitung} ist zur Wahrung der berechtigten\
+          \ Interessen des {Verantwortlichen|index:verantwortlicher} oder eines {Dritten|index:dritter}\
+          \ erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten\
+          \ der {betroffenen Person|index:betroffene-person}, die den Schutz {personenbezogener\
+          \ Daten|index:personenbezogene-daten} erfordern, \xFCberwiegen, insbesondere\
+          \ dann, wenn es sich bei der {betroffenen Person|index:betroffene-person}\
+          \ um ein Kind handelt. Unterabsatz 1 Buchstabe f gilt nicht f\xFCr die von\
+          \ Beh\xF6rden in Erf\xFCllung ihrer Aufgaben vorgenommene {Verarbeitung|index:verarbeitung}."
+        index:
+        - betroffene-person
+        - dritter
+        - verantwortlicher
+        - personenbezogene-daten
+        - verarbeitung
+    preamble: "Die {Verarbeitung|index:verarbeitung} ist nur rechtm\xE4\xDFig, wenn\
+      \ mindestens eine der nachstehenden Bedingungen erf\xFCllt ist:"
+  2:
+    content: "Die Mitgliedstaaten k\xF6nnen spezifischere Bestimmungen zur Anpassung\
+      \ der Anwendung der Vorschriften dieser {Verordnung|index:verordnung} in Bezug\
+      \ auf die {Verarbeitung|index:verarbeitung} zur Erf\xFCllung von Absatz 1 Buchstaben\
+      \ c und e beibehalten oder einf\xFChren, indem sie spezifische Anforderungen\
+      \ f\xFCr die {Verarbeitung|index:verarbeitung} sowie sonstige Ma\xDFnahmen pr\xE4\
+      ziser bestimmen, um eine rechtm\xE4\xDFig und nach Treu und Glauben erfolgende\
+      \ {Verarbeitung|index:verarbeitung} zu gew\xE4hrleisten, einschlie\xDFlich f\xFC\
+      r andere besondere Verarbeitungssituationen gem\xE4\xDF Kapitel IX."
+    index:
+    - verordnung
+    - verarbeitung
+    number: 2
+  3:
+    number: 3
+    points:
+      a:
+        content: Unionsrecht oder
+      b:
+        content: "das Recht der Mitgliedstaaten, dem der {Verantwortliche|index:verantwortlicher}\
+          \ unterliegt. Der Zweck der {Verarbeitung|index:verarbeitung} muss in dieser\
+          \ Rechtsgrundlage festgelegt oder hinsichtlich der {Verarbeitung|index:verarbeitung}\
+          \ gem\xE4\xDF Absatz 1 Buchstabe e f\xFCr die Erf\xFCllung einer Aufgabe\
+          \ erforderlich sein, die im \xF6ffentlichen Interesse liegt oder in Aus\xFC\
+          bung \xF6ffentlicher Gewalt erfolgt, die dem {Verantwortlichen|index:verantwortlicher}\
+          \ \xFCbertragen wurde. Diese Rechtsgrundlage kann spezifische Bestimmungen\
+          \ zur Anpassung der Anwendung der Vorschriften dieser {Verordnung|index:verordnung}\
+          \ enthalten, unter anderem Bestimmungen dar\xFCber, welche allgemeinen Bedingungen\
+          \ f\xFCr die Regelung der Rechtm\xE4\xDFigkeit der {Verarbeitung|index:verarbeitung}\
+          \ durch den {Verantwortlichen|index:verantwortlicher} gelten, welche Arten\
+          \ von Daten verarbeitet werden, welche Personen betroffen sind, an welche\
+          \ Einrichtungen und f\xFCr welche Zwecke die {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ offengelegt werden d\xFCrfen, welcher Zweckbindung sie unterliegen, wie\
+          \ lange sie gespeichert werden d\xFCrfen und welche Verarbeitungsvorg\xE4\
+          nge und -{verfahren|index:verfahren} angewandt werden d\xFCrfen, einschlie\xDF\
+          lich Ma\xDFnahmen zur Gew\xE4hrleistung einer rechtm\xE4\xDFig und nach\
+          \ Treu und Glauben erfolgenden {Verarbeitung|index:verarbeitung}, wie solche\
+          \ f\xFCr sonstige besondere Verarbeitungssituationen gem\xE4\xDF Kapitel\
+          \ IX. Das Unionsrecht oder das Recht der Mitgliedstaaten m\xFCssen ein im\
+          \ \xF6ffentlichen Interesse liegendes Ziel verfolgen und in einem angemessenen\
+          \ Verh\xE4ltnis zu dem verfolgten legitimen Zweck stehen."
+        index:
+        - verordnung
+        - verfahren
+        - personenbezogene-daten
+        - verantwortlicher
+        - verarbeitung
+    preamble: "Die Rechtsgrundlage f\xFCr die Verarbeitungen gem\xE4\xDF Absatz 1\
+      \ Buchstaben c und e wird festgelegt durch"
+  4:
+    index:
+    - betroffene-person
+    - verantwortlicher
+    - personenbezogene-daten
+    - einwilligung
+    - verarbeitung
+    number: 4
+    points:
+      a:
+        content: "jede Verbindung zwischen den Zwecken, f\xFCr die die {personenbezogenen\
+          \ Daten|index:personenbezogene-daten} erhoben wurden, und den Zwecken der\
+          \ beabsichtigten Weiterverarbeitung,"
+        index:
+        - personenbezogene-daten
+      b:
+        content: "den Zusammenhang, in dem die {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ erhoben wurden, insbesondere hinsichtlich des Verh\xE4ltnisses zwischen\
+          \ den {betroffenen Personen|index:betroffene-person} und dem {Verantwortlichen|index:verantwortlicher},"
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+        - betroffene-person
+      c:
+        content: "die Art der {personenbezogenen Daten|index:personenbezogene-daten},\
+          \ insbesondere ob besondere Kategorien {personenbezogener Daten|index:personenbezogene-daten}\
+          \ gem\xE4\xDF Artikel 9 verarbeitet werden oder ob {personenbezogene Daten|index:personenbezogene-daten}\
+          \ \xFCber strafrechtliche Verurteilungen und Straftaten gem\xE4\xDF Artikel\
+          \ 10 verarbeitet werden,"
+        index:
+        - personenbezogene-daten
+      d:
+        content: "die m\xF6glichen Folgen der beabsichtigten Weiterverarbeitung f\xFC\
+          r die {betroffenen Personen|index:betroffene-person},"
+        index:
+        - betroffene-person
+      e:
+        content: "das Vorhandensein geeigneter Garantien, wozu Verschl\xFCsselung\
+          \ oder {Pseudonymisierung|index:pseudonymisierung} geh\xF6ren kann."
+        index:
+        - pseudonymisierung
+    preamble: "Beruht die {Verarbeitung|index:verarbeitung} zu einem anderen Zweck\
+      \ als zu demjenigen, zu dem die {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ erhoben wurden, nicht auf der {Einwilligung|index:einwilligung} der {betroffenen\
+      \ Person|index:betroffene-person} oder auf einer Rechtsvorschrift der Union\
+      \ oder der Mitgliedstaaten, die in einer demokratischen Gesellschaft eine notwendige\
+      \ und verh\xE4ltnism\xE4\xDFige Ma\xDFnahme zum Schutz der in Artikel 23 Absatz\
+      \ 1 genannten Ziele darstellt, so ber\xFCcksichtigt der {Verantwortliche|index:verantwortlicher}\
+      \ \u2014 um festzustellen, ob die {Verarbeitung|index:verarbeitung} zu einem\
+      \ anderen Zweck mit demjenigen, zu dem die {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ urspr\xFCnglich erhoben wurden, vereinbar ist \u2014 unter anderem"
+section: 0
+title: "Rechtm\xE4\xDFigkeit der {Verarbeitung|index:verarbeitung}"

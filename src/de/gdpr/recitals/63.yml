@@ -1,0 +1,37 @@
+content: "Eine {betroffene Person|index:betroffene-person} sollte ein Auskunftsrecht\
+  \ hinsichtlich der sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten},\
+  \ die erhoben worden sind, besitzen und dieses Recht problemlos und in angemessenen\
+  \ Abst\xE4nden wahrnehmen k\xF6nnen, um sich der {Verarbeitung|index:verarbeitung}\
+  \ bewusst zu sein und deren Rechtm\xE4\xDFigkeit \xFCberpr\xFCfen zu k\xF6nnen.\
+  \ Dies schlie\xDFt das Recht {betroffene Personen|index:betroffene-person} auf Auskunft\
+  \ \xFCber ihre eigenen gesundheitsbezogenen Daten ein, etwa Daten in ihren Patientenakten,\
+  \ die Informationen wie beispielsweise Diagnosen, Untersuchungsergebnisse, Befunde\
+  \ der behandelnden \xC4rzte und Angaben zu Behandlungen oder Eingriffen enthalten.\
+  \ Jede {betroffene Person|index:betroffene-person} sollte daher ein Anrecht darauf\
+  \ haben zu wissen und zu erfahren, insbesondere zu welchen Zwecken die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} verarbeitet werden und, wenn m\xF6glich, wie\
+  \ lange sie gespeichert werden, wer die {Empf\xE4nger|index:empf\xE4nger} der {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} sind, nach welcher Logik die automatische\
+  \ {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ erfolgt und welche Folgen eine solche {Verarbeitung|index:verarbeitung} haben\
+  \ kann, zumindest in F\xE4llen, in denen die {Verarbeitung|index:verarbeitung} auf\
+  \ {Profiling|index:profiling} beruht. Nach M\xF6glichkeit sollte der {Verantwortliche|index:verantwortlicher}\
+  \ den Fernzugang zu einem sicheren System bereitstellen k\xF6nnen, der der {betroffenen\
+  \ Person|index:betroffene-person} direkten Zugang zu ihren {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ erm\xF6glichen w\xFCrde. Dieses Recht sollte die Rechte und Freiheiten anderer\
+  \ Personen, etwa Gesch\xE4ftsgeheimnisse oder Rechte des geistigen Eigentums und\
+  \ insbesondere das Urheberrecht an Software, nicht beeintr\xE4chtigen. Dies darf\
+  \ jedoch nicht dazu f\xFChren, dass der {betroffenen Person|index:betroffene-person}\
+  \ jegliche Auskunft verweigert wird. Verarbeitet der {Verantwortliche|index:verantwortlicher}\
+  \ eine gro\xDFe Menge von Informationen \xFCber die {betroffene Person|index:betroffene-person},\
+  \ so sollte er verlangen k\xF6nnen, dass die {betroffene Person|index:betroffene-person}\
+  \ pr\xE4zisiert, auf welche Information oder welche Verarbeitungsvorg\xE4nge sich\
+  \ ihr Auskunftsersuchen bezieht, bevor er ihr Auskunft erteilt."
+index:
+- betroffene-person
+- profiling
+- "empf\xE4nger"
+- verantwortlicher
+- personenbezogene-daten
+- verarbeitung
+number: 63

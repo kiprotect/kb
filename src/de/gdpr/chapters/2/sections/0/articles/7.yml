@@ -1,0 +1,60 @@
+chapter: 2
+index:
+- einwilligung
+number: 7
+paragraphs:
+  1:
+    content: "Beruht die {Verarbeitung|index:verarbeitung} auf einer {Einwilligung|index:einwilligung},\
+      \ muss der {Verantwortliche|index:verantwortlicher} nachweisen k\xF6nnen, dass\
+      \ die {betroffene Person|index:betroffene-person} in die {Verarbeitung|index:verarbeitung}\
+      \ ihrer {personenbezogenen Daten|index:personenbezogene-daten} eingewilligt\
+      \ hat."
+    index:
+    - betroffene-person
+    - verantwortlicher
+    - personenbezogene-daten
+    - einwilligung
+    - verarbeitung
+    number: 1
+  2:
+    content: "Erfolgt die {Einwilligung|index:einwilligung} der {betroffenen Person|index:betroffene-person}\
+      \ durch eine schriftliche Erkl\xE4rung, die noch andere Sachverhalte betrifft,\
+      \ so muss das Ersuchen um {Einwilligung|index:einwilligung} in verst\xE4ndlicher\
+      \ und leicht zug\xE4nglicher Form in einer klaren und einfachen Sprache so erfolgen,\
+      \ dass es von den anderen Sachverhalten klar zu unterscheiden ist. Teile der\
+      \ Erkl\xE4rung sind dann nicht verbindlich, wenn sie einen Versto\xDF gegen\
+      \ diese {Verordnung|index:verordnung} darstellen."
+    index:
+    - betroffene-person
+    - einwilligung
+    - verordnung
+    number: 2
+  3:
+    content: "Die {betroffene Person|index:betroffene-person} hat das Recht, ihre\
+      \ {Einwilligung|index:einwilligung} jederzeit zu widerrufen. Durch den Widerruf\
+      \ der {Einwilligung|index:einwilligung} wird die Rechtm\xE4\xDFigkeit der aufgrund\
+      \ der {Einwilligung|index:einwilligung} bis zum Widerruf erfolgten {Verarbeitung|index:verarbeitung}\
+      \ nicht ber\xFChrt. Die {betroffene Person|index:betroffene-person} wird vor\
+      \ Abgabe der {Einwilligung|index:einwilligung} hiervon in Kenntnis gesetzt.\
+      \ Der Widerruf der {Einwilligung|index:einwilligung} muss so einfach wie die\
+      \ Erteilung der {Einwilligung|index:einwilligung} sein."
+    index:
+    - betroffene-person
+    - einwilligung
+    - verarbeitung
+    number: 3
+  4:
+    content: "Bei der Beurteilung, ob die {Einwilligung|index:einwilligung} freiwillig\
+      \ erteilt wurde, muss dem Umstand in gr\xF6\xDFtm\xF6glichem Umfang Rechnung\
+      \ getragen werden, ob unter anderem die Erf\xFCllung eines Vertrags, einschlie\xDF\
+      lich der Erbringung einer Dienstleistung, von der {Einwilligung|index:einwilligung}\
+      \ zu einer {Verarbeitung|index:verarbeitung} von {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ abh\xE4ngig ist, die f\xFCr die Erf\xFCllung des Vertrags nicht erforderlich\
+      \ sind."
+    index:
+    - personenbezogene-daten
+    - einwilligung
+    - verarbeitung
+    number: 4
+section: 0
+title: "Bedingungen f\xFCr die {Einwilligung|index:einwilligung}"

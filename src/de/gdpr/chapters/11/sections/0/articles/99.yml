@@ -1,0 +1,14 @@
+chapter: 11
+number: 99
+paragraphs:
+  1:
+    content: "Diese {Verordnung|index:verordnung} tritt am zwanzigsten Tag nach ihrer\
+      \ Ver\xF6ffentlichung im Amtsblatt der Europ\xE4ischen Union in Kraft."
+    index:
+    - verordnung
+    number: 1
+  2:
+    content: Sie gilt ab dem 25. Mai 2018.
+    number: 2
+section: 0
+title: Inkrafttreten und Anwendung

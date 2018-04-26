@@ -1,0 +1,17 @@
+content: "Um ein ernsthaftes Risiko einer Umgehung der Vorschriften zu vermeiden,\
+  \ sollte der Schutz {nat\xFCrlicher Personen|index:nat\xFCrliche-person} technologieneutral\
+  \ sein und nicht von den verwendeten Techniken abh\xE4ngen. Der Schutz {nat\xFC\
+  rlicher Personen|index:nat\xFCrliche-person} sollte f\xFCr die automatisierte {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} ebenso gelten wie f\xFC\
+  r die manuelle {Verarbeitung|index:verarbeitung} von {personenbezogenen Daten|index:personenbezogene-daten},\
+  \ wenn die {personenbezogenen Daten|index:personenbezogene-daten} in einem {Dateisystem|index:dateisystem}\
+  \ gespeichert sind oder gespeichert werden sollen. Akten oder Aktensammlungen sowie\
+  \ ihre Deckbl\xE4tter, die nicht nach bestimmten Kriterien geordnet sind, sollten\
+  \ nicht in den Anwendungsbereich dieser {Verordnung|index:verordnung} fallen."
+index:
+- verordnung
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- dateisystem
+- verarbeitung
+number: 15

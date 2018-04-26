@@ -1,0 +1,23 @@
+content: "Damit diese {Verordnung|index:verordnung} in F\xE4llen, in denen die Verarbeitungsvorg\xE4\
+  nge wahrscheinlich ein hohes Risiko f\xFCr die Rechte und Freiheiten {nat\xFCrlicher\
+  \ Personen|index:nat\xFCrliche-person} mit sich bringen, besser eingehalten wird,\
+  \ sollte der {Verantwortliche|index:verantwortlicher} f\xFCr die Durchf\xFChrung\
+  \ einer Datenschutz-Folgenabsch\xE4tzung, mit der insbesondere die Ursache, Art,\
+  \ Besonderheit und Schwere dieses Risikos evaluiert werden, verantwortlich sein.\
+  \ Die Ergebnisse der Absch\xE4tzung sollten ber\xFCcksichtigt werden, wenn dar\xFC\
+  ber entschieden wird, welche geeigneten Ma\xDFnahmen ergriffen werden m\xFCssen,\
+  \ um nachzuweisen, dass die {Verarbeitung|index:verarbeitung} der {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} mit dieser {Verordnung|index:verordnung} in\
+  \ Einklang steht. Geht aus einer Datenschutz-Folgenabsch\xE4tzung hervor, dass Verarbeitungsvorg\xE4\
+  nge ein hohes Risiko bergen, das der {Verantwortliche|index:verantwortlicher} nicht\
+  \ durch geeignete Ma\xDFnahmen in Bezug auf verf\xFCgbare Technik und Implementierungskosten\
+  \ eind\xE4mmen kann, so sollte die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
+  \ vor der {Verarbeitung|index:verarbeitung} konsultiert werden."
+index:
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
+number: 84

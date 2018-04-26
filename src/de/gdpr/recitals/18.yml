@@ -1,0 +1,19 @@
+content: "Diese {Verordnung|index:verordnung} gilt nicht f\xFCr die {Verarbeitung|index:verarbeitung}\
+  \ von {personenbezogenen Daten|index:personenbezogene-daten}, die von einer {nat\xFC\
+  rlichen Person|index:nat\xFCrliche-person} zur Aus\xFCbung ausschlie\xDFlich pers\xF6\
+  nlicher oder famili\xE4rer T\xE4tigkeiten und somit ohne Bezug zu einer beruflichen\
+  \ oder wirtschaftlichen T\xE4tigkeit vorgenommen wird. Als pers\xF6nliche oder famili\xE4\
+  re T\xE4tigkeiten k\xF6nnte auch das F\xFChren eines Schriftverkehrs oder von Anschriftenverzeichnissen\
+  \ oder die Nutzung sozialer Netze und Online-T\xE4tigkeiten im Rahmen solcher T\xE4\
+  tigkeiten gelten. Diese {Verordnung|index:verordnung} gilt jedoch f\xFCr die {Verantwortlichen|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter}, die die Instrumente f\xFC\
+  r die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ f\xFCr solche pers\xF6nlichen oder famili\xE4ren T\xE4tigkeiten bereitstellen."
+index:
+- auftragsverarbeiter
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 18

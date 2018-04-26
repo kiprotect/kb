@@ -1,0 +1,201 @@
+chapter: 4
+number: 40
+paragraphs:
+  1:
+    content: "Die Mitgliedstaaten, die {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+      rde}, der Ausschuss und die Kommission f\xF6rdern die Ausarbeitung von Verhaltensregeln,\
+      \ die nach Ma\xDFgabe der Besonderheiten der einzelnen Verarbeitungsbereiche\
+      \ und der besonderen Bed\xFCrfnisse von Kleinstunternehmen sowie kleinen und\
+      \ mittleren {Unternehmen|index:unternehmen} zur ordnungsgem\xE4\xDFen Anwendung\
+      \ dieser {Verordnung|index:verordnung} beitragen sollen."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - unternehmen
+    - verordnung
+    number: 1
+  2:
+    index:
+    - verantwortlicher
+    - verordnung
+    number: 2
+    points:
+      a:
+        content: faire und transparente {Verarbeitung|index:verarbeitung};
+        index:
+        - verarbeitung
+      b:
+        content: "die berechtigten Interessen des {Verantwortlichen|index:verantwortlicher}\
+          \ in bestimmten Zusammenh\xE4ngen;"
+        index:
+        - verantwortlicher
+      c:
+        content: Erhebung {personenbezogener Daten|index:personenbezogene-daten};
+        index:
+        - personenbezogene-daten
+      d:
+        content: '{Pseudonymisierung|index:pseudonymisierung} {personenbezogener Daten|index:personenbezogene-daten};'
+        index:
+        - personenbezogene-daten
+        - pseudonymisierung
+      e:
+        content: "Unterrichtung der \xD6ffentlichkeit und der {betroffenen Personen|index:betroffene-person};"
+        index:
+        - betroffene-person
+      f:
+        content: "Aus\xFCbung der Rechte {betroffener Personen|index:betroffene-person};"
+        index:
+        - betroffene-person
+      g:
+        content: "Unterrichtung und Schutz von Kindern und Art und Weise, in der die\
+          \ {Einwilligung|index:einwilligung} des Tr\xE4gers der elterlichen Verantwortung\
+          \ f\xFCr das Kind einzuholen ist;"
+        index:
+        - einwilligung
+      h:
+        content: "die Ma\xDFnahmen und {Verfahren|index:verfahren} gem\xE4\xDF den\
+          \ Artikeln 24 und 25 und die Ma\xDFnahmen f\xFCr die Sicherheit der {Verarbeitung|index:verarbeitung}\
+          \ gem\xE4\xDF Artikel 32;"
+        index:
+        - verfahren
+        - verarbeitung
+      i:
+        content: "die Meldung von Verletzungen des Schutzes {personenbezogener Daten|index:personenbezogene-daten}\
+          \ an {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} und die Benachrichtigung\
+          \ der {betroffenen Person|index:betroffene-person} von solchen Verletzungen\
+          \ des Schutzes {personenbezogener Daten|index:personenbezogene-daten};"
+        index:
+        - personenbezogene-daten
+        - betroffene-person
+        - "aufsichtsbeh\xF6rde"
+      j:
+        content: "die \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
+          \ an Drittl\xE4nder oder an {internationale Organisationen|index:internationale-organisation}\
+          \ oder"
+        index:
+        - personenbezogene-daten
+        - internationale-organisation
+      k:
+        content: "au\xDFergerichtliche {Verfahren|index:verfahren} und sonstige Streitbeilegungsverfahren\
+          \ zur Beilegung von Streitigkeiten zwischen {Verantwortlichen|index:verantwortlicher}\
+          \ und {betroffenen Personen|index:betroffene-person} im Zusammenhang mit\
+          \ der {Verarbeitung|index:verarbeitung}, unbeschadet der Rechte {betroffener\
+          \ Personen|index:betroffene-person} gem\xE4\xDF den Artikeln 77 und 79."
+        index:
+        - verfahren
+        - verantwortlicher
+        - betroffene-person
+        - verarbeitung
+    preamble: "Verb\xE4nde und andere Vereinigungen, die Kategorien von {Verantwortlichen|index:verantwortlicher}\
+      \ oder Auftragsverarbeitern vertreten, k\xF6nnen Verhaltensregeln ausarbeiten\
+      \ oder \xE4ndern oder erweitern, mit denen die Anwendung dieser {Verordnung|index:verordnung}\
+      \ beispielsweise zu dem Folgenden pr\xE4zisiert wird:"
+  3:
+    content: "Zus\xE4tzlich zur Einhaltung durch die unter diese {Verordnung|index:verordnung}\
+      \ fallenden {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ k\xF6nnen Verhaltensregeln, die gem\xE4\xDF Absatz 5 des vorliegenden Artikels\
+      \ genehmigt wurden und gem\xE4\xDF Absatz 9 des vorliegenden Artikels allgemeine\
+      \ G\xFCltigkeit besitzen, k\xF6nnen auch von {Verantwortlichen|index:verantwortlicher}\
+      \ oder Auftragsverarbeitern, die gem\xE4\xDF Artikel 3 nicht unter diese {Verordnung|index:verordnung}\
+      \ fallen, eingehalten werden, um geeignete Garantien im Rahmen der \xDCbermittlung\
+      \ {personenbezogener Daten|index:personenbezogene-daten} an Drittl\xE4nder oder\
+      \ {internationale Organisationen|index:internationale-organisation} nach Ma\xDF\
+      gabe des Artikels 46 Absatz 2 Buchstabe e zu bieten. Diese {Verantwortlichen|index:verantwortlicher}\
+      \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} gehen mittels vertraglicher\
+      \ oder sonstiger rechtlich bindender Instrumente die verbindliche und durchsetzbare\
+      \ Verpflichtung ein, die geeigneten Garantien anzuwenden, auch im Hinblick auf\
+      \ die Rechte der {betroffenen Personen|index:betroffene-person}."
+    index:
+    - betroffene-person
+    - internationale-organisation
+    - verordnung
+    - auftragsverarbeiter
+    - verantwortlicher
+    - personenbezogene-daten
+    number: 3
+  4:
+    content: "Die Verhaltensregeln gem\xE4\xDF Absatz 2 des vorliegenden Artikels\
+      \ m\xFCssen {Verfahren|index:verfahren} vorsehen, die es der in Artikel 41 Absatz\
+      \ 1 genannten Stelle erm\xF6glichen, die obligatorische \xDCberwachung der Einhaltung\
+      \ ihrer Bestimmungen durch die {Verantwortlichen|index:verantwortlicher} oder\
+      \ die {Auftragsverarbeiter|index:auftragsverarbeiter}, die sich zur Anwendung\
+      \ der Verhaltensregeln verpflichten, vorzunehmen, unbeschadet der Aufgaben und\
+      \ Befugnisse der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, die nach Artikel\
+      \ 55 oder 56 zust\xE4ndig ist."
+    index:
+    - verfahren
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - auftragsverarbeiter
+    number: 4
+  5:
+    content: "Verb\xE4nde und andere Vereinigungen gem\xE4\xDF Absatz 2 des vorliegenden\
+      \ Artikels, die beabsichtigen, Verhaltensregeln auszuarbeiten oder bestehende\
+      \ Verhaltensregeln zu \xE4ndern oder zu erweitern, legen den Entwurf der Verhaltensregeln\
+      \ bzw. den Entwurf zu deren \xC4nderung oder Erweiterung der {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} vor, die nach Artikel 55 zust\xE4ndig ist. Die\
+      \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} gibt eine Stellungnahme dar\xFC\
+      ber ab, ob der Entwurf der Verhaltensregeln bzw. der Entwurf zu deren \xC4nderung\
+      \ oder Erweiterung mit dieser {Verordnung|index:verordnung} vereinbar ist und\
+      \ genehmigt diesen Entwurf der Verhaltensregeln bzw. den Entwurf zu deren \xC4\
+      nderung oder Erweiterung, wenn sie der Auffassung ist, dass er ausreichende\
+      \ geeignete Garantien bietet."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verordnung
+    number: 5
+  6:
+    content: "Wird durch die Stellungnahme nach Absatz 5 der Entwurf der Verhaltensregeln\
+      \ bzw. der Entwurf zu deren \xC4nderung oder Erweiterung genehmigt und beziehen\
+      \ sich die betreffenden Verhaltensregeln nicht auf {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4\
+      tigkeit} in mehreren Mitgliedstaaten, so nimmt die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} die Verhaltensregeln in ein Verzeichnis auf und ver\xF6ffentlicht sie."
+    index:
+    - "verarbeitungst\xE4tigkeit"
+    - "aufsichtsbeh\xF6rde"
+    number: 6
+  7:
+    content: "Bezieht sich der Entwurf der Verhaltensregeln auf {Verarbeitungst\xE4\
+      tigkeiten|index:verarbeitungst\xE4tigkeit} in mehreren Mitgliedstaaten, so legt\
+      \ die nach Artikel 55 zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} \u2014 bevor sie den Entwurf der Verhaltensregeln bzw. den Entwurf zu deren\
+      \ \xC4nderung oder Erweiterung genehmigt \u2014 ihn nach dem {Verfahren|index:verfahren}\
+      \ gem\xE4\xDF Artikel 63 dem Ausschuss vor, der zu der Frage Stellung nimmt,\
+      \ ob der Entwurf der Verhaltensregeln bzw. der Entwurf zu deren \xC4nderung\
+      \ oder Erweiterung mit dieser {Verordnung|index:verordnung} vereinbar ist oder\
+      \ \u2014 im Fall nach Absatz 3 dieses Artikels \u2014 geeignete Garantien vorsieht."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - "verarbeitungst\xE4tigkeit"
+    - verordnung
+    - verfahren
+    number: 7
+  8:
+    content: "Wird durch die Stellungnahme nach Absatz 7 best\xE4tigt, dass der Entwurf\
+      \ der Verhaltensregeln bzw. der Entwurf zu deren \xC4nderung oder Erweiterung\
+      \ mit dieser {Verordnung|index:verordnung} vereinbar ist oder \u2014 im Fall\
+      \ nach Absatz 3 \u2014 geeignete Garantien vorsieht, so \xFCbermittelt der Ausschuss\
+      \ seine Stellungnahme der Kommission."
+    index:
+    - verordnung
+    number: 8
+  9:
+    content: "Die Kommission kann im Wege von Durchf\xFChrungsrechtsakten beschlie\xDF\
+      en, dass die ihr gem\xE4\xDF Absatz 8 \xFCbermittelten genehmigten Verhaltensregeln\
+      \ bzw. deren genehmigte \xC4nderung oder Erweiterung allgemeine G\xFCltigkeit\
+      \ in der Union besitzen. Diese Durchf\xFChrungsrechtsakte werden gem\xE4\xDF\
+      \ dem Pr\xFCfverfahren nach Artikel 93 Absatz 2 erlassen."
+    index:
+    - verfahren
+    number: 9
+  10:
+    content: "Die Kommission tr\xE4gt daf\xFCr Sorge, dass die genehmigten Verhaltensregeln,\
+      \ denen gem\xE4\xDF Absatz 9 allgemeine G\xFCltigkeit zuerkannt wurde, in geeigneter\
+      \ Weise ver\xF6ffentlicht werden."
+    number: 10
+  11:
+    content: "Der Ausschuss nimmt alle genehmigten Verhaltensregeln bzw. deren genehmigte\
+      \ \xC4nderungen oder Erweiterungen in ein Register auf und ver\xF6ffentlicht\
+      \ sie in geeigneter Weise."
+    number: 11
+section: 5
+title: Verhaltensregeln

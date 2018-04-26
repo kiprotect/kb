@@ -1,0 +1,42 @@
+chapter: 2
+index:
+- einwilligung
+- dienst-der-informationsgesellschaft
+number: 8
+paragraphs:
+  1:
+    content: "Gilt Artikel 6 Absatz 1 Buchstabe a bei einem Angebot von {Diensten\
+      \ der Informationsgesellschaft|index:dienst-der-informationsgesellschaft}, das\
+      \ einem Kind direkt gemacht wird, so ist die {Verarbeitung|index:verarbeitung}\
+      \ der {personenbezogenen Daten|index:personenbezogene-daten} des Kindes rechtm\xE4\
+      \xDFig, wenn das Kind das sechzehnte Lebensjahr vollendet hat. Hat das Kind\
+      \ noch nicht das sechzehnte Lebensjahr vollendet, so ist diese {Verarbeitung|index:verarbeitung}\
+      \ nur rechtm\xE4\xDFig, sofern und soweit diese {Einwilligung|index:einwilligung}\
+      \ durch den Tr\xE4ger der elterlichen Verantwortung f\xFCr das Kind oder mit\
+      \ dessen Zustimmung erteilt wird. Die Mitgliedstaaten k\xF6nnen durch Rechtsvorschriften\
+      \ zu diesen Zwecken eine niedrigere Altersgrenze vorsehen, die jedoch nicht\
+      \ unter dem vollendeten dreizehnten Lebensjahr liegen darf."
+    index:
+    - personenbezogene-daten
+    - einwilligung
+    - dienst-der-informationsgesellschaft
+    - verarbeitung
+    number: 1
+  2:
+    content: "Der {Verantwortliche|index:verantwortlicher} unternimmt unter Ber\xFC\
+      cksichtigung der verf\xFCgbaren Technik angemessene Anstrengungen, um sich in\
+      \ solchen F\xE4llen zu vergewissern, dass die {Einwilligung|index:einwilligung}\
+      \ durch den Tr\xE4ger der elterlichen Verantwortung f\xFCr das Kind oder mit\
+      \ dessen Zustimmung erteilt wurde."
+    index:
+    - verantwortlicher
+    - einwilligung
+    number: 2
+  3:
+    content: "Absatz 1 l\xE4sst das allgemeine Vertragsrecht der Mitgliedstaaten,\
+      \ wie etwa die Vorschriften zur G\xFCltigkeit, zum Zustandekommen oder zu den\
+      \ Rechtsfolgen eines Vertrags in Bezug auf ein Kind, unber\xFChrt."
+    number: 3
+section: 0
+title: "Bedingungen f\xFCr die {Einwilligung|index:einwilligung} eines Kindes in Bezug\
+  \ auf {Dienste der Informationsgesellschaft|index:dienst-der-informationsgesellschaft}"

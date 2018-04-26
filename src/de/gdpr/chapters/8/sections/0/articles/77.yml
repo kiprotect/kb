@@ -1,0 +1,32 @@
+chapter: 8
+index:
+- "aufsichtsbeh\xF6rde"
+number: 77
+paragraphs:
+  1:
+    content: "Jede {betroffene Person|index:betroffene-person} hat unbeschadet eines\
+      \ anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das\
+      \ Recht auf Beschwerde bei einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde}, insbesondere in dem Mitgliedstaat ihres Aufenthaltsorts, ihres Arbeitsplatzes\
+      \ oder des Orts des mutma\xDFlichen Versto\xDFes, wenn die {betroffene Person|index:betroffene-person}\
+      \ der Ansicht ist, dass die {Verarbeitung|index:verarbeitung} der sie betreffenden\
+      \ {personenbezogenen Daten|index:personenbezogene-daten} gegen diese {Verordnung|index:verordnung}\
+      \ verst\xF6\xDFt."
+    index:
+    - betroffene-person
+    - verordnung
+    - personenbezogene-daten
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 1
+  2:
+    content: "Die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}, bei der die Beschwerde\
+      \ eingereicht wurde, unterrichtet den Beschwerdef\xFChrer \xFCber den Stand\
+      \ und die Ergebnisse der Beschwerde einschlie\xDFlich der M\xF6glichkeit eines\
+      \ gerichtlichen Rechtsbehelfs nach Artikel 78."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 2
+section: 0
+title: "Recht auf Beschwerde bei einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+  rde}"

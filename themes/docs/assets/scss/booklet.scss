@@ -1,0 +1,15 @@
+@import 'brochure.scss';
+
+@page {
+    @bottom-right {
+      content: counter(page);
+      font-family: "IBM Plex Sans";
+      padding-bottom: 40px;
+      padding-right: 40px;
+      font-size: 14px;
+    }
+}
+
+body {
+    line-height: 180%;    
+}

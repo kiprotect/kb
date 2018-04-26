@@ -1,0 +1,36 @@
+content: "Die Grunds\xE4tze des Datenschutzes sollten f\xFCr alle Informationen gelten,\
+  \ die sich auf eine {identifizierte|index:identifiziert} oder {identifizierbare|index:identifizierbar}\
+  \ {nat\xFCrliche Person|index:nat\xFCrliche-person} beziehen. Einer {Pseudonymisierung|index:pseudonymisierung}\
+  \ unterzogene {personenbezogene Daten|index:personenbezogene-daten}, die durch Heranziehung\
+  \ zus\xE4tzlicher Informationen einer {nat\xFCrlichen Person|index:nat\xFCrliche-person}\
+  \ zugeordnet werden k\xF6nnten, sollten als Informationen \xFCber eine {identifizierbare|index:identifizierbar}\
+  \ {nat\xFCrliche Person|index:nat\xFCrliche-person} betrachtet werden. Um festzustellen,\
+  \ ob eine {nat\xFCrliche Person|index:nat\xFCrliche-person} {identifizierbar|index:identifizierbar}\
+  \ ist, sollten alle Mittel ber\xFCcksichtigt werden, die von dem {Verantwortlichen|index:verantwortlicher}\
+  \ oder einer anderen Person nach allgemeinem Ermessen wahrscheinlich genutzt werden,\
+  \ um die {nat\xFCrliche Person|index:nat\xFCrliche-person} direkt oder indirekt\
+  \ zu identifizieren, wie beispielsweise das Aussondern. Bei der Feststellung, ob\
+  \ Mittel nach allgemeinem Ermessen wahrscheinlich zur Identifizierung der {nat\xFC\
+  rlichen Person|index:nat\xFCrliche-person} genutzt werden, sollten alle objektiven\
+  \ Faktoren, wie die Kosten der Identifizierung und der daf\xFCr erforderliche Zeitaufwand,\
+  \ herangezogen werden, wobei die zum Zeitpunkt der {Verarbeitung|index:verarbeitung}\
+  \ verf\xFCgbare Technologie und technologische Entwicklungen zu ber\xFCcksichtigen\
+  \ sind. Die Grunds\xE4tze des Datenschutzes sollten daher nicht f\xFCr anonyme Informationen\
+  \ gelten, d.h. f\xFCr Informationen, die sich nicht auf eine {identifizierte|index:identifiziert}\
+  \ oder {identifizierbare|index:identifizierbar} {nat\xFCrliche Person|index:nat\xFC\
+  rliche-person} beziehen, oder {personenbezogene Daten|index:personenbezogene-daten},\
+  \ die in einer Weise anonymisiert worden sind, dass die {betroffene Person|index:betroffene-person}\
+  \ nicht oder nicht mehr identifiziert werden kann. Diese {Verordnung|index:verordnung}\
+  \ betrifft somit nicht die {Verarbeitung|index:verarbeitung} solcher anonymer Daten,\
+  \ auch f\xFCr statistische oder f\xFCr Forschungszwecke."
+index:
+- betroffene-person
+- verordnung
+- pseudonymisierung
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- identifizierbar
+- identifiziert
+- verarbeitung
+number: 26

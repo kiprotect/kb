@@ -1,0 +1,97 @@
+chapter: 4
+number: 41
+paragraphs:
+  1:
+    content: "Unbeschadet der Aufgaben und Befugnisse der zust\xE4ndigen {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} gem\xE4\xDF den Artikeln 57 und 58 kann die \xDC\
+      berwachung der Einhaltung von Verhaltensregeln gem\xE4\xDF Artikel 40 von einer\
+      \ Stelle durchgef\xFChrt werden, die \xFCber das geeignete Fachwissen hinsichtlich\
+      \ des Gegenstands der Verhaltensregeln verf\xFCgt und die von der zust\xE4ndigen\
+      \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} zu diesem Zweck akkreditiert\
+      \ wurde."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 1
+  2:
+    number: 2
+    points:
+      a:
+        content: "ihre Unabh\xE4ngigkeit und ihr Fachwissen hinsichtlich des Gegenstands\
+          \ der Verhaltensregeln zur Zufriedenheit der zust\xE4ndigen {Aufsichtsbeh\xF6\
+          rde|index:aufsichtsbeh\xF6rde} nachgewiesen hat;"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      b:
+        content: "{Verfahren|index:verfahren} festgelegt hat, die es ihr erm\xF6glichen,\
+          \ zu bewerten, ob {Verantwortliche|index:verantwortlicher} und {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ die Verhaltensregeln anwenden k\xF6nnen, die Einhaltung der Verhaltensregeln\
+          \ durch die {Verantwortlichen|index:verantwortlicher} und {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ zu \xFCberwachen und die Anwendung der Verhaltensregeln regelm\xE4\xDF\
+          ig zu \xFCberpr\xFCfen;"
+        index:
+        - verfahren
+        - verantwortlicher
+        - auftragsverarbeiter
+      c:
+        content: "{Verfahren|index:verfahren} und Strukturen festgelegt hat, mit denen\
+          \ sie Beschwerden \xFCber Verletzungen der Verhaltensregeln oder \xFCber\
+          \ die Art und Weise, in der die Verhaltensregeln von dem {Verantwortlichen|index:verantwortlicher}\
+          \ oder dem {Auftragsverarbeiter|index:auftragsverarbeiter} angewendet werden\
+          \ oder wurden, nachgeht und diese {Verfahren|index:verfahren} und Strukturen\
+          \ f\xFCr {betroffene Personen|index:betroffene-person} und die \xD6ffentlichkeit\
+          \ transparent macht, und"
+        index:
+        - verfahren
+        - verantwortlicher
+        - betroffene-person
+        - auftragsverarbeiter
+      d:
+        content: "zur Zufriedenheit der zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+          rde} nachgewiesen hat, dass ihre Aufgaben und Pflichten nicht zu einem Interessenkonflikt\
+          \ f\xFChren."
+        index:
+        - "aufsichtsbeh\xF6rde"
+    preamble: "Eine Stelle gem\xE4\xDF Absatz 1 kann zum Zwecke der \xDCberwachung\
+      \ der Einhaltung von Verhaltensregeln akkreditiert werden, wenn sie"
+  3:
+    content: "Die zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} \xFC\
+      bermittelt den Entwurf der Kriterien f\xFCr die Akkreditierung einer Stelle\
+      \ nach Absatz 1 gem\xE4\xDF dem Koh\xE4renzverfahren nach Artikel 63 an den\
+      \ Ausschuss."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 3
+  4:
+    content: "Unbeschadet der Aufgaben und Befugnisse der zust\xE4ndigen {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} und der Bestimmungen des Kapitels VIII ergreift\
+      \ eine Stelle gem\xE4\xDF Absatz 1 vorbehaltlich geeigneter Garantien im Falle\
+      \ einer Verletzung der Verhaltensregeln durch einen {Verantwortlichen|index:verantwortlicher}\
+      \ oder einen {Auftragsverarbeiter|index:auftragsverarbeiter} geeignete Ma\xDF\
+      nahmen, einschlie\xDFlich eines vorl\xE4ufigen oder endg\xFCltigen Ausschlusses\
+      \ des {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiters|index:auftragsverarbeiter}\
+      \ von den Verhaltensregeln. Sie unterrichtet die zust\xE4ndige {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} \xFCber solche Ma\xDFnahmen und deren Begr\xFC\
+      ndung."
+    index:
+    - auftragsverarbeiter
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    number: 4
+  5:
+    content: "Die zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} widerruft\
+      \ die Akkreditierung einer Stelle gem\xE4\xDF Absatz 1, wenn die Voraussetzungen\
+      \ f\xFCr ihre Akkreditierung nicht oder nicht mehr erf\xFCllt sind oder wenn\
+      \ die Stelle Ma\xDFnahmen ergreift, die nicht mit dieser {Verordnung|index:verordnung}\
+      \ vereinbar sind."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verordnung
+    number: 5
+  6:
+    content: "Dieser Artikel gilt nicht f\xFCr die {Verarbeitung|index:verarbeitung}\
+      \ durch Beh\xF6rden oder \xF6ffentliche Stellen."
+    index:
+    - verarbeitung
+    number: 6
+section: 5
+title: "\xDCberwachung der genehmigten Verhaltensregeln"

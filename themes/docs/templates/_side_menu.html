@@ -1,0 +1,33 @@
+<aside class="menu">
+    <p class="menu-label">
+        {{'menu'|translate}}
+    </p>
+    <ul class="menu-list">
+        <li>
+            <a href="{{'gdpr-articles-overview'|href}}">{{'articles-overview'|translate}}</a>
+        </li>
+        <li>
+            <a href="{{'gdpr-index-overview'|href}}">{{'index-overview'|translate}}</a>
+        </li>
+        {% for pg in pages %}
+            {% if pg.in_menu and pg.level == 0 %}
+                <li>
+                {% if pg.children %}
+                    <a href="{%if pg.src %}{{pg.name|href}}{%elif pg.href%}{{pg.href|href}}{%else%}#{%endif%}" class="{% if False %}is-open is-active{%endif%}" data-toggle="collapse" data-target="page-{{pg.name}}-nav">{{pg.title or pg.navtitle}}</a>
+                    <ul class="{% if False %}is-hidden{%endif%}" id="page-{{pg.name}}-nav">
+                        {% for child in pg.children %}
+                            {% if child.in_menu and child.level == 1 %}
+                                <li>
+                                    <a class="{% if False %}is-open is-active{%endif%}" href="{{child.name|href}}">{{child.navtitle or child.title}}</a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <a href="{{pg.name|href}}" class="{% if False %}is-open is-active{%endif%}">{{pg.navtitle or pg.title}}</a>
+                {% endif %}
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</aside>                

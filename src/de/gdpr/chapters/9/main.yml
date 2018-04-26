@@ -1,0 +1,5 @@
+number: 9
+roman_number: IX
+sections:
+- $include: sections/0/main.yml
+title: "Vorschriften f\xFCr besondere Verarbeitungssituationen"

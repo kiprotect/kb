@@ -1,0 +1,27 @@
+content: "Die Grunds\xE4tze einer fairen und transparenten {Verarbeitung|index:verarbeitung}\
+  \ machen es erforderlich, dass die {betroffene Person|index:betroffene-person} \xFC\
+  ber die Existenz des Verarbeitungsvorgangs und seine Zwecke unterrichtet wird. Der\
+  \ {Verantwortliche|index:verantwortlicher} sollte der {betroffenen Person|index:betroffene-person}\
+  \ alle weiteren Informationen zur Verf\xFCgung stellen, die unter Ber\xFCcksichtigung\
+  \ der besonderen Umst\xE4nde und Rahmenbedingungen, unter denen die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} verarbeitet werden, notwendig sind, um eine\
+  \ faire und transparente {Verarbeitung|index:verarbeitung} zu gew\xE4hrleisten.\
+  \ Dar\xFCber hinaus sollte er die {betroffene Person|index:betroffene-person} darauf\
+  \ hinweisen, dass {Profiling|index:profiling} stattfindet und welche Folgen dies\
+  \ hat. Werden die {personenbezogenen Daten|index:personenbezogene-daten} bei der\
+  \ {betroffenen Person|index:betroffene-person} erhoben, so sollte dieser dar\xFC\
+  ber hinaus mitgeteilt werden, ob sie verpflichtet ist, die {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ bereitzustellen, und welche Folgen eine Zur\xFCckhaltung der Daten nach sich ziehen\
+  \ w\xFCrde. Die betreffenden Informationen k\xF6nnen in Kombination mit standardisierten\
+  \ Bildsymbolen bereitgestellt werden, um in leicht wahrnehmbarer, verst\xE4ndlicher\
+  \ und klar nachvollziehbarer Form einen aussagekr\xE4ftigen \xDCberblick \xFCber\
+  \ die beabsichtigte {Verarbeitung|index:verarbeitung} zu vermitteln. Werden die\
+  \ Bildsymbole in elektronischer Form dargestellt, so sollten sie maschinenlesbar\
+  \ sein."
+index:
+- betroffene-person
+- profiling
+- verantwortlicher
+- personenbezogene-daten
+- verarbeitung
+number: 60

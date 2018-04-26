@@ -1,0 +1,27 @@
+content: "Manche Drittl\xE4nder erlassen Gesetze, Vorschriften und sonstige Rechtsakte,\
+  \ die vorgeben, die {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}\
+  \ nat\xFCrlicher und juristischer Personen, die der Rechtsprechung der Mitgliedstaaten\
+  \ unterliegen, unmittelbar zu regeln. Dies kann Urteile von Gerichten und Entscheidungen\
+  \ von Verwaltungsbeh\xF6rden in Drittl\xE4ndern umfassen, mit denen von einem {Verantwortlichen|index:verantwortlicher}\
+  \ oder einem {Auftragsverarbeiter|index:auftragsverarbeiter} die \xDCbermittlung\
+  \ oder Offenlegung {personenbezogener Daten|index:personenbezogene-daten} verlangt\
+  \ wird und die nicht auf eine in Kraft befindliche internationale \xDCbereinkunft\
+  \ wie etwa ein Rechtshilfeabkommen zwischen dem ersuchenden Drittland und der Union\
+  \ oder einem Mitgliedstaat gest\xFCtzt sind. Die Anwendung dieser Gesetze, Verordnungen\
+  \ und sonstigen Rechtsakte au\xDFerhalb des Hoheitsgebiets der betreffenden Drittl\xE4\
+  nder kann gegen internationales Recht versto\xDFen und dem durch diese {Verordnung|index:verordnung}\
+  \ in der Union gew\xE4hrleisteten Schutz {nat\xFCrlicher Personen|index:nat\xFC\
+  rliche-person} zuwiderlaufen. Daten\xFCbermittlungen sollten daher nur zul\xE4ssig\
+  \ sein, wenn die Bedingungen dieser {Verordnung|index:verordnung} f\xFCr Daten\xFC\
+  bermittlungen an Drittl\xE4nder eingehalten werden. Dies kann unter anderem der\
+  \ Fall sein, wenn die Offenlegung aus einem wichtigen \xF6ffentlichen Interesse\
+  \ erforderlich ist, das im Unionsrecht oder im Recht des Mitgliedstaats, dem der\
+  \ {Verantwortliche|index:verantwortlicher} unterliegt, anerkannt ist."
+index:
+- "verarbeitungst\xE4tigkeit"
+- verordnung
+- auftragsverarbeiter
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+number: 115

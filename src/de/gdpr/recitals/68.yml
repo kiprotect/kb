@@ -1,0 +1,50 @@
+content: "Um im Fall der {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ mit automatischen Mitteln eine bessere Kontrolle \xFCber die eigenen Daten zu\
+  \ haben, sollte die {betroffene Person|index:betroffene-person} au\xDFerdem berechtigt\
+  \ sein, die sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten},\
+  \ die sie einem {Verantwortlichen|index:verantwortlicher} bereitgestellt hat, in\
+  \ einem strukturierten, g\xE4ngigen, maschinenlesbaren und interoperablen Format\
+  \ zu erhalten und sie einem anderen {Verantwortlichen|index:verantwortlicher} zu\
+  \ \xFCbermitteln. Die {Verantwortlichen|index:verantwortlicher} sollten dazu aufgefordert\
+  \ werden, interoperable Formate zu entwickeln, die die Daten\xFCbertragbarkeit erm\xF6\
+  glichen. Dieses Recht sollte dann gelten, wenn die {betroffene Person|index:betroffene-person}\
+  \ die {personenbezogenen Daten|index:personenbezogene-daten} mit ihrer {Einwilligung|index:einwilligung}\
+  \ zur Verf\xFCgung gestellt hat oder die {Verarbeitung|index:verarbeitung} zur Erf\xFC\
+  llung eines Vertrags erforderlich ist. Es sollte nicht gelten, wenn die {Verarbeitung|index:verarbeitung}\
+  \ auf einer anderen Rechtsgrundlage als ihrer {Einwilligung|index:einwilligung}\
+  \ oder eines Vertrags erfolgt. Dieses Recht sollte naturgem\xE4\xDF nicht gegen\
+  \ {Verantwortliche|index:verantwortlicher} ausge\xFCbt werden, die {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} in Erf\xFCllung ihrer \xF6ffentlichen Aufgaben\
+  \ verarbeiten. Es sollte daher nicht gelten, wenn die {Verarbeitung|index:verarbeitung}\
+  \ der {personenbezogenen Daten|index:personenbezogene-daten} zur Erf\xFCllung einer\
+  \ rechtlichen Verpflichtung, der der {Verantwortliche|index:verantwortlicher} unterliegt,\
+  \ oder f\xFCr die Wahrnehmung einer ihm \xFCbertragenen Aufgabe, die im \xF6ffentlichen\
+  \ Interesse liegt oder in Aus\xFCbung einer ihm \xFCbertragenen \xF6ffentlichen\
+  \ Gewalt erfolgt, erforderlich ist. Das Recht der {betroffenen Person|index:betroffene-person},\
+  \ sie betreffende {personenbezogene Daten|index:personenbezogene-daten} zu \xFC\
+  bermitteln oder zu empfangen, sollte f\xFCr den {Verantwortlichen|index:verantwortlicher}\
+  \ nicht die Pflicht begr\xFCnden, technisch kompatible Datenverarbeitungssysteme\
+  \ zu \xFCbernehmen oder beizubehalten. Ist im Fall eines bestimmten Satzes {personenbezogener\
+  \ Daten|index:personenbezogene-daten} mehr als eine {betroffene Person|index:betroffene-person}\
+  \ tangiert, so sollte das Recht auf Empfang der Daten die Grundrechte und Grundfreiheiten\
+  \ anderer {betroffener Personen|index:betroffene-person} nach dieser {Verordnung|index:verordnung}\
+  \ unber\xFChrt lassen. Dieses Recht sollte zudem das Recht der {betroffenen Person|index:betroffene-person}\
+  \ auf L\xF6schung ihrer {personenbezogenen Daten|index:personenbezogene-daten} und\
+  \ die Beschr\xE4nkungen dieses Rechts gem\xE4\xDF dieser {Verordnung|index:verordnung}\
+  \ nicht ber\xFChren und insbesondere nicht bedeuten, dass die Daten, die sich auf\
+  \ die {betroffene Person|index:betroffene-person} beziehen und von ihr zur Erf\xFC\
+  llung eines Vertrags zur Verf\xFCgung gestellt worden sind, gel\xF6scht werden,\
+  \ soweit und solange diese {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ f\xFCr die Erf\xFCllung des Vertrags notwendig sind. Soweit technisch machbar,\
+  \ sollte die {betroffene Person|index:betroffene-person} das Recht haben, zu erwirken,\
+  \ dass die {personenbezogenen Daten|index:personenbezogene-daten} direkt von einem\
+  \ {Verantwortlichen|index:verantwortlicher} einem anderen {Verantwortlichen|index:verantwortlicher}\
+  \ \xFCbermittelt werden."
+index:
+- betroffene-person
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- einwilligung
+- verarbeitung
+number: 68

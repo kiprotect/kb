@@ -1,0 +1,1 @@
+This is a summary of article 1 of the GDPR.

@@ -1,0 +1,61 @@
+chapter: 3
+index:
+- restriction-of-processing
+number: 18
+paragraphs:
+  1:
+    index:
+    - data-subject
+    - restriction-of-processing
+    - controller
+    number: 1
+    points:
+      a:
+        content: |-
+          the accuracy of the {personal data|index:personal-data} is contested by the {data subject|index:data-subject}, for a period enabling the {controller|index:controller} to verify the accuracy of the {personal data|index:personal-data};
+        index:
+        - personal-data
+        - data-subject
+        - controller
+      b:
+        content: |-
+          the {processing|index:processing} is unlawful and the {data subject|index:data-subject} opposes the erasure of the {personal data|index:personal-data} and requests the restriction of their use instead;
+        index:
+        - personal-data
+        - data-subject
+        - processing
+      c:
+        content: |-
+          the {controller|index:controller} no longer needs the {personal data|index:personal-data} for the purposes of the {processing|index:processing}, but they are required by the {data subject|index:data-subject} for the establishment, exercise or defence of legal claims;
+        index:
+        - personal-data
+        - data-subject
+        - controller
+        - processing
+      d:
+        content: |-
+          the {data subject|index:data-subject} has objected to {processing|index:processing} pursuant to Article 21(1) pending the verification whether the legitimate grounds of the {controller|index:controller} override those of the {data subject|index:data-subject}.
+        index:
+        - data-subject
+        - controller
+        - processing
+    preamble: |-
+      The {data subject|index:data-subject} shall have the right to obtain from the {controller|index:controller} {restriction of processing|index:restriction-of-processing} where one of the following applies:
+  2:
+    content: |-
+      Where {processing|index:processing} has been restricted under paragraph 1, such {personal data|index:personal-data} shall, with the exception of storage, only be processed with the data subject's {consent|index:consent} or for the establishment, exercise or defence of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the Union or of a Member State.
+    index:
+    - personal-data
+    - consent
+    - processing
+    number: 2
+  3:
+    content: |-
+      A {data subject|index:data-subject} who has obtained {restriction of processing|index:restriction-of-processing} pursuant to paragraph 1 shall be informed by the {controller|index:controller} before the {restriction of processing|index:restriction-of-processing} is lifted.
+    index:
+    - data-subject
+    - restriction-of-processing
+    - controller
+    number: 3
+section: 3
+title: Right to {restriction of processing|index:restriction-of-processing}

@@ -1,0 +1,51 @@
+chapter: 1
+number: 2
+paragraphs:
+  1:
+    content: |-
+      This {Regulation|index:regulation} applies to the {processing|index:processing} of {personal data|index:personal-data} wholly or partly by {automated means|index:automated-means} and to the {processing|index:processing} other than by {automated means|index:automated-means} of {personal data|index:personal-data} which form part of a {filing system|index:filing-system} or are intended to form part of a {filing system|index:filing-system}.
+    index:
+    - regulation
+    - filing-system
+    - personal-data
+    - automated-means
+    - processing
+    number: 1
+  2:
+    index:
+    - regulation
+    - processing
+    number: 2
+    points:
+      a:
+        content: in the course of an activity which falls outside the scope of Union
+          law;
+      b:
+        content: |-
+          by the Member States when carrying out activities which fall within the scope of Chapter 2 of Title V of the TEU;
+      c:
+        content: by a {natural person|index:natural-person} in the course of a purely
+          personal or household activity;
+        index:
+        - natural-person
+      d:
+        content: |-
+          by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.
+    preamble: |-
+      This {Regulation|index:regulation} does not apply to the {processing|index:processing} of personal data:
+  3:
+    content: |-
+      For the {processing|index:processing} of {personal data|index:personal-data} by the Union institutions, bodies, offices and agencies, {Regulation|index:regulation} (EC) No 45/2001 applies. {Regulation|index:regulation} (EC) No 45/2001 and other Union legal acts applicable to such {processing|index:processing} of {personal data|index:personal-data} shall be adapted to the principles and rules of this {Regulation|index:regulation} in accordance with Article 98.
+    index:
+    - personal-data
+    - regulation
+    - processing
+    number: 3
+  4:
+    content: |-
+      This {Regulation|index:regulation} shall be without prejudice to the application of Directive 2000/31/EC, in particular of the liability rules of intermediary service providers in Articles 12 to 15 of that Directive.
+    index:
+    - regulation
+    number: 4
+section: 0
+title: Material scope

@@ -1,0 +1,23 @@
+chapter: 7
+number: 71
+paragraphs:
+  1:
+    content: "Der Ausschuss erstellt einen Jahresbericht \xFCber den Schutz {nat\xFC\
+      rlicher Personen|index:nat\xFCrliche-person} bei der {Verarbeitung|index:verarbeitung}\
+      \ in der Union und gegebenenfalls in Drittl\xE4ndern und internationalen Organisationen.\
+      \ Der Bericht wird ver\xF6ffentlicht und dem Europ\xE4ischen Parlament, dem\
+      \ Rat und der Kommission \xFCbermittelt."
+    index:
+    - "nat\xFCrliche-person"
+    - verarbeitung
+    number: 1
+  2:
+    content: "Der Jahresbericht enth\xE4lt eine \xDCberpr\xFCfung der praktischen\
+      \ Anwendung der in Artikel 70 Absatz 1 Buchstabe l genannten Leitlinien, Empfehlungen\
+      \ und bew\xE4hrten {Verfahren|index:verfahren} sowie der in Artikel 65 genannten\
+      \ verbindlichen Beschl\xFCsse."
+    index:
+    - verfahren
+    number: 2
+section: 3
+title: Berichterstattung

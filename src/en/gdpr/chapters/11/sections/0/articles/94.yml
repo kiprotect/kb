@@ -1,0 +1,16 @@
+chapter: 11
+number: 94
+paragraphs:
+  1:
+    content: Directive 95/46/EC is repealed with effect from 25 May 2018.
+    number: 1
+  2:
+    content: |-
+      References to the repealed Directive shall be construed as references to this {Regulation|index:regulation}. References to the Working Party on the Protection of Individuals with regard to the {Processing|index:processing} of {Personal Data|index:personal-data} established by Article 29 of Directive 95/46/EC shall be construed as references to the European Data Protection Board established by this {Regulation|index:regulation}.
+    index:
+    - personal-data
+    - regulation
+    - processing
+    number: 2
+section: 0
+title: Repeal of Directive 95/46/EC

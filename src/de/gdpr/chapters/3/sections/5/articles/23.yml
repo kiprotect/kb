@@ -1,0 +1,94 @@
+chapter: 3
+number: 23
+paragraphs:
+  1:
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 1
+    points:
+      a:
+        content: die nationale Sicherheit;
+      b:
+        content: die Landesverteidigung;
+      c:
+        content: "die \xF6ffentliche Sicherheit;"
+      d:
+        content: "die Verh\xFCtung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten\
+          \ oder die Strafvollstreckung, einschlie\xDFlich des Schutzes vor und der\
+          \ Abwehr von Gefahren f\xFCr die \xF6ffentliche Sicherheit;"
+      e:
+        content: "den Schutz sonstiger wichtiger Ziele des allgemeinen \xF6ffentlichen\
+          \ Interesses der Union oder eines Mitgliedstaats, insbesondere eines wichtigen\
+          \ wirtschaftlichen oder finanziellen Interesses der Union oder eines Mitgliedstaats,\
+          \ etwa im W\xE4hrungs-, Haushalts- und Steuerbereich sowie im Bereich der\
+          \ \xF6ffentlichen Gesundheit und der sozialen Sicherheit;"
+      f:
+        content: "den Schutz der Unabh\xE4ngigkeit der Justiz und den Schutz von Gerichtsverfahren;"
+        index:
+        - verfahren
+      g:
+        content: "die Verh\xFCtung, Aufdeckung, Ermittlung und Verfolgung von Verst\xF6\
+          \xDFen gegen die berufsst\xE4ndischen Regeln reglementierter Berufe;"
+      h:
+        content: "Kontroll-, \xDCberwachungs- und Ordnungsfunktionen, die dauernd\
+          \ oder zeitweise mit der Aus\xFCbung \xF6ffentlicher Gewalt f\xFCr die unter\
+          \ den Buchstaben a bis e und g genannten Zwecke verbunden sind;"
+      i:
+        content: |-
+          den Schutz der {betroffenen Person|index:betroffene-person} oder der Rechte und Freiheiten anderer Personen;
+        index:
+        - betroffene-person
+      j:
+        content: "die Durchsetzung zivilrechtlicher Anspr\xFCche."
+    preamble: "Durch Rechtsvorschriften der Union oder der Mitgliedstaaten, denen\
+      \ der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ unterliegt, k\xF6nnen die Pflichten und Rechte gem\xE4\xDF den Artikeln 12\
+      \ bis 22 und Artikel 34 sowie Artikel 5, insofern dessen Bestimmungen den in\
+      \ den Artikeln 12 bis 22 vorgesehenen Rechten und Pflichten entsprechen, im\
+      \ Wege von Gesetzgebungsma\xDFnahmen beschr\xE4nkt werden, sofern eine solche\
+      \ Beschr\xE4nkung den Wesensgehalt der Grundrechte und Grundfreiheiten achtet\
+      \ und in einer demokratischen Gesellschaft eine notwendige und verh\xE4ltnism\xE4\
+      \xDFige Ma\xDFnahme darstellt, die Folgendes sicherstellt:"
+  2:
+    number: 2
+    points:
+      a:
+        content: die Zwecke der {Verarbeitung|index:verarbeitung} oder die Verarbeitungskategorien,
+        index:
+        - verarbeitung
+      b:
+        content: die Kategorien {personenbezogener Daten|index:personenbezogene-daten},
+        index:
+        - personenbezogene-daten
+      c:
+        content: "den Umfang der vorgenommenen Beschr\xE4nkungen,"
+      d:
+        content: "die Garantien gegen Missbrauch oder unrechtm\xE4\xDFigen Zugang\
+          \ oder unrechtm\xE4\xDFige \xDCbermittlung;"
+      e:
+        content: |-
+          die Angaben zu dem {Verantwortlichen|index:verantwortlicher} oder den Kategorien von {Verantwortlichen|index:verantwortlicher},
+        index:
+        - verantwortlicher
+      f:
+        content: "die jeweiligen Speicherfristen sowie die geltenden Garantien unter\
+          \ Ber\xFCcksichtigung von Art, Umfang und Zwecken der {Verarbeitung|index:verarbeitung}\
+          \ oder der Verarbeitungskategorien,"
+        index:
+        - verarbeitung
+      g:
+        content: "die Risiken f\xFCr die Rechte und Freiheiten der {betroffenen Personen|index:betroffene-person}\
+          \ und"
+        index:
+        - betroffene-person
+      h:
+        content: "das Recht der {betroffenen Personen|index:betroffene-person} auf\
+          \ Unterrichtung \xFCber die Beschr\xE4nkung, sofern dies nicht dem Zweck\
+          \ der Beschr\xE4nkung abtr\xE4glich ist."
+        index:
+        - betroffene-person
+    preamble: "Jede Gesetzgebungsma\xDFnahme im Sinne des Absatzes 1 muss insbesondere\
+      \ gegebenenfalls spezifische Vorschriften enthalten zumindest in Bezug auf"
+section: 5
+title: "Beschr\xE4nkungen"

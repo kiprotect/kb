@@ -1,0 +1,114 @@
+chapter: 5
+number: 46
+paragraphs:
+  1:
+    content: "Falls kein Beschluss nach Artikel 45 Absatz 3 vorliegt, darf ein {Verantwortlicher|index:verantwortlicher}\
+      \ oder ein {Auftragsverarbeiter|index:auftragsverarbeiter} {personenbezogene\
+      \ Daten|index:personenbezogene-daten} an ein Drittland oder eine {internationale\
+      \ Organisation|index:internationale-organisation} nur \xFCbermitteln, sofern\
+      \ der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ geeignete Garantien vorgesehen hat und sofern den {betroffenen Personen|index:betroffene-person}\
+      \ durchsetzbare Rechte und wirksame Rechtsbehelfe zur Verf\xFCgung stehen."
+    index:
+    - betroffene-person
+    - internationale-organisation
+    - auftragsverarbeiter
+    - verantwortlicher
+    - personenbezogene-daten
+    number: 1
+  2:
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 2
+    points:
+      a:
+        content: "einem rechtlich bindenden und durchsetzbaren Dokument zwischen den\
+          \ Beh\xF6rden oder \xF6ffentlichen Stellen,"
+      b:
+        content: "{verbindlichen internen Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}\
+          \ gem\xE4\xDF Artikel 47,"
+        index:
+        - verbindliche-interne-datenschutzvorschriften
+      c:
+        content: "Standarddatenschutzklauseln, die von der Kommission gem\xE4\xDF\
+          \ dem Pr\xFCfverfahren nach Artikel 93 Absatz 2 erlassen werden,"
+        index:
+        - verfahren
+      d:
+        content: "von einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} angenommenen\
+          \ Standarddatenschutzklauseln, die von der Kommission gem\xE4\xDF dem Pr\xFC\
+          fverfahren nach Artikel 93 Absatz 2 genehmigt wurden,"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      e:
+        content: "genehmigten Verhaltensregeln gem\xE4\xDF Artikel 40 zusammen mit\
+          \ rechtsverbindlichen und durchsetzbaren Verpflichtungen des {Verantwortlichen|index:verantwortlicher}\
+          \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} in dem Drittland\
+          \ zur Anwendung der geeigneten Garantien, einschlie\xDFlich in Bezug auf\
+          \ die Rechte der {betroffenen Personen|index:betroffene-person}, oder"
+        index:
+        - verantwortlicher
+        - betroffene-person
+        - auftragsverarbeiter
+      f:
+        content: "einem genehmigten Zertifizierungsmechanismus gem\xE4\xDF Artikel\
+          \ 42 zusammen mit rechtsverbindlichen und durchsetzbaren Verpflichtungen\
+          \ des {Verantwortlichen|index:verantwortlicher} oder des {Auftragsverarbeiters|index:auftragsverarbeiter}\
+          \ in dem Drittland zur Anwendung der geeigneten Garantien, einschlie\xDF\
+          lich in Bezug auf die Rechte der {betroffenen Personen|index:betroffene-person}."
+        index:
+        - verantwortlicher
+        - betroffene-person
+        - auftragsverarbeiter
+    preamble: "Die in Absatz 1 genannten geeigneten Garantien k\xF6nnen, ohne dass\
+      \ hierzu eine besondere Genehmigung einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} erforderlich w\xE4re, bestehen in"
+  3:
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 3
+    points:
+      a:
+        content: "Vertragsklauseln, die zwischen dem {Verantwortlichen|index:verantwortlicher}\
+          \ oder dem {Auftragsverarbeiter|index:auftragsverarbeiter} und dem {Verantwortlichen|index:verantwortlicher},\
+          \ dem {Auftragsverarbeiter|index:auftragsverarbeiter} oder dem {Empf\xE4\
+          nger|index:empf\xE4nger} der {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ im Drittland oder der internationalen Organisation vereinbart wurden,\
+          \ oder"
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+        - auftragsverarbeiter
+        - "empf\xE4nger"
+      b:
+        content: "Bestimmungen, die in Verwaltungsvereinbarungen zwischen Beh\xF6\
+          rden oder \xF6ffentlichen Stellen aufzunehmen sind und durchsetzbare und\
+          \ wirksame Rechte f\xFCr die {betroffenen Personen|index:betroffene-person}\
+          \ einschlie\xDFen."
+        index:
+        - betroffene-person
+    preamble: "Vorbehaltlich der Genehmigung durch die zust\xE4ndige {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} k\xF6nnen die geeigneten Garantien gem\xE4\xDF\
+      \ Absatz 1 auch insbesondere bestehen in"
+  4:
+    content: "Die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} wendet das Koh\xE4\
+      renzverfahren nach Artikel 63 an, wenn ein Fall gem\xE4\xDF Absatz 3 des vorliegenden\
+      \ Artikels vorliegt."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 4
+  5:
+    content: "Von einem Mitgliedstaat oder einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} auf der Grundlage von Artikel 26 Absatz 2 der Richtlinie 95/46/EG erteilte\
+      \ Genehmigungen bleiben so lange g\xFCltig, bis sie erforderlichenfalls von\
+      \ dieser {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} ge\xE4ndert, ersetzt\
+      \ oder aufgehoben werden. Von der Kommission auf der Grundlage von Artikel 26\
+      \ Absatz 4 der Richtlinie 95/46/EG erlassene Feststellungen bleiben so lange\
+      \ in Kraft, bis sie erforderlichenfalls mit einem nach Absatz 2 des vorliegenden\
+      \ Artikels erlassenen Beschluss der Kommission ge\xE4ndert, ersetzt oder aufgehoben\
+      \ werden."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 5
+section: 0
+title: "Daten\xFCbermittlung vorbehaltlich geeigneter Garantien"

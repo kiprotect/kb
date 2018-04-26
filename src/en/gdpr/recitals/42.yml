@@ -1,0 +1,9 @@
+content: |-
+  Where {processing|index:processing} is based on the data subject's {consent|index:consent}, the {controller|index:controller} should be able to demonstrate that the {data subject|index:data-subject} has given {consent|index:consent} to the {processing|index:processing} operation. In particular in the context of a written declaration on another matter, safeguards should ensure that the {data subject|index:data-subject} is aware of the fact that and the extent to which {consent|index:consent} is given. In accordance with Council Directive 93/13/EEC (10) a declaration of {consent|index:consent} pre-formulated by the {controller|index:controller} should be provided in an intelligible and easily accessible form, using clear and plain language and it should not contain unfair terms. For {consent|index:consent} to be informed, the {data subject|index:data-subject} should be aware at least of the identity of the {controller|index:controller} and the purposes of the {processing|index:processing} for which the {personal data|index:personal-data} are intended. {Consent|index:consent} should not be regarded as freely given if the {data subject|index:data-subject} has no genuine or free choice or is unable to refuse or withdraw {consent|index:consent} without detriment.
+index:
+- data-subject
+- consent
+- controller
+- personal-data
+- processing
+number: 42

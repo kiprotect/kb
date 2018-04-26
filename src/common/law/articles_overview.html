@@ -1,0 +1,57 @@
+{% extends("with_side_menu.html") %}
+{% block extra_nav %}
+    {% include "common/law/_article_nav.html" %}
+{% endblock %}
+{%block content%}
+
+<div class="articles-overview">
+
+    <h2 class="title">{{'gdpr'|translate}} - {{'quick-access'|translate}}</h2>
+
+    <table class="table is-striped is-hoverable is-fullwidth">
+        <tbody>
+            {% for chapter in law.chapters %}
+            <tr>
+                <td>
+                    {{'chapter'|translate}} {{chapter.roman_number}}
+                </td>
+                <td>
+                    {% for section in chapter.sections %}
+                        {% for art in section.articles %}
+                            <a href="{{'gdpr-article-%d'|format(art.number)|href}}">{{art.number}}</a>
+                        {% endfor %}
+                    {% endfor %}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    {% for chapter in law.chapters %}
+
+        <h3 class="subtitle">{{'chapter'|translate}} {{chapter.roman_number}}</h3>
+        <p class="description">
+            {{chapter.title|law_markup(lang,remove=True)}}
+        </p>
+
+        {% if chapter.sections|length > 1 %}
+            {% for section in chapter.sections %}
+                <h4 class="subsubtitle">{{'section'|translate}} {{section.number}}</h4>
+                <p class="description">
+                    {{section.title|law_markup(lang,remove=True)}}
+                </p>
+                {% include "common/law/_section_table.html" %}
+            {% endfor %}
+        {% else %}
+            {% with section=chapter.sections[0] %}
+                {% include "common/law/_section_table.html" %}
+            {% endwith %}
+        {% endif %}
+
+    {% endfor %}
+
+
+</div>
+
+
+{%endblock%}

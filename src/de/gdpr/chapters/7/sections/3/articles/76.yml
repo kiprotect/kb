@@ -1,0 +1,18 @@
+chapter: 7
+number: 76
+paragraphs:
+  1:
+    content: "Die Beratungen des Ausschusses sind gem\xE4\xDF seiner Gesch\xE4ftsordnung\
+      \ vertraulich, wenn der Ausschuss dies f\xFCr erforderlich h\xE4lt."
+    number: 1
+  2:
+    content: "Der Zugang zu Dokumenten, die Mitgliedern des Ausschusses, Sachverst\xE4\
+      ndigen und Vertretern von {Dritten|index:dritter} vorgelegt werden, wird durch\
+      \ die {Verordnung|index:verordnung} (EG) Nr. 1049/2001 des Europ\xE4ischen Parlaments\
+      \ und des Rates (21) geregelt."
+    index:
+    - dritter
+    - verordnung
+    number: 2
+section: 3
+title: Vertraulichkeit

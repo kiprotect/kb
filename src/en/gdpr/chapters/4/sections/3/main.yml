@@ -1,0 +1,6 @@
+articles:
+- $include: articles/35.yml
+- $include: articles/36.yml
+chapter: 4
+number: 3
+title: Data protection impact assessment and prior consultation

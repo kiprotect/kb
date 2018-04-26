@@ -1,0 +1,80 @@
+chapter: 4
+index:
+- verletzung-des-schutzes-personenbezogener-daten
+- betroffene-person
+number: 34
+paragraphs:
+  1:
+    content: "Hat die {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+      \ voraussichtlich ein hohes Risiko f\xFCr die pers\xF6nlichen Rechte und Freiheiten\
+      \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person} zur Folge, so benachrichtigt\
+      \ der {Verantwortliche|index:verantwortlicher} die {betroffene Person|index:betroffene-person}\
+      \ unverz\xFCglich von der Verletzung."
+    index:
+    - verletzung-des-schutzes-personenbezogener-daten
+    - verantwortlicher
+    - betroffene-person
+    - "nat\xFCrliche-person"
+    number: 1
+  2:
+    content: "Die in Absatz 1 genannte Benachrichtigung der {betroffenen Person|index:betroffene-person}\
+      \ beschreibt in klarer und einfacher Sprache die Art der {Verletzung des Schutzes\
+      \ personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+      \ und enth\xE4lt zumindest die in Artikel 33 Absatz 3 Buchstaben b, c und d\
+      \ genannten Informationen und Ma\xDFnahmen."
+    index:
+    - verletzung-des-schutzes-personenbezogener-daten
+    - betroffene-person
+    number: 2
+  3:
+    index:
+    - betroffene-person
+    number: 3
+    points:
+      a:
+        content: "der {Verantwortliche|index:verantwortlicher} geeignete technische\
+          \ und organisatorische Sicherheitsvorkehrungen getroffen hat und diese Vorkehrungen\
+          \ auf die von der Verletzung betroffenen {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ angewandt wurden, insbesondere solche, durch die die {personenbezogenen\
+          \ Daten|index:personenbezogene-daten} f\xFCr alle Personen, die nicht zum\
+          \ Zugang zu den {personenbezogenen Daten|index:personenbezogene-daten} befugt\
+          \ sind, unzug\xE4nglich gemacht werden, etwa durch Verschl\xFCsselung;"
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+      b:
+        content: "der {Verantwortliche|index:verantwortlicher} durch nachfolgende\
+          \ Ma\xDFnahmen sichergestellt hat, dass das hohe Risiko f\xFCr die Rechte\
+          \ und Freiheiten der {betroffenen Personen|index:betroffene-person} gem\xE4\
+          \xDF Absatz 1 aller Wahrscheinlichkeit nach nicht mehr besteht;"
+        index:
+        - verantwortlicher
+        - betroffene-person
+      c:
+        content: "dies mit einem unverh\xE4ltnism\xE4\xDFigen Aufwand verbunden w\xE4\
+          re. In diesem Fall hat stattdessen eine \xF6ffentliche Bekanntmachung oder\
+          \ eine \xE4hnliche Ma\xDFnahme zu erfolgen, durch die die {betroffenen Personen|index:betroffene-person}\
+          \ vergleichbar wirksam informiert werden."
+        index:
+        - betroffene-person
+    preamble: "Die Benachrichtigung der {betroffenen Person|index:betroffene-person}\
+      \ gem\xE4\xDF Absatz 1 ist nicht erforderlich, wenn eine der folgenden Bedingungen\
+      \ erf\xFCllt ist:"
+  4:
+    content: "Wenn der {Verantwortliche|index:verantwortlicher} die {betroffene Person|index:betroffene-person}\
+      \ nicht bereits \xFCber die {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+      \ benachrichtigt hat, kann die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
+      \ unter Ber\xFCcksichtigung der Wahrscheinlichkeit, mit der die {Verletzung\
+      \ des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+      \ zu einem hohen Risiko f\xFChrt, von dem {Verantwortlichen|index:verantwortlicher}\
+      \ verlangen, dies nachzuholen, oder sie kann mit einem Beschluss feststellen,\
+      \ dass bestimmte der in Absatz 3 genannten Voraussetzungen erf\xFCllt sind."
+    index:
+    - verletzung-des-schutzes-personenbezogener-daten
+    - verantwortlicher
+    - betroffene-person
+    - "aufsichtsbeh\xF6rde"
+    number: 4
+section: 2
+title: |-
+  Benachrichtigung der von einer {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten} {betroffenen Person|index:betroffene-person}

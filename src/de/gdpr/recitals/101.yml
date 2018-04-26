@@ -1,0 +1,34 @@
+content: "Der Fluss {personenbezogener Daten|index:personenbezogene-daten} aus Drittl\xE4\
+  ndern und internationalen Organisationen und in Drittl\xE4nder und {internationale\
+  \ Organisationen|index:internationale-organisation} ist f\xFCr die Ausweitung des\
+  \ internationalen Handels und der internationalen Zusammenarbeit notwendig. Durch\
+  \ die Zunahme dieser Datenstr\xF6me sind neue Herausforderungen und Anforderungen\
+  \ in Bezug auf den Schutz {personenbezogener Daten|index:personenbezogene-daten}\
+  \ entstanden. Das durch diese {Verordnung|index:verordnung} unionsweit gew\xE4hrleistete\
+  \ Schutzniveau f\xFCr {nat\xFCrliche Personen|index:nat\xFCrliche-person} sollte\
+  \ jedoch bei der \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
+  \ aus der Union an {Verantwortliche|index:verantwortlicher}, {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ oder andere {Empf\xE4nger|index:empf\xE4nger} in Drittl\xE4ndern oder an {internationale\
+  \ Organisationen|index:internationale-organisation} nicht untergraben werden, und\
+  \ zwar auch dann nicht, wenn aus einem Drittland oder von einer internationalen\
+  \ Organisation {personenbezogene Daten|index:personenbezogene-daten} an {Verantwortliche|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} in demselben oder einem anderen\
+  \ Drittland oder an dieselbe oder eine andere {internationale Organisation|index:internationale-organisation}\
+  \ weiter\xFCbermittelt werden. In jedem Fall sind derartige Daten\xFCbermittlungen\
+  \ an Drittl\xE4nder und {internationale Organisationen|index:internationale-organisation}\
+  \ nur unter strikter Einhaltung dieser {Verordnung|index:verordnung} zul\xE4ssig.\
+  \ Eine Daten\xFCbermittlung k\xF6nnte nur stattfinden, wenn die in dieser {Verordnung|index:verordnung}\
+  \ festgelegten Bedingungen zur \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
+  \ an Drittl\xE4nder oder {internationale Organisationen|index:internationale-organisation}\
+  \ vorbehaltlich der \xFCbrigen Bestimmungen dieser {Verordnung|index:verordnung}\
+  \ von dem {Verantwortlichen|index:verantwortlicher} oder dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ erf\xFCllt werden."
+index:
+- internationale-organisation
+- verordnung
+- auftragsverarbeiter
+- "empf\xE4nger"
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+number: 101

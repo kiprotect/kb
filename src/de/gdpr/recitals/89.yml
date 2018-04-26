@@ -1,0 +1,24 @@
+content: "Gem\xE4\xDF der Richtlinie 95/46/EG waren Verarbeitungen {personenbezogener\
+  \ Daten|index:personenbezogene-daten} bei den {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+  rde} generell meldepflichtig. Diese Meldepflicht ist mit einem b\xFCrokratischen\
+  \ und finanziellen Aufwand verbunden und hat dennoch nicht in allen F\xE4llen zu\
+  \ einem besseren Schutz {personenbezogener Daten|index:personenbezogene-daten} gef\xFC\
+  hrt. Diese unterschiedslosen allgemeinen Meldepflichten sollten daher abgeschafft\
+  \ und durch wirksame {Verfahren|index:verfahren} und Mechanismen ersetzt werden,\
+  \ die sich stattdessen vorrangig mit denjenigen Arten von Verarbeitungsvorg\xE4\
+  ngen befassen, die aufgrund ihrer Art, ihres Umfangs, ihrer Umst\xE4nde und ihrer\
+  \ Zwecke wahrscheinlich ein hohes Risiko f\xFCr die Rechte und Freiheiten {nat\xFC\
+  rlicher Personen|index:nat\xFCrliche-person} mit sich bringen. Zu solchen Arten\
+  \ von Verarbeitungsvorg\xE4ngen geh\xF6ren insbesondere solche, bei denen neue Technologien\
+  \ eingesetzt werden oder die neuartig sind und bei denen der {Verantwortliche|index:verantwortlicher}\
+  \ noch keine Datenschutz-Folgenabsch\xE4tzung durchgef\xFChrt hat bzw. bei denen\
+  \ aufgrund der seit der urspr\xFCnglichen {Verarbeitung|index:verarbeitung} vergangenen\
+  \ Zeit eine Datenschutz-Folgenabsch\xE4tzung notwendig geworden ist."
+index:
+- verfahren
+- personenbezogene-daten
+- verantwortlicher
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
+number: 89

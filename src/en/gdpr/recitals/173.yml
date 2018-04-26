@@ -1,0 +1,17 @@
+content: "This {Regulation|index:regulation} should apply to all matters concerning\
+  \ the protection of fundamental rights and freedoms vis-\xE0-vis the {processing|index:processing}\
+  \ of {personal data|index:personal-data} which are not subject to specific obligations\
+  \ with the same objective set out in Directive 2002/58/EC of the European Parliament\
+  \ and of the Council (18), including the obligations on the {controller|index:controller}\
+  \ and the rights of {natural persons|index:natural-person}. In order to clarify\
+  \ the relationship between this {Regulation|index:regulation} and Directive 2002/58/EC,\
+  \ that Directive should be amended accordingly. Once this {Regulation|index:regulation}\
+  \ is adopted, Directive 2002/58/EC should be reviewed in particular in order to\
+  \ ensure consistency with this {Regulation|index:regulation},"
+index:
+- regulation
+- controller
+- personal-data
+- natural-person
+- processing
+number: 173

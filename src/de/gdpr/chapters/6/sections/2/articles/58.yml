@@ -1,0 +1,211 @@
+chapter: 6
+number: 58
+paragraphs:
+  1:
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 1
+    points:
+      a:
+        content: "den {Verantwortlichen|index:verantwortlicher}, den {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ und gegebenenfalls den {Vertreter|index:vertreter} des {Verantwortlichen|index:verantwortlicher}\
+          \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} anzuweisen,\
+          \ alle Informationen bereitzustellen, die f\xFCr die Erf\xFCllung ihrer\
+          \ Aufgaben erforderlich sind,"
+        index:
+        - verantwortlicher
+        - auftragsverarbeiter
+        - vertreter
+      b:
+        content: "Untersuchungen in Form von Datenschutz\xFCberpr\xFCfungen durchzuf\xFC\
+          hren,"
+      c:
+        content: "eine \xDCberpr\xFCfung der nach Artikel 42 Absatz 7 erteilten Zertifizierungen\
+          \ durchzuf\xFChren,"
+      d:
+        content: "den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ auf einen vermeintlichen Versto\xDF gegen diese {Verordnung|index:verordnung}\
+          \ hinzuweisen,"
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - verordnung
+      e:
+        content: "von dem {Verantwortlichen|index:verantwortlicher} und dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ Zugang zu allen {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ und Informationen, die zur Erf\xFCllung ihrer Aufgaben notwendig sind,\
+          \ zu erhalten,"
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+        - auftragsverarbeiter
+      f:
+        content: "gem\xE4\xDF dem Verfahrensrecht der Union oder dem Verfahrensrecht\
+          \ des Mitgliedstaats Zugang zu den Gesch\xE4ftsr\xE4umen, einschlie\xDF\
+          lich aller Datenverarbeitungsanlagen und -ger\xE4te, des {Verantwortlichen|index:verantwortlicher}\
+          \ und des {Auftragsverarbeiters|index:auftragsverarbeiter} zu erhalten."
+        index:
+        - verantwortlicher
+        - auftragsverarbeiter
+    preamble: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} verf\xFCgt \xFC\
+      ber s\xE4mtliche folgenden Untersuchungsbefugnisse, die es ihr gestatten,"
+  2:
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 2
+    points:
+      a:
+        content: "einen {Verantwortlichen|index:verantwortlicher} oder einen {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ zu warnen, dass beabsichtigte Verarbeitungsvorg\xE4nge voraussichtlich\
+          \ gegen diese {Verordnung|index:verordnung} versto\xDFen,"
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - verordnung
+      b:
+        content: "einen {Verantwortlichen|index:verantwortlicher} oder einen {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ zu verwarnen, wenn er mit Verarbeitungsvorg\xE4ngen gegen diese {Verordnung|index:verordnung}\
+          \ versto\xDFen hat,"
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - verordnung
+      c:
+        content: "den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ anzuweisen, den Antr\xE4gen der {betroffenen Person|index:betroffene-person}\
+          \ auf Aus\xFCbung der ihr nach dieser {Verordnung|index:verordnung} zustehenden\
+          \ Rechte zu entsprechen,"
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - betroffene-person
+        - verordnung
+      d:
+        content: "den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ anzuweisen, Verarbeitungsvorg\xE4nge gegebenenfalls auf bestimmte Weise\
+          \ und innerhalb eines bestimmten Zeitraums in Einklang mit dieser {Verordnung|index:verordnung}\
+          \ zu bringen,"
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - verordnung
+      e:
+        content: |-
+          den {Verantwortlichen|index:verantwortlicher} anzuweisen, die von einer {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten} {betroffenen Person|index:betroffene-person} entsprechend zu benachrichtigen,
+        index:
+        - verletzung-des-schutzes-personenbezogener-daten
+        - verantwortlicher
+        - betroffene-person
+      f:
+        content: "eine vor\xFCbergehende oder endg\xFCltige Beschr\xE4nkung der {Verarbeitung|index:verarbeitung},\
+          \ einschlie\xDFlich eines Verbots, zu verh\xE4ngen,"
+        index:
+        - verarbeitung
+      g:
+        content: "die Berichtigung oder L\xF6schung von {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ oder die {Einschr\xE4nkung der Verarbeitung|index:einschr\xE4nkung-der-verarbeitung}\
+          \ gem\xE4\xDF den Artikeln 16, 17 und 18 und die Unterrichtung der {Empf\xE4\
+          nger|index:empf\xE4nger}, an die diese {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ gem\xE4\xDF Artikel 17 Absatz 2 und Artikel 19 offengelegt wurden, \xFC\
+          ber solche Ma\xDFnahmen anzuordnen,"
+        index:
+        - "einschr\xE4nkung-der-verarbeitung"
+        - personenbezogene-daten
+        - "empf\xE4nger"
+      h:
+        content: "eine Zertifizierung zu widerrufen oder die Zertifizierungsstelle\
+          \ anzuweisen, eine gem\xE4\xDF den Artikel 42 und 43 erteilte Zertifizierung\
+          \ zu widerrufen, oder die Zertifizierungsstelle anzuweisen, keine Zertifizierung\
+          \ zu erteilen, wenn die Voraussetzungen f\xFCr die Zertifizierung nicht\
+          \ oder nicht mehr erf\xFCllt werden,"
+      i:
+        content: "eine Geldbu\xDFe gem\xE4\xDF Artikel 83 zu verh\xE4ngen, zus\xE4\
+          tzlich zu oder anstelle von in diesem Absatz genannten Ma\xDFnahmen, je\
+          \ nach den Umst\xE4nden des Einzelfalls,"
+      j:
+        content: "die Aussetzung der \xDCbermittlung von Daten an einen {Empf\xE4\
+          nger|index:empf\xE4nger} in einem Drittland oder an eine {internationale\
+          \ Organisation|index:internationale-organisation} anzuordnen."
+        index:
+        - internationale-organisation
+        - "empf\xE4nger"
+    preamble: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} verf\xFCgt \xFC\
+      ber s\xE4mtliche folgenden Abhilfebefugnisse, die es ihr gestatten,"
+  3:
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 3
+    points:
+      a:
+        content: "gem\xE4\xDF dem {Verfahren|index:verfahren} der vorherigen Konsultation\
+          \ nach Artikel 36 den {Verantwortlichen|index:verantwortlicher} zu beraten,"
+        index:
+        - verfahren
+        - verantwortlicher
+      b:
+        content: "zu allen Fragen, die im Zusammenhang mit dem Schutz {personenbezogener\
+          \ Daten|index:personenbezogene-daten} stehen, von sich aus oder auf Anfrage\
+          \ Stellungnahmen an das nationale Parlament, die Regierung des Mitgliedstaats\
+          \ oder im Einklang mit dem Recht des Mitgliedstaats an sonstige Einrichtungen\
+          \ und Stellen sowie an die \xD6ffentlichkeit zu richten,"
+        index:
+        - personenbezogene-daten
+      c:
+        content: "die {Verarbeitung|index:verarbeitung} gem\xE4\xDF Artikel 36 Absatz\
+          \ 5 zu genehmigen, falls im Recht des Mitgliedstaats eine derartige vorherige\
+          \ Genehmigung verlangt wird,"
+        index:
+        - verarbeitung
+      d:
+        content: "eine Stellungnahme abzugeben und Entw\xFCrfe von Verhaltensregeln\
+          \ gem\xE4\xDF Artikel 40 Absatz 5 zu billigen,"
+      e:
+        content: "Zertifizierungsstellen gem\xE4\xDF Artikel 43 zu akkreditieren,"
+      f:
+        content: "im Einklang mit Artikel 42 Absatz 5 Zertifizierungen zu erteilen\
+          \ und Kriterien f\xFCr die Zertifizierung zu billigen,"
+      g:
+        content: |-
+          Standarddatenschutzklauseln nach Artikel 28 Absatz 8 und Artikel 46 Absatz 2 Buchstabe d festzulegen,
+      h:
+        content: "Vertragsklauseln gem\xE4\xDF Artikel 46 Absatz 3 Buchstabe a zu\
+          \ genehmigen,"
+      i:
+        content: "Verwaltungsvereinbarungen gem\xE4\xDF Artikel 46 Absatz 3 Buchstabe\
+          \ b zu genehmigen"
+      j:
+        content: "verbindliche interne Vorschriften gem\xE4\xDF Artikel 47 zu genehmigen."
+    preamble: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} verf\xFCgt \xFC\
+      ber s\xE4mtliche folgenden Genehmigungsbefugnisse und beratenden Befugnisse,\
+      \ die es ihr gestatten,"
+  4:
+    content: "Die Aus\xFCbung der der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} gem\xE4\xDF diesem Artikel \xFCbertragenen Befugnisse erfolgt vorbehaltlich\
+      \ geeigneter Garantien einschlie\xDFlich wirksamer gerichtlicher Rechtsbehelfe\
+      \ und ordnungsgem\xE4\xDFer {Verfahren|index:verfahren} gem\xE4\xDF dem Unionsrecht\
+      \ und dem Recht des Mitgliedstaats im Einklang mit der Charta."
+    index:
+    - verfahren
+    - "aufsichtsbeh\xF6rde"
+    number: 4
+  5:
+    content: "Jeder Mitgliedstaat sieht durch Rechtsvorschriften vor, dass seine {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} befugt ist, Verst\xF6\xDFe gegen diese {Verordnung|index:verordnung}\
+      \ den Justizbeh\xF6rden zur Kenntnis zu bringen und gegebenenfalls die Einleitung\
+      \ eines gerichtlichen Verfahrens zu betreiben oder sich sonst daran zu beteiligen,\
+      \ um die Bestimmungen dieser {Verordnung|index:verordnung} durchzusetzen."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verordnung
+    number: 5
+  6:
+    content: "Jeder Mitgliedstaat kann durch Rechtsvorschriften vorsehen, dass seine\
+      \ {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} neben den in den Abs\xE4tzen\
+      \ 1, 2 und 3 aufgef\xFChrten Befugnissen \xFCber zus\xE4tzliche Befugnisse verf\xFC\
+      gt. Die Aus\xFCbung dieser Befugnisse darf nicht die effektive Durchf\xFChrung\
+      \ des Kapitels VII beeintr\xE4chtigen."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 6
+section: 2
+title: Befugnisse

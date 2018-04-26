@@ -1,0 +1,113 @@
+chapter: 3
+number: 17
+paragraphs:
+  1:
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - betroffene-person
+    number: 1
+    points:
+      a:
+        content: "Die {personenbezogenen Daten|index:personenbezogene-daten} sind\
+          \ f\xFCr die Zwecke, f\xFCr die sie erhoben oder auf sonstige Weise verarbeitet\
+          \ wurden, nicht mehr notwendig."
+        index:
+        - personenbezogene-daten
+      b:
+        content: "Die {betroffene Person|index:betroffene-person} widerruft ihre {Einwilligung|index:einwilligung},\
+          \ auf die sich die {Verarbeitung|index:verarbeitung} gem\xE4\xDF Artikel\
+          \ 6 Absatz 1 Buchstabe a oder Artikel 9 Absatz 2 Buchstabe a st\xFCtzte,\
+          \ und es fehlt an einer anderweitigen Rechtsgrundlage f\xFCr die {Verarbeitung|index:verarbeitung}."
+        index:
+        - betroffene-person
+        - einwilligung
+        - verarbeitung
+      c:
+        content: "Die {betroffene Person|index:betroffene-person} legt gem\xE4\xDF\
+          \ Artikel 21 Absatz 1 Widerspruch gegen die {Verarbeitung|index:verarbeitung}\
+          \ ein und es liegen keine vorrangigen berechtigten Gr\xFCnde f\xFCr die\
+          \ {Verarbeitung|index:verarbeitung} vor, oder die {betroffene Person|index:betroffene-person}\
+          \ legt gem\xE4\xDF Artikel 21 Absatz 2 Widerspruch gegen die {Verarbeitung|index:verarbeitung}\
+          \ ein."
+        index:
+        - betroffene-person
+        - verarbeitung
+      d:
+        content: "Die {personenbezogenen Daten|index:personenbezogene-daten} wurden\
+          \ unrechtm\xE4\xDFig verarbeitet."
+        index:
+        - personenbezogene-daten
+      e:
+        content: "Die L\xF6schung der {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ ist zur Erf\xFCllung einer rechtlichen Verpflichtung nach dem Unionsrecht\
+          \ oder dem Recht der Mitgliedstaaten erforderlich, dem der {Verantwortliche|index:verantwortlicher}\
+          \ unterliegt."
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+      f:
+        content: "Die {personenbezogenen Daten|index:personenbezogene-daten} wurden\
+          \ in Bezug auf angebotene {Dienste der Informationsgesellschaft|index:dienst-der-informationsgesellschaft}\
+          \ gem\xE4\xDF Artikel 8 Absatz 1 erhoben."
+        index:
+        - personenbezogene-daten
+        - dienst-der-informationsgesellschaft
+    preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, von\
+      \ dem {Verantwortlichen|index:verantwortlicher} zu verlangen, dass sie betreffende\
+      \ {personenbezogene Daten|index:personenbezogene-daten} unverz\xFCglich gel\xF6\
+      scht werden, und der {Verantwortliche|index:verantwortlicher} ist verpflichtet,\
+      \ {personenbezogene Daten|index:personenbezogene-daten} unverz\xFCglich zu l\xF6\
+      schen, sofern einer der folgenden Gr\xFCnde zutrifft:"
+  2:
+    content: "Hat der {Verantwortliche|index:verantwortlicher} die {personenbezogenen\
+      \ Daten|index:personenbezogene-daten} \xF6ffentlich gemacht und ist er gem\xE4\
+      \xDF Absatz 1 zu deren L\xF6schung verpflichtet, so trifft er unter Ber\xFC\
+      cksichtigung der verf\xFCgbaren Technologie und der Implementierungskosten angemessene\
+      \ Ma\xDFnahmen, auch technischer Art, um f\xFCr die Datenverarbeitung {Verantwortliche|index:verantwortlicher},\
+      \ die die {personenbezogenen Daten|index:personenbezogene-daten} verarbeiten,\
+      \ dar\xFCber zu informieren, dass eine {betroffene Person|index:betroffene-person}\
+      \ von ihnen die L\xF6schung aller Links zu diesen {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ oder von Kopien oder Replikationen dieser {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ verlangt hat."
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - betroffene-person
+    number: 2
+  3:
+    index:
+    - verarbeitung
+    number: 3
+    points:
+      a:
+        content: "zur Aus\xFCbung des Rechts auf freie Meinungs\xE4u\xDFerung und\
+          \ Information;"
+      b:
+        content: "zur Erf\xFCllung einer rechtlichen Verpflichtung, die die {Verarbeitung|index:verarbeitung}\
+          \ nach dem Recht der Union oder der Mitgliedstaaten, dem der {Verantwortliche|index:verantwortlicher}\
+          \ unterliegt, erfordert, oder zur Wahrnehmung einer Aufgabe, die im \xF6\
+          ffentlichen Interesse liegt oder in Aus\xFCbung \xF6ffentlicher Gewalt erfolgt,\
+          \ die dem {Verantwortlichen|index:verantwortlicher} \xFCbertragen wurde;"
+        index:
+        - verantwortlicher
+        - verarbeitung
+      c:
+        content: "aus Gr\xFCnden des \xF6ffentlichen Interesses im Bereich der \xF6\
+          ffentlichen Gesundheit gem\xE4\xDF Artikel 9 Absatz 2 Buchstaben h und i\
+          \ sowie Artikel 9 Absatz 3;"
+      d:
+        content: "f\xFCr im \xF6ffentlichen Interesse liegende Archivzwecke, wissenschaftliche\
+          \ oder historische Forschungszwecke oder f\xFCr statistische Zwecke gem\xE4\
+          \xDF Artikel 89 Absatz 1, soweit das in Absatz 1 genannte Recht voraussichtlich\
+          \ die Verwirklichung der Ziele dieser {Verarbeitung|index:verarbeitung}\
+          \ unm\xF6glich macht oder ernsthaft beeintr\xE4chtigt, oder"
+        index:
+        - verarbeitung
+      e:
+        content: "zur Geltendmachung, Aus\xFCbung oder Verteidigung von Rechtsanspr\xFC\
+          chen."
+    preamble: "Die Abs\xE4tze 1 und 2 gelten nicht, soweit die {Verarbeitung|index:verarbeitung}\
+      \ erforderlich ist"
+section: 3
+title: "Recht auf L\xF6schung (\u201ERecht auf Vergessenwerden\u201C)"

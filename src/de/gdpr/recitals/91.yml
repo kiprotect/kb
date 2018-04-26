@@ -1,0 +1,42 @@
+content: "Dies sollte insbesondere f\xFCr umfangreiche Verarbeitungsvorg\xE4nge gelten,\
+  \ die dazu dienen, gro\xDFe Mengen {personenbezogener Daten|index:personenbezogene-daten}\
+  \ auf regionaler, nationaler oder supranationaler Ebene zu verarbeiten, eine gro\xDF\
+  e Zahl von Personen betreffen k\xF6nnten und \u2014 beispielsweise aufgrund ihrer\
+  \ Sensibilit\xE4t \u2014 wahrscheinlich ein hohes Risiko mit sich bringen und bei\
+  \ denen entsprechend dem jeweils aktuellen Stand der Technik in gro\xDFem Umfang\
+  \ eine neue Technologie eingesetzt wird, sowie f\xFCr andere Verarbeitungsvorg\xE4\
+  nge, die ein hohes Risiko f\xFCr die Rechte und Freiheiten der {betroffenen Personen|index:betroffene-person}\
+  \ mit sich bringen, insbesondere dann, wenn diese Verarbeitungsvorg\xE4nge den {betroffenen\
+  \ Personen|index:betroffene-person} die Aus\xFCbung ihrer Rechte erschweren. Eine\
+  \ Datenschutz-Folgenabsch\xE4tzung sollte auch durchgef\xFChrt werden, wenn die\
+  \ {personenbezogenen Daten|index:personenbezogene-daten} f\xFCr das Treffen von\
+  \ Entscheidungen in Bezug auf bestimmte {nat\xFCrliche Personen|index:nat\xFCrliche-person}\
+  \ im Anschluss an eine systematische und eingehende Bewertung pers\xF6nlicher Aspekte\
+  \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person} auf der Grundlage eines {Profilings|index:profiling}\
+  \ dieser Daten oder im Anschluss an die {Verarbeitung|index:verarbeitung} besonderer\
+  \ Kategorien von {personenbezogenen Daten|index:personenbezogene-daten}, biometrischen\
+  \ Daten oder von Daten \xFCber strafrechtliche Verurteilungen und Straftaten sowie\
+  \ damit zusammenh\xE4ngende Sicherungsma\xDFregeln verarbeitet werden. Gleicherma\xDF\
+  en erforderlich ist eine Datenschutz-Folgenabsch\xE4tzung f\xFCr die weitr\xE4umige\
+  \ \xDCberwachung \xF6ffentlich zug\xE4nglicher Bereiche, insbesondere mittels optoelektronischer\
+  \ Vorrichtungen, oder f\xFCr alle anderen Vorg\xE4nge, bei denen nach Auffassung\
+  \ der zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} die {Verarbeitung|index:verarbeitung}\
+  \ wahrscheinlich ein hohes Risiko f\xFCr die Rechte und Freiheiten der {betroffenen\
+  \ Personen|index:betroffene-person} mit sich bringt, insbesondere weil sie die {betroffenen\
+  \ Personen|index:betroffene-person} an der Aus\xFCbung eines Rechts oder der Nutzung\
+  \ einer Dienstleistung bzw. Durchf\xFChrung eines Vertrags hindern oder weil sie\
+  \ systematisch in gro\xDFem Umfang erfolgen. Die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} sollte nicht als umfangreich\
+  \ gelten, wenn die {Verarbeitung|index:verarbeitung} {personenbezogene Daten|index:personenbezogene-daten}\
+  \ von Patienten oder von Mandanten betrifft und durch einen einzelnen Arzt, sonstigen\
+  \ Angeh\xF6rigen eines Gesundheitsberufes oder Rechtsanwalt erfolgt. In diesen F\xE4\
+  llen sollte eine Datenschutz-Folgenabsch\xE4tzung nicht zwingend vorgeschrieben\
+  \ sein."
+index:
+- betroffene-person
+- profiling
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
+number: 91

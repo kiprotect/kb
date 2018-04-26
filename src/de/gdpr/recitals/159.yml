@@ -1,0 +1,25 @@
+content: "Diese {Verordnung|index:verordnung} sollte auch f\xFCr die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} zu wissenschaftlichen Forschungszwecken\
+  \ gelten. Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ zu wissenschaftlichen Forschungszwecken im Sinne dieser {Verordnung|index:verordnung}\
+  \ sollte weit ausgelegt werden und die {Verarbeitung|index:verarbeitung} f\xFCr\
+  \ beispielsweise die technologische Entwicklung und die Demonstration, die Grundlagenforschung,\
+  \ die angewandte Forschung und die privat finanzierte Forschung einschlie\xDFen.\
+  \ Dar\xFCber hinaus sollte sie dem in Artikel 179 Absatz 1 AEUV festgeschriebenen\
+  \ Ziel, einen europ\xE4ischen Raum der Forschung zu schaffen, Rechnung tragen. Die\
+  \ wissenschaftlichen Forschungszwecke sollten auch Studien umfassen, die im \xF6\
+  ffentlichen Interesse im Bereich der \xF6ffentlichen Gesundheit durchgef\xFChrt\
+  \ werden. Um den Besonderheiten der {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten} zu wissenschaftlichen Forschungszwecken zu\
+  \ gen\xFCgen, sollten spezifische Bedingungen insbesondere hinsichtlich der Ver\xF6\
+  ffentlichung oder sonstigen Offenlegung {personenbezogener Daten|index:personenbezogene-daten}\
+  \ im Kontext wissenschaftlicher Zwecke gelten. Geben die Ergebnisse wissenschaftlicher\
+  \ Forschung insbesondere im Gesundheitsbereich Anlass zu weiteren Ma\xDFnahmen im\
+  \ Interesse der {betroffenen Person|index:betroffene-person}, sollten die allgemeinen\
+  \ Vorschriften dieser {Verordnung|index:verordnung} f\xFCr diese Ma\xDFnahmen gelten."
+index:
+- personenbezogene-daten
+- betroffene-person
+- verordnung
+- verarbeitung
+number: 159

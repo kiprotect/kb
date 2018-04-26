@@ -1,0 +1,11 @@
+content: |-
+  Each {supervisory authority|index:supervisory-authority} should be competent on the territory of its own Member State to exercise the powers and to perform the tasks conferred on it in accordance with this {Regulation|index:regulation}. This should cover in particular the {processing|index:processing} in the context of the activities of an establishment of the {controller|index:controller} or {processor|index:processor} on the territory of its own Member State, the {processing|index:processing} of {personal data|index:personal-data} carried out by public authorities or private bodies acting in the public interest, {processing|index:processing} affecting data subjects on its territory or {processing|index:processing} carried out by a {controller|index:controller} or {processor|index:processor} not established in the Union when targeting data subjects residing on its territory. This should include handling complaints lodged by a {data subject|index:data-subject}, conducting investigations on the application of this {Regulation|index:regulation} and promoting public awareness of the risks, rules, safeguards and rights in relation to the {processing|index:processing} of {personal data|index:personal-data}.
+index:
+- data-subject
+- processor
+- regulation
+- controller
+- personal-data
+- supervisory-authority
+- processing
+number: 122

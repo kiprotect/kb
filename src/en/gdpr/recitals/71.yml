@@ -1,0 +1,52 @@
+content: "The {data subject|index:data-subject} should have the right not to be subject\
+  \ to a decision, which may include a measure, evaluating personal aspects relating\
+  \ to him or her which is based solely on automated {processing|index:processing}\
+  \ and which produces legal effects concerning him or her or similarly significantly\
+  \ affects him or her, such as automatic refusal of an online credit application\
+  \ or e-recruiting practices without any human intervention. Such {processing|index:processing}\
+  \ includes \u2018{profiling|index:profiling}\u2019 that consists of any form of\
+  \ automated {processing|index:processing} of {personal data|index:personal-data}\
+  \ evaluating the personal aspects relating to a {natural person|index:natural-person},\
+  \ in particular to analyse or predict aspects concerning the data subject's performance\
+  \ at work, economic situation, health, personal preferences or interests, reliability\
+  \ or behaviour, location or movements, where it produces legal effects concerning\
+  \ him or her or similarly significantly affects him or her. However, decision-making\
+  \ based on such {processing|index:processing}, including {profiling|index:profiling},\
+  \ should be allowed where expressly authorised by Union or Member State law to which\
+  \ the {controller|index:controller} is subject, including for fraud and tax-evasion\
+  \ monitoring and prevention purposes conducted in accordance with the regulations,\
+  \ standards and recommendations of Union institutions or national oversight bodies\
+  \ and to ensure the security and reliability of a service provided by the {controller|index:controller},\
+  \ or necessary for the entering or performance of a contract between the {data subject|index:data-subject}\
+  \ and a {controller|index:controller}, or when the {data subject|index:data-subject}\
+  \ has given his or her explicit {consent|index:consent}. In any case, such {processing|index:processing}\
+  \ should be subject to suitable safeguards, which should include specific information\
+  \ to the {data subject|index:data-subject} and the right to obtain human intervention,\
+  \ to express his or her point of view, to obtain an explanation of the decision\
+  \ reached after such assessment and to challenge the decision. Such measure should\
+  \ not concern a child. In order to ensure fair and transparent {processing|index:processing}\
+  \ in respect of the {data subject|index:data-subject}, taking into account the specific\
+  \ circumstances and context in which the {personal data|index:personal-data} are\
+  \ processed, the {controller|index:controller} should use appropriate mathematical\
+  \ or statistical procedures for the {profiling|index:profiling}, implement {technical\
+  \ and organisational measures|index:technical-and-organisational-measures} appropriate\
+  \ to ensure, in particular, that factors which result in inaccuracies in {personal\
+  \ data|index:personal-data} are corrected and the risk of errors is minimised, secure\
+  \ {personal data|index:personal-data} in a manner that takes account of the potential\
+  \ risks involved for the interests and rights of the {data subject|index:data-subject}\
+  \ and that prevents, inter alia, discriminatory effects on {natural persons|index:natural-person}\
+  \ on the basis of racial or ethnic origin, political opinion, religion or beliefs,\
+  \ trade union membership, genetic or health status or sexual orientation, or that\
+  \ result in measures having such an effect. Automated decision-making and {profiling|index:profiling}\
+  \ based on special categories of {personal data|index:personal-data} should be allowed\
+  \ only under specific conditions."
+index:
+- data-subject
+- profiling
+- consent
+- controller
+- personal-data
+- technical-and-organisational-measures
+- natural-person
+- processing
+number: 71

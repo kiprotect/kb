@@ -1,0 +1,17 @@
+content: "Zum Schutz der Rechte und Freiheiten der {betroffenen Personen|index:betroffene-person}\
+  \ sowie bez\xFCglich der Verantwortung und Haftung der {Verantwortlichen|index:verantwortlicher}\
+  \ und der {Auftragsverarbeiter|index:auftragsverarbeiter} bedarf es \u2014 auch\
+  \ mit Blick auf die \xDCberwachungs- und sonstigen Ma\xDFnahmen von {Aufsichtsbeh\xF6\
+  rden|index:aufsichtsbeh\xF6rde} \u2014 einer klaren Zuteilung der Verantwortlichkeiten\
+  \ durch diese {Verordnung|index:verordnung}, einschlie\xDFlich der F\xE4lle, in\
+  \ denen ein {Verantwortlicher|index:verantwortlicher} die Verarbeitungszwecke und\
+  \ -mittel gemeinsam mit anderen {Verantwortlichen|index:verantwortlicher} festlegt\
+  \ oder ein Verarbeitungsvorgang im Auftrag eines {Verantwortlichen|index:verantwortlicher}\
+  \ durchgef\xFChrt wird."
+index:
+- betroffene-person
+- verordnung
+- auftragsverarbeiter
+- verantwortlicher
+- "aufsichtsbeh\xF6rde"
+number: 79

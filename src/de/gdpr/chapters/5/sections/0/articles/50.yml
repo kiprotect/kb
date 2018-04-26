@@ -1,0 +1,42 @@
+chapter: 5
+index:
+- internationale-organisation
+- "aufsichtsbeh\xF6rde"
+number: 50
+points:
+  a:
+    content: |-
+      Entwicklung von Mechanismen der internationalen Zusammenarbeit, durch die die wirksame Durchsetzung von Rechtsvorschriften zum Schutz {personenbezogener Daten|index:personenbezogene-daten} erleichtert wird,
+    index:
+    - personenbezogene-daten
+    number: a
+  b:
+    content: "gegenseitigen Leistung internationaler Amtshilfe bei der Durchsetzung\
+      \ von Rechtsvorschriften zum Schutz {personenbezogener Daten|index:personenbezogene-daten},\
+      \ unter anderem durch Meldungen, Beschwerdeverweisungen, Amtshilfe bei Untersuchungen\
+      \ und Informationsaustausch, sofern geeignete Garantien f\xFCr den Schutz {personenbezogener\
+      \ Daten|index:personenbezogene-daten} und anderer Grundrechte und Grundfreiheiten\
+      \ bestehen,"
+    index:
+    - personenbezogene-daten
+    number: b
+  c:
+    content: "Einbindung ma\xDFgeblicher Interessentr\xE4ger in Diskussionen und T\xE4\
+      tigkeiten, die zum Ausbau der internationalen Zusammenarbeit bei der Durchsetzung\
+      \ von Rechtsvorschriften zum Schutz {personenbezogener Daten|index:personenbezogene-daten}\
+      \ dienen,"
+    index:
+    - personenbezogene-daten
+    number: c
+  d:
+    content: "F\xF6rderung des Austauschs und der Dokumentation von Rechtsvorschriften\
+      \ und Praktiken zum Schutz {personenbezogener Daten|index:personenbezogene-daten}\
+      \ einschlie\xDFlich Zust\xE4ndigkeitskonflikten mit Drittl\xE4ndern."
+    index:
+    - personenbezogene-daten
+    number: d
+preamble: "In Bezug auf Drittl\xE4nder und {internationale Organisationen|index:internationale-organisation}\
+  \ treffen die Kommission und die {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde}\
+  \ geeignete Ma\xDFnahmen zur"
+section: 0
+title: Internationale Zusammenarbeit zum Schutz {personenbezogener Daten|index:personenbezogene-daten}

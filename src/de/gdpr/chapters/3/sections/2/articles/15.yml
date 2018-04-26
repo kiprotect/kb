@@ -1,0 +1,105 @@
+chapter: 3
+index:
+- betroffene-person
+number: 15
+paragraphs:
+  1:
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - betroffene-person
+    number: 1
+    points:
+      a:
+        content: die Verarbeitungszwecke;
+      b:
+        content: die Kategorien {personenbezogener Daten|index:personenbezogene-daten},
+          die verarbeitet werden;
+        index:
+        - personenbezogene-daten
+      c:
+        content: "die {Empf\xE4nger|index:empf\xE4nger} oder Kategorien von Empf\xE4\
+          ngern, gegen\xFCber denen die {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ offengelegt worden sind oder noch offengelegt werden, insbesondere bei\
+          \ Empf\xE4ngern in Drittl\xE4ndern oder bei internationalen Organisationen;"
+        index:
+        - personenbezogene-daten
+        - "empf\xE4nger"
+      d:
+        content: "falls m\xF6glich die geplante Dauer, f\xFCr die die {personenbezogenen\
+          \ Daten|index:personenbezogene-daten} gespeichert werden, oder, falls dies\
+          \ nicht m\xF6glich ist, die Kriterien f\xFCr die Festlegung dieser Dauer;"
+        index:
+        - personenbezogene-daten
+      e:
+        content: "das Bestehen eines Rechts auf Berichtigung oder L\xF6schung der\
+          \ sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ oder auf {Einschr\xE4nkung der Verarbeitung|index:einschr\xE4nkung-der-verarbeitung}\
+          \ durch den {Verantwortlichen|index:verantwortlicher} oder eines Widerspruchsrechts\
+          \ gegen diese {Verarbeitung|index:verarbeitung};"
+        index:
+        - "einschr\xE4nkung-der-verarbeitung"
+        - personenbezogene-daten
+        - verantwortlicher
+        - verarbeitung
+      f:
+        content: "das Bestehen eines Beschwerderechts bei einer {Aufsichtsbeh\xF6\
+          rde|index:aufsichtsbeh\xF6rde};"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      g:
+        content: "wenn die {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ nicht bei der {betroffenen Person|index:betroffene-person} erhoben werden,\
+          \ alle verf\xFCgbaren Informationen \xFCber die Herkunft der Daten;"
+        index:
+        - personenbezogene-daten
+        - betroffene-person
+      h:
+        content: "das Bestehen einer automatisierten Entscheidungsfindung einschlie\xDF\
+          lich {Profiling|index:profiling} gem\xE4\xDF Artikel 22 Abs\xE4tze 1 und\
+          \ 4 und \u2014 zumindest in diesen F\xE4llen \u2014 aussagekr\xE4ftige Informationen\
+          \ \xFCber die involvierte Logik sowie die Tragweite und die angestrebten\
+          \ Auswirkungen einer derartigen {Verarbeitung|index:verarbeitung} f\xFC\
+          r die {betroffene Person|index:betroffene-person}."
+        index:
+        - betroffene-person
+        - verarbeitung
+        - profiling
+    preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, von\
+      \ dem {Verantwortlichen|index:verantwortlicher} eine Best\xE4tigung dar\xFC\
+      ber zu verlangen, ob sie betreffende {personenbezogene Daten|index:personenbezogene-daten}\
+      \ verarbeitet werden; ist dies der Fall, so hat sie ein Recht auf Auskunft \xFC\
+      ber diese {personenbezogenen Daten|index:personenbezogene-daten} und auf folgende\
+      \ Informationen:"
+  2:
+    content: "Werden {personenbezogene Daten|index:personenbezogene-daten} an ein\
+      \ Drittland oder an eine {internationale Organisation|index:internationale-organisation}\
+      \ \xFCbermittelt, so hat die {betroffene Person|index:betroffene-person} das\
+      \ Recht, \xFCber die geeigneten Garantien gem\xE4\xDF Artikel 46 im Zusammenhang\
+      \ mit der \xDCbermittlung unterrichtet zu werden."
+    index:
+    - betroffene-person
+    - personenbezogene-daten
+    - internationale-organisation
+    number: 2
+  3:
+    content: "Der {Verantwortliche|index:verantwortlicher} stellt eine Kopie der {personenbezogenen\
+      \ Daten|index:personenbezogene-daten}, die Gegenstand der {Verarbeitung|index:verarbeitung}\
+      \ sind, zur Verf\xFCgung. F\xFCr alle weiteren Kopien, die die {betroffene Person|index:betroffene-person}\
+      \ beantragt, kann der {Verantwortliche|index:verantwortlicher} ein angemessenes\
+      \ Entgelt auf der Grundlage der Verwaltungskosten verlangen. Stellt die {betroffene\
+      \ Person|index:betroffene-person} den Antrag elektronisch, so sind die Informationen\
+      \ in einem g\xE4ngigen elektronischen Format zur Verf\xFCgung zu stellen, sofern\
+      \ sie nichts anderes angibt."
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - betroffene-person
+    - verarbeitung
+    number: 3
+  4:
+    content: "Das Recht auf Erhalt einer Kopie gem\xE4\xDF Absatz 1b darf die Rechte\
+      \ und Freiheiten anderer Personen nicht beeintr\xE4chtigen."
+    number: 4
+section: 2
+title: Auskunftsrecht der {betroffenen Person|index:betroffene-person}

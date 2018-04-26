@@ -1,0 +1,26 @@
+name: dpkit-website
+blog-path: blog
+theme-path: themes/docs  
+path: /
+languages:
+  #these pages will be copied to all languages
+  $all:
+    pages:
+      - src: CNAME
+        name: cname
+        slug: CNAME
+        extension: ''
+        type: plain
+        hidden: true
+  #english pages
+  en:
+    $include: site-en.yml
+  #german pages
+  de:
+    $include: site-de.yml
+translations:
+  $include: translations.yml
+builders:
+  - name: law-portal
+    builder: helpers.law_builder.LawBuilder
+repo-url: 'https://github.com/dpkit/gdpr-portal'

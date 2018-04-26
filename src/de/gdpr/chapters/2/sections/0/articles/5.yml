@@ -1,0 +1,84 @@
+chapter: 2
+index:
+- personenbezogene-daten
+- verarbeitung
+number: 5
+paragraphs:
+  1:
+    index:
+    - personenbezogene-daten
+    number: 1
+    points:
+      a:
+        content: "auf rechtm\xE4\xDFige Weise, nach Treu und Glauben und in einer\
+          \ f\xFCr die {betroffene Person|index:betroffene-person} nachvollziehbaren\
+          \ Weise verarbeitet werden (\u201ERechtm\xE4\xDFigkeit, {Verarbeitung|index:verarbeitung}\
+          \ nach Treu und Glauben, Transparenz\u201C);"
+        index:
+        - betroffene-person
+        - verarbeitung
+      b:
+        content: "f\xFCr festgelegte, eindeutige und legitime Zwecke erhoben werden\
+          \ und d\xFCrfen nicht in einer mit diesen Zwecken nicht zu vereinbarenden\
+          \ Weise weiterverarbeitet werden; eine Weiterverarbeitung f\xFCr im \xF6\
+          ffentlichen Interesse liegende Archivzwecke, f\xFCr wissenschaftliche oder\
+          \ historische Forschungszwecke oder f\xFCr statistische Zwecke gilt gem\xE4\
+          \xDF Artikel 89 Absatz 1 nicht als unvereinbar mit den urspr\xFCnglichen\
+          \ Zwecken (\u201EZweckbindung\u201C);"
+        index:
+        - verarbeitung
+      c:
+        content: "dem Zweck angemessen und erheblich sowie auf das f\xFCr die Zwecke\
+          \ der {Verarbeitung|index:verarbeitung} notwendige Ma\xDF beschr\xE4nkt\
+          \ sein (\u201EDatenminimierung\u201C);"
+        index:
+        - verarbeitung
+      d:
+        content: "sachlich richtig und erforderlichenfalls auf dem neuesten Stand\
+          \ sein; es sind alle angemessenen Ma\xDFnahmen zu treffen, damit {personenbezogene\
+          \ Daten|index:personenbezogene-daten}, die im Hinblick auf die Zwecke ihrer\
+          \ {Verarbeitung|index:verarbeitung} unrichtig sind, unverz\xFCglich gel\xF6\
+          scht oder berichtigt werden (\u201ERichtigkeit\u201C);"
+        index:
+        - personenbezogene-daten
+        - verarbeitung
+      e:
+        content: "in einer Form gespeichert werden, die die Identifizierung der {betroffenen\
+          \ Personen|index:betroffene-person} nur so lange erm\xF6glicht, wie es f\xFC\
+          r die Zwecke, f\xFCr die sie verarbeitet werden, erforderlich ist; {personenbezogene\
+          \ Daten|index:personenbezogene-daten} d\xFCrfen l\xE4nger gespeichert werden,\
+          \ soweit die {personenbezogenen Daten|index:personenbezogene-daten} vorbehaltlich\
+          \ der Durchf\xFChrung geeigneter technischer und organisatorischer Ma\xDF\
+          nahmen, die von dieser {Verordnung|index:verordnung} zum Schutz der Rechte\
+          \ und Freiheiten der {betroffenen Person|index:betroffene-person} gefordert\
+          \ werden, ausschlie\xDFlich f\xFCr im \xF6ffentlichen Interesse liegende\
+          \ Archivzwecke oder f\xFCr wissenschaftliche und historische Forschungszwecke\
+          \ oder f\xFCr statistische Zwecke gem\xE4\xDF Artikel 89 Absatz 1 verarbeitet\
+          \ werden (\u201ESpeicherbegrenzung\u201C);"
+        index:
+        - personenbezogene-daten
+        - betroffene-person
+        - verordnung
+      f:
+        content: "in einer Weise verarbeitet werden, die eine angemessene Sicherheit\
+          \ der {personenbezogenen Daten|index:personenbezogene-daten} gew\xE4hrleistet,\
+          \ einschlie\xDFlich Schutz vor unbefugter oder unrechtm\xE4\xDFiger {Verarbeitung|index:verarbeitung}\
+          \ und vor unbeabsichtigtem Verlust, unbeabsichtigter Zerst\xF6rung oder\
+          \ unbeabsichtigter Sch\xE4digung durch geeignete {technische und organisatorische\
+          \ Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDFnahmen} (\u201E\
+          Integrit\xE4t und Vertraulichkeit\u201C);"
+        index:
+        - "technische-und-organisatorische-ma\xDFnahmen"
+        - personenbezogene-daten
+        - verarbeitung
+    preamble: "{Personenbezogene Daten|index:personenbezogene-daten} m\xFCssen"
+  2:
+    content: "Der {Verantwortliche|index:verantwortlicher} ist f\xFCr die Einhaltung\
+      \ des Absatzes 1 verantwortlich und muss dessen Einhaltung nachweisen k\xF6\
+      nnen (\u201ERechenschaftspflicht\u201C)."
+    index:
+    - verantwortlicher
+    number: 2
+section: 0
+title: "Grunds\xE4tze f\xFCr die {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten}"

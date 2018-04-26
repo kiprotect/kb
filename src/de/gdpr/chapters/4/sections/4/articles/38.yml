@@ -1,0 +1,66 @@
+chapter: 4
+number: 38
+paragraphs:
+  1:
+    content: "Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ stellen sicher, dass der Datenschutzbeauftragte ordnungsgem\xE4\xDF und fr\xFC\
+      hzeitig in alle mit dem Schutz {personenbezogener Daten|index:personenbezogene-daten}\
+      \ zusammenh\xE4ngenden Fragen eingebunden wird."
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - auftragsverarbeiter
+    number: 1
+  2:
+    content: "Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ unterst\xFCtzen den Datenschutzbeauftragten bei der Erf\xFCllung seiner Aufgaben\
+      \ gem\xE4\xDF Artikel 39, indem sie die f\xFCr die Erf\xFCllung dieser Aufgaben\
+      \ erforderlichen Ressourcen und den Zugang zu {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ und Verarbeitungsvorg\xE4ngen sowie die zur Erhaltung seines Fachwissens erforderlichen\
+      \ Ressourcen zur Verf\xFCgung stellen."
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - auftragsverarbeiter
+    number: 2
+  3:
+    content: "Der {Verantwortliche|index:verantwortlicher} und der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ stellen sicher, dass der Datenschutzbeauftragte bei der Erf\xFCllung seiner\
+      \ Aufgaben keine Anweisungen bez\xFCglich der Aus\xFCbung dieser Aufgaben erh\xE4\
+      lt. Der Datenschutzbeauftragte darf von dem {Verantwortlichen|index:verantwortlicher}\
+      \ oder dem {Auftragsverarbeiter|index:auftragsverarbeiter} wegen der Erf\xFC\
+      llung seiner Aufgaben nicht abberufen oder benachteiligt werden. Der Datenschutzbeauftragte\
+      \ berichtet unmittelbar der h\xF6chsten Managementebene des {Verantwortlichen|index:verantwortlicher}\
+      \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter}."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 3
+  4:
+    content: "{Betroffene Personen|index:betroffene-person} k\xF6nnen den Datenschutzbeauftragten\
+      \ zu allen mit der {Verarbeitung|index:verarbeitung} ihrer {personenbezogenen\
+      \ Daten|index:personenbezogene-daten} und mit der Wahrnehmung ihrer Rechte gem\xE4\
+      \xDF dieser {Verordnung|index:verordnung} im Zusammenhang stehenden Fragen zu\
+      \ Rate ziehen."
+    index:
+    - personenbezogene-daten
+    - betroffene-person
+    - verordnung
+    - verarbeitung
+    number: 4
+  5:
+    content: "Der Datenschutzbeauftragte ist nach dem Recht der Union oder der Mitgliedstaaten\
+      \ bei der Erf\xFCllung seiner Aufgaben an die Wahrung der Geheimhaltung oder\
+      \ der Vertraulichkeit gebunden."
+    number: 5
+  6:
+    content: "Der Datenschutzbeauftragte kann andere Aufgaben und Pflichten wahrnehmen.\
+      \ Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ stellt sicher, dass derartige Aufgaben und Pflichten nicht zu einem Interessenkonflikt\
+      \ f\xFChren."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 6
+section: 4
+title: Stellung des Datenschutzbeauftragten

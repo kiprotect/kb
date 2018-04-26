@@ -1,0 +1,9 @@
+articles:
+- $include: articles/63.yml
+- $include: articles/64.yml
+- $include: articles/65.yml
+- $include: articles/66.yml
+- $include: articles/67.yml
+chapter: 7
+number: 2
+title: "Koh\xE4renz"

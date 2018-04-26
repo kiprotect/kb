@@ -1,0 +1,41 @@
+chapter: 8
+number: 81
+paragraphs:
+  1:
+    content: "Erh\xE4lt ein zust\xE4ndiges Gericht in einem Mitgliedstaat Kenntnis\
+      \ von einem {Verfahren|index:verfahren} zu demselben Gegenstand in Bezug auf\
+      \ die {Verarbeitung|index:verarbeitung} durch denselben {Verantwortlichen|index:verantwortlicher}\
+      \ oder {Auftragsverarbeiter|index:auftragsverarbeiter}, das vor einem Gericht\
+      \ in einem anderen Mitgliedstaat anh\xE4ngig ist, so nimmt es mit diesem Gericht\
+      \ Kontakt auf, um sich zu vergewissern, dass ein solches {Verfahren|index:verfahren}\
+      \ existiert."
+    index:
+    - verfahren
+    - verantwortlicher
+    - auftragsverarbeiter
+    - verarbeitung
+    number: 1
+  2:
+    content: "Ist ein {Verfahren|index:verfahren} zu demselben Gegenstand in Bezug\
+      \ auf die {Verarbeitung|index:verarbeitung} durch denselben {Verantwortlichen|index:verantwortlicher}\
+      \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} vor einem Gericht in\
+      \ einem anderen Mitgliedstaat anh\xE4ngig, so kann jedes sp\xE4ter angerufene\
+      \ zust\xE4ndige Gericht das bei ihm anh\xE4ngige {Verfahren|index:verfahren}\
+      \ aussetzen."
+    index:
+    - verfahren
+    - verantwortlicher
+    - auftragsverarbeiter
+    - verarbeitung
+    number: 2
+  3:
+    content: "Sind diese {Verfahren|index:verfahren} in erster Instanz anh\xE4ngig,\
+      \ so kann sich jedes sp\xE4ter angerufene Gericht auf Antrag einer Partei auch\
+      \ f\xFCr unzust\xE4ndig erkl\xE4ren, wenn das zuerst angerufene Gericht f\xFC\
+      r die betreffenden Klagen zust\xE4ndig ist und die Verbindung der Klagen nach\
+      \ seinem Recht zul\xE4ssig ist."
+    index:
+    - verfahren
+    number: 3
+section: 0
+title: Aussetzung des Verfahrens

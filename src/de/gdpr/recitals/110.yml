@@ -1,0 +1,16 @@
+content: "Jede {Unternehmensgruppe|index:unternehmensgruppe} oder jede Gruppe von\
+  \ {Unternehmen|index:unternehmen}, die eine gemeinsame Wirtschaftst\xE4tigkeit aus\xFC\
+  ben, sollte f\xFCr ihre internationalen Daten\xFCbermittlungen aus der Union an\
+  \ Organisationen derselben {Unternehmensgruppe|index:unternehmensgruppe} oder derselben\
+  \ Gruppe von {Unternehmen|index:unternehmen}, die eine gemeinsame Wirtschaftst\xE4\
+  tigkeit aus\xFCben, genehmigte {verbindliche interne Datenschutzvorschriften|index:verbindliche-interne-datenschutzvorschriften}\
+  \ anwenden d\xFCrfen, sofern diese s\xE4mtliche Grundprinzipien und durchsetzbaren\
+  \ Rechte enthalten, die geeignete Garantien f\xFCr die \xDCbermittlungen beziehungsweise\
+  \ Kategorien von \xDCbermittlungen {personenbezogener Daten|index:personenbezogene-daten}\
+  \ bieten."
+index:
+- unternehmen
+- verbindliche-interne-datenschutzvorschriften
+- personenbezogene-daten
+- unternehmensgruppe
+number: 110

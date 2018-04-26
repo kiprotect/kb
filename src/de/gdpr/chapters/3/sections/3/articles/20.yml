@@ -1,0 +1,59 @@
+chapter: 3
+number: 20
+paragraphs:
+  1:
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - betroffene-person
+    number: 1
+    points:
+      a:
+        content: "die {Verarbeitung|index:verarbeitung} auf einer {Einwilligung|index:einwilligung}\
+          \ gem\xE4\xDF Artikel 6 Absatz 1 Buchstabe a oder Artikel 9 Absatz 2 Buchstabe\
+          \ a oder auf einem Vertrag gem\xE4\xDF Artikel 6 Absatz 1 Buchstabe b beruht\
+          \ und"
+        index:
+        - einwilligung
+        - verarbeitung
+      b:
+        content: |-
+          die {Verarbeitung|index:verarbeitung} mithilfe {automatisierter Verfahren|index:automatisiertes-verfahren} erfolgt.
+        index:
+        - automatisiertes-verfahren
+        - verarbeitung
+    preamble: "Die {betroffene Person|index:betroffene-person} hat das Recht, die\
+      \ sie betreffenden {personenbezogenen Daten|index:personenbezogene-daten}, die\
+      \ sie einem {Verantwortlichen|index:verantwortlicher} bereitgestellt hat, in\
+      \ einem strukturierten, g\xE4ngigen und maschinenlesbaren Format zu erhalten,\
+      \ und sie hat das Recht, diese Daten einem anderen {Verantwortlichen|index:verantwortlicher}\
+      \ ohne Behinderung durch den {Verantwortlichen|index:verantwortlicher}, dem\
+      \ die {personenbezogenen Daten|index:personenbezogene-daten} bereitgestellt\
+      \ wurden, zu \xFCbermitteln, sofern"
+  2:
+    content: "Bei der Aus\xFCbung ihres Rechts auf Daten\xFCbertragbarkeit gem\xE4\
+      \xDF Absatz 1 hat die {betroffene Person|index:betroffene-person} das Recht,\
+      \ zu erwirken, dass die {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ direkt von einem {Verantwortlichen|index:verantwortlicher} einem anderen {Verantwortlichen|index:verantwortlicher}\
+      \ \xFCbermittelt werden, soweit dies technisch machbar ist."
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - betroffene-person
+    number: 2
+  3:
+    content: "Die Aus\xFCbung des Rechts nach Absatz 1 des vorliegenden Artikels l\xE4\
+      sst Artikel 17 unber\xFChrt. Dieses Recht gilt nicht f\xFCr eine {Verarbeitung|index:verarbeitung},\
+      \ die f\xFCr die Wahrnehmung einer Aufgabe erforderlich ist, die im \xF6ffentlichen\
+      \ Interesse liegt oder in Aus\xFCbung \xF6ffentlicher Gewalt erfolgt, die dem\
+      \ {Verantwortlichen|index:verantwortlicher} \xFCbertragen wurde."
+    index:
+    - verantwortlicher
+    - verarbeitung
+    number: 3
+  4:
+    content: "Das Recht gem\xE4\xDF Absatz 2 darf die Rechte und Freiheiten anderer\
+      \ Personen nicht beeintr\xE4chtigen."
+    number: 4
+section: 3
+title: "Recht auf Daten\xFCbertragbarkeit"

@@ -1,0 +1,30 @@
+chapter: 4
+index:
+- controller
+number: 24
+paragraphs:
+  1:
+    content: |-
+      Taking into account the nature, scope, context and purposes of {processing|index:processing} as well as the risks of varying likelihood and severity for the rights and freedoms of {natural persons|index:natural-person}, the {controller|index:controller} shall implement appropriate {technical and organisational measures|index:technical-and-organisational-measures} to ensure and to be able to demonstrate that {processing|index:processing} is performed in accordance with this {Regulation|index:regulation}. Those measures shall be reviewed and updated where necessary.
+    index:
+    - regulation
+    - controller
+    - technical-and-organisational-measures
+    - natural-person
+    - processing
+    number: 1
+  2:
+    content: |-
+      Where proportionate in relation to {processing|index:processing} activities, the measures referred to in paragraph 1 shall include the implementation of appropriate data protection policies by the {controller|index:controller}.
+    index:
+    - controller
+    - processing
+    number: 2
+  3:
+    content: |-
+      Adherence to approved codes of conduct as referred to in Article 40 or approved certification mechanisms as referred to in Article 42 may be used as an element by which to demonstrate compliance with the obligations of the {controller|index:controller}.
+    index:
+    - controller
+    number: 3
+section: 1
+title: Responsibility of the {controller|index:controller}

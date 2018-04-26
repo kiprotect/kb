@@ -1,0 +1,21 @@
+content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ sollte ebenfalls als rechtm\xE4\xDFig angesehen werden, wenn sie erforderlich\
+  \ ist, um ein lebenswichtiges Interesse der {betroffenen Person|index:betroffene-person}\
+  \ oder einer anderen {nat\xFCrlichen Person|index:nat\xFCrliche-person} zu sch\xFC\
+  tzen. {Personenbezogene Daten|index:personenbezogene-daten} sollten grunds\xE4tzlich\
+  \ nur dann aufgrund eines lebenswichtigen Interesses einer anderen {nat\xFCrlichen\
+  \ Person|index:nat\xFCrliche-person} verarbeitet werden, wenn die {Verarbeitung|index:verarbeitung}\
+  \ offensichtlich nicht auf eine andere Rechtsgrundlage gest\xFCtzt werden kann.\
+  \ Einige Arten der {Verarbeitung|index:verarbeitung} k\xF6nnen sowohl wichtigen\
+  \ Gr\xFCnden des \xF6ffentlichen Interesses als auch lebenswichtigen Interessen\
+  \ der {betroffenen Person|index:betroffene-person} dienen; so kann beispielsweise\
+  \ die {Verarbeitung|index:verarbeitung} f\xFCr humanit\xE4re Zwecke einschlie\xDF\
+  lich der \xDCberwachung von Epidemien und deren Ausbreitung oder in humanit\xE4\
+  ren Notf\xE4llen insbesondere bei Naturkatastrophen oder vom Menschen verursachten\
+  \ Katastrophen erforderlich sein."
+index:
+- "nat\xFCrliche-person"
+- personenbezogene-daten
+- betroffene-person
+- verarbeitung
+number: 46

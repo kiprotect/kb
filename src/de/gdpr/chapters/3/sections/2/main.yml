@@ -1,0 +1,9 @@
+articles:
+- $include: articles/13.yml
+- $include: articles/14.yml
+- $include: articles/15.yml
+chapter: 3
+index:
+- personenbezogene-daten
+number: 2
+title: Informationspflicht und Recht auf Auskunft zu {personenbezogenen Daten|index:personenbezogene-daten}

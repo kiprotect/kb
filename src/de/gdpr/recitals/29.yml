@@ -1,0 +1,23 @@
+content: "Um Anreize f\xFCr die Anwendung der {Pseudonymisierung|index:pseudonymisierung}\
+  \ bei der {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ zu schaffen, sollten Pseudonymisierungsma\xDFnahmen, die jedoch eine allgemeine\
+  \ Analyse zulassen, bei demselben {Verantwortlichen|index:verantwortlicher} m\xF6\
+  glich sein, wenn dieser die erforderlichen {technischen und organisatorischen Ma\xDF\
+  nahmen|index:technische-und-organisatorische-ma\xDFnahmen} getroffen hat, um \u2014\
+  \ f\xFCr die jeweilige {Verarbeitung|index:verarbeitung} \u2014 die Umsetzung dieser\
+  \ {Verordnung|index:verordnung} zu gew\xE4hrleisten, wobei sicherzustellen ist,\
+  \ dass zus\xE4tzliche Informationen, mit denen die {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ einer speziellen {betroffenen Person|index:betroffene-person} zugeordnet werden\
+  \ k\xF6nnen, gesondert aufbewahrt werden. Der f\xFCr die {Verarbeitung|index:verarbeitung}\
+  \ der {personenbezogenen Daten|index:personenbezogene-daten} {Verantwortliche|index:verantwortlicher},\
+  \ sollte die befugten Personen bei diesem {Verantwortlichen|index:verantwortlicher}\
+  \ angeben."
+index:
+- betroffene-person
+- verordnung
+- "technische-und-organisatorische-ma\xDFnahmen"
+- pseudonymisierung
+- verantwortlicher
+- personenbezogene-daten
+- verarbeitung
+number: 29

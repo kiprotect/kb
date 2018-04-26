@@ -1,0 +1,52 @@
+{% extends("with_side_menu.html") %}
+{% block extra_nav %}
+    {% include "common/law/_article_nav.html" %}
+{% endblock %}
+{%block content%}
+<div class="article">
+    {% include "common/law/_article_header.html" %}
+    {% if article.preamble is defined %}
+    <p class="preamble">
+        {{article.preamble|law_markup(lang)|safe}}
+    </p>
+    {% endif %}
+
+    {% if article.paragraphs is defined %}
+        <ul class="paragraphs">
+            {% for number,p in article.paragraphs.items() %}
+            <li>
+                <span class="art-number">({{p.number}})</span> {{(p.preamble or p.content or '')|law_markup(lang)|safe}}
+                {% if p.points is defined %}
+                    <ul class="points">
+                    {% for pn, point in p.points.items() %}
+                        <li><span class="art-number">{{pn}})</span> {{point.content|law_markup(lang)|safe}}</li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}    
+            </li>
+            {% endfor %}
+        </ul>
+    {% elif article.definitions is defined %}
+        <ul class="paragraphs">
+            {% for number,p in article.definitions.items() %}
+            <li>
+                <span class="art-number">({{p.number}})</span> {{(p.preamble or p.content or '')|law_markup(lang)|safe}}
+                {% if p.points is defined %}
+                    <ul class="points">
+                    {% for pn, point in p.points.items() %}
+                        <li><span class="art-number">{{pn}})</span> {{point.content|law_markup(lang)|safe}}</li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}    
+            </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>
+            {% if article.content is defined %}
+                {{article.content|law_markup(lang)|safe}}
+            {% endif %}
+        </p>
+    {% endif %}
+</div>
+{%endblock%}

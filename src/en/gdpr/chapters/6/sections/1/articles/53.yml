@@ -1,0 +1,27 @@
+chapter: 6
+index:
+- supervisory-authority
+number: 53
+paragraphs:
+  1:
+    content: "Member States shall provide for each member of their supervisory authorities\
+      \ to be appointed by means of a transparent procedure by: \u2014 their parliament;\
+      \ \u2014 their government; \u2014 their head of State; or \u2014 an independent\
+      \ body entrusted with the appointment under Member State law."
+    number: 1
+  2:
+    content: |-
+      Each member shall have the qualifications, experience and skills, in particular in the area of the protection of {personal data|index:personal-data}, required to perform its duties and exercise its powers.
+    index:
+    - personal-data
+    number: 2
+  3:
+    content: |-
+      The duties of a member shall end in the event of the expiry of the term of office, resignation or compulsory retirement, in accordance with the law of the Member State concerned.
+    number: 3
+  4:
+    content: |-
+      A member shall be dismissed only in cases of serious misconduct or if the member no longer fulfils the conditions required for the performance of the duties.
+    number: 4
+section: 1
+title: General conditions for the members of the {supervisory authority|index:supervisory-authority}

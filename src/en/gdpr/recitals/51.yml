@@ -1,0 +1,39 @@
+content: "{Personal data|index:personal-data} which are, by their nature, particularly\
+  \ sensitive in relation to fundamental rights and freedoms merit specific protection\
+  \ as the context of their {processing|index:processing} could create significant\
+  \ risks to the fundamental rights and freedoms. Those {personal data|index:personal-data}\
+  \ should include {personal data|index:personal-data} revealing racial or ethnic\
+  \ origin, whereby the use of the term \u2018racial origin\u2019 in this {Regulation|index:regulation}\
+  \ does not imply an acceptance by the Union of theories which attempt to determine\
+  \ the existence of separate human races. The {processing|index:processing} of photographs\
+  \ should not systematically be considered to be {processing|index:processing} of\
+  \ special categories of {personal data|index:personal-data} as they are covered\
+  \ by the definition of {biometric data|index:biometric-data} only when processed\
+  \ through a specific technical means allowing the unique identification or authentication\
+  \ of a {natural person|index:natural-person}. Such {personal data|index:personal-data}\
+  \ should not be processed, unless {processing|index:processing} is allowed in specific\
+  \ cases set out in this {Regulation|index:regulation}, taking into account that\
+  \ Member States law may lay down specific provisions on data protection in order\
+  \ to adapt the application of the rules of this {Regulation|index:regulation} for\
+  \ compliance with a legal obligation or for the performance of a task carried out\
+  \ in the public interest or in the exercise of official authority vested in the\
+  \ {controller|index:controller}. In addition to the specific requirements for such\
+  \ {processing|index:processing}, the general principles and other rules of this\
+  \ {Regulation|index:regulation} should apply, in particular as regards the conditions\
+  \ for lawful {processing|index:processing}. Derogations from the general prohibition\
+  \ for {processing|index:processing} such special categories of {personal data|index:personal-data}\
+  \ should be explicitly provided, inter alia, where the {data subject|index:data-subject}\
+  \ gives his or her explicit {consent|index:consent} or in respect of specific needs\
+  \ in particular where the {processing|index:processing} is carried out in the course\
+  \ of legitimate activities by certain associations or foundations the purpose of\
+  \ which is to permit the exercise of fundamental freedoms."
+index:
+- data-subject
+- biometric-data
+- regulation
+- consent
+- controller
+- personal-data
+- natural-person
+- processing
+number: 51

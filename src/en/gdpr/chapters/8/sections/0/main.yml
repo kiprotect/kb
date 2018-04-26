@@ -1,0 +1,11 @@
+articles:
+- $include: articles/77.yml
+- $include: articles/78.yml
+- $include: articles/79.yml
+- $include: articles/80.yml
+- $include: articles/81.yml
+- $include: articles/82.yml
+- $include: articles/83.yml
+- $include: articles/84.yml
+chapter: 8
+number: 0

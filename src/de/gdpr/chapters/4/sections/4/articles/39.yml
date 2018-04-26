@@ -1,0 +1,56 @@
+chapter: 4
+number: 39
+paragraphs:
+  1:
+    number: 1
+    points:
+      a:
+        content: "Unterrichtung und Beratung des {Verantwortlichen|index:verantwortlicher}\
+          \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} und der Besch\xE4\
+          ftigten, die Verarbeitungen durchf\xFChren, hinsichtlich ihrer Pflichten\
+          \ nach dieser {Verordnung|index:verordnung} sowie nach sonstigen Datenschutzvorschriften\
+          \ der Union bzw. der Mitgliedstaaten;"
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - verordnung
+      b:
+        content: "\xDCberwachung der Einhaltung dieser {Verordnung|index:verordnung},\
+          \ anderer Datenschutzvorschriften der Union bzw. der Mitgliedstaaten sowie\
+          \ der Strategien des {Verantwortlichen|index:verantwortlicher} oder des\
+          \ {Auftragsverarbeiters|index:auftragsverarbeiter} f\xFCr den Schutz {personenbezogener\
+          \ Daten|index:personenbezogene-daten} einschlie\xDFlich der Zuweisung von\
+          \ Zust\xE4ndigkeiten, der Sensibilisierung und Schulung der an den Verarbeitungsvorg\xE4\
+          ngen beteiligten Mitarbeiter und der diesbez\xFCglichen \xDCberpr\xFCfungen;"
+        index:
+        - auftragsverarbeiter
+        - personenbezogene-daten
+        - verantwortlicher
+        - verordnung
+      c:
+        content: "Beratung \u2014 auf Anfrage \u2014 im Zusammenhang mit der Datenschutz-Folgenabsch\xE4\
+          tzung und \xDCberwachung ihrer Durchf\xFChrung gem\xE4\xDF Artikel 35;"
+      d:
+        content: "Zusammenarbeit mit der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+          rde};"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      e:
+        content: "T\xE4tigkeit als Anlaufstelle f\xFCr die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+          rde} in mit der {Verarbeitung|index:verarbeitung} zusammenh\xE4ngenden Fragen,\
+          \ einschlie\xDFlich der vorherigen Konsultation gem\xE4\xDF Artikel 36,\
+          \ und gegebenenfalls Beratung zu allen sonstigen Fragen."
+        index:
+        - "aufsichtsbeh\xF6rde"
+        - verarbeitung
+    preamble: 'Dem Datenschutzbeauftragten obliegen zumindest folgende Aufgaben:'
+  2:
+    content: "Der Datenschutzbeauftragte tr\xE4gt bei der Erf\xFCllung seiner Aufgaben\
+      \ dem mit den Verarbeitungsvorg\xE4ngen verbundenen Risiko geb\xFChrend Rechnung,\
+      \ wobei er die Art, den Umfang, die Umst\xE4nde und die Zwecke der {Verarbeitung|index:verarbeitung}\
+      \ ber\xFCcksichtigt."
+    index:
+    - verarbeitung
+    number: 2
+section: 4
+title: Aufgaben des Datenschutzbeauftragten

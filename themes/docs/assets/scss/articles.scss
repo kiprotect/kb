@@ -1,0 +1,43 @@
+.article {
+
+    h1.title {
+        margin-bottom: 1em;
+    }
+
+    h2.subtitle {
+        margin-bottom : 0.5em;
+    }
+
+    @media(min-width: 1024px){
+        text-align: justify;
+    }
+
+    font-size: 1.2em;
+    line-height: 150%;
+
+    a.index {
+        color: inherit;
+        border-bottom: 1px dashed $ss-green;
+    }
+
+    ul.paragraphs, ul.points {
+        margin-left: 0;
+        margin-top: 1em;
+        position: relative;
+        list-style: none;
+        li {
+            margin-bottom: 1em;
+        }
+    }
+
+    ul.paragraphs {
+        li {
+            margin-left: 2.2em;
+        }
+        li > span.art-number {
+            font-weight: 600;
+            position: absolute;
+            left: 0;
+        }
+    }
+}

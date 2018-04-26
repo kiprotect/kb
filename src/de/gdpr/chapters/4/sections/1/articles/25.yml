@@ -1,0 +1,57 @@
+chapter: 4
+number: 25
+paragraphs:
+  1:
+    content: "Unter Ber\xFCcksichtigung des Stands der Technik, der Implementierungskosten\
+      \ und der Art, des Umfangs, der Umst\xE4nde und der Zwecke der {Verarbeitung|index:verarbeitung}\
+      \ sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere der mit\
+      \ der {Verarbeitung|index:verarbeitung} verbundenen Risiken f\xFCr die Rechte\
+      \ und Freiheiten {nat\xFCrlicher Personen|index:nat\xFCrliche-person} trifft\
+      \ der {Verantwortliche|index:verantwortlicher} sowohl zum Zeitpunkt der Festlegung\
+      \ der Mittel f\xFCr die {Verarbeitung|index:verarbeitung} als auch zum Zeitpunkt\
+      \ der eigentlichen {Verarbeitung|index:verarbeitung} geeignete {technische und\
+      \ organisatorische Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+      nahmen} \u2014 wie z. B. {Pseudonymisierung|index:pseudonymisierung} \u2014\
+      \ trifft, die daf\xFCr ausgelegt sind, die Datenschutzgrunds\xE4tze wie etwa\
+      \ Datenminimierung wirksam umzusetzen und die notwendigen Garantien in die {Verarbeitung|index:verarbeitung}\
+      \ aufzunehmen, um den Anforderungen dieser {Verordnung|index:verordnung} zu\
+      \ gen\xFCgen und die Rechte der {betroffenen Personen|index:betroffene-person}\
+      \ zu sch\xFCtzen."
+    index:
+    - betroffene-person
+    - verordnung
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - pseudonymisierung
+    - verantwortlicher
+    - "nat\xFCrliche-person"
+    - verarbeitung
+    number: 1
+  2:
+    content: "Der {Verantwortliche|index:verantwortlicher} trifft geeignete {technische\
+      \ und organisatorische Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+      nahmen}, die sicherstellen, dass durch Voreinstellung grunds\xE4tzlich nur {personenbezogene\
+      \ Daten|index:personenbezogene-daten}, deren {Verarbeitung|index:verarbeitung}\
+      \ f\xFCr den jeweiligen bestimmten Verarbeitungszweck erforderlich ist, verarbeitet\
+      \ werden. Diese Verpflichtung gilt f\xFCr die Menge der erhobenen {personenbezogenen\
+      \ Daten|index:personenbezogene-daten}, den Umfang ihrer {Verarbeitung|index:verarbeitung},\
+      \ ihre Speicherfrist und ihre Zug\xE4nglichkeit. Solche Ma\xDFnahmen m\xFCssen\
+      \ insbesondere sicherstellen, dass {personenbezogene Daten|index:personenbezogene-daten}\
+      \ durch Voreinstellungen nicht ohne Eingreifen der Person einer unbestimmten\
+      \ Zahl von {nat\xFCrlichen Personen|index:nat\xFCrliche-person} zug\xE4nglich\
+      \ gemacht werden."
+    index:
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verantwortlicher
+    - personenbezogene-daten
+    - "nat\xFCrliche-person"
+    - verarbeitung
+    number: 2
+  3:
+    content: "Ein genehmigtes Zertifizierungsverfahren gem\xE4\xDF Artikel 42 kann\
+      \ als Faktor herangezogen werden, um die Erf\xFCllung der in den Abs\xE4tzen\
+      \ 1 und 2 des vorliegenden Artikels genannten Anforderungen nachzuweisen."
+    index:
+    - verfahren
+    number: 3
+section: 1
+title: Datenschutz durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen

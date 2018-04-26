@@ -1,0 +1,24 @@
+content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ von {betroffenen Personen|index:betroffene-person}, die sich in der Union befinden,\
+  \ durch einen nicht in der Union niedergelassenen {Verantwortlichen|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiter|index:auftragsverarbeiter} sollte auch dann dieser {Verordnung|index:verordnung}\
+  \ unterliegen, wenn sie dazu dient, das Verhalten dieser {betroffenen Personen|index:betroffene-person}\
+  \ zu beobachten, soweit ihr Verhalten in der Union erfolgt. Ob eine {Verarbeitungst\xE4\
+  tigkeit|index:verarbeitungst\xE4tigkeit} der Beobachtung des Verhaltens von {betroffenen\
+  \ Personen|index:betroffene-person} gilt, sollte daran festgemacht werden, ob ihre\
+  \ Internetaktivit\xE4ten nachvollzogen werden, einschlie\xDFlich der m\xF6glichen\
+  \ nachfolgenden Verwendung von Techniken zur {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten}, durch die von einer {nat\xFCrlichen Person|index:nat\xFC\
+  rliche-person} ein Profil erstellt wird, das insbesondere die Grundlage f\xFCr sie\
+  \ betreffende Entscheidungen bildet oder anhand dessen ihre pers\xF6nlichen Vorlieben,\
+  \ Verhaltensweisen oder Gepflogenheiten analysiert oder vorausgesagt werden sollen."
+index:
+- "verarbeitungst\xE4tigkeit"
+- betroffene-person
+- verordnung
+- auftragsverarbeiter
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 24

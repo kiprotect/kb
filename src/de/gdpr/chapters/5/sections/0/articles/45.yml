@@ -1,0 +1,141 @@
+chapter: 5
+number: 45
+paragraphs:
+  1:
+    content: "Eine \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
+      \ an ein Drittland oder eine {internationale Organisation|index:internationale-organisation}\
+      \ darf vorgenommen werden, wenn die Kommission beschlossen hat, dass das betreffende\
+      \ Drittland, ein Gebiet oder ein oder mehrere spezifische Sektoren in diesem\
+      \ Drittland oder die betreffende {internationale Organisation|index:internationale-organisation}\
+      \ ein angemessenes Schutzniveau bietet. Eine solche Daten\xFCbermittlung bedarf\
+      \ keiner besonderen Genehmigung."
+    index:
+    - personenbezogene-daten
+    - internationale-organisation
+    number: 1
+  2:
+    number: 2
+    points:
+      a:
+        content: "die Rechtsstaatlichkeit, die Achtung der Menschenrechte und Grundfreiheiten,\
+          \ die in dem betreffenden Land bzw. bei der betreffenden internationalen\
+          \ Organisation geltenden einschl\xE4gigen Rechtsvorschriften sowohl allgemeiner\
+          \ als auch sektoraler Art \u2014 auch in Bezug auf \xF6ffentliche Sicherheit,\
+          \ Verteidigung, nationale Sicherheit und Strafrecht sowie Zugang der Beh\xF6\
+          rden zu {personenbezogenen Daten|index:personenbezogene-daten} \u2014 sowie\
+          \ die Anwendung dieser Rechtsvorschriften, Datenschutzvorschriften, Berufsregeln\
+          \ und Sicherheitsvorschriften einschlie\xDFlich der Vorschriften f\xFCr\
+          \ die Weiter\xFCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
+          \ an ein anderes Drittland bzw. eine andere {internationale Organisation|index:internationale-organisation},\
+          \ die Rechtsprechung sowie wirksame und durchsetzbare Rechte der {betroffenen\
+          \ Person|index:betroffene-person} und wirksame verwaltungsrechtliche und\
+          \ gerichtliche Rechtsbehelfe f\xFCr {betroffene Personen|index:betroffene-person},\
+          \ deren {personenbezogene Daten|index:personenbezogene-daten} \xFCbermittelt\
+          \ werden,"
+        index:
+        - betroffene-person
+        - personenbezogene-daten
+        - internationale-organisation
+      b:
+        content: "die Existenz und die wirksame Funktionsweise einer oder mehrerer\
+          \ unabh\xE4ngiger {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} in dem\
+          \ betreffenden Drittland oder denen eine {internationale Organisation|index:internationale-organisation}\
+          \ untersteht und die f\xFCr die Einhaltung und Durchsetzung der Datenschutzvorschriften,\
+          \ einschlie\xDFlich angemessener Durchsetzungsbefugnisse, f\xFCr die Unterst\xFC\
+          tzung und Beratung der {betroffenen Personen|index:betroffene-person} bei\
+          \ der Aus\xFCbung ihrer Rechte und f\xFCr die Zusammenarbeit mit den {Aufsichtsbeh\xF6\
+          rden|index:aufsichtsbeh\xF6rde} der Mitgliedstaaten zust\xE4ndig sind, und"
+        index:
+        - betroffene-person
+        - internationale-organisation
+        - "aufsichtsbeh\xF6rde"
+      c:
+        content: "die von dem betreffenden Drittland bzw. der betreffenden internationalen\
+          \ Organisation eingegangenen internationalen Verpflichtungen oder andere\
+          \ Verpflichtungen, die sich aus rechtsverbindlichen \xDCbereink\xFCnften\
+          \ oder Instrumenten sowie aus der Teilnahme des Drittlands oder der internationalen\
+          \ Organisation an multilateralen oder regionalen Systemen insbesondere in\
+          \ Bezug auf den Schutz {personenbezogener Daten|index:personenbezogene-daten}\
+          \ ergeben."
+        index:
+        - personenbezogene-daten
+    preamble: "Bei der Pr\xFCfung der Angemessenheit des gebotenen Schutzniveaus ber\xFC\
+      cksichtigt die Kommission insbesondere das Folgende:"
+  3:
+    content: "Nach der Beurteilung der Angemessenheit des Schutzniveaus kann die Kommission\
+      \ im Wege eines Durchf\xFChrungsrechtsaktes beschlie\xDFen, dass ein Drittland,\
+      \ ein Gebiet oder ein oder mehrere spezifische Sektoren in einem Drittland oder\
+      \ eine {internationale Organisation|index:internationale-organisation} ein angemessenes\
+      \ Schutzniveau im Sinne des Absatzes 2 des vorliegenden Artikels bieten. In\
+      \ dem Durchf\xFChrungsrechtsakt ist ein Mechanismus f\xFCr eine regelm\xE4\xDF\
+      ige \xDCberpr\xFCfung, die mindestens alle vier Jahre erfolgt, vorzusehen, bei\
+      \ der allen ma\xDFgeblichen Entwicklungen in dem Drittland oder bei der internationalen\
+      \ Organisation Rechnung getragen wird. Im Durchf\xFChrungsrechtsakt werden der\
+      \ territoriale und der sektorale Anwendungsbereich sowie gegebenenfalls die\
+      \ in Absatz 2 Buchstabe b des vorliegenden Artikels genannte {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} bzw. genannten {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+      rde} angegeben. Der Durchf\xFChrungsrechtsakt wird gem\xE4\xDF dem in Artikel\
+      \ 93 Absatz 2 genannten Pr\xFCfverfahren erlassen."
+    index:
+    - internationale-organisation
+    - "aufsichtsbeh\xF6rde"
+    number: 3
+  4:
+    content: "Die Kommission \xFCberwacht fortlaufend die Entwicklungen in Drittl\xE4\
+      ndern und bei internationalen Organisationen, die die Wirkungsweise der nach\
+      \ Absatz 3 des vorliegenden Artikels erlassenen Beschl\xFCsse und der nach Artikel\
+      \ 25 Absatz 6 der Richtlinie 95/46/EG erlassenen Feststellungen beeintr\xE4\
+      chtigen k\xF6nnten."
+    number: 4
+  5:
+    content: "Die Kommission widerruft, \xE4ndert oder setzt die in Absatz 3 des vorliegenden\
+      \ Artikels genannten Beschl\xFCsse im Wege von Durchf\xFChrungsrechtsakten aus,\
+      \ soweit dies n\xF6tig ist und ohne r\xFCckwirkende Kraft, soweit entsprechende\
+      \ Informationen \u2014 insbesondere im Anschluss an die in Absatz 3 des vorliegenden\
+      \ Artikels genannte \xDCberpr\xFCfung \u2014 dahingehend vorliegen, dass ein\
+      \ Drittland, ein Gebiet oder ein oder mehrere spezifischer Sektor in einem Drittland\
+      \ oder eine {internationale Organisation|index:internationale-organisation}\
+      \ kein angemessenes Schutzniveau im Sinne des Absatzes 2 des vorliegenden Artikels\
+      \ mehr gew\xE4hrleistet. Diese Durchf\xFChrungsrechtsakte werden gem\xE4\xDF\
+      \ dem Pr\xFCfverfahren nach Artikel 93 Absatz 2 erlassen. In hinreichend begr\xFC\
+      ndeten F\xE4llen \xE4u\xDFerster Dringlichkeit erl\xE4sst die Kommission gem\xE4\
+      \xDF dem in Artikel 93 Absatz 3 genannten {Verfahren|index:verfahren} sofort\
+      \ geltende Durchf\xFChrungsrechtsakte."
+    index:
+    - verfahren
+    - internationale-organisation
+    number: 5
+  6:
+    content: "Die Kommission nimmt Beratungen mit dem betreffenden Drittland bzw.\
+      \ der betreffenden internationalen Organisation auf, um Abhilfe f\xFCr die Situation\
+      \ zu schaffen, die zu dem gem\xE4\xDF Absatz 5 erlassenen Beschluss gef\xFC\
+      hrt hat."
+    number: 6
+  7:
+    content: "\xDCbermittlungen {personenbezogener Daten|index:personenbezogene-daten}\
+      \ an das betreffende Drittland, das Gebiet oder einen oder mehrere spezifische\
+      \ Sektoren in diesem Drittland oder an die betreffende {internationale Organisation|index:internationale-organisation}\
+      \ gem\xE4\xDF den Artikeln 46 bis 49 werden durch einen Beschluss nach Absatz\
+      \ 5 des vorliegenden Artikels nicht ber\xFChrt."
+    index:
+    - personenbezogene-daten
+    - internationale-organisation
+    number: 7
+  8:
+    content: "Die Kommission ver\xF6ffentlicht im Amtsblatt der Europ\xE4ischen Union\
+      \ und auf ihrer Website eine Liste aller Drittl\xE4nder beziehungsweise Gebiete\
+      \ und spezifischen Sektoren in einem Drittland und aller internationalen Organisationen,\
+      \ f\xFCr die sie durch Beschluss festgestellt hat, dass sie ein angemessenes\
+      \ Schutzniveau gew\xE4hrleisten bzw. nicht mehr gew\xE4hrleisten."
+    number: 8
+  9:
+    content: "Von der Kommission auf der Grundlage von Artikel 25 Absatz 6 der Richtlinie\
+      \ 95/46/EG erlassene Feststellungen bleiben so lange in Kraft, bis sie durch\
+      \ einen nach dem Pr\xFCfverfahren gem\xE4\xDF den Abs\xE4tzen 3 oder 5 des vorliegenden\
+      \ Artikels erlassenen Beschluss der Kommission ge\xE4ndert, ersetzt oder aufgehoben\
+      \ werden."
+    index:
+    - verfahren
+    number: 9
+section: 0
+title: "Daten\xFCbermittlung auf der Grundlage eines Angemessenheitsbeschlusses"

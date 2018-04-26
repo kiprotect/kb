@@ -1,0 +1,6 @@
+content: |-
+  The likelihood and severity of the risk to the rights and freedoms of the {data subject|index:data-subject} should be determined by reference to the nature, scope, context and purposes of the {processing|index:processing}. Risk should be evaluated on the basis of an objective assessment, by which it is established whether data {processing|index:processing} operations involve a risk or a high risk.
+index:
+- data-subject
+- processing
+number: 76

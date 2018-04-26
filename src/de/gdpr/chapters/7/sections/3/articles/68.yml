@@ -1,0 +1,46 @@
+chapter: 7
+number: 68
+paragraphs:
+  1:
+    content: "Der Europ\xE4ische Datenschutzausschuss (im Folgenden \u201EAusschuss\u201C\
+      ) wird als Einrichtung der Union mit eigener Rechtspers\xF6nlichkeit eingerichtet."
+    number: 1
+  2:
+    content: Der Ausschuss wird von seinem Vorsitz vertreten.
+    number: 2
+  3:
+    content: "Der Ausschuss besteht aus dem Leiter einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} jedes Mitgliedstaats und dem Europ\xE4ischen Datenschutzbeauftragten oder\
+      \ ihren jeweiligen Vertretern."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 3
+  4:
+    content: "Ist in einem Mitgliedstaat mehr als eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} f\xFCr die \xDCberwachung der Anwendung der nach Ma\xDFgabe dieser {Verordnung|index:verordnung}\
+      \ erlassenen Vorschriften zust\xE4ndig, so wird im Einklang mit den Rechtsvorschriften\
+      \ dieses Mitgliedstaats ein gemeinsamer {Vertreter|index:vertreter} benannt."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verordnung
+    - vertreter
+    number: 4
+  5:
+    content: "Die Kommission ist berechtigt, ohne Stimmrecht an den T\xE4tigkeiten\
+      \ und Sitzungen des Ausschusses teilzunehmen. Die Kommission benennt einen {Vertreter|index:vertreter}.\
+      \ Der Vorsitz des Ausschusses unterrichtet die Kommission \xFCber die T\xE4\
+      tigkeiten des Ausschusses."
+    index:
+    - vertreter
+    number: 5
+  6:
+    content: "In den in Artikel 65 genannten F\xE4llen ist der Europ\xE4ische Datenschutzbeauftragte\
+      \ nur bei Beschl\xFCssen stimmberechtigt, die Grunds\xE4tze und Vorschriften\
+      \ betreffen, die f\xFCr die Organe, Einrichtungen, \xC4mter und Agenturen der\
+      \ Union gelten und inhaltlich den Grunds\xE4tzen und Vorschriften dieser {Verordnung|index:verordnung}\
+      \ entsprechen."
+    index:
+    - verordnung
+    number: 6
+section: 3
+title: "Europ\xE4ischer Datenschutzausschuss"

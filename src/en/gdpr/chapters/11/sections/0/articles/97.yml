@@ -1,0 +1,38 @@
+chapter: 11
+number: 97
+paragraphs:
+  1:
+    content: |-
+      By 25 May 2020 and every four years thereafter, the Commission shall submit a report on the evaluation and review of this {Regulation|index:regulation} to the European Parliament and to the Council. The reports shall be made public.
+    index:
+    - regulation
+    number: 1
+  2:
+    number: 2
+    points:
+      a:
+        content: |-
+          Chapter V on the transfer of {personal data|index:personal-data} to third countries or international organisations with particular regard to decisions adopted pursuant to Article 45(3) of this {Regulation|index:regulation} and decisions adopted on the basis of Article 25(6) of Directive 95/46/EC;
+        index:
+        - personal-data
+        - regulation
+      b:
+        content: Chapter VII on cooperation and consistency.
+    preamble: |-
+      In the context of the evaluations and reviews referred to in paragraph 1, the Commission shall examine, in particular, the application and functioning of:
+  3:
+    content: |-
+      For the purpose of paragraph 1, the Commission may request information from Member States and supervisory authorities.
+    number: 3
+  4:
+    content: |-
+      In carrying out the evaluations and reviews referred to in paragraphs 1 and 2, the Commission shall take into account the positions and findings of the European Parliament, of the Council, and of other relevant bodies or sources.
+    number: 4
+  5:
+    content: |-
+      The Commission shall, if necessary, submit appropriate proposals to amend this {Regulation|index:regulation}, in particular taking into account of developments in information technology and in the light of the state of progress in the information society.
+    index:
+    - regulation
+    number: 5
+section: 0
+title: Commission reports

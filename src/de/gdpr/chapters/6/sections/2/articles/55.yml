@@ -1,0 +1,30 @@
+chapter: 6
+number: 55
+paragraphs:
+  1:
+    content: "Jede {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} ist f\xFCr die\
+      \ Erf\xFCllung der Aufgaben und die Aus\xFCbung der Befugnisse, die ihr mit\
+      \ dieser {Verordnung|index:verordnung} \xFCbertragen wurden, im Hoheitsgebiet\
+      \ ihres eigenen Mitgliedstaats zust\xE4ndig."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verordnung
+    number: 1
+  2:
+    content: "Erfolgt die {Verarbeitung|index:verarbeitung} durch Beh\xF6rden oder\
+      \ private Stellen auf der Grundlage von Artikel 6 Absatz 1 Buchstabe c oder\
+      \ e, so ist die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} des betroffenen\
+      \ Mitgliedstaats zust\xE4ndig. In diesem Fall findet Artikel 56 keine Anwendung."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 2
+  3:
+    content: "Die {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} sind nicht zust\xE4\
+      ndig f\xFCr die Aufsicht \xFCber die von Gerichten im Rahmen ihrer justiziellen\
+      \ T\xE4tigkeit vorgenommenen Verarbeitungen."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 3
+section: 2
+title: "Zust\xE4ndigkeit"

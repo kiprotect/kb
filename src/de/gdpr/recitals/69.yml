@@ -1,0 +1,19 @@
+content: "D\xFCrfen die {personenbezogenen Daten|index:personenbezogene-daten} m\xF6\
+  glicherweise rechtm\xE4\xDFig verarbeitet werden, weil die {Verarbeitung|index:verarbeitung}\
+  \ f\xFCr die Wahrnehmung einer Aufgabe, die im \xF6ffentlichen Interesse liegt oder\
+  \ in Aus\xFCbung \xF6ffentlicher Gewalt \u2014 die dem {Verantwortlichen|index:verantwortlicher}\
+  \ \xFCbertragen wurde, \u2014 oder aufgrund des berechtigten Interesses des {Verantwortlichen|index:verantwortlicher}\
+  \ oder eines {Dritten|index:dritter} erforderlich ist, sollte jede {betroffene Person|index:betroffene-person}\
+  \ trotzdem das Recht haben, Widerspruch gegen die {Verarbeitung|index:verarbeitung}\
+  \ der sich aus ihrer besonderen Situation ergebenden {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ einzulegen. Der f\xFCr die {Verarbeitung|index:verarbeitung} {Verantwortliche|index:verantwortlicher}\
+  \ sollte darlegen m\xFCssen, dass seine zwingenden berechtigten Interessen Vorrang\
+  \ vor den Interessen oder Grundrechten und Grundfreiheiten der {betroffenen Person|index:betroffene-person}\
+  \ haben."
+index:
+- betroffene-person
+- dritter
+- verantwortlicher
+- personenbezogene-daten
+- verarbeitung
+number: 69

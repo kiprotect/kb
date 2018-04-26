@@ -1,0 +1,203 @@
+chapter: 4
+index:
+- auftragsverarbeiter
+number: 28
+paragraphs:
+  1:
+    content: "Erfolgt eine {Verarbeitung|index:verarbeitung} im Auftrag eines {Verantwortlichen|index:verantwortlicher},\
+      \ so arbeitet dieser nur mit Auftragsverarbeitern, die hinreichend Garantien\
+      \ daf\xFCr bieten, dass geeignete {technische und organisatorische Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+      nahmen} so durchgef\xFChrt werden, dass die {Verarbeitung|index:verarbeitung}\
+      \ im Einklang mit den Anforderungen dieser {Verordnung|index:verordnung} erfolgt\
+      \ und den Schutz der Rechte der {betroffenen Person|index:betroffene-person}\
+      \ gew\xE4hrleistet."
+    index:
+    - betroffene-person
+    - verordnung
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verantwortlicher
+    - verarbeitung
+    number: 1
+  2:
+    content: "Der {Auftragsverarbeiter|index:auftragsverarbeiter} nimmt keinen weiteren\
+      \ {Auftragsverarbeiter|index:auftragsverarbeiter} ohne vorherige gesonderte\
+      \ oder allgemeine schriftliche Genehmigung des {Verantwortlichen|index:verantwortlicher}\
+      \ in Anspruch. Im Fall einer allgemeinen schriftlichen Genehmigung informiert\
+      \ der {Auftragsverarbeiter|index:auftragsverarbeiter} den {Verantwortlichen|index:verantwortlicher}\
+      \ immer \xFCber jede beabsichtigte \xC4nderung in Bezug auf die Hinzuziehung\
+      \ oder die Ersetzung anderer {Auftragsverarbeiter|index:auftragsverarbeiter},\
+      \ wodurch der {Verantwortliche|index:verantwortlicher} die M\xF6glichkeit erh\xE4\
+      lt, gegen derartige \xC4nderungen Einspruch zu erheben."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 2
+  3:
+    index:
+    - betroffene-person
+    - auftragsverarbeiter
+    - verantwortlicher
+    - personenbezogene-daten
+    - verarbeitung
+    number: 3
+    points:
+      a:
+        content: "die {personenbezogenen Daten|index:personenbezogene-daten} nur auf\
+          \ dokumentierte Weisung des {Verantwortlichen|index:verantwortlicher} \u2014\
+          \ auch in Bezug auf die \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
+          \ an ein Drittland oder eine {internationale Organisation|index:internationale-organisation}\
+          \ \u2014 verarbeitet, sofern er nicht durch das Recht der Union oder der\
+          \ Mitgliedstaaten, dem der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ unterliegt, hierzu verpflichtet ist; in einem solchen Fall teilt der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ dem {Verantwortlichen|index:verantwortlicher} diese rechtlichen Anforderungen\
+          \ vor der {Verarbeitung|index:verarbeitung} mit, sofern das betreffende\
+          \ Recht eine solche Mitteilung nicht wegen eines wichtigen \xF6ffentlichen\
+          \ Interesses verbietet;"
+        index:
+        - internationale-organisation
+        - auftragsverarbeiter
+        - verantwortlicher
+        - personenbezogene-daten
+        - verarbeitung
+      b:
+        content: "gew\xE4hrleistet, dass sich die zur {Verarbeitung|index:verarbeitung}\
+          \ der {personenbezogenen Daten|index:personenbezogene-daten} befugten Personen\
+          \ zur Vertraulichkeit verpflichtet haben oder einer angemessenen gesetzlichen\
+          \ Verschwiegenheitspflicht unterliegen;"
+        index:
+        - personenbezogene-daten
+        - verarbeitung
+      c:
+        content: "alle gem\xE4\xDF Artikel 32 erforderlichen Ma\xDFnahmen ergreift;"
+      d:
+        content: "die in den Abs\xE4tzen 2 und 4 genannten Bedingungen f\xFCr die\
+          \ Inanspruchnahme der Dienste eines weiteren {Auftragsverarbeiters|index:auftragsverarbeiter}\
+          \ einh\xE4lt;"
+        index:
+        - auftragsverarbeiter
+      e:
+        content: "angesichts der Art der {Verarbeitung|index:verarbeitung} den {Verantwortlichen|index:verantwortlicher}\
+          \ nach M\xF6glichkeit mit geeigneten {technischen und organisatorischen\
+          \ Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDFnahmen} dabei\
+          \ unterst\xFCtzt, seiner Pflicht zur Beantwortung von Antr\xE4gen auf Wahrnehmung\
+          \ der in Kapitel III genannten Rechte der {betroffenen Person|index:betroffene-person}\
+          \ nachzukommen;"
+        index:
+        - verantwortlicher
+        - "technische-und-organisatorische-ma\xDFnahmen"
+        - betroffene-person
+        - verarbeitung
+      f:
+        content: "unter Ber\xFCcksichtigung der Art der {Verarbeitung|index:verarbeitung}\
+          \ und der ihm zur Verf\xFCgung stehenden Informationen den {Verantwortlichen|index:verantwortlicher}\
+          \ bei der Einhaltung der in den Artikeln 32 bis 36 genannten Pflichten unterst\xFC\
+          tzt;"
+        index:
+        - verantwortlicher
+        - verarbeitung
+      g:
+        content: "nach Abschluss der Erbringung der Verarbeitungsleistungen alle {personenbezogenen\
+          \ Daten|index:personenbezogene-daten} nach Wahl des {Verantwortlichen|index:verantwortlicher}\
+          \ entweder l\xF6scht oder zur\xFCckgibt, sofern nicht nach dem Unionsrecht\
+          \ oder dem Recht der Mitgliedstaaten eine Verpflichtung zur Speicherung\
+          \ der {personenbezogenen Daten|index:personenbezogene-daten} besteht;"
+        index:
+        - verantwortlicher
+        - personenbezogene-daten
+      h:
+        content: "dem {Verantwortlichen|index:verantwortlicher} alle erforderlichen\
+          \ Informationen zum Nachweis der Einhaltung der in diesem Artikel niedergelegten\
+          \ Pflichten zur Verf\xFCgung stellt und \xDCberpr\xFCfungen \u2014 einschlie\xDF\
+          lich Inspektionen \u2013, die vom {Verantwortlichen|index:verantwortlicher}\
+          \ oder einem anderen von diesem beauftragten Pr\xFCfer durchgef\xFChrt werden,\
+          \ erm\xF6glicht und dazu beitr\xE4gt. Mit Blick auf Unterabsatz 1 Buchstabe\
+          \ h informiert der {Auftragsverarbeiter|index:auftragsverarbeiter} den {Verantwortlichen|index:verantwortlicher}\
+          \ unverz\xFCglich, falls er der Auffassung ist, dass eine Weisung gegen\
+          \ diese {Verordnung|index:verordnung} oder gegen andere Datenschutzbestimmungen\
+          \ der Union oder der Mitgliedstaaten verst\xF6\xDFt."
+        index:
+        - auftragsverarbeiter
+        - verantwortlicher
+        - verordnung
+    preamble: |-
+      Die {Verarbeitung|index:verarbeitung} durch einen {Auftragsverarbeiter|index:auftragsverarbeiter} erfolgt auf der Grundlage eines Vertrags oder eines anderen Rechtsinstruments nach dem Unionsrecht oder dem Recht der Mitgliedstaaten, der bzw. das den {Auftragsverarbeiter|index:auftragsverarbeiter} in Bezug auf den {Verantwortlichen|index:verantwortlicher} bindet und in dem Gegenstand und Dauer der {Verarbeitung|index:verarbeitung}, Art und Zweck der {Verarbeitung|index:verarbeitung}, die Art der {personenbezogenen Daten|index:personenbezogene-daten}, die Kategorien {betroffener Personen|index:betroffene-person} und die Pflichten und Rechte des {Verantwortlichen|index:verantwortlicher} festgelegt sind. Dieser Vertrag bzw. dieses andere Rechtsinstrument sieht insbesondere vor, dass der {Auftragsverarbeiter|index:auftragsverarbeiter}
+  4:
+    content: "Nimmt der {Auftragsverarbeiter|index:auftragsverarbeiter} die Dienste\
+      \ eines weiteren {Auftragsverarbeiters|index:auftragsverarbeiter} in Anspruch,\
+      \ um bestimmte {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}\
+      \ im Namen des {Verantwortlichen|index:verantwortlicher} auszuf\xFChren, so\
+      \ werden diesem weiteren {Auftragsverarbeiter|index:auftragsverarbeiter} im\
+      \ Wege eines Vertrags oder eines anderen Rechtsinstruments nach dem Unionsrecht\
+      \ oder dem Recht des betreffenden Mitgliedstaats dieselben Datenschutzpflichten\
+      \ auferlegt, die in dem Vertrag oder anderen Rechtsinstrument zwischen dem {Verantwortlichen|index:verantwortlicher}\
+      \ und dem {Auftragsverarbeiter|index:auftragsverarbeiter} gem\xE4\xDF Absatz\
+      \ 3 festgelegt sind, wobei insbesondere hinreichende Garantien daf\xFCr geboten\
+      \ werden muss, dass die geeigneten {technischen und organisatorischen Ma\xDF\
+      nahmen|index:technische-und-organisatorische-ma\xDFnahmen} so durchgef\xFChrt\
+      \ werden, dass die {Verarbeitung|index:verarbeitung} entsprechend den Anforderungen\
+      \ dieser {Verordnung|index:verordnung} erfolgt. Kommt der weitere {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ seinen Datenschutzpflichten nicht nach, so haftet der erste {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ gegen\xFCber dem {Verantwortlichen|index:verantwortlicher} f\xFCr die Einhaltung\
+      \ der Pflichten jenes anderen {Auftragsverarbeiters|index:auftragsverarbeiter}."
+    index:
+    - "verarbeitungst\xE4tigkeit"
+    - auftragsverarbeiter
+    - verordnung
+    - "technische-und-organisatorische-ma\xDFnahmen"
+    - verantwortlicher
+    - verarbeitung
+    number: 4
+  5:
+    content: "Die Einhaltung genehmigter Verhaltensregeln gem\xE4\xDF Artikel 40 oder\
+      \ eines genehmigten Zertifizierungsverfahrens gem\xE4\xDF Artikel 42 durch einen\
+      \ {Auftragsverarbeiter|index:auftragsverarbeiter} kann als Faktor herangezogen\
+      \ werden, um hinreichende Garantien im Sinne der Abs\xE4tze 1 und 4 des vorliegenden\
+      \ Artikels nachzuweisen."
+    index:
+    - auftragsverarbeiter
+    number: 5
+  6:
+    content: "Unbeschadet eines individuellen Vertrags zwischen dem {Verantwortlichen|index:verantwortlicher}\
+      \ und dem {Auftragsverarbeiter|index:auftragsverarbeiter} kann der Vertrag oder\
+      \ das andere Rechtsinstrument im Sinne der Abs\xE4tze 3 und 4 des vorliegenden\
+      \ Artikels ganz oder teilweise auf den in den Abs\xE4tzen 7 und 8 des vorliegenden\
+      \ Artikels genannten Standardvertragsklauseln beruhen, auch wenn diese Bestandteil\
+      \ einer dem {Verantwortlichen|index:verantwortlicher} oder dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ gem\xE4\xDF den Artikeln 42 und 43 erteilten Zertifizierung sind."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 6
+  7:
+    content: "Die Kommission kann im Einklang mit dem Pr\xFCfverfahren gem\xE4\xDF\
+      \ Artikel 87 Absatz 2 Standardvertragsklauseln zur Regelung der in den Abs\xE4\
+      tzen 3 und 4 des vorliegenden Artikels genannten Fragen festlegen."
+    index:
+    - verfahren
+    number: 7
+  8:
+    content: "Eine {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} kann im Einklang\
+      \ mit dem Koh\xE4renzverfahren gem\xE4\xDF Artikel 63 Standardvertragsklauseln\
+      \ zur Regelung der in den Abs\xE4tzen 3 und 4 des vorliegenden Artikels genannten\
+      \ Fragen festlegen."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 8
+  9:
+    content: "Der Vertrag oder das andere Rechtsinstrument im Sinne der Abs\xE4tze\
+      \ 3 und 4 ist schriftlich abzufassen, was auch in einem elektronischen Format\
+      \ erfolgen kann."
+    number: 9
+  10:
+    content: "Unbeschadet der Artikel 82, 83 und 84 gilt ein {Auftragsverarbeiter|index:auftragsverarbeiter},\
+      \ der unter Versto\xDF gegen diese {Verordnung|index:verordnung} die Zwecke\
+      \ und Mittel der {Verarbeitung|index:verarbeitung} bestimmt, in Bezug auf diese\
+      \ {Verarbeitung|index:verarbeitung} als {Verantwortlicher|index:verantwortlicher}."
+    index:
+    - auftragsverarbeiter
+    - verantwortlicher
+    - verordnung
+    - verarbeitung
+    number: 10
+section: 1
+title: '{Auftragsverarbeiter|index:auftragsverarbeiter}'

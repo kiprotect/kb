@@ -1,0 +1,60 @@
+chapter: 4
+index:
+- processing
+number: 32
+paragraphs:
+  1:
+    index:
+    - processor
+    - controller
+    - technical-and-organisational-measures
+    - natural-person
+    - processing
+    number: 1
+    points:
+      a:
+        content: the {pseudonymisation|index:pseudonymisation} and encryption of {personal
+          data|index:personal-data};
+        index:
+        - personal-data
+        - pseudonymisation
+      b:
+        content: |-
+          the ability to ensure the ongoing confidentiality, integrity, availability and resilience of {processing|index:processing} systems and services;
+        index:
+        - processing
+      c:
+        content: |-
+          the ability to restore the availability and access to {personal data|index:personal-data} in a timely manner in the event of a physical or technical incident;
+        index:
+        - personal-data
+      d:
+        content: |-
+          a process for regularly testing, assessing and evaluating the effectiveness of {technical and organisational measures|index:technical-and-organisational-measures} for ensuring the security of the {processing|index:processing}.
+        index:
+        - technical-and-organisational-measures
+        - processing
+    preamble: |-
+      Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of {processing|index:processing} as well as the risk of varying likelihood and severity for the rights and freedoms of {natural persons|index:natural-person}, the {controller|index:controller} and the {processor|index:processor} shall implement appropriate {technical and organisational measures|index:technical-and-organisational-measures} to ensure a level of security appropriate to the risk, including inter alia as appropriate:
+  2:
+    content: |-
+      In assessing the appropriate level of security account shall be taken in particular of the risks that are presented by {processing|index:processing}, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to {personal data|index:personal-data} transmitted, stored or otherwise processed.
+    index:
+    - personal-data
+    - processing
+    number: 2
+  3:
+    content: |-
+      Adherence to an approved code of conduct as referred to in Article 40 or an approved certification mechanism as referred to in Article 42 may be used as an element by which to demonstrate compliance with the requirements set out in paragraph 1 of this Article.
+    number: 3
+  4:
+    content: |-
+      The {controller|index:controller} and {processor|index:processor} shall take steps to ensure that any {natural person|index:natural-person} acting under the authority of the {controller|index:controller} or the {processor|index:processor} who has access to {personal data|index:personal-data} does not process them except on instructions from the {controller|index:controller}, unless he or she is required to do so by Union or Member State law.
+    index:
+    - personal-data
+    - processor
+    - natural-person
+    - controller
+    number: 4
+section: 2
+title: Security of {processing|index:processing}

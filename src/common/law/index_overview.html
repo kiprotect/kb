@@ -1,0 +1,41 @@
+{% extends("with_side_menu.html") %}
+{% block extra_nav %}
+    {% include "common/law/_index_nav.html" %}
+{% endblock %}
+{%block content%}
+
+<div class="index-overview">
+
+    <h2 class="title">{{'index-overview'|translate}}</h2>
+    <table class="table is-striped is-hoverable is-fullwidth">
+        <thead>
+            <tr>
+                <th>
+                    {{'entry'|translate}}
+                </th>
+                <th>
+                    {{'relevant-articles'|translate}}
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for name, definition in definitions %}
+            <tr>
+                <td>
+                    <a href="{{'gdpr-index-%s'|format(name)|href}}">{{definition.title}}</a>
+                </td>
+                <td>
+                    {% set index_values = index[name] %}
+                    {% if index_values is defined %}
+                        {% for name, obj in index_values['article-references'].items() %}
+                            <a href="{{name|href}}">{{obj.data.number}}</a>
+                        {% endfor %}
+                    {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>        
+</div>
+    
+{%endblock%}

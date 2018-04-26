@@ -1,0 +1,14 @@
+content: "Der durch diese {Verordnung|index:verordnung} gew\xE4hrte Schutz sollte\
+  \ f\xFCr die {Verarbeitung|index:verarbeitung} der {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person} ungeachtet ihrer Staatsangeh\xF6\
+  rigkeit oder ihres Aufenthaltsorts gelten. Diese {Verordnung|index:verordnung} gilt\
+  \ nicht f\xFCr die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ juristischer Personen und insbesondere als juristische Person gegr\xFCndeter {Unternehmen|index:unternehmen},\
+  \ einschlie\xDFlich Name, Rechtsform oder Kontaktdaten der juristischen Person."
+index:
+- verordnung
+- unternehmen
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- verarbeitung
+number: 14

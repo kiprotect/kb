@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block windowtitle %}{{article.title}}{%endblock%}
+{% block content %}
+	<div class="article">
+		<div class="page-header"><h1 class="headline">{{ article.title }}</h1></div>
+		<div class="meta">{% include "metadata.html" %}</div>
+		<hr />
+		<div>{%block article %}{% endblock %}</div>
+
+		<div class="page-footer">
+			<h2>Newsletter-Anmeldung</h2>
+			<p>
+				Hat Ihnen der Artikel gefallen? Dann melden Sie sich für unseren
+				Newsletter an! Wir schicken Ihnen ca. einmal pro Monat Informationen
+				und relevante Artikel rund um das Thema Daten-Portabilität.
+			</p>
+			<div id="signup-wrapper">
+				<hr />
+				<h2>Bitte warten, wir laden das Formular...</h2>
+				<p>
+					Wir benötigen Javascript um das Anmeldeformular anzuzeigen. Falls möglich
+					aktivieren Sie dies in Ihrem Browser (wir laden keine externen Skripte),
+					alternative können Sie Ihre Anmeldung an
+					<a href="mailto:anmeldung@dpkit.com">anmeldung@dpkit.com</a>
+					schicken.
+				</p>
+				<hr />
+			</div>
+		</div>
+	</div>
+{% endblock %}
+{% block head %}
+<script defer type="text/javascript" src="{{'js/preact.js'|file}}"></script>
+<script defer type="text/javascript" src="{{'js/newsletter/signup.js'|file}}"></script>
+{% endblock %}

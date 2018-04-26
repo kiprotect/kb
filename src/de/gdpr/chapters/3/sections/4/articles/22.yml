@@ -1,0 +1,65 @@
+chapter: 3
+index:
+- profiling
+number: 22
+paragraphs:
+  1:
+    content: "Die {betroffene Person|index:betroffene-person} hat das Recht, nicht\
+      \ einer ausschlie\xDFlich auf einer {automatisierten Verarbeitung|index:automatisierte-verarbeitung}\
+      \ \u2014 einschlie\xDFlich {Profiling|index:profiling} \u2014 beruhenden Entscheidung\
+      \ unterworfen zu werden, die ihr gegen\xFCber rechtliche Wirkung entfaltet oder\
+      \ sie in \xE4hnlicher Weise erheblich beeintr\xE4chtigt."
+    index:
+    - automatisierte-verarbeitung
+    - betroffene-person
+    - profiling
+    number: 1
+  2:
+    number: 2
+    points:
+      a:
+        content: "f\xFCr den Abschluss oder die Erf\xFCllung eines Vertrags zwischen\
+          \ der {betroffenen Person|index:betroffene-person} und dem {Verantwortlichen|index:verantwortlicher}\
+          \ erforderlich ist,"
+        index:
+        - verantwortlicher
+        - betroffene-person
+      b:
+        content: "aufgrund von Rechtsvorschriften der Union oder der Mitgliedstaaten,\
+          \ denen der {Verantwortliche|index:verantwortlicher} unterliegt, zul\xE4\
+          ssig ist und diese Rechtsvorschriften angemessene Ma\xDFnahmen zur Wahrung\
+          \ der Rechte und Freiheiten sowie der berechtigten Interessen der {betroffenen\
+          \ Person|index:betroffene-person} enthalten oder"
+        index:
+        - verantwortlicher
+        - betroffene-person
+      c:
+        content: "mit ausdr\xFCcklicher {Einwilligung|index:einwilligung} der {betroffenen\
+          \ Person|index:betroffene-person} erfolgt."
+        index:
+        - betroffene-person
+        - einwilligung
+    preamble: Absatz 1 gilt nicht, wenn die Entscheidung
+  3:
+    content: "In den in Absatz 2 Buchstaben a und c genannten F\xE4llen trifft der\
+      \ {Verantwortliche|index:verantwortlicher} angemessene Ma\xDFnahmen, um die\
+      \ Rechte und Freiheiten sowie die berechtigten Interessen der {betroffenen Person|index:betroffene-person}\
+      \ zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person\
+      \ seitens des {Verantwortlichen|index:verantwortlicher}, auf Darlegung des eigenen\
+      \ Standpunkts und auf Anfechtung der Entscheidung geh\xF6rt."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    number: 3
+  4:
+    content: "Entscheidungen nach Absatz 2 d\xFCrfen nicht auf besonderen Kategorien\
+      \ {personenbezogener Daten|index:personenbezogene-daten} nach Artikel 9 Absatz\
+      \ 1 beruhen, sofern nicht Artikel 9 Absatz 2 Buchstabe a oder g gilt und angemessene\
+      \ Ma\xDFnahmen zum Schutz der Rechte und Freiheiten sowie der berechtigten Interessen\
+      \ der {betroffenen Person|index:betroffene-person} getroffen wurden."
+    index:
+    - personenbezogene-daten
+    - betroffene-person
+    number: 4
+section: 4
+title: "Automatisierte Entscheidungen im Einzelfall einschlie\xDFlich {Profiling|index:profiling}"

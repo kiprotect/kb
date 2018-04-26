@@ -1,0 +1,172 @@
+chapter: 4
+number: 35
+paragraphs:
+  1:
+    content: "Hat eine Form der {Verarbeitung|index:verarbeitung}, insbesondere bei\
+      \ Verwendung neuer Technologien, aufgrund der Art, des Umfangs, der Umst\xE4\
+      nde und der Zwecke der {Verarbeitung|index:verarbeitung} voraussichtlich ein\
+      \ hohes Risiko f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFC\
+      rliche-person} zur Folge, so f\xFChrt der {Verantwortliche|index:verantwortlicher}\
+      \ vorab eine Absch\xE4tzung der Folgen der vorgesehenen Verarbeitungsvorg\xE4\
+      nge f\xFCr den Schutz {personenbezogener Daten|index:personenbezogene-daten}\
+      \ durch. F\xFCr die Untersuchung mehrerer \xE4hnlicher Verarbeitungsvorg\xE4\
+      nge mit \xE4hnlich hohen Risiken kann eine einzige Absch\xE4tzung vorgenommen\
+      \ werden."
+    index:
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
+    - verantwortlicher
+    - verarbeitung
+    number: 1
+  2:
+    content: "Der {Verantwortliche|index:verantwortlicher} holt bei der Durchf\xFC\
+      hrung einer Datenschutz-Folgenabsch\xE4tzung den Rat des Datenschutzbeauftragten,\
+      \ sofern ein solcher benannt wurde, ein."
+    index:
+    - verantwortlicher
+    number: 2
+  3:
+    number: 3
+    points:
+      a:
+        content: "systematische und umfassende Bewertung pers\xF6nlicher Aspekte {nat\xFC\
+          rlicher Personen|index:nat\xFCrliche-person}, die sich auf automatisierte\
+          \ {Verarbeitung|index:verarbeitung} einschlie\xDFlich {Profiling|index:profiling}\
+          \ gr\xFCndet und die ihrerseits als Grundlage f\xFCr Entscheidungen dient,\
+          \ die Rechtswirkung gegen\xFCber {nat\xFCrlichen Personen|index:nat\xFC\
+          rliche-person} entfalten oder diese in \xE4hnlich erheblicher Weise beeintr\xE4\
+          chtigen;"
+        index:
+        - "nat\xFCrliche-person"
+        - verarbeitung
+        - profiling
+      b:
+        content: "umfangreiche {Verarbeitung|index:verarbeitung} besonderer Kategorien\
+          \ von {personenbezogenen Daten|index:personenbezogene-daten} gem\xE4\xDF\
+          \ Artikel 9 Absatz 1 oder von {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ \xFCber strafrechtliche Verurteilungen und Straftaten gem\xE4\xDF Artikel\
+          \ 10 oder"
+        index:
+        - personenbezogene-daten
+        - verarbeitung
+      c:
+        content: "systematische umfangreiche \xDCberwachung \xF6ffentlich zug\xE4\
+          nglicher Bereiche."
+    preamble: "Eine Datenschutz-Folgenabsch\xE4tzung gem\xE4\xDF Absatz 1 ist insbesondere\
+      \ in folgenden F\xE4llen erforderlich:"
+  4:
+    content: "Die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} erstellt eine Liste\
+      \ der Verarbeitungsvorg\xE4nge, f\xFCr die gem\xE4\xDF Absatz 1 eine Datenschutz-Folgenabsch\xE4\
+      tzung durchzuf\xFChren ist, und ver\xF6ffentlicht diese. Die {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} \xFCbermittelt diese Listen dem in Artikel 68\
+      \ genannten Ausschuss."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 4
+  5:
+    content: "Die {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} kann des Weiteren\
+      \ eine Liste der Arten von Verarbeitungsvorg\xE4ngen erstellen und ver\xF6ffentlichen,\
+      \ f\xFCr die keine Datenschutz-Folgenabsch\xE4tzung erforderlich ist. Die {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} \xFCbermittelt diese Listen dem Ausschuss."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 5
+  6:
+    content: "Vor Festlegung der in den Abs\xE4tzen 4 und 5 genannten Listen wendet\
+      \ die zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} das Koh\xE4\
+      renzverfahren gem\xE4\xDF Artikel 63 an, wenn solche Listen {Verarbeitungst\xE4\
+      tigkeiten|index:verarbeitungst\xE4tigkeit} umfassen, die mit dem Angebot von\
+      \ Waren oder Dienstleistungen f\xFCr {betroffene Personen|index:betroffene-person}\
+      \ oder der Beobachtung des Verhaltens dieser Personen in mehreren Mitgliedstaaten\
+      \ im Zusammenhang stehen oder die den freien Verkehr {personenbezogener Daten|index:personenbezogene-daten}\
+      \ innerhalb der Union erheblich beeintr\xE4chtigen k\xF6nnten."
+    index:
+    - "verarbeitungst\xE4tigkeit"
+    - personenbezogene-daten
+    - betroffene-person
+    - "aufsichtsbeh\xF6rde"
+    number: 6
+  7:
+    number: 7
+    points:
+      a:
+        content: "eine systematische Beschreibung der geplanten Verarbeitungsvorg\xE4\
+          nge und der Zwecke der {Verarbeitung|index:verarbeitung}, gegebenenfalls\
+          \ einschlie\xDFlich der von dem {Verantwortlichen|index:verantwortlicher}\
+          \ verfolgten berechtigten Interessen;"
+        index:
+        - verantwortlicher
+        - verarbeitung
+      b:
+        content: "eine Bewertung der Notwendigkeit und Verh\xE4ltnism\xE4\xDFigkeit\
+          \ der Verarbeitungsvorg\xE4nge in Bezug auf den Zweck;"
+      c:
+        content: "eine Bewertung der Risiken f\xFCr die Rechte und Freiheiten der\
+          \ {betroffenen Personen|index:betroffene-person} gem\xE4\xDF Absatz 1 und"
+        index:
+        - betroffene-person
+      d:
+        content: "die zur Bew\xE4ltigung der Risiken geplanten Abhilfema\xDFnahmen,\
+          \ einschlie\xDFlich Garantien, Sicherheitsvorkehrungen und {Verfahren|index:verfahren},\
+          \ durch die der Schutz {personenbezogener Daten|index:personenbezogene-daten}\
+          \ sichergestellt und der Nachweis daf\xFCr erbracht wird, dass diese {Verordnung|index:verordnung}\
+          \ eingehalten wird, wobei den Rechten und berechtigten Interessen der {betroffenen\
+          \ Personen|index:betroffene-person} und sonstiger Betroffener Rechnung getragen\
+          \ wird."
+        index:
+        - verfahren
+        - personenbezogene-daten
+        - betroffene-person
+        - verordnung
+    preamble: "Die Folgenabsch\xE4tzung enth\xE4lt zumindest Folgendes:"
+  8:
+    content: "Die Einhaltung genehmigter Verhaltensregeln gem\xE4\xDF Artikel 40 durch\
+      \ die zust\xE4ndigen {Verantwortlichen|index:verantwortlicher} oder die zust\xE4\
+      ndigen {Auftragsverarbeiter|index:auftragsverarbeiter} ist bei der Beurteilung\
+      \ der Auswirkungen der von diesen durchgef\xFChrten Verarbeitungsvorg\xE4nge,\
+      \ insbesondere f\xFCr die Zwecke einer Datenschutz-Folgenabsch\xE4tzung, geb\xFC\
+      hrend zu ber\xFCcksichtigen."
+    index:
+    - verantwortlicher
+    - auftragsverarbeiter
+    number: 8
+  9:
+    content: "Der {Verantwortliche|index:verantwortlicher} holt gegebenenfalls den\
+      \ Standpunkt der {betroffenen Personen|index:betroffene-person} oder ihrer {Vertreter|index:vertreter}\
+      \ zu der beabsichtigten {Verarbeitung|index:verarbeitung} unbeschadet des Schutzes\
+      \ gewerblicher oder \xF6ffentlicher Interessen oder der Sicherheit der Verarbeitungsvorg\xE4\
+      nge ein."
+    index:
+    - verantwortlicher
+    - vertreter
+    - betroffene-person
+    - verarbeitung
+    number: 9
+  10:
+    content: "Falls die {Verarbeitung|index:verarbeitung} gem\xE4\xDF Artikel 6 Absatz\
+      \ 1 Buchstabe c oder e auf einer Rechtsgrundlage im Unionsrecht oder im Recht\
+      \ des Mitgliedstaats, dem der {Verantwortliche|index:verantwortlicher} unterliegt,\
+      \ beruht und falls diese Rechtsvorschriften den konkreten Verarbeitungsvorgang\
+      \ oder die konkreten Verarbeitungsvorg\xE4nge regeln und bereits im Rahmen der\
+      \ allgemeinen Folgenabsch\xE4tzung im Zusammenhang mit dem Erlass dieser Rechtsgrundlage\
+      \ eine Datenschutz-Folgenabsch\xE4tzung erfolgte, gelten die Abs\xE4tze 1 bis\
+      \ 7 nur, wenn es nach dem Ermessen der Mitgliedstaaten erforderlich ist, vor\
+      \ den betreffenden {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}\
+      \ eine solche Folgenabsch\xE4tzung durchzuf\xFChren."
+    index:
+    - "verarbeitungst\xE4tigkeit"
+    - verantwortlicher
+    - verarbeitung
+    number: 10
+  11:
+    content: "Erforderlichenfalls f\xFChrt der {Verantwortliche|index:verantwortlicher}\
+      \ eine \xDCberpr\xFCfung durch, um zu bewerten, ob die {Verarbeitung|index:verarbeitung}\
+      \ gem\xE4\xDF der Datenschutz-Folgenabsch\xE4tzung durchgef\xFChrt wird; dies\
+      \ gilt zumindest, wenn hinsichtlich des mit den Verarbeitungsvorg\xE4ngen verbundenen\
+      \ Risikos \xC4nderungen eingetreten sind."
+    index:
+    - verantwortlicher
+    - verarbeitung
+    number: 11
+section: 3
+title: "Datenschutz-Folgenabsch\xE4tzung"

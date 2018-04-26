@@ -1,0 +1,41 @@
+chapter: 8
+index:
+- verantwortlicher
+- auftragsverarbeiter
+number: 79
+paragraphs:
+  1:
+    content: "Jede {betroffene Person|index:betroffene-person} hat unbeschadet eines\
+      \ verf\xFCgbaren verwaltungsrechtlichen oder au\xDFergerichtlichen Rechtsbehelfs\
+      \ einschlie\xDFlich des Rechts auf Beschwerde bei einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} gem\xE4\xDF Artikel 77 das Recht auf einen wirksamen gerichtlichen Rechtsbehelf,\
+      \ wenn sie der Ansicht ist, dass die ihr aufgrund dieser {Verordnung|index:verordnung}\
+      \ zustehenden Rechte infolge einer nicht im Einklang mit dieser {Verordnung|index:verordnung}\
+      \ stehenden {Verarbeitung|index:verarbeitung} ihrer {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ verletzt wurden."
+    index:
+    - betroffene-person
+    - verordnung
+    - personenbezogene-daten
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 1
+  2:
+    content: "F\xFCr Klagen gegen einen {Verantwortlichen|index:verantwortlicher}\
+      \ oder gegen einen {Auftragsverarbeiter|index:auftragsverarbeiter} sind die\
+      \ Gerichte des Mitgliedstaats zust\xE4ndig, in dem der {Verantwortliche|index:verantwortlicher}\
+      \ oder der {Auftragsverarbeiter|index:auftragsverarbeiter} eine Niederlassung\
+      \ hat. Wahlweise k\xF6nnen solche Klagen auch bei den Gerichten des Mitgliedstaats\
+      \ erhoben werden, in dem die {betroffene Person|index:betroffene-person} ihren\
+      \ Aufenthaltsort hat, es sei denn, es handelt sich bei dem {Verantwortlichen|index:verantwortlicher}\
+      \ oder dem {Auftragsverarbeiter|index:auftragsverarbeiter} um eine Beh\xF6rde\
+      \ eines Mitgliedstaats, die in Aus\xFCbung ihrer hoheitlichen Befugnisse t\xE4\
+      tig geworden ist."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    - auftragsverarbeiter
+    number: 2
+section: 0
+title: |-
+  Recht auf wirksamen gerichtlichen Rechtsbehelf gegen {Verantwortliche|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}

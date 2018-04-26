@@ -1,0 +1,20 @@
+content: "The {processing|index:processing} of {personal data|index:personal-data}\
+  \ to the extent strictly necessary and proportionate for the purposes of ensuring\
+  \ network and information security, i.e. the ability of a network or an information\
+  \ system to resist, at a given level of confidence, accidental events or unlawful\
+  \ or malicious actions that compromise the availability, authenticity, integrity\
+  \ and confidentiality of stored or transmitted {personal data|index:personal-data},\
+  \ and the security of the related services offered by, or accessible via, those\
+  \ networks and systems, by public authorities, by computer emergency response teams\
+  \ (CERTs), computer security incident response teams (CSIRTs), by providers of electronic\
+  \ communications networks and services and by providers of security technologies\
+  \ and services, constitutes a legitimate interest of the data {controller|index:controller}\
+  \ concerned. This could, for example, include preventing unauthorised access to\
+  \ electronic communications networks and malicious code distribution and stopping\
+  \ \u2018denial of service\u2019 attacks and damage to computer and electronic communication\
+  \ systems."
+index:
+- personal-data
+- controller
+- processing
+number: 49

@@ -1,0 +1,24 @@
+content: "Zur Aufrechterhaltung der Sicherheit und zur Vorbeugung gegen eine gegen\
+  \ diese {Verordnung|index:verordnung} versto\xDFende {Verarbeitung|index:verarbeitung}\
+  \ sollte der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ die mit der {Verarbeitung|index:verarbeitung} verbundenen Risiken ermitteln und\
+  \ Ma\xDFnahmen zu ihrer Eind\xE4mmung, wie etwa eine Verschl\xFCsselung, treffen.\
+  \ Diese Ma\xDFnahmen sollten unter Ber\xFCcksichtigung des Stands der Technik und\
+  \ der Implementierungskosten ein Schutzniveau \u2014 auch hinsichtlich der Vertraulichkeit\
+  \ \u2014 gew\xE4hrleisten, das den von der {Verarbeitung|index:verarbeitung} ausgehenden\
+  \ Risiken und der Art der zu sch\xFCtzenden {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ angemessen ist. Bei der Bewertung der Datensicherheitsrisiken sollten die mit\
+  \ der {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ verbundenen Risiken ber\xFCcksichtigt werden, wie etwa \u2014 ob unbeabsichtigt\
+  \ oder unrechtm\xE4\xDFig \u2014 Vernichtung, Verlust, Ver\xE4nderung oder unbefugte\
+  \ Offenlegung von oder unbefugter Zugang zu {personenbezogenen Daten|index:personenbezogene-daten},\
+  \ die \xFCbermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden, insbesondere\
+  \ wenn dies zu einem physischen, materiellen oder immateriellen Schaden f\xFChren\
+  \ k\xF6nnte."
+index:
+- auftragsverarbeiter
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- verarbeitung
+number: 83

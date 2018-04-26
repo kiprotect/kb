@@ -1,0 +1,34 @@
+content: "In F\xE4llen, in denen die {Verarbeitung|index:verarbeitung} durch eine\
+  \ Beh\xF6rde \u2014 mit Ausnahmen von Gerichten oder unabh\xE4ngigen Justizbeh\xF6\
+  rden, die im Rahmen ihrer justiziellen T\xE4tigkeit handeln \u2013, im privaten\
+  \ Sektor durch einen {Verantwortlichen|index:verantwortlicher} erfolgt, dessen Kernt\xE4\
+  tigkeit in Verarbeitungsvorg\xE4ngen besteht, die eine regelm\xE4\xDFige und systematische\
+  \ \xDCberwachung der {betroffenen Personen|index:betroffene-person} in gro\xDFem\
+  \ Umfang erfordern, oder wenn die Kernt\xE4tigkeit des {Verantwortlichen|index:verantwortlicher}\
+  \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} in der umfangreichen\
+  \ {Verarbeitung|index:verarbeitung} besonderer Kategorien von {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} oder von Daten \xFCber strafrechtliche Verurteilungen\
+  \ und Straftaten besteht, sollte der {Verantwortliche|index:verantwortlicher} oder\
+  \ der {Auftragsverarbeiter|index:auftragsverarbeiter} bei der \xDCberwachung der\
+  \ internen Einhaltung der Bestimmungen dieser {Verordnung|index:verordnung} von\
+  \ einer weiteren Person, die \xFCber Fachwissen auf dem Gebiet des Datenschutzrechts\
+  \ und der Datenschutzverfahren verf\xFCgt, unterst\xFCtzt werden Im privaten Sektor\
+  \ bezieht sich die Kernt\xE4tigkeit eines {Verantwortlichen|index:verantwortlicher}\
+  \ auf seine Hauptt\xE4tigkeiten und nicht auf die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} als Nebent\xE4tigkeit.\
+  \ Das erforderliche Niveau des Fachwissens sollte sich insbesondere nach den durchgef\xFC\
+  hrten Datenverarbeitungsvorg\xE4ngen und dem erforderlichen Schutz f\xFCr die von\
+  \ dem {Verantwortlichen|index:verantwortlicher} oder dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ verarbeiteten {personenbezogenen Daten|index:personenbezogene-daten} richten.\
+  \ Derartige Datenschutzbeauftragte sollten unabh\xE4ngig davon, ob es sich bei ihnen\
+  \ um Besch\xE4ftigte des {Verantwortlichen|index:verantwortlicher} handelt oder\
+  \ nicht, ihre Pflichten und Aufgaben in vollst\xE4ndiger Unabh\xE4ngigkeit aus\xFC\
+  ben k\xF6nnen."
+index:
+- betroffene-person
+- auftragsverarbeiter
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- verarbeitung
+number: 97

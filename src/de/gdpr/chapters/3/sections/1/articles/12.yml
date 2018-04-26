@@ -1,0 +1,122 @@
+chapter: 3
+index:
+- betroffene-person
+number: 12
+paragraphs:
+  1:
+    content: "Der {Verantwortliche|index:verantwortlicher} trifft geeignete Ma\xDF\
+      nahmen, um der {betroffenen Person|index:betroffene-person} alle Informationen\
+      \ gem\xE4\xDF den Artikeln 13 und 14 und alle Mitteilungen gem\xE4\xDF den Artikeln\
+      \ 15 bis 22 und Artikel 34, die sich auf die {Verarbeitung|index:verarbeitung}\
+      \ beziehen, in pr\xE4ziser, transparenter, verst\xE4ndlicher und leicht zug\xE4\
+      nglicher Form in einer klaren und einfachen Sprache zu \xFCbermitteln; dies\
+      \ gilt insbesondere f\xFCr Informationen, die sich speziell an Kinder richten.\
+      \ Die \xDCbermittlung der Informationen erfolgt schriftlich oder in anderer\
+      \ Form, gegebenenfalls auch elektronisch. Falls von der {betroffenen Person|index:betroffene-person}\
+      \ verlangt, kann die Information m\xFCndlich erteilt werden, sofern die Identit\xE4\
+      t der {betroffenen Person|index:betroffene-person} in anderer Form nachgewiesen\
+      \ wurde."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    - verarbeitung
+    number: 1
+  2:
+    content: "Der {Verantwortliche|index:verantwortlicher} erleichtert der {betroffenen\
+      \ Person|index:betroffene-person} die Aus\xFCbung ihrer Rechte gem\xE4\xDF den\
+      \ Artikeln 15 bis 22. In den in Artikel 11 Absatz 2 genannten F\xE4llen darf\
+      \ sich der {Verantwortliche|index:verantwortlicher} nur dann weigern, aufgrund\
+      \ des Antrags der {betroffenen Person|index:betroffene-person} auf Wahrnehmung\
+      \ ihrer Rechte gem\xE4\xDF den Artikeln 15 bis 22 t\xE4tig zu werden, wenn er\
+      \ glaubhaft macht, dass er nicht in der Lage ist, die {betroffene Person|index:betroffene-person}\
+      \ zu identifizieren."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    number: 2
+  3:
+    content: "Der {Verantwortliche|index:verantwortlicher} stellt der {betroffenen\
+      \ Person|index:betroffene-person} Informationen \xFCber die auf Antrag gem\xE4\
+      \xDF den Artikeln 15 bis 22 ergriffenen Ma\xDFnahmen unverz\xFCglich, in jedem\
+      \ Fall aber innerhalb eines Monats nach Eingang des Antrags zur Verf\xFCgung.\
+      \ Diese Frist kann um weitere zwei Monate verl\xE4ngert werden, wenn dies unter\
+      \ Ber\xFCcksichtigung der Komplexit\xE4t und der Anzahl von Antr\xE4gen erforderlich\
+      \ ist. Der {Verantwortliche|index:verantwortlicher} unterrichtet die {betroffene\
+      \ Person|index:betroffene-person} innerhalb eines Monats nach Eingang des Antrags\
+      \ \xFCber eine Fristverl\xE4ngerung, zusammen mit den Gr\xFCnden f\xFCr die\
+      \ Verz\xF6gerung. Stellt die {betroffene Person|index:betroffene-person} den\
+      \ Antrag elektronisch, so ist sie nach M\xF6glichkeit auf elektronischem Weg\
+      \ zu unterrichten, sofern sie nichts anderes angibt."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    number: 3
+  4:
+    content: "Wird der {Verantwortliche|index:verantwortlicher} auf den Antrag der\
+      \ {betroffenen Person|index:betroffene-person} hin nicht t\xE4tig, so unterrichtet\
+      \ er die {betroffene Person|index:betroffene-person} ohne Verz\xF6gerung, sp\xE4\
+      testens aber innerhalb eines Monats nach Eingang des Antrags \xFCber die Gr\xFC\
+      nde hierf\xFCr und \xFCber die M\xF6glichkeit, bei einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} Beschwerde einzulegen oder einen gerichtlichen Rechtsbehelf einzulegen."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    - "aufsichtsbeh\xF6rde"
+    number: 4
+  5:
+    index:
+    - verantwortlicher
+    - betroffene-person
+    number: 5
+    points:
+      a:
+        content: "ein angemessenes Entgelt verlangen, bei dem die Verwaltungskosten\
+          \ f\xFCr die Unterrichtung oder die Mitteilung oder die Durchf\xFChrung\
+          \ der beantragten Ma\xDFnahme ber\xFCcksichtigt werden, oder"
+      b:
+        content: "sich weigern, aufgrund des Antrags t\xE4tig zu werden. Der {Verantwortliche|index:verantwortlicher}\
+          \ hat den Nachweis f\xFCr den offenkundig unbegr\xFCndeten oder exzessiven\
+          \ Charakter des Antrags zu erbringen."
+        index:
+        - verantwortlicher
+    preamble: "Informationen gem\xE4\xDF den Artikeln 13 und 14 sowie alle Mitteilungen\
+      \ und Ma\xDFnahmen gem\xE4\xDF den Artikeln 15 bis 22 und Artikel 34 werden\
+      \ unentgeltlich zur Verf\xFCgung gestellt. Bei offenkundig unbegr\xFCndeten\
+      \ oder \u2014 insbesondere im Fall von h\xE4ufiger Wiederholung \u2014 exzessiven\
+      \ Antr\xE4gen einer {betroffenen Person|index:betroffene-person} kann der {Verantwortliche|index:verantwortlicher}\
+      \ entweder"
+  6:
+    content: "Hat der {Verantwortliche|index:verantwortlicher} begr\xFCndete Zweifel\
+      \ an der Identit\xE4t der {nat\xFCrlichen Person|index:nat\xFCrliche-person},\
+      \ die den Antrag gem\xE4\xDF den Artikeln 15 bis 21 stellt, so kann er unbeschadet\
+      \ des Artikels 11 zus\xE4tzliche Informationen anfordern, die zur Best\xE4tigung\
+      \ der Identit\xE4t der {betroffenen Person|index:betroffene-person} erforderlich\
+      \ sind."
+    index:
+    - "nat\xFCrliche-person"
+    - verantwortlicher
+    - betroffene-person
+    number: 6
+  7:
+    content: "Die Informationen, die den {betroffenen Personen|index:betroffene-person}\
+      \ gem\xE4\xDF den Artikeln 13 und 14 bereitzustellen sind, k\xF6nnen in Kombination\
+      \ mit standardisierten Bildsymbolen bereitgestellt werden, um in leicht wahrnehmbarer,\
+      \ verst\xE4ndlicher und klar nachvollziehbarer Form einen aussagekr\xE4ftigen\
+      \ \xDCberblick \xFCber die beabsichtigte {Verarbeitung|index:verarbeitung} zu\
+      \ vermitteln. Werden die Bildsymbole in elektronischer Form dargestellt, m\xFC\
+      ssen sie maschinenlesbar sein."
+    index:
+    - betroffene-person
+    - verarbeitung
+    number: 7
+  8:
+    content: "Der Kommission wird die Befugnis \xFCbertragen, gem\xE4\xDF Artikel\
+      \ 92 delegierte Rechtsakte zur Bestimmung der Informationen, die durch Bildsymbole\
+      \ darzustellen sind, und der {Verfahren|index:verfahren} f\xFCr die Bereitstellung\
+      \ standardisierter Bildsymbole zu erlassen."
+    index:
+    - verfahren
+    number: 8
+section: 1
+title: "Transparente Information, Kommunikation und Modalit\xE4ten f\xFCr die Aus\xFC\
+  bung der Rechte der {betroffenen Person|index:betroffene-person}"

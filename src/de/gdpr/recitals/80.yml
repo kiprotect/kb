@@ -1,0 +1,44 @@
+content: "Jeder {Verantwortliche|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ ohne Niederlassung in der Union, dessen {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4\
+  tigkeit} sich auf {betroffene Personen|index:betroffene-person} beziehen, die sich\
+  \ in der Union aufhalten, und dazu dienen, diesen Personen in der Union Waren oder\
+  \ Dienstleistungen anzubieten \u2014 unabh\xE4ngig davon, ob von der {betroffenen\
+  \ Person|index:betroffene-person} eine Zahlung verlangt wird \u2014 oder deren Verhalten,\
+  \ soweit dieses innerhalb der Union erfolgt, zu beobachten, sollte einen {Vertreter|index:vertreter}\
+  \ benennen m\xFCssen, es sei denn, die {Verarbeitung|index:verarbeitung} erfolgt\
+  \ gelegentlich, schlie\xDFt nicht die umfangreiche {Verarbeitung|index:verarbeitung}\
+  \ besonderer Kategorien {personenbezogener Daten|index:personenbezogene-daten} oder\
+  \ die {Verarbeitung|index:verarbeitung} von {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ \xFCber strafrechtliche Verurteilungen und Straftaten ein und bringt unter Ber\xFC\
+  cksichtigung ihrer Art, ihrer Umst\xE4nde, ihres Umfangs und ihrer Zwecke wahrscheinlich\
+  \ kein Risiko f\xFCr die Rechte und Freiheiten {nat\xFCrlicher Personen|index:nat\xFC\
+  rliche-person} mit sich oder bei dem {Verantwortlichen|index:verantwortlicher} handelt\
+  \ es sich um eine Beh\xF6rde oder \xF6ffentliche Stelle. Der {Vertreter|index:vertreter}\
+  \ sollte im Namen des {Verantwortlichen|index:verantwortlicher} oder des {Auftragsverarbeiters|index:auftragsverarbeiter}\
+  \ t\xE4tig werden und den {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} als Anlaufstelle\
+  \ dienen. Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ sollte den {Vertreter|index:vertreter} ausdr\xFCcklich bestellen und schriftlich\
+  \ beauftragen, in Bezug auf die ihm nach dieser {Verordnung|index:verordnung} obliegenden\
+  \ Verpflichtungen an seiner Stelle zu handeln. Die Benennung eines solchen Vertreters\
+  \ ber\xFChrt nicht die Verantwortung oder Haftung des {Verantwortlichen|index:verantwortlicher}\
+  \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} nach Ma\xDFgabe dieser\
+  \ {Verordnung|index:verordnung}. Ein solcher {Vertreter|index:vertreter} sollte\
+  \ seine Aufgaben entsprechend dem Mandat des {Verantwortlichen|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiters|index:auftragsverarbeiter} ausf\xFChren und insbesondere\
+  \ mit den zust\xE4ndigen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde} in Bezug\
+  \ auf Ma\xDFnahmen, die die Einhaltung dieser {Verordnung|index:verordnung} sicherstellen\
+  \ sollen, zusammenarbeiten. Bei Verst\xF6\xDFen des {Verantwortlichen|index:verantwortlicher}\
+  \ oder {Auftragsverarbeiters|index:auftragsverarbeiter} sollte der bestellte {Vertreter|index:vertreter}\
+  \ Durchsetzungsverfahren unterworfen werden."
+index:
+- "verarbeitungst\xE4tigkeit"
+- betroffene-person
+- verordnung
+- auftragsverarbeiter
+- vertreter
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
+number: 80

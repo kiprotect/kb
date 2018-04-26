@@ -1,0 +1,18 @@
+content: "Es sollten Modalit\xE4ten festgelegt werden, die einer {betroffenen Person|index:betroffene-person}\
+  \ die Aus\xFCbung der Rechte, die ihr nach dieser {Verordnung|index:verordnung}\
+  \ zustehen, erleichtern, darunter auch Mechanismen, die daf\xFCr sorgen, dass sie\
+  \ unentgeltlich insbesondere Zugang zu {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ und deren Berichtigung oder L\xF6schung beantragen und gegebenenfalls erhalten\
+  \ oder von ihrem Widerspruchsrecht Gebrauch machen kann. So sollte der {Verantwortliche|index:verantwortlicher}\
+  \ auch daf\xFCr sorgen, dass Antr\xE4ge elektronisch gestellt werden k\xF6nnen,\
+  \ insbesondere wenn die {personenbezogenen Daten|index:personenbezogene-daten} elektronisch\
+  \ verarbeitet werden. Der {Verantwortliche|index:verantwortlicher} sollte verpflichtet\
+  \ werden, den Antrag der {betroffenen Person|index:betroffene-person} unverz\xFC\
+  glich, sp\xE4testens aber innerhalb eines Monats zu beantworten und gegebenenfalls\
+  \ zu begr\xFCnden, warum er den Antrag ablehnt."
+index:
+- verantwortlicher
+- personenbezogene-daten
+- betroffene-person
+- verordnung
+number: 59

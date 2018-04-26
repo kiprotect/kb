@@ -1,0 +1,60 @@
+content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ f\xFCr andere Zwecke als die, f\xFCr die die {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ urspr\xFCnglich erhoben wurden, sollte nur zul\xE4ssig sein, wenn die {Verarbeitung|index:verarbeitung}\
+  \ mit den Zwecken, f\xFCr die die {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ urspr\xFCnglich erhoben wurden, vereinbar ist. In diesem Fall ist keine andere\
+  \ gesonderte Rechtsgrundlage erforderlich als diejenige f\xFCr die Erhebung der\
+  \ {personenbezogenen Daten|index:personenbezogene-daten}. Ist die {Verarbeitung|index:verarbeitung}\
+  \ f\xFCr die Wahrnehmung einer Aufgabe erforderlich, die im \xF6ffentlichen Interesse\
+  \ liegt oder in Aus\xFCbung \xF6ffentlicher Gewalt erfolgt, die dem {Verantwortlichen|index:verantwortlicher}\
+  \ \xFCbertragen wurde, so k\xF6nnen im Unionsrecht oder im Recht der Mitgliedstaaten\
+  \ die Aufgaben und Zwecke bestimmt und konkretisiert werden, f\xFCr die eine Weiterverarbeitung\
+  \ als vereinbar und rechtm\xE4\xDFig erachtet wird. Die Weiterverarbeitung f\xFC\
+  r im \xF6ffentlichen Interesse liegende Archivzwecke, f\xFCr wissenschaftliche oder\
+  \ historische Forschungszwecke oder f\xFCr statistische Zwecke sollte als vereinbarer\
+  \ und rechtm\xE4\xDFiger Verarbeitungsvorgang gelten. Die im Unionsrecht oder im\
+  \ Recht der Mitgliedstaaten vorgesehene Rechtsgrundlage f\xFCr die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} kann auch als Rechtsgrundlage\
+  \ f\xFCr eine Weiterverarbeitung dienen. Um festzustellen, ob ein Zweck der Weiterverarbeitung\
+  \ mit dem Zweck, f\xFCr den die {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ urspr\xFCnglich erhoben wurden, vereinbar ist, sollte der {Verantwortliche|index:verantwortlicher}\
+  \ nach Einhaltung aller Anforderungen f\xFCr die Rechtm\xE4\xDFigkeit der urspr\xFC\
+  nglichen {Verarbeitung|index:verarbeitung} unter anderem pr\xFCfen, ob ein Zusammenhang\
+  \ zwischen den Zwecken, f\xFCr die die {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ erhoben wurden, und den Zwecken der beabsichtigten Weiterverarbeitung besteht,\
+  \ in welchem Kontext die Daten erhoben wurden, insbesondere die vern\xFCnftigen\
+  \ Erwartungen der {betroffenen Person|index:betroffene-person}, die auf ihrer Beziehung\
+  \ zu dem {Verantwortlichen|index:verantwortlicher} beruhen, in Bezug auf die weitere\
+  \ Verwendung dieser Daten, um welche Art von {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ es sich handelt, welche Folgen die beabsichtigte Weiterverarbeitung f\xFCr die\
+  \ {betroffenen Personen|index:betroffene-person} hat und ob sowohl beim urspr\xFC\
+  nglichen als auch beim beabsichtigten Weiterverarbeitungsvorgang geeignete Garantien\
+  \ bestehen. Hat die {betroffene Person|index:betroffene-person} ihre {Einwilligung|index:einwilligung}\
+  \ erteilt oder beruht die {Verarbeitung|index:verarbeitung} auf Unionsrecht oder\
+  \ dem Recht der Mitgliedstaaten, was in einer demokratischen Gesellschaft eine notwendige\
+  \ und verh\xE4ltnism\xE4\xDFige Ma\xDFnahme zum Schutz insbesondere wichtiger Ziele\
+  \ des allgemeinen \xF6ffentlichen Interesses darstellt, so sollte der {Verantwortliche|index:verantwortlicher}\
+  \ die {personenbezogenen Daten|index:personenbezogene-daten} ungeachtet der Vereinbarkeit\
+  \ der Zwecke weiterverarbeiten d\xFCrfen. In jedem Fall sollte gew\xE4hrleistet\
+  \ sein, dass die in dieser {Verordnung|index:verordnung} niedergelegten Grunds\xE4\
+  tze angewandt werden und insbesondere die {betroffene Person|index:betroffene-person}\
+  \ \xFCber diese anderen Zwecke und \xFCber ihre Rechte einschlie\xDFlich des Widerspruchsrechts\
+  \ unterrichtet wird. Der Hinweis des {Verantwortlichen|index:verantwortlicher} auf\
+  \ m\xF6gliche Straftaten oder Bedrohungen der \xF6ffentlichen Sicherheit und die\
+  \ \xDCbermittlung der ma\xDFgeblichen {personenbezogenen Daten|index:personenbezogene-daten}\
+  \ in Einzelf\xE4llen oder in mehreren F\xE4llen, die im Zusammenhang mit derselben\
+  \ Straftat oder derselben Bedrohung der \xF6ffentlichen Sicherheit stehen, an eine\
+  \ zust\xE4ndige Beh\xF6rde sollten als berechtigtes Interesse des {Verantwortlichen|index:verantwortlicher}\
+  \ gelten. Eine derartige \xDCbermittlung {personenbezogener Daten|index:personenbezogene-daten}\
+  \ im berechtigten Interesse des {Verantwortlichen|index:verantwortlicher} oder deren\
+  \ Weiterverarbeitung sollte jedoch unzul\xE4ssig sein, wenn die {Verarbeitung|index:verarbeitung}\
+  \ mit einer rechtlichen, beruflichen oder sonstigen verbindlichen Pflicht zur Geheimhaltung\
+  \ unvereinbar ist."
+index:
+- betroffene-person
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- einwilligung
+- verarbeitung
+number: 50

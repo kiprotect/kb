@@ -1,0 +1,167 @@
+chapter: 2
+index:
+- personenbezogene-daten
+- verarbeitung
+number: 9
+paragraphs:
+  1:
+    content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten},\
+      \ aus denen die rassische und ethnische Herkunft, politische Meinungen, religi\xF6\
+      se oder weltanschauliche \xDCberzeugungen oder die Gewerkschaftszugeh\xF6rigkeit\
+      \ hervorgehen, sowie die {Verarbeitung|index:verarbeitung} von genetischen Daten,\
+      \ biometrischen Daten zur eindeutigen Identifizierung einer {nat\xFCrlichen\
+      \ Person|index:nat\xFCrliche-person}, {Gesundheitsdaten|index:gesundheitsdaten}\
+      \ oder Daten zum Sexualleben oder der sexuellen Orientierung einer {nat\xFC\
+      rlichen Person|index:nat\xFCrliche-person} ist untersagt."
+    index:
+    - "nat\xFCrliche-person"
+    - personenbezogene-daten
+    - gesundheitsdaten
+    - verarbeitung
+    number: 1
+  2:
+    number: 2
+    points:
+      a:
+        content: "Die {betroffene Person|index:betroffene-person} hat in die {Verarbeitung|index:verarbeitung}\
+          \ der genannten {personenbezogenen Daten|index:personenbezogene-daten} f\xFC\
+          r einen oder mehrere festgelegte Zwecke ausdr\xFCcklich eingewilligt, es\
+          \ sei denn, nach Unionsrecht oder dem Recht der Mitgliedstaaten kann das\
+          \ Verbot nach Absatz 1 durch die {Einwilligung|index:einwilligung} der {betroffenen\
+          \ Person|index:betroffene-person} nicht aufgehoben werden,"
+        index:
+        - personenbezogene-daten
+        - betroffene-person
+        - einwilligung
+        - verarbeitung
+      b:
+        content: "die {Verarbeitung|index:verarbeitung} ist erforderlich, damit der\
+          \ {Verantwortliche|index:verantwortlicher} oder die {betroffene Person|index:betroffene-person}\
+          \ die ihm bzw. ihr aus dem Arbeitsrecht und dem Recht der sozialen Sicherheit\
+          \ und des Sozialschutzes erwachsenden Rechte aus\xFCben und seinen bzw.\
+          \ ihren diesbez\xFCglichen Pflichten nachkommen kann, soweit dies nach Unionsrecht\
+          \ oder dem Recht der Mitgliedstaaten oder einer Kollektivvereinbarung nach\
+          \ dem Recht der Mitgliedstaaten, das geeignete Garantien f\xFCr die Grundrechte\
+          \ und die Interessen der {betroffenen Person|index:betroffene-person} vorsieht,\
+          \ zul\xE4ssig ist,"
+        index:
+        - verantwortlicher
+        - betroffene-person
+        - verarbeitung
+      c:
+        content: "die {Verarbeitung|index:verarbeitung} ist zum Schutz lebenswichtiger\
+          \ Interessen der {betroffenen Person|index:betroffene-person} oder einer\
+          \ anderen {nat\xFCrlichen Person|index:nat\xFCrliche-person} erforderlich\
+          \ und die {betroffene Person|index:betroffene-person} ist aus k\xF6rperlichen\
+          \ oder rechtlichen Gr\xFCnden au\xDFerstande, ihre {Einwilligung|index:einwilligung}\
+          \ zu geben,"
+        index:
+        - "nat\xFCrliche-person"
+        - betroffene-person
+        - einwilligung
+        - verarbeitung
+      d:
+        content: "die {Verarbeitung|index:verarbeitung} erfolgt auf der Grundlage\
+          \ geeigneter Garantien durch eine politisch, weltanschaulich, religi\xF6\
+          s oder gewerkschaftlich ausgerichtete Stiftung, Vereinigung oder sonstige\
+          \ Organisation ohne Gewinnerzielungsabsicht im Rahmen ihrer rechtm\xE4\xDF\
+          igen T\xE4tigkeiten und unter der Voraussetzung, dass sich die {Verarbeitung|index:verarbeitung}\
+          \ ausschlie\xDFlich auf die Mitglieder oder ehemalige Mitglieder der Organisation\
+          \ oder auf Personen, die im Zusammenhang mit deren T\xE4tigkeitszweck regelm\xE4\
+          \xDFige Kontakte mit ihr unterhalten, bezieht und die {personenbezogenen\
+          \ Daten|index:personenbezogene-daten} nicht ohne {Einwilligung|index:einwilligung}\
+          \ der {betroffenen Personen|index:betroffene-person} nach au\xDFen offengelegt\
+          \ werden,"
+        index:
+        - personenbezogene-daten
+        - betroffene-person
+        - einwilligung
+        - verarbeitung
+      e:
+        content: "die {Verarbeitung|index:verarbeitung} bezieht sich auf {personenbezogene\
+          \ Daten|index:personenbezogene-daten}, die die {betroffene Person|index:betroffene-person}\
+          \ offensichtlich \xF6ffentlich gemacht hat,"
+        index:
+        - personenbezogene-daten
+        - betroffene-person
+        - verarbeitung
+      f:
+        content: "die {Verarbeitung|index:verarbeitung} ist zur Geltendmachung, Aus\xFC\
+          bung oder Verteidigung von Rechtsanspr\xFCchen oder bei Handlungen der Gerichte\
+          \ im Rahmen ihrer justiziellen T\xE4tigkeit erforderlich,"
+        index:
+        - verarbeitung
+      g:
+        content: "die {Verarbeitung|index:verarbeitung} ist auf der Grundlage des\
+          \ Unionsrechts oder des Rechts eines Mitgliedstaats, das in angemessenem\
+          \ Verh\xE4ltnis zu dem verfolgten Ziel steht, den Wesensgehalt des Rechts\
+          \ auf Datenschutz wahrt und angemessene und spezifische Ma\xDFnahmen zur\
+          \ Wahrung der Grundrechte und Interessen der {betroffenen Person|index:betroffene-person}\
+          \ vorsieht, aus Gr\xFCnden eines erheblichen \xF6ffentlichen Interesses\
+          \ erforderlich,"
+        index:
+        - betroffene-person
+        - verarbeitung
+      h:
+        content: "die {Verarbeitung|index:verarbeitung} ist f\xFCr Zwecke der Gesundheitsvorsorge\
+          \ oder der Arbeitsmedizin, f\xFCr die Beurteilung der Arbeitsf\xE4higkeit\
+          \ des Besch\xE4ftigten, f\xFCr die medizinische Diagnostik, die Versorgung\
+          \ oder Behandlung im Gesundheits- oder Sozialbereich oder f\xFCr die Verwaltung\
+          \ von Systemen und Diensten im Gesundheits- oder Sozialbereich auf der Grundlage\
+          \ des Unionsrechts oder des Rechts eines Mitgliedstaats oder aufgrund eines\
+          \ Vertrags mit einem Angeh\xF6rigen eines Gesundheitsberufs und vorbehaltlich\
+          \ der in Absatz 3 genannten Bedingungen und Garantien erforderlich,"
+        index:
+        - verarbeitung
+      i:
+        content: "die {Verarbeitung|index:verarbeitung} ist aus Gr\xFCnden des \xF6\
+          ffentlichen Interesses im Bereich der \xF6ffentlichen Gesundheit, wie dem\
+          \ Schutz vor schwerwiegenden grenz\xFCberschreitenden Gesundheitsgefahren\
+          \ oder zur Gew\xE4hrleistung hoher Qualit\xE4ts- und Sicherheitsstandards\
+          \ bei der Gesundheitsversorgung und bei Arzneimitteln und Medizinprodukten,\
+          \ auf der Grundlage des Unionsrechts oder des Rechts eines Mitgliedstaats,\
+          \ das angemessene und spezifische Ma\xDFnahmen zur Wahrung der Rechte und\
+          \ Freiheiten der {betroffenen Person|index:betroffene-person}, insbesondere\
+          \ des Berufsgeheimnisses, vorsieht, erforderlich, oder"
+        index:
+        - betroffene-person
+        - verarbeitung
+      j:
+        content: "die {Verarbeitung|index:verarbeitung} ist auf der Grundlage des\
+          \ Unionsrechts oder des Rechts eines Mitgliedstaats, das in angemessenem\
+          \ Verh\xE4ltnis zu dem verfolgten Ziel steht, den Wesensgehalt des Rechts\
+          \ auf Datenschutz wahrt und angemessene und spezifische Ma\xDFnahmen zur\
+          \ Wahrung der Grundrechte und Interessen der {betroffenen Person|index:betroffene-person}\
+          \ vorsieht, f\xFCr im \xF6ffentlichen Interesse liegende Archivzwecke, f\xFC\
+          r wissenschaftliche oder historische Forschungszwecke oder f\xFCr statistische\
+          \ Zwecke gem\xE4\xDF Artikel 89 Absatz 1 erforderlich."
+        index:
+        - betroffene-person
+        - verarbeitung
+    preamble: "Absatz 1 gilt nicht in folgenden F\xE4llen:"
+  3:
+    content: "Die in Absatz 1 genannten {personenbezogenen Daten|index:personenbezogene-daten}\
+      \ d\xFCrfen zu den in Absatz 2 Buchstabe h genannten Zwecken verarbeitet werden,\
+      \ wenn diese Daten von Fachpersonal oder unter dessen Verantwortung verarbeitet\
+      \ werden und dieses Fachpersonal nach dem Unionsrecht oder dem Recht eines Mitgliedstaats\
+      \ oder den Vorschriften nationaler zust\xE4ndiger Stellen dem Berufsgeheimnis\
+      \ unterliegt, oder wenn die {Verarbeitung|index:verarbeitung} durch eine andere\
+      \ Person erfolgt, die ebenfalls nach dem Unionsrecht oder dem Recht eines Mitgliedstaats\
+      \ oder den Vorschriften nationaler zust\xE4ndiger Stellen einer Geheimhaltungspflicht\
+      \ unterliegt."
+    index:
+    - personenbezogene-daten
+    - verarbeitung
+    number: 3
+  4:
+    content: "Die Mitgliedstaaten k\xF6nnen zus\xE4tzliche Bedingungen, einschlie\xDF\
+      lich Beschr\xE4nkungen, einf\xFChren oder aufrechterhalten, soweit die {Verarbeitung|index:verarbeitung}\
+      \ von genetischen, biometrischen oder {Gesundheitsdaten|index:gesundheitsdaten}\
+      \ betroffen ist."
+    index:
+    - gesundheitsdaten
+    - verarbeitung
+    number: 4
+section: 0
+title: |-
+  {Verarbeitung|index:verarbeitung} besonderer Kategorien {personenbezogener Daten|index:personenbezogene-daten}

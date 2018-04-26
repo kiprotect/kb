@@ -1,0 +1,36 @@
+chapter: 2
+index:
+- betroffene-person
+- verarbeitung
+number: 11
+paragraphs:
+  1:
+    content: "Ist f\xFCr die Zwecke, f\xFCr die ein {Verantwortlicher|index:verantwortlicher}\
+      \ {personenbezogene Daten|index:personenbezogene-daten} verarbeitet, die Identifizierung\
+      \ der {betroffenen Person|index:betroffene-person} durch den {Verantwortlichen|index:verantwortlicher}\
+      \ nicht oder nicht mehr erforderlich, so ist dieser nicht verpflichtet, zur\
+      \ blo\xDFen Einhaltung dieser {Verordnung|index:verordnung} zus\xE4tzliche Informationen\
+      \ aufzubewahren, einzuholen oder zu verarbeiten, um die {betroffene Person|index:betroffene-person}\
+      \ zu identifizieren."
+    index:
+    - verantwortlicher
+    - personenbezogene-daten
+    - betroffene-person
+    - verordnung
+    number: 1
+  2:
+    content: "Kann der {Verantwortliche|index:verantwortlicher} in F\xE4llen gem\xE4\
+      \xDF Absatz 1 des vorliegenden Artikels nachweisen, dass er nicht in der Lage\
+      \ ist, die {betroffene Person|index:betroffene-person} zu identifizieren, so\
+      \ unterrichtet er die {betroffene Person|index:betroffene-person} hier\xFCber,\
+      \ sofern m\xF6glich. In diesen F\xE4llen finden die Artikel 15 bis 20 keine\
+      \ Anwendung, es sei denn, die {betroffene Person|index:betroffene-person} stellt\
+      \ zur Aus\xFCbung ihrer in diesen Artikeln niedergelegten Rechte zus\xE4tzliche\
+      \ Informationen bereit, die ihre Identifizierung erm\xF6glichen."
+    index:
+    - verantwortlicher
+    - betroffene-person
+    number: 2
+section: 0
+title: "{Verarbeitung|index:verarbeitung}, f\xFCr die eine Identifizierung der {betroffenen\
+  \ Person|index:betroffene-person} nicht erforderlich ist"

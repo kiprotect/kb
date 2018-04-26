@@ -1,0 +1,29 @@
+content: "Der f\xFCr die {Verarbeitung|index:verarbeitung} {Verantwortliche|index:verantwortlicher}\
+  \ sollte die {betroffene Person|index:betroffene-person} unverz\xFCglich von der\
+  \ {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+  \ benachrichtigen, wenn diese {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+  \ voraussichtlich zu einem hohen Risiko f\xFCr die pers\xF6nlichen Rechte und Freiheiten\
+  \ {nat\xFCrlicher Personen|index:nat\xFCrliche-person} f\xFChrt, damit diese die\
+  \ erforderlichen Vorkehrungen treffen k\xF6nnen. Die Benachrichtigung sollte eine\
+  \ Beschreibung der Art der {Verletzung des Schutzes personenbezogener Daten|index:verletzung-des-schutzes-personenbezogener-daten}\
+  \ sowie an die betroffene {nat\xFCrliche Person|index:nat\xFCrliche-person} gerichtete\
+  \ Empfehlungen zur Minderung etwaiger nachteiliger Auswirkungen dieser Verletzung\
+  \ enthalten. Solche Benachrichtigungen der {betroffenen Person|index:betroffene-person}\
+  \ sollten stets so rasch wie nach allgemeinem Ermessen m\xF6glich, in enger Absprache\
+  \ mit der {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} und nach Ma\xDFgabe der\
+  \ von dieser oder von anderen zust\xE4ndigen Beh\xF6rden wie beispielsweise Strafverfolgungsbeh\xF6\
+  rden erteilten Weisungen erfolgen. Um beispielsweise das Risiko eines unmittelbaren\
+  \ Schadens mindern zu k\xF6nnen, m\xFCssten {betroffene Personen|index:betroffene-person}\
+  \ sofort benachrichtigt werden, wohingegen eine l\xE4ngere Benachrichtigungsfrist\
+  \ gerechtfertigt sein kann, wenn es darum geht, geeignete Ma\xDFnahmen gegen fortlaufende\
+  \ oder vergleichbare Verletzungen des Schutzes {personenbezogener Daten|index:personenbezogene-daten}\
+  \ zu treffen."
+index:
+- betroffene-person
+- verletzung-des-schutzes-personenbezogener-daten
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+- "aufsichtsbeh\xF6rde"
+- verarbeitung
+number: 86

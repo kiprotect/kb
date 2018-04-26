@@ -1,0 +1,33 @@
+content: "A {data subject|index:data-subject} should have the right to have {personal\
+  \ data|index:personal-data} concerning him or her rectified and a \u2018right to\
+  \ be forgotten\u2019 where the retention of such data infringes this {Regulation|index:regulation}\
+  \ or Union or Member State law to which the {controller|index:controller} is subject.\
+  \ In particular, a {data subject|index:data-subject} should have the right to have\
+  \ his or her {personal data|index:personal-data} erased and no longer processed\
+  \ where the {personal data|index:personal-data} are no longer necessary in relation\
+  \ to the purposes for which they are collected or otherwise processed, where a {data\
+  \ subject|index:data-subject} has withdrawn his or her {consent|index:consent} or\
+  \ objects to the {processing|index:processing} of {personal data|index:personal-data}\
+  \ concerning him or her, or where the {processing|index:processing} of his or her\
+  \ {personal data|index:personal-data} does not otherwise comply with this {Regulation|index:regulation}.\
+  \ That right is relevant in particular where the {data subject|index:data-subject}\
+  \ has given his or her {consent|index:consent} as a child and is not fully aware\
+  \ of the risks involved by the {processing|index:processing}, and later wants to\
+  \ remove such {personal data|index:personal-data}, especially on the internet. The\
+  \ {data subject|index:data-subject} should be able to exercise that right notwithstanding\
+  \ the fact that he or she is no longer a child. However, the further retention of\
+  \ the {personal data|index:personal-data} should be lawful where it is necessary,\
+  \ for exercising the right of freedom of expression and information, for compliance\
+  \ with a legal obligation, for the performance of a task carried out in the public\
+  \ interest or in the exercise of official authority vested in the {controller|index:controller},\
+  \ on the grounds of public interest in the area of public health, for archiving\
+  \ purposes in the public interest, scientific or historical research purposes or\
+  \ statistical purposes, or for the establishment, exercise or defence of legal claims."
+index:
+- data-subject
+- regulation
+- consent
+- controller
+- personal-data
+- processing
+number: 65

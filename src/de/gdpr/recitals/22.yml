@@ -1,0 +1,16 @@
+content: "Jede {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ im Rahmen der T\xE4tigkeiten einer Niederlassung eines {Verantwortlichen|index:verantwortlicher}\
+  \ oder eines {Auftragsverarbeiters|index:auftragsverarbeiter} in der Union sollte\
+  \ gem\xE4\xDF dieser {Verordnung|index:verordnung} erfolgen, gleich, ob die {Verarbeitung|index:verarbeitung}\
+  \ in oder au\xDFerhalb der Union stattfindet. Eine Niederlassung setzt die effektive\
+  \ und tats\xE4chliche Aus\xFCbung einer T\xE4tigkeit durch eine feste Einrichtung\
+  \ voraus. Die Rechtsform einer solchen Einrichtung, gleich, ob es sich um eine Zweigstelle\
+  \ oder eine Tochtergesellschaft mit eigener Rechtspers\xF6nlichkeit handelt, ist\
+  \ dabei nicht ausschlaggebend."
+index:
+- auftragsverarbeiter
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- verarbeitung
+number: 22

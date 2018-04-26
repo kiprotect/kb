@@ -1,0 +1,21 @@
+content: "Die dem {Verantwortlichen|index:verantwortlicher} oder dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ offenstehende M\xF6glichkeit, auf die von der Kommission oder einer {Aufsichtsbeh\xF6\
+  rde|index:aufsichtsbeh\xF6rde} festgelegten Standard-Datenschutzklauseln zur\xFC\
+  ckzugreifen, sollte den {Verantwortlichen|index:verantwortlicher} oder den {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ weder daran hindern, die Standard-Datenschutzklauseln auch in umfangreicheren\
+  \ Vertr\xE4gen, wie zum Beispiel Vertr\xE4gen zwischen dem {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ und einem anderen {Auftragsverarbeiter|index:auftragsverarbeiter}, zu verwenden,\
+  \ noch ihn daran hindern, ihnen weitere Klauseln oder zus\xE4tzliche Garantien hinzuzuf\xFC\
+  gen, solange diese weder mittelbar noch unmittelbar im Widerspruch zu den von der\
+  \ Kommission oder einer {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} erlassenen\
+  \ Standard-Datenschutzklauseln stehen oder die Grundrechte und Grundfreiheiten der\
+  \ {betroffenen Personen|index:betroffene-person} beschneiden. Die {Verantwortlichen|index:verantwortlicher}\
+  \ und die {Auftragsverarbeiter|index:auftragsverarbeiter} sollten ermutigt werden,\
+  \ mit vertraglichen Verpflichtungen, die die Standard-Schutzklauseln erg\xE4nzen,\
+  \ zus\xE4tzliche Garantien zu bieten."
+index:
+- auftragsverarbeiter
+- verantwortlicher
+- betroffene-person
+- "aufsichtsbeh\xF6rde"
+number: 109

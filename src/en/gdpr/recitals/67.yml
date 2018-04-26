@@ -1,0 +1,7 @@
+content: |-
+  Methods by which to restrict the {processing|index:processing} of {personal data|index:personal-data} could include, inter alia, temporarily moving the selected data to another {processing|index:processing} system, making the selected {personal data|index:personal-data} unavailable to users, or temporarily removing published data from a website. In automated filing systems, the {restriction of processing|index:restriction-of-processing} should in principle be ensured by technical means in such a manner that the {personal data|index:personal-data} are not subject to further {processing|index:processing} operations and cannot be changed. The fact that the {processing|index:processing} of {personal data|index:personal-data} is restricted should be clearly indicated in the system.
+index:
+- personal-data
+- restriction-of-processing
+- processing
+number: 67

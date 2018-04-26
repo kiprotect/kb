@@ -1,0 +1,25 @@
+content: "Zu den personenbezogenen {Gesundheitsdaten|index:gesundheitsdaten} sollten\
+  \ alle Daten z\xE4hlen, die sich auf den Gesundheitszustand einer {betroffenen Person|index:betroffene-person}\
+  \ beziehen und aus denen Informationen \xFCber den fr\xFCheren, gegenw\xE4rtigen\
+  \ und k\xFCnftigen k\xF6rperlichen oder geistigen Gesundheitszustand der {betroffenen\
+  \ Person|index:betroffene-person} hervorgehen. Dazu geh\xF6ren auch Informationen\
+  \ \xFCber die {nat\xFCrliche Person|index:nat\xFCrliche-person}, die im Zuge der\
+  \ Anmeldung f\xFCr sowie der Erbringung von Gesundheitsdienstleistungen im Sinne\
+  \ der Richtlinie 2011/24/EU des Europ\xE4ischen Parlaments und des Rates (9) f\xFC\
+  r die {nat\xFCrliche Person|index:nat\xFCrliche-person} erhoben werden, Nummern,\
+  \ Symbole oder Kennzeichen, die einer {nat\xFCrlichen Person|index:nat\xFCrliche-person}\
+  \ zugeteilt wurden, um diese {nat\xFCrliche Person|index:nat\xFCrliche-person} f\xFC\
+  r gesundheitliche Zwecke eindeutig zu identifizieren, Informationen, die von der\
+  \ Pr\xFCfung oder Untersuchung eines K\xF6rperteils oder einer k\xF6rpereigenen\
+  \ Substanz, auch aus genetischen Daten und biologischen Proben, abgeleitet wurden,\
+  \ und Informationen etwa \xFCber Krankheiten, Behinderungen, Krankheitsrisiken,\
+  \ Vorerkrankungen, klinische Behandlungen oder den physiologischen oder biomedizinischen\
+  \ Zustand der {betroffenen Person|index:betroffene-person} unabh\xE4ngig von der\
+  \ Herkunft der Daten, ob sie nun von einem Arzt oder sonstigem Angeh\xF6rigen eines\
+  \ Gesundheitsberufes, einem Krankenhaus, einem Medizinprodukt oder einem In-Vitro-Diagnostikum\
+  \ stammen."
+index:
+- "nat\xFCrliche-person"
+- betroffene-person
+- gesundheitsdaten
+number: 35

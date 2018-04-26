@@ -1,0 +1,49 @@
+content: "Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ f\xFCr im \xF6ffentlichen Interesse liegende Archivzwecke, zu wissenschaftlichen\
+  \ oder historischen Forschungszwecken oder zu statistischen Zwecken sollte geeigneten\
+  \ Garantien f\xFCr die Rechte und Freiheiten der {betroffenen Person|index:betroffene-person}\
+  \ gem\xE4\xDF dieser {Verordnung|index:verordnung} unterliegen. Mit diesen Garantien\
+  \ sollte sichergestellt werden, dass {technische und organisatorische Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+  nahmen} bestehen, mit denen insbesondere der Grundsatz der Datenminimierung gew\xE4\
+  hrleistet wird. Die Weiterverarbeitung {personenbezogener Daten|index:personenbezogene-daten}\
+  \ zu im \xF6ffentlichen Interesse liegende Archivzwecken, zu wissenschaftlichen\
+  \ oder historischen Forschungszwecken oder zu statistischen Zwecken erfolgt erst\
+  \ dann, wenn der {Verantwortliche|index:verantwortlicher} gepr\xFCft hat, ob es\
+  \ m\xF6glich ist, diese Zwecke durch die {Verarbeitung|index:verarbeitung} von {personenbezogenen\
+  \ Daten|index:personenbezogene-daten}, bei der die Identifizierung von {betroffenen\
+  \ Personen|index:betroffene-person} nicht oder nicht mehr m\xF6glich ist, zu erf\xFC\
+  llen, sofern geeignete Garantien bestehen (wie z. B. die {Pseudonymisierung|index:pseudonymisierung}\
+  \ von personenbezogenen Daten). Die Mitgliedstaaten sollten geeignete Garantien\
+  \ in Bezug auf die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ f\xFCr im \xF6ffentlichen Interesse liegende Archivzwecke, zu wissenschaftlichen\
+  \ oder historischen Forschungszwecken oder zu statistischen Zwecken vorsehen. Es\
+  \ sollte den Mitgliedstaaten erlaubt sein, unter bestimmten Bedingungen und vorbehaltlich\
+  \ geeigneter Garantien f\xFCr die {betroffenen Personen|index:betroffene-person}\
+  \ Pr\xE4zisierungen und Ausnahmen in Bezug auf die Informationsanforderungen sowie\
+  \ der Rechte auf Berichtigung, L\xF6schung, Vergessenwerden, zur {Einschr\xE4nkung\
+  \ der Verarbeitung|index:einschr\xE4nkung-der-verarbeitung}, auf Daten\xFCbertragbarkeit\
+  \ sowie auf Widerspruch bei der {Verarbeitung|index:verarbeitung} {personenbezogener\
+  \ Daten|index:personenbezogene-daten} zu im \xF6ffentlichen Interesse liegende Archivzwecken,\
+  \ zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen\
+  \ Zwecken vorzusehen. Im Rahmen der betreffenden Bedingungen und Garantien k\xF6\
+  nnen spezifische {Verfahren|index:verfahren} f\xFCr die Aus\xFCbung dieser Rechte\
+  \ durch die {betroffenen Personen|index:betroffene-person} vorgesehen sein \u2014\
+  \ sofern dies angesichts der mit der spezifischen {Verarbeitung|index:verarbeitung}\
+  \ verfolgten Zwecke angemessen ist \u2014 sowie {technische und organisatorische\
+  \ Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDFnahmen} zur Minimierung\
+  \ der {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ im Hinblick auf die Grunds\xE4tze der Verh\xE4ltnism\xE4\xDFigkeit und der Notwendigkeit.\
+  \ Die {Verarbeitung|index:verarbeitung} {personenbezogener Daten|index:personenbezogene-daten}\
+  \ zu wissenschaftlichen Zwecken sollte auch anderen einschl\xE4gigen Rechtsvorschriften,\
+  \ beispielsweise f\xFCr klinische Pr\xFCfungen, gen\xFCgen."
+index:
+- betroffene-person
+- verordnung
+- "einschr\xE4nkung-der-verarbeitung"
+- "technische-und-organisatorische-ma\xDFnahmen"
+- pseudonymisierung
+- verfahren
+- personenbezogene-daten
+- verantwortlicher
+- verarbeitung
+number: 156

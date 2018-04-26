@@ -1,0 +1,20 @@
+content: "Um sicherzustellen, dass die {Einwilligung|index:einwilligung} freiwillig\
+  \ erfolgt ist, sollte diese in besonderen F\xE4llen, wenn zwischen der {betroffenen\
+  \ Person|index:betroffene-person} und dem {Verantwortlichen|index:verantwortlicher}\
+  \ ein klares Ungleichgewicht besteht, insbesondere wenn es sich bei dem {Verantwortlichen|index:verantwortlicher}\
+  \ um eine Beh\xF6rde handelt, und es deshalb in Anbetracht aller Umst\xE4nde in\
+  \ dem speziellen Fall unwahrscheinlich ist, dass die {Einwilligung|index:einwilligung}\
+  \ freiwillig gegeben wurde, keine g\xFCltige Rechtsgrundlage liefern. Die {Einwilligung|index:einwilligung}\
+  \ gilt nicht als freiwillig erteilt, wenn zu verschiedenen Verarbeitungsvorg\xE4\
+  ngen von {personenbezogenen Daten|index:personenbezogene-daten} nicht gesondert\
+  \ eine {Einwilligung|index:einwilligung} erteilt werden kann, obwohl dies im Einzelfall\
+  \ angebracht ist, oder wenn die Erf\xFCllung eines Vertrags, einschlie\xDFlich der\
+  \ Erbringung einer Dienstleistung, von der {Einwilligung|index:einwilligung} abh\xE4\
+  ngig ist, obwohl diese {Einwilligung|index:einwilligung} f\xFCr die Erf\xFCllung\
+  \ nicht erforderlich ist."
+index:
+- verantwortlicher
+- personenbezogene-daten
+- betroffene-person
+- einwilligung
+number: 43

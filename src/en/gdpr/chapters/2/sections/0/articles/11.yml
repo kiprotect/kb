@@ -1,0 +1,23 @@
+chapter: 2
+index:
+- processing
+number: 11
+paragraphs:
+  1:
+    content: |-
+      If the purposes for which a {controller|index:controller} processes {personal data|index:personal-data} do not or do no longer require the identification of a {data subject|index:data-subject} by the {controller|index:controller}, the {controller|index:controller} shall not be obliged to maintain, acquire or process additional information in order to identify the {data subject|index:data-subject} for the sole purpose of complying with this {Regulation|index:regulation}.
+    index:
+    - personal-data
+    - regulation
+    - data-subject
+    - controller
+    number: 1
+  2:
+    content: |-
+      Where, in cases referred to in paragraph 1 of this Article, the {controller|index:controller} is able to demonstrate that it is not in a position to identify the {data subject|index:data-subject}, the {controller|index:controller} shall inform the {data subject|index:data-subject} accordingly, if possible. In such cases, Articles 15 to 20 shall not apply except where the {data subject|index:data-subject}, for the purpose of exercising his or her rights under those articles, provides additional information enabling his or her identification.
+    index:
+    - data-subject
+    - controller
+    number: 2
+section: 0
+title: '{Processing|index:processing} which does not require identification'

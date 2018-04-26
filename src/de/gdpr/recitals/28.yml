@@ -1,0 +1,15 @@
+content: "Die Anwendung der {Pseudonymisierung|index:pseudonymisierung} auf {personenbezogene\
+  \ Daten|index:personenbezogene-daten} kann die Risiken f\xFCr die {betroffenen Personen|index:betroffene-person}\
+  \ senken und die {Verantwortlichen|index:verantwortlicher} und die {Auftragsverarbeiter|index:auftragsverarbeiter}\
+  \ bei der Einhaltung ihrer Datenschutzpflichten unterst\xFCtzen. Durch die ausdr\xFC\
+  ckliche Einf\xFChrung der \u201E{Pseudonymisierung|index:pseudonymisierung}\u201C\
+  \ in dieser {Verordnung|index:verordnung} ist nicht beabsichtigt, andere Datenschutzma\xDF\
+  nahmen auszuschlie\xDFen."
+index:
+- betroffene-person
+- auftragsverarbeiter
+- verordnung
+- pseudonymisierung
+- verantwortlicher
+- personenbezogene-daten
+number: 28

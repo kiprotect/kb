@@ -1,0 +1,20 @@
+content: "Kann der {Verantwortliche|index:verantwortlicher} anhand der von ihm verarbeiteten\
+  \ {personenbezogenen Daten|index:personenbezogene-daten} eine {nat\xFCrliche Person|index:nat\xFC\
+  rliche-person} nicht identifizieren, so sollte er nicht verpflichtet sein, zur blo\xDF\
+  en Einhaltung einer Vorschrift dieser {Verordnung|index:verordnung} zus\xE4tzliche\
+  \ Daten einzuholen, um die {betroffene Person|index:betroffene-person} zu identifizieren.\
+  \ Allerdings sollte er sich nicht weigern, zus\xE4tzliche Informationen entgegenzunehmen,\
+  \ die von der {betroffenen Person|index:betroffene-person} beigebracht werden, um\
+  \ ihre Rechte geltend zu machen. Die Identifizierung sollte die digitale Identifizierung\
+  \ einer {betroffenen Person|index:betroffene-person} \u2014 beispielsweise durch\
+  \ Authentifizierungsverfahren etwa mit denselben Berechtigungsnachweisen, wie sie\
+  \ die {betroffene Person|index:betroffene-person} verwendet, um sich bei dem von\
+  \ dem {Verantwortlichen|index:verantwortlicher} bereitgestellten Online-Dienst anzumelden\
+  \ \u2014 einschlie\xDFen."
+index:
+- betroffene-person
+- verordnung
+- verantwortlicher
+- personenbezogene-daten
+- "nat\xFCrliche-person"
+number: 57

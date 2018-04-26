@@ -1,0 +1,43 @@
+chapter: 6
+number: 52
+paragraphs:
+  1:
+    content: |-
+      Each {supervisory authority|index:supervisory-authority} shall act with complete independence in performing its tasks and exercising its powers in accordance with this {Regulation|index:regulation}.
+    index:
+    - regulation
+    - supervisory-authority
+    number: 1
+  2:
+    content: |-
+      The member or members of each {supervisory authority|index:supervisory-authority} shall, in the performance of their tasks and exercise of their powers in accordance with this {Regulation|index:regulation}, remain free from external influence, whether direct or indirect, and shall neither seek nor take instructions from anybody.
+    index:
+    - regulation
+    - supervisory-authority
+    number: 2
+  3:
+    content: |-
+      Member or members of each {supervisory authority|index:supervisory-authority} shall refrain from any action incompatible with their duties and shall not, during their term of office, engage in any incompatible occupation, whether gainful or not.
+    index:
+    - supervisory-authority
+    number: 3
+  4:
+    content: |-
+      Each Member State shall ensure that each {supervisory authority|index:supervisory-authority} is provided with the human, technical and financial resources, premises and infrastructure necessary for the effective performance of its tasks and exercise of its powers, including those to be carried out in the context of mutual assistance, cooperation and participation in the Board.
+    index:
+    - supervisory-authority
+    number: 4
+  5:
+    content: |-
+      Each Member State shall ensure that each {supervisory authority|index:supervisory-authority} chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the {supervisory authority|index:supervisory-authority} concerned.
+    index:
+    - supervisory-authority
+    number: 5
+  6:
+    content: |-
+      Each Member State shall ensure that each {supervisory authority|index:supervisory-authority} is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget.
+    index:
+    - supervisory-authority
+    number: 6
+section: 1
+title: Independence

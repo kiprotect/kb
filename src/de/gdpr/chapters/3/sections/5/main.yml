@@ -1,0 +1,5 @@
+articles:
+- $include: articles/23.yml
+chapter: 3
+number: 5
+title: "Beschr\xE4nkungen"

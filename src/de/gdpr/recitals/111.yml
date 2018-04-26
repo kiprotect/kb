@@ -1,0 +1,25 @@
+content: "Daten\xFCbermittlungen sollten unter bestimmten Voraussetzungen zul\xE4\
+  ssig sein, n\xE4mlich wenn die {betroffene Person|index:betroffene-person} ihre\
+  \ ausdr\xFCckliche {Einwilligung|index:einwilligung} erteilt hat, wenn die \xDC\
+  bermittlung gelegentlich erfolgt und im Rahmen eines Vertrags oder zur Geltendmachung\
+  \ von Rechtsanspr\xFCchen, sei es vor Gericht oder auf dem Verwaltungswege oder\
+  \ in au\xDFergerichtlichen {Verfahren|index:verfahren}, wozu auch {Verfahren|index:verfahren}\
+  \ vor Regulierungsbeh\xF6rden z\xE4hlen, erforderlich ist. Die \xDCbermittlung sollte\
+  \ zudem m\xF6glich sein, wenn sie zur Wahrung eines im Unionsrecht oder im Recht\
+  \ eines Mitgliedstaats festgelegten wichtigen \xF6ffentlichen Interesses erforderlich\
+  \ ist oder wenn sie aus einem durch Rechtsvorschriften vorgesehenen Register erfolgt,\
+  \ das von der \xD6ffentlichkeit oder Personen mit berechtigtem Interesse eingesehen\
+  \ werden kann. In letzterem Fall sollte sich eine solche \xDCbermittlung nicht auf\
+  \ die Gesamtheit oder ganze Kategorien der im Register enthaltenen {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} erstrecken d\xFCrfen. Ist das betreffende\
+  \ Register zur Einsichtnahme durch Personen mit berechtigtem Interesse bestimmt,\
+  \ sollte die \xDCbermittlung nur auf Anfrage dieser Personen oder nur dann erfolgen,\
+  \ wenn diese Personen die Adressaten der \xDCbermittlung sind, wobei den Interessen\
+  \ und Grundrechten der {betroffenen Person|index:betroffene-person} in vollem Umfang\
+  \ Rechnung zu tragen ist."
+index:
+- verfahren
+- personenbezogene-daten
+- betroffene-person
+- einwilligung
+number: 111

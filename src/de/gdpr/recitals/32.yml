@@ -1,0 +1,28 @@
+content: "Die {Einwilligung|index:einwilligung} sollte durch eine eindeutige best\xE4\
+  tigende Handlung erfolgen, mit der freiwillig, f\xFCr den konkreten Fall, in informierter\
+  \ Weise und unmissverst\xE4ndlich bekundet wird, dass die {betroffene Person|index:betroffene-person}\
+  \ mit der {Verarbeitung|index:verarbeitung} der sie betreffenden {personenbezogenen\
+  \ Daten|index:personenbezogene-daten} einverstanden ist, etwa in Form einer schriftlichen\
+  \ Erkl\xE4rung, die auch elektronisch erfolgen kann, oder einer m\xFCndlichen Erkl\xE4\
+  rung. Dies k\xF6nnte etwa durch Anklicken eines K\xE4stchens beim Besuch einer Internetseite,\
+  \ durch die Auswahl technischer Einstellungen f\xFCr {Dienste der Informationsgesellschaft|index:dienst-der-informationsgesellschaft}\
+  \ oder durch eine andere Erkl\xE4rung oder Verhaltensweise geschehen, mit der die\
+  \ {betroffene Person|index:betroffene-person} in dem jeweiligen Kontext eindeutig\
+  \ ihr Einverst\xE4ndnis mit der beabsichtigten {Verarbeitung|index:verarbeitung}\
+  \ ihrer {personenbezogenen Daten|index:personenbezogene-daten} signalisiert. Stillschweigen,\
+  \ bereits angekreuzte K\xE4stchen oder Unt\xE4tigkeit der {betroffenen Person|index:betroffene-person}\
+  \ sollten daher keine {Einwilligung|index:einwilligung} darstellen. Die {Einwilligung|index:einwilligung}\
+  \ sollte sich auf alle zu demselben Zweck oder denselben Zwecken vorgenommenen Verarbeitungsvorg\xE4\
+  nge beziehen. Wenn die {Verarbeitung|index:verarbeitung} mehreren Zwecken dient,\
+  \ sollte f\xFCr alle diese Verarbeitungszwecke eine {Einwilligung|index:einwilligung}\
+  \ gegeben werden. Wird die {betroffene Person|index:betroffene-person} auf elektronischem\
+  \ Weg zur {Einwilligung|index:einwilligung} aufgefordert, so muss die Aufforderung\
+  \ in klarer und knapper Form und ohne unn\xF6tige Unterbrechung des Dienstes, f\xFC\
+  r den die {Einwilligung|index:einwilligung} gegeben wird, erfolgen."
+index:
+- betroffene-person
+- personenbezogene-daten
+- einwilligung
+- dienst-der-informationsgesellschaft
+- verarbeitung
+number: 32

@@ -1,0 +1,11 @@
+content: "The protection of {natural persons|index:natural-person} in relation to\
+  \ the {processing|index:processing} of {personal data|index:personal-data} is a\
+  \ fundamental right. Article 8(1) of the Charter of Fundamental Rights of the European\
+  \ Union (the \u2018Charter\u2019) and Article 16(1) of the Treaty on the Functioning\
+  \ of the European Union (TFEU) provide that everyone has the right to the protection\
+  \ of {personal data|index:personal-data} concerning him or her."
+index:
+- personal-data
+- natural-person
+- processing
+number: 1

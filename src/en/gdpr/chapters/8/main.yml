@@ -1,0 +1,5 @@
+number: 8
+roman_number: VIII
+sections:
+- $include: sections/0/main.yml
+title: Remedies, liability and penalties

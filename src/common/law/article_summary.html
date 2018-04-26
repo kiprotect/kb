@@ -1,0 +1,22 @@
+{% extends("with_side_menu.html") %}
+{% block extra_nav %}
+    {% include "common/law/_article_nav.html" %}
+{% endblock %}
+{%block content%}
+<div class="article">
+    {% include "common/law/_article_header.html" %}
+    <div class="content">
+        {% if summary_content is defined %}
+        {{summary_content|safe}}
+        <hr />
+        <p class="menu">
+            <a href="{{edit_url}}">edit this summary</a>
+        </p>
+        {% else %}
+            <p>
+                {{'no-summary-content'|translate(new_url=new_url)}}
+            </p>
+        {% endif %}
+    </div>
+</div>
+{%endblock%}

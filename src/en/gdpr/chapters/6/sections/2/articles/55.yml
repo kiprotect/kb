@@ -1,0 +1,25 @@
+chapter: 6
+number: 55
+paragraphs:
+  1:
+    content: |-
+      Each {supervisory authority|index:supervisory-authority} shall be competent for the performance of the tasks assigned to and the exercise of the powers conferred on it in accordance with this {Regulation|index:regulation} on the territory of its own Member State.
+    index:
+    - regulation
+    - supervisory-authority
+    number: 1
+  2:
+    content: |-
+      Where {processing|index:processing} is carried out by public authorities or private bodies acting on the basis of point (c) or (e) of Article 6(1), the {supervisory authority|index:supervisory-authority} of the Member State concerned shall be competent. In such cases Article 56 does not apply.
+    index:
+    - supervisory-authority
+    - processing
+    number: 2
+  3:
+    content: |-
+      Supervisory authorities shall not be competent to supervise {processing|index:processing} operations of courts acting in their judicial capacity.
+    index:
+    - processing
+    number: 3
+section: 2
+title: Competence

@@ -1,0 +1,133 @@
+chapter: 4
+index:
+- "verarbeitungst\xE4tigkeit"
+number: 30
+paragraphs:
+  1:
+    index:
+    - "verarbeitungst\xE4tigkeit"
+    - verantwortlicher
+    - vertreter
+    number: 1
+    points:
+      a:
+        content: |-
+          den Namen und die Kontaktdaten des {Verantwortlichen|index:verantwortlicher} und gegebenenfalls des gemeinsam mit ihm {Verantwortlichen|index:verantwortlicher}, des Vertreters des {Verantwortlichen|index:verantwortlicher} sowie eines etwaigen Datenschutzbeauftragten;
+        index:
+        - verantwortlicher
+      b:
+        content: die Zwecke der {Verarbeitung|index:verarbeitung};
+        index:
+        - verarbeitung
+      c:
+        content: |-
+          eine Beschreibung der Kategorien {betroffener Personen|index:betroffene-person} und der Kategorien {personenbezogener Daten|index:personenbezogene-daten};
+        index:
+        - personenbezogene-daten
+        - betroffene-person
+      d:
+        content: "die Kategorien von Empf\xE4ngern, gegen\xFCber denen die {personenbezogenen\
+          \ Daten|index:personenbezogene-daten} offengelegt worden sind oder noch\
+          \ offengelegt werden, einschlie\xDFlich {Empf\xE4nger|index:empf\xE4nger}\
+          \ in Drittl\xE4ndern oder internationalen Organisationen;"
+        index:
+        - personenbezogene-daten
+        - "empf\xE4nger"
+      e:
+        content: "gegebenenfalls \xDCbermittlungen von {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ an ein Drittland oder an eine {internationale Organisation|index:internationale-organisation},\
+          \ einschlie\xDFlich der Angabe des betreffenden Drittlands oder der betreffenden\
+          \ internationalen Organisation, sowie bei den in Artikel 49 Absatz 1 Unterabsatz\
+          \ 2 genannten Daten\xFCbermittlungen die Dokumentierung geeigneter Garantien;"
+        index:
+        - personenbezogene-daten
+        - internationale-organisation
+      f:
+        content: "wenn m\xF6glich, die vorgesehenen Fristen f\xFCr die L\xF6schung\
+          \ der verschiedenen Datenkategorien;"
+      g:
+        content: "wenn m\xF6glich, eine allgemeine Beschreibung der {technischen und\
+          \ organisatorischen Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+          nahmen} gem\xE4\xDF Artikel 32 Absatz 1."
+        index:
+        - "technische-und-organisatorische-ma\xDFnahmen"
+    preamble: "Jeder {Verantwortliche|index:verantwortlicher} und gegebenenfalls sein\
+      \ {Vertreter|index:vertreter} f\xFChren ein Verzeichnis aller {Verarbeitungst\xE4\
+      tigkeiten|index:verarbeitungst\xE4tigkeit}, die ihrer Zust\xE4ndigkeit unterliegen.\
+      \ Dieses Verzeichnis enth\xE4lt s\xE4mtliche folgenden Angaben:"
+  2:
+    index:
+    - verantwortlicher
+    - vertreter
+    - auftragsverarbeiter
+    - verarbeitung
+    number: 2
+    points:
+      a:
+        content: "den Namen und die Kontaktdaten des {Auftragsverarbeiters|index:auftragsverarbeiter}\
+          \ oder der {Auftragsverarbeiter|index:auftragsverarbeiter} und jedes {Verantwortlichen|index:verantwortlicher},\
+          \ in dessen Auftrag der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+          \ t\xE4tig ist, sowie gegebenenfalls des Vertreters des {Verantwortlichen|index:verantwortlicher}\
+          \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} und eines etwaigen\
+          \ Datenschutzbeauftragten;"
+        index:
+        - verantwortlicher
+        - auftragsverarbeiter
+      b:
+        content: "die Kategorien von Verarbeitungen, die im Auftrag jedes {Verantwortlichen|index:verantwortlicher}\
+          \ durchgef\xFChrt werden;"
+        index:
+        - verantwortlicher
+      c:
+        content: "gegebenenfalls \xDCbermittlungen von {personenbezogenen Daten|index:personenbezogene-daten}\
+          \ an ein Drittland oder an eine {internationale Organisation|index:internationale-organisation},\
+          \ einschlie\xDFlich der Angabe des betreffenden Drittlands oder der betreffenden\
+          \ internationalen Organisation, sowie bei den in Artikel 49 Absatz 1 Unterabsatz\
+          \ 2 genannten Daten\xFCbermittlungen die Dokumentierung geeigneter Garantien;"
+        index:
+        - personenbezogene-daten
+        - internationale-organisation
+      d:
+        content: "wenn m\xF6glich, eine allgemeine Beschreibung der {technischen und\
+          \ organisatorischen Ma\xDFnahmen|index:technische-und-organisatorische-ma\xDF\
+          nahmen} gem\xE4\xDF Artikel 32 Absatz 1."
+        index:
+        - "technische-und-organisatorische-ma\xDFnahmen"
+    preamble: "Jeder {Auftragsverarbeiter|index:auftragsverarbeiter} und gegebenenfalls\
+      \ sein {Vertreter|index:vertreter} f\xFChren ein Verzeichnis zu allen Kategorien\
+      \ von im Auftrag eines {Verantwortlichen|index:verantwortlicher} durchgef\xFC\
+      hrten T\xE4tigkeiten der {Verarbeitung|index:verarbeitung}, die Folgendes enth\xE4\
+      lt:"
+  3:
+    content: "Das in den Abs\xE4tzen 1 und 2 genannte Verzeichnis ist schriftlich\
+      \ zu f\xFChren, was auch in einem elektronischen Format erfolgen kann."
+    number: 3
+  4:
+    content: "Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ sowie gegebenenfalls der {Vertreter|index:vertreter} des {Verantwortlichen|index:verantwortlicher}\
+      \ oder des {Auftragsverarbeiters|index:auftragsverarbeiter} stellen der {Aufsichtsbeh\xF6\
+      rde|index:aufsichtsbeh\xF6rde} das Verzeichnis auf Anfrage zur Verf\xFCgung."
+    index:
+    - auftragsverarbeiter
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - vertreter
+    number: 4
+  5:
+    content: "Die in den Abs\xE4tzen 1 und 2 genannten Pflichten gelten nicht f\xFC\
+      r {Unternehmen|index:unternehmen} oder Einrichtungen, die weniger als 250 Mitarbeiter\
+      \ besch\xE4ftigen, sofern die von ihnen vorgenommene {Verarbeitung|index:verarbeitung}\
+      \ nicht ein Risiko f\xFCr die Rechte und Freiheiten der {betroffenen Personen|index:betroffene-person}\
+      \ birgt, die {Verarbeitung|index:verarbeitung} nicht nur gelegentlich erfolgt\
+      \ oder nicht die {Verarbeitung|index:verarbeitung} besonderer Datenkategorien\
+      \ gem\xE4\xDF Artikel 9 Absatz 1 bzw. die {Verarbeitung|index:verarbeitung}\
+      \ von {personenbezogenen Daten|index:personenbezogene-daten} \xFCber strafrechtliche\
+      \ Verurteilungen und Straftaten im Sinne des Artikels 10 einschlie\xDFt."
+    index:
+    - unternehmen
+    - personenbezogene-daten
+    - betroffene-person
+    - verarbeitung
+    number: 5
+section: 1
+title: "Verzeichnis von {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}"

@@ -1,0 +1,61 @@
+chapter: 7
+number: 75
+paragraphs:
+  1:
+    content: "Der Ausschuss wird von einem Sekretariat unterst\xFCtzt, das von dem\
+      \ Europ\xE4ischen Datenschutzbeauftragten bereitgestellt wird."
+    number: 1
+  2:
+    content: "Das Sekretariat f\xFChrt seine Aufgaben ausschlie\xDFlich auf Anweisung\
+      \ des Vorsitzes des Ausschusses aus."
+    number: 2
+  3:
+    content: "Das Personal des Europ\xE4ischen Datenschutzbeauftragten, das an der\
+      \ Wahrnehmung der dem Ausschuss gem\xE4\xDF dieser {Verordnung|index:verordnung}\
+      \ \xFCbertragenen Aufgaben beteiligt ist, unterliegt anderen Berichtspflichten\
+      \ als das Personal, das an der Wahrnehmung der dem Europ\xE4ischen Datenschutzbeauftragten\
+      \ \xFCbertragenen Aufgaben beteiligt ist."
+    index:
+    - verordnung
+    number: 3
+  4:
+    content: "Soweit angebracht, erstellen und ver\xF6ffentlichen der Ausschuss und\
+      \ der Europ\xE4ische Datenschutzbeauftragte eine Vereinbarung zur Anwendung\
+      \ des vorliegenden Artikels, in der die Bedingungen ihrer Zusammenarbeit festgelegt\
+      \ sind und die f\xFCr das Personal des Europ\xE4ischen Datenschutzbeauftragten\
+      \ gilt, das an der Wahrnehmung der dem Ausschuss gem\xE4\xDF dieser {Verordnung|index:verordnung}\
+      \ \xFCbertragenen Aufgaben beteiligt ist."
+    index:
+    - verordnung
+    number: 4
+  5:
+    content: "Das Sekretariat leistet dem Ausschuss analytische, administrative und\
+      \ logistische Unterst\xFCtzung."
+    number: 5
+  6:
+    number: 6
+    points:
+      a:
+        content: "das Tagesgesch\xE4ft des Ausschusses,"
+      b:
+        content: die Kommunikation zwischen den Mitgliedern des Ausschusses, seinem
+          Vorsitz und der Kommission,
+      c:
+        content: "die Kommunikation mit anderen Organen und mit der \xD6ffentlichkeit,"
+      d:
+        content: "den R\xFCckgriff auf elektronische Mittel f\xFCr die interne und\
+          \ die externe Kommunikation,"
+      e:
+        content: "die \xDCbersetzung sachdienlicher Informationen,"
+      f:
+        content: die Vor- und Nachbereitung der Sitzungen des Ausschusses,
+      g:
+        content: "die Vorbereitung, Abfassung und Ver\xF6ffentlichung von Stellungnahmen,\
+          \ von Beschl\xFCssen \xFCber die Beilegung von Streitigkeiten zwischen {Aufsichtsbeh\xF6\
+          rden|index:aufsichtsbeh\xF6rde} und von sonstigen vom Ausschuss angenommenen\
+          \ Dokumenten."
+        index:
+        - "aufsichtsbeh\xF6rde"
+    preamble: "Das Sekretariat ist insbesondere verantwortlich f\xFCr"
+section: 3
+title: Sekretariat

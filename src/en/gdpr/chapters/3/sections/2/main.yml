@@ -1,0 +1,9 @@
+articles:
+- $include: articles/13.yml
+- $include: articles/14.yml
+- $include: articles/15.yml
+chapter: 3
+index:
+- personal-data
+number: 2
+title: Information and access to {personal data|index:personal-data}

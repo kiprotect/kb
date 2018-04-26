@@ -1,0 +1,108 @@
+chapter: 4
+number: 42
+paragraphs:
+  1:
+    content: "Die Mitgliedstaaten, die {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+      rde}, der Ausschuss und die Kommission f\xF6rdern insbesondere auf Unionsebene\
+      \ die Einf\xFChrung von datenschutzspezifischen Zertifizierungsverfahren sowie\
+      \ von Datenschutzsiegeln und -pr\xFCfzeichen, die dazu dienen, nachzuweisen,\
+      \ dass diese {Verordnung|index:verordnung} bei Verarbeitungsvorg\xE4ngen von\
+      \ {Verantwortlichen|index:verantwortlicher} oder Auftragsverarbeitern eingehalten\
+      \ wird. Den besonderen Bed\xFCrfnissen von Kleinstunternehmen sowie kleinen\
+      \ und mittleren {Unternehmen|index:unternehmen} wird Rechnung getragen."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - unternehmen
+    - verantwortlicher
+    - verordnung
+    number: 1
+  2:
+    content: "Zus\xE4tzlich zur Einhaltung durch die unter diese {Verordnung|index:verordnung}\
+      \ fallenden {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ k\xF6nnen auch datenschutzspezifische Zertifizierungsverfahren, Siegel oder\
+      \ Pr\xFCfzeichen, die gem\xE4\xDF Absatz 5 des vorliegenden Artikels genehmigt\
+      \ worden sind, vorgesehen werden, um nachzuweisen, dass die {Verantwortlichen|index:verantwortlicher}\
+      \ oder {Auftragsverarbeiter|index:auftragsverarbeiter}, die gem\xE4\xDF Artikel\
+      \ 3 nicht unter diese {Verordnung|index:verordnung} fallen, im Rahmen der \xDC\
+      bermittlung {personenbezogener Daten|index:personenbezogene-daten} an Drittl\xE4\
+      nder oder {internationale Organisationen|index:internationale-organisation}\
+      \ nach Ma\xDFgabe von Artikel 46 Absatz 2 Buchstabe f geeignete Garantien bieten.\
+      \ Diese {Verantwortlichen|index:verantwortlicher} oder {Auftragsverarbeiter|index:auftragsverarbeiter}\
+      \ gehen mittels vertraglicher oder sonstiger rechtlich bindender Instrumente\
+      \ die verbindliche und durchsetzbare Verpflichtung ein, diese geeigneten Garantien\
+      \ anzuwenden, auch im Hinblick auf die Rechte der {betroffenen Personen|index:betroffene-person}."
+    index:
+    - betroffene-person
+    - internationale-organisation
+    - verordnung
+    - auftragsverarbeiter
+    - verantwortlicher
+    - personenbezogene-daten
+    number: 2
+  3:
+    content: "Die Zertifizierung muss freiwillig und \xFCber ein transparentes {Verfahren|index:verfahren}\
+      \ zug\xE4nglich sein."
+    index:
+    - verfahren
+    number: 3
+  4:
+    content: "Eine Zertifizierung gem\xE4\xDF diesem Artikel mindert nicht die Verantwortung\
+      \ des {Verantwortlichen|index:verantwortlicher} oder des {Auftragsverarbeiters|index:auftragsverarbeiter}\
+      \ f\xFCr die Einhaltung dieser {Verordnung|index:verordnung} und ber\xFChrt\
+      \ nicht die Aufgaben und Befugnisse der {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6\
+      rde}, die gem\xE4\xDF Artikel 55 oder 56 zust\xE4ndig sind."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    - verantwortlicher
+    - verordnung
+    - auftragsverarbeiter
+    number: 4
+  5:
+    content: "Eine Zertifizierung nach diesem Artikel wird durch die Zertifizierungsstellen\
+      \ nach Artikel 43 oder durch die zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} anhand der von dieser zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} gem\xE4\xDF Artikel 58 Absatz 3 oder \u2014 gem\xE4\xDF Artikel 63 \u2014\
+      \ durch den Ausschuss genehmigten Kriterien erteilt. Werden die Kriterien vom\
+      \ Ausschuss genehmigt, kann dies zu einer gemeinsamen Zertifizierung, dem Europ\xE4\
+      ischen Datenschutzsiegel, f\xFChren."
+    index:
+    - "aufsichtsbeh\xF6rde"
+    number: 5
+  6:
+    content: "Der {Verantwortliche|index:verantwortlicher} oder der {Auftragsverarbeiter|index:auftragsverarbeiter},\
+      \ der die von ihm durchgef\xFChrte {Verarbeitung|index:verarbeitung} dem Zertifizierungsverfahren\
+      \ unterwirft, stellt der Zertifizierungsstelle nach Artikel 43 oder gegebenenfalls\
+      \ der zust\xE4ndigen {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde} alle f\xFC\
+      r die Durchf\xFChrung des Zertifizierungsverfahrens erforderlichen Informationen\
+      \ zur Verf\xFCgung und gew\xE4hrt ihr den in diesem Zusammenhang erforderlichen\
+      \ Zugang zu seinen {Verarbeitungst\xE4tigkeiten|index:verarbeitungst\xE4tigkeit}."
+    index:
+    - "verarbeitungst\xE4tigkeit"
+    - auftragsverarbeiter
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    - verarbeitung
+    number: 6
+  7:
+    content: "Die Zertifizierung wird einem {Verantwortlichen|index:verantwortlicher}\
+      \ oder einem {Auftragsverarbeiter|index:auftragsverarbeiter} f\xFCr eine H\xF6\
+      chstdauer von drei Jahren erteilt und kann unter denselben Bedingungen verl\xE4\
+      ngert werden, sofern die einschl\xE4gigen Voraussetzungen weiterhin erf\xFC\
+      llt werden. Die Zertifizierung wird gegebenenfalls durch die Zertifizierungsstellen\
+      \ nach Artikel 43 oder durch die zust\xE4ndige {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6\
+      rde} widerrufen, wenn die Voraussetzungen f\xFCr die Zertifizierung nicht oder\
+      \ nicht mehr erf\xFCllt werden."
+    index:
+    - auftragsverarbeiter
+    - verantwortlicher
+    - "aufsichtsbeh\xF6rde"
+    number: 7
+  8:
+    content: "Der Ausschuss nimmt alle Zertifizierungsverfahren und Datenschutzsiegel\
+      \ und -pr\xFCfzeichen in ein Register auf und ver\xF6ffentlicht sie in geeigneter\
+      \ Weise."
+    index:
+    - verfahren
+    number: 8
+section: 5
+title: Zertifizierung

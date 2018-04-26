@@ -1,0 +1,12 @@
+articles:
+- $include: articles/24.yml
+- $include: articles/25.yml
+- $include: articles/26.yml
+- $include: articles/27.yml
+- $include: articles/28.yml
+- $include: articles/29.yml
+- $include: articles/30.yml
+- $include: articles/31.yml
+chapter: 4
+number: 1
+title: Allgemeine Pflichten

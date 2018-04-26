@@ -1,0 +1,15 @@
+chapter: 7
+number: 76
+paragraphs:
+  1:
+    content: |-
+      The discussions of the Board shall be confidential where the Board deems it necessary, as provided for in its rules of procedure.
+    number: 1
+  2:
+    content: |-
+      Access to documents submitted to members of the Board, experts and representatives of third parties shall be governed by {Regulation|index:regulation} (EC) No 1049/2001 of the European Parliament and of the Council (21).
+    index:
+    - regulation
+    number: 2
+section: 3
+title: Confidentiality

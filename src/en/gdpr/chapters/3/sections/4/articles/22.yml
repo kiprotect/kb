@@ -1,0 +1,46 @@
+chapter: 3
+index:
+- profiling
+number: 22
+paragraphs:
+  1:
+    content: |-
+      The {data subject|index:data-subject} shall have the right not to be subject to a decision based solely on automated {processing|index:processing}, including {profiling|index:profiling}, which produces legal effects concerning him or her or similarly significantly affects him or her.
+    index:
+    - data-subject
+    - profiling
+    - processing
+    number: 1
+  2:
+    number: 2
+    points:
+      a:
+        content: |-
+          is necessary for entering into, or performance of, a contract between the {data subject|index:data-subject} and a data {controller|index:controller};
+        index:
+        - data-subject
+        - controller
+      b:
+        content: |-
+          is authorised by Union or Member State law to which the {controller|index:controller} is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests; or
+        index:
+        - controller
+      c:
+        content: is based on the data subject's explicit {consent|index:consent}.
+        index:
+        - consent
+    preamble: 'Paragraph 1 shall not apply if the decision:'
+  3:
+    content: |-
+      In the cases referred to in points (a) and (c) of paragraph 2, the data {controller|index:controller} shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the {controller|index:controller}, to express his or her point of view and to contest the decision.
+    index:
+    - controller
+    number: 3
+  4:
+    content: |-
+      Decisions referred to in paragraph 2 shall not be based on special categories of {personal data|index:personal-data} referred to in Article 9(1), unless point (a) or (g) of Article 9(2) applies and suitable measures to safeguard the data subject's rights and freedoms and legitimate interests are in place.
+    index:
+    - personal-data
+    number: 4
+section: 4
+title: Automated individual decision-making, including {profiling|index:profiling}

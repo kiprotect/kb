@@ -1,0 +1,8 @@
+content: |-
+  The {processing|index:processing} of {personal data|index:personal-data} should also be regarded to be lawful where it is necessary to protect an interest which is essential for the life of the {data subject|index:data-subject} or that of another {natural person|index:natural-person}. {Processing|index:processing} of {personal data|index:personal-data} based on the vital interest of another {natural person|index:natural-person} should in principle take place only where the {processing|index:processing} cannot be manifestly based on another legal basis. Some types of {processing|index:processing} may serve both important grounds of public interest and the vital interests of the {data subject|index:data-subject} as for instance when {processing|index:processing} is necessary for humanitarian purposes, including for monitoring epidemics and their spread or in situations of humanitarian emergencies, in particular in situations of natural and man-made disasters.
+index:
+- personal-data
+- natural-person
+- data-subject
+- processing
+number: 46

@@ -1,0 +1,13 @@
+<h2 class="title">{{'article'|translate}} {{article.number}}</h2>
+<p class="subtitle">
+    {% if article.title is defined %}
+        {{article.title|law_markup(lang)|safe}}
+    {% endif %}
+</p>
+<div class="tabs">
+    <ul>
+        <li{% if tab == 'article' %} class="is-active"{%endif%}><a href="{{'gdpr-article-%d'|format(article.number)|href}}">{{'article'|translate}}</a></li>
+        <li{% if tab == 'summary' %} class="is-active"{%endif%}><a href="{{'gdpr-article-%d-summary'|format(article.number)|href}}">{{'summary'|translate}}</a></li>
+        <li{% if tab == 'wiki' %} class="is-active"{%endif%}><a href="{{'gdpr-article-%d-wiki'|format(article.number)|href}}">{{'wiki'|translate}}</a></li>
+    </ul>
+</div>

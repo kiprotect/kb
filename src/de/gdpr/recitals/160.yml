@@ -1,0 +1,10 @@
+content: "Diese {Verordnung|index:verordnung} sollte auch f\xFCr die {Verarbeitung|index:verarbeitung}\
+  \ {personenbezogener Daten|index:personenbezogene-daten} zu historischen Forschungszwecken\
+  \ gelten. Dazu sollte auch historische Forschung und Forschung im Bereich der Genealogie\
+  \ z\xE4hlen, wobei darauf hinzuweisen ist, dass diese {Verordnung|index:verordnung}\
+  \ nicht f\xFCr verstorbene Personen gelten sollte."
+index:
+- personenbezogene-daten
+- verordnung
+- verarbeitung
+number: 160

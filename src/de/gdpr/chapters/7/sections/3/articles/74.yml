@@ -1,0 +1,27 @@
+chapter: 7
+number: 74
+paragraphs:
+  1:
+    number: 1
+    points:
+      a:
+        content: Einberufung der Sitzungen des Ausschusses und Erstellung der Tagesordnungen,
+      b:
+        content: "\xDCbermittlung der Beschl\xFCsse des Ausschusses nach Artikel 65\
+          \ an die federf\xFChrende {Aufsichtsbeh\xF6rde|index:aufsichtsbeh\xF6rde}\
+          \ und die betroffenen {Aufsichtsbeh\xF6rden|index:aufsichtsbeh\xF6rde},"
+        index:
+        - "aufsichtsbeh\xF6rde"
+      c:
+        content: "Sicherstellung einer rechtzeitigen Ausf\xFChrung der Aufgaben des\
+          \ Ausschusses, insbesondere der Aufgaben im Zusammenhang mit dem Koh\xE4\
+          renzverfahren nach Artikel 63."
+        index:
+        - verfahren
+    preamble: 'Der Vorsitz hat folgende Aufgaben:'
+  2:
+    content: "Der Ausschuss legt die Aufteilung der Aufgaben zwischen dem Vorsitzenden\
+      \ und dessen Stellvertretern in seiner Gesch\xE4ftsordnung fest."
+    number: 2
+section: 3
+title: Aufgaben des Vorsitzes

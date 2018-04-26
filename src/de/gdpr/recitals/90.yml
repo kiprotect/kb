@@ -1,0 +1,17 @@
+content: "In derartigen F\xE4llen sollte der {Verantwortliche|index:verantwortlicher}\
+  \ vor der {Verarbeitung|index:verarbeitung} eine Datenschutz-Folgenabsch\xE4tzung\
+  \ durchf\xFChren, mit der die spezifische Eintrittswahrscheinlichkeit und die Schwere\
+  \ dieses hohen Risikos unter Ber\xFCcksichtigung der Art, des Umfangs, der Umst\xE4\
+  nde und der Zwecke der {Verarbeitung|index:verarbeitung} und der Ursachen des Risikos\
+  \ bewertet werden. Diese Folgenabsch\xE4tzung sollte sich insbesondere mit den Ma\xDF\
+  nahmen, Garantien und {Verfahren|index:verfahren} befassen, durch die dieses Risiko\
+  \ einged\xE4mmt, der Schutz {personenbezogener Daten|index:personenbezogene-daten}\
+  \ sichergestellt und die Einhaltung der Bestimmungen dieser {Verordnung|index:verordnung}\
+  \ nachgewiesen werden soll."
+index:
+- verordnung
+- verfahren
+- personenbezogene-daten
+- verantwortlicher
+- verarbeitung
+number: 90
