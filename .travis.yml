@@ -1,0 +1,15 @@
+before_install:
+  - sudo apt-get update -qy
+  - sudo apt-get install -y python3 python3-pip ruby-sass locales rsync
+  - sudo echo "en_US UTF-8" > /etc/locale.gen
+  - sudo locale-gen en_US.UTF-8
+  - export LANG=en_US.UTF-8
+  - export LANGUAGE=en_US:en
+  - export LC_ALL=en_US.UTF-8
+  - export PYTHONPATH=.:$PYTHONPATH
+deploy:
+  provider: script
+  script: bash scripts/deploy.sh
+  on:
+    all_branches: true
+    condition: $TRAVIS_BRANCH =~ ^staging|production$
