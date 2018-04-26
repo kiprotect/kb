@@ -3,7 +3,7 @@ language: Deutsch
 prefix: ''
 date-format: '%d.%m.%Y'
 context:
-  keywords: [DSGVO, Datenschutzgrundervordnung, Datenschutz, Portal, Open Source, Creative Commons, DP-Kit, DPKit, 7scientists]
+  keywords: [DSGVO, Datenschutzgrundvervordnung, Datenschutz, Portal, Open Source, Creative Commons, DP-Kit, DPKit, 7scientists]
 pages:
   - src: common/index.html
     name: index
