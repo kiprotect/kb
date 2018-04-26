@@ -5,13 +5,7 @@ path: /
 languages:
   #these pages will be copied to all languages
   $all:
-    pages:
-      - src: CNAME
-        name: cname
-        slug: CNAME
-        extension: ''
-        type: plain
-        hidden: true
+    pages: []
   #english pages
   en:
     $include: site-en.yml
