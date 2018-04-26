@@ -3,7 +3,7 @@
 # Introduction
 
 Welcome! This is a community-created information portal about the European
-general data protection regulation (GDPR). The goal of this project is to
+General Data Protection Regulation (GDPR). The goal of this project is to
 provide comprehensive, accessible and relevant information that helps people,
 organizations and companies to better understand and comply with the GDPR.
 
