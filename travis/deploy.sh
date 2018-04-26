@@ -1,8 +1,8 @@
 #!/bin/bash
-if [ ! -n "$SERVER_SSH_KEY" ]; then exit 0; fi
+if [ ! -f /tmp/gdpr-ssh-key ]; then exit 0; fi
 mkdir ~/.ssh
 chmod 700 ~/.ssh
-mv gdpr-ssh-key ~/.ssh/id_rsa
+mv /tmp/gdpr-ssh-key ~/.ssh/id_rsa
 chmod 600 ~/.ssh/id_rsa
 echo "Deploying $TRAVIS_BRANCH..."
 if [ "$TRAVIS_BRANCH" = "master" ]; then export DIRECTORY=gdpr-portal-master; fi;
