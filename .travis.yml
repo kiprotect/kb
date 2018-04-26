@@ -19,7 +19,7 @@ deploy:
   script: bash scripts/deploy.sh
   on:
     all_branches: true
-    condition: "$TRAVIS_BRANCH =~ ^staging|production$"
+    condition: "$TRAVIS_BRANCH =~ ^staging|master$"
 env:
   global:
   - secure: x18MZXJPAuCgJoj4wEMetFDRQedn8t59XaPM7aFSfHIYg/bym51vOuyTCMFrD+AJzlRcgokyzMRvW0Pr4euMp8sl/nq2VPXk7tYImxr2refHwI3cG6q/rAnmrIfFyYBBRxwz21E+McCtjLFshOazheP2s4peUcsDFb4piZQjXxsBlfdTUnJy28reb1WHhOW/sMLO6pd885Ggw8fTC4lozRQVBpvZ4l+GMKn9d2inJZMuGSzVoQJg1fsS8zZfTuWbRo/r+fUwqzE3hnoAT8bgGlYSaBWwMPtrqSvp9Nbeb0RRCq8uxXkSY3IzLK23s6NZwvRf7xe1Etyj9xhn4mEzDA7TQfkP50vjUIF+F1rWkUShJdf5OcCziNswRWdfEvLaUSr17YKHi/ocNy10mJE4nAaMxUH+0ESjVIMa6coQx9olVDGmy4BdjnnsTkICsQ70ttn/XtTpbFOqDyarVbb7t2ihRK6u6XtQ0iYGVvbgpLtxpgVCTM55gmzffhbEdZXcGjQYD/pJ4pr2LIfUUZTaUKVt5rQFDLODoQMokjU8CGDB94vMeGOfjvSlardlOwRCDokhM8dYuXZNM37xKEphxqPmOyJ0Cv8w0rlqFQeS5oW3+mRPzUQm3aFALVy5sSky4JTuCN9DDP24lFgwwZ1rbVWFmQFzZVevmCT1hg9nUmk=
