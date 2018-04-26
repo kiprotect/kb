@@ -4,7 +4,6 @@ mkdir ~/.ssh
 chmod 700 ~/.ssh
 mv gdpr-ssh-key ~/.ssh/id_rsa
 chmod 600 ~/.ssh/id_rsa
-make prod
 echo "Deploying $TRAVIS_BRANCH..."
 if [ "$TRAVIS_BRANCH" = "master" ]; then export DIRECTORY=gdpr-portal-master; fi;
 if [ "$TRAVIS_BRANCH" = "staging" ]; then export DIRECTORY=gdpr-portal-staging; fi;

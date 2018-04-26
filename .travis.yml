@@ -12,6 +12,7 @@ before_install:
 - export LANGUAGE=en_US:en
 - export LC_ALL=en_US.UTF-8
 - export PYTHONPATH=.:$PYTHONPATH
+script: make prod
 deploy:
   provider: script
   script: bash scripts/deploy.sh
