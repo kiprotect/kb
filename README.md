@@ -1,3 +1,5 @@
+[Deutsche Version](https://github.com/gdpr-portal/blob/master/README-DE.md)
+
 # Introduction
 
 Welcome! This is a community-created information portal about the European
