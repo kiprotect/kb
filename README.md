@@ -1,4 +1,4 @@
-[Deutsche Version](https://github.com/gdpr-portal/blob/master/README-DE.md)
+[Deutsche Version](https://github.com/DPKit/gdpr-portal/blob/master/README-DE.md
 
 # Introduction
 
@@ -24,8 +24,8 @@ This is a community portal, so please contribute and help us to make it better!
 When contributing, please follow this process:
 
 * Download and sign the appropriate contributor license agreement for
-  [individuals](https://github.com/dpkit/gdpr-portal/clas/cla_gdpr_community_portal_individual.pdf) or
-  [entities](https://github.com/dpkit/gdpr-portal/clas/cla_gdpr_community_portal_entity.pdf)
+  [individuals](https://github.com/DPKit/gdpr-portal/clas/cla_gdpr_community_portal_individual.pdf) or
+  [entities](https://github.com/DPKit/gdpr-portal/clas/cla_gdpr_community_portal_entity.pdf)
   (e.g. companies, organizations). Send the signed agreement (together with
   your Github username) [to us via e-mail](#questions)
   and we'll send you back a version signed by us. The agreement will remain
@@ -164,8 +164,8 @@ The original resources are licensed under a
 [**Creative Commons Attribution-ShareAlike (CC BY-SA)**](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 license, which allows commercial and non-commercial use of the resources. The
 full text of the license can be viewed on the linked website and is included
-with this project in [German](https://github.com/dpkit/gdpr-portal/LICENSE-DE)
-and [English](https://github.com/dpkit/gdpr-portal/LICENSE-DE). If you
+with this project in [German](https://github.com/DPKit/gdpr-portal/LICENSE-DE)
+and [English](https://github.com/DPKit/gdpr-portal/LICENSE-DE). If you
 use original resources from this project you need to attribute them to this
 project in the following way:
 
@@ -217,7 +217,7 @@ third party, please [contact us](#questions) or open an issue.
 If you have questions regarding this project here's how to get answers:
 
 * If your question could be of interest to other people as well please create
-  an issue in our [issue tracker](https://github.com/dpkit/gdpr-portal), as
+  an issue in our [issue tracker](https://github.com/DPKit/gdpr-portal), as
   this will allow the community to help you and will make the answer accessible
   to other people that might have the same question.
 * If you want to ask a question but do not want to do so publicly, feel free
