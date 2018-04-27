@@ -198,20 +198,18 @@ if you make sure that any added value will be contributed back to this project.
 
 The following third-party resources have been used to build this community portal:
 
-* [PrinceXML](https://www.princexml.com/) PrinceXML (via DocRaptor) was used
-  to generate the PDF materials. You may use their free version for
-  non-commerical purposes, if you want to generate custom PDFs for commercial
-  purposes you will need to buy a proper license.
-* [Beam-Up](https://pypi.org/project/beam-up/): A MIT-licensed static website builder.
-* [Bulma.io](https://www.bulma.io): A MIT-licensed Flexbox CSS framework 
-* [Preact.js](https://preactjs.com/): A MIT-licensed frontend library.
+* [PrinceXML](https://www.princexml.com/) (via DocRaptor): A tool to create PDFs from HTML content (you may use their free version for
+  non-commerical purposes, if you want to generate custom PDFs for commercial purposes you will need to buy a proper license though)
+* [Beam-Up](https://pypi.org/project/beam-up/): A MIT-licensed static website builder
+* [Bulma.io](https://www.bulma.io): A MIT-licensed Flexbox CSS framework
+* [Preact.js](https://preactjs.com/): A MIT-licensed frontend library
 * Fonts: [IBM Plex](https://github.com/IBM/plex), [Open Sans](https://github.com/google/fonts/tree/master/apache/opensans) and [Roboto](https://github.com/google/roboto)
 * [Futuro Icons by Bloomicon](http://bloomicon.com/): 7scientists GmbH acquired
   a license for using the icons on the DP-Kit websites(s). If you want to
   re-use the icons for other purposes than this project you will need to
   buy a license yourself.
 * Logos: [Creative Commons](https://creativecommons.org/), [Octicon](https://en.wikipedia.org/wiki/File:Octicons-mark-github.svg)
-* [European Laws from EUR-Lex](https://eur-lex.europa.eu/content/legal-notice/legal-notice.html#droits)
+* Law texts: [European Laws from EUR-Lex](https://eur-lex.europa.eu/content/legal-notice/legal-notice.html#droits)
 
 We take intellectual property rights very serious. If you think that any
 material on this project may infringe on your copyright or the copyright of a
