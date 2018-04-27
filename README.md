@@ -204,10 +204,10 @@ The following third-party resources have been used to build this community porta
 * [Bulma.io](https://www.bulma.io): A MIT-licensed Flexbox CSS framework
 * [Preact.js](https://preactjs.com/): A MIT-licensed frontend library
 * Fonts: [IBM Plex](https://github.com/IBM/plex), [Open Sans](https://github.com/google/fonts/tree/master/apache/opensans) and [Roboto](https://github.com/google/roboto)
-* [Futuro Icons by Bloomicon](http://bloomicon.com/): 7scientists GmbH acquired
+* [Futuro Icons by Bloomicon](http://bloomicon.com/): A commercial icon package (7scientists GmbH acquired
   a license for using the icons on the DP-Kit websites(s). If you want to
   re-use the icons for other purposes than this project you will need to
-  buy a license yourself.
+  buy a license yourself)
 * Logos: [Creative Commons](https://creativecommons.org/), [Octicon](https://en.wikipedia.org/wiki/File:Octicons-mark-github.svg)
 * Law texts: [European Laws from EUR-Lex](https://eur-lex.europa.eu/content/legal-notice/legal-notice.html#droits)
 
