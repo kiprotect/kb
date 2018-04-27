@@ -201,8 +201,8 @@ The following third-party resources have been used to build this community porta
 * [PrinceXML](https://www.princexml.com/) PrinceXML (via DocRaptor) was used
   to generate the PDF materials. You may use their free version for
   non-commerical purposes, if you want to generate custom PDFs for commercial
-  purposes you will need to buy a proper license.: A MIT-licensed static website builder.
-* [Beam-Up](https://pypi.org/project/beam-up/)
+  purposes you will need to buy a proper license.
+* [Beam-Up](https://pypi.org/project/beam-up/): A MIT-licensed static website builder.
 * [Bulma.io](https://www.bulma.io): A MIT-licensed Flexbox CSS framework 
 * [Preact.js](https://preactjs.com/): A MIT-licensed frontend library.
 * Fonts: [IBM Plex](https://github.com/IBM/plex), [Open Sans](https://github.com/google/fonts/tree/master/apache/opensans) and [Roboto](https://github.com/google/roboto)
