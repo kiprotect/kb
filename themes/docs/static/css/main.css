@@ -91,6 +91,9 @@
     border-bottom: 1px dashed #95C11F;
     width: auto; }
 
+.article-list .columns .column .message {
+  height: 100%; }
+
 .law-article h1.title {
   margin-bottom: 1em; }
 .law-article h2.subtitle {

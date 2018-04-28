@@ -1,13 +1,32 @@
 {% extends "base.html" %}
 
-{% block content %}
-<div class="content">
-    <h2>Artikel zu DSGVO</h2>
+{% block main %}
+<section class="section article-list">
+    <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-12">
+                <h2 class="title">Artikel zu DSGVO</h2>
+            </div>
+            <div class="column is-4">
+                <div class="message is-success">
+                    <div class="message-header">
+                        <p>Grundlagen</p>
+                    </div>
+                    <div class="message-body">
+                        Diese Artikel vermitteln Grundlagen der DSGVO und
+                        sollen bei der ersten Einschätzung und Umsetzung helfen:
+                        <ul>
+                            <li>
+                                <a href="{{'gdpr-first-steps'|href}}"> Erste Schritte mit der DSGVO</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
 
-    <ul>
-        <li>
-            <a href="{{'gdpr-first-steps'|href}}">Erste Schritte mit der DSGVO</a>
-        </li>
-    </ul>
-</div>
+
+
+        </div>
+    </div>    
+</section>
 {% endblock %}
