@@ -12,7 +12,7 @@ before_install:
 - export LANGUAGE=en_US:en
 - export LC_ALL=en_US.UTF-8
 - export PYTHONPATH=.:$PYTHONPATH
-script: make prod
+script: make SITE=src/site-prod.yml
 deploy:
   skip_cleanup: true
   provider: script
