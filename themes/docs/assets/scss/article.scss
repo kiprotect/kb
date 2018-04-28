@@ -1,0 +1,17 @@
+.article {
+    max-width: 1024px;
+    margin: 0 auto;
+    h1, h2, h3, h4, h5, h6 {
+        @media(min-width: 1024px){
+            margin-bottom: 20px;
+            margin-top: 30px;
+        }
+    }
+    h1 {
+        border-bottom: 1px dashed $ss-green;
+    }
+    h2, h3 {
+        border-bottom: 1px dashed $ss-green;
+        width: auto;
+    }
+}

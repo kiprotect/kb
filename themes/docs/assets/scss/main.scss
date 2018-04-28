@@ -1,11 +1,14 @@
 @import 'colors.scss';
 @import 'fonts.scss';
-@import 'articles.scss';
+@import 'article.scss';
+@import 'law-article.scss';
 @import 'cookie-notice.scss';
 @import '../css/bulma.min.css';
 
 body {
     font-family: IBM Plex Sans;
+    font-size: 1.1em;
+    line-height: 150%;
     font-weight: 400;
     min-height: 100vh;
     @media(max-width: 767px){

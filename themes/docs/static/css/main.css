@@ -79,31 +79,41 @@
   src: local("Roboto Bold"), local("Roboto-Bold"), url("../fonts/roboto-v16-latin-700.eot?#iefix") format("embedded-opentype"), url("../fonts/roboto-v16-latin-700.woff2") format("woff2"), url("../fonts/roboto-v16-latin-700.woff") format("woff"), url("../fonts/roboto-v16-latin-700.ttf") format("truetype"), url("../fonts/roboto-v16-latin-700.svg#Roboto") format("svg");
   /* Legacy iOS */ }
 .article {
-  font-size: 1.2em;
-  line-height: 150%; }
-  .article h1.title {
-    margin-bottom: 1em; }
-  .article h2.subtitle {
-    margin-bottom: 0.5em; }
+  max-width: 1024px;
+  margin: 0 auto; }
   @media (min-width: 1024px) {
-    .article {
-      text-align: justify; } }
-  .article a.index {
-    color: inherit;
+    .article h1, .article h2, .article h3, .article h4, .article h5, .article h6 {
+      margin-bottom: 20px;
+      margin-top: 30px; } }
+  .article h1 {
     border-bottom: 1px dashed #95C11F; }
-  .article ul.paragraphs, .article ul.points {
-    margin-left: 0;
-    margin-top: 1em;
-    position: relative;
-    list-style: none; }
-    .article ul.paragraphs li, .article ul.points li {
-      margin-bottom: 1em; }
-  .article ul.paragraphs li {
-    margin-left: 2.2em; }
-  .article ul.paragraphs li > span.art-number {
-    font-weight: 600;
-    position: absolute;
-    left: 0; }
+  .article h2, .article h3 {
+    border-bottom: 1px dashed #95C11F;
+    width: auto; }
+
+.law-article h1.title {
+  margin-bottom: 1em; }
+.law-article h2.subtitle {
+  margin-bottom: 0.5em; }
+@media (min-width: 1024px) {
+  .law-article {
+    text-align: justify; } }
+.law-article a.index {
+  color: inherit;
+  border-bottom: 1px dashed #95C11F; }
+.law-article ul.paragraphs, .law-article ul.points {
+  margin-left: 0;
+  margin-top: 1em;
+  position: relative;
+  list-style: none; }
+  .law-article ul.paragraphs li, .law-article ul.points li {
+    margin-bottom: 1em; }
+.law-article ul.paragraphs li {
+  margin-left: 2.2em; }
+.law-article ul.paragraphs li > span.art-number {
+  font-weight: 600;
+  position: absolute;
+  left: 0; }
 
 .message.cookie-notice {
   display: none; }
@@ -127,6 +137,8 @@
 
 body {
   font-family: IBM Plex Sans;
+  font-size: 1.1em;
+  line-height: 150%;
   font-weight: 400;
   min-height: 100vh; }
   @media (max-width: 767px) {

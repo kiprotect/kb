@@ -1,7 +1,9 @@
 $include: site.yml
 languages:
-  en: #we remove the prefix for the English version (as we will solve it  with nginx)
+  de: #we remove the prefix for the English version (as we will solve it  with nginx)
+    url: https://dsgvo.dpkit.com
+    $include: site-de.yml
+  en:
     link-prefix: ''
     url: https://gdpr.dpkit.com
-  de:
-    url: https://dsgvo.dpkit.com
+    $include: site-en.yml
