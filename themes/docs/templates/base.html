@@ -29,6 +29,28 @@
         <div class="navbar-end">
             <a class="navbar-item" href="{{'gdpr-articles-overview'|href}}">{{'articles-overview'|translate}}</a>
             <a class="navbar-item" href="{{'gdpr-index-overview'|href}}">{{'index-overview'|translate}}</a>
+    
+
+            {% for page in pages %}
+              {% if not page.hidden and page.level == 0 %}
+                {% if page.children %}
+                  <div class="navbar-item has-dropdown">
+                      <a class="navbar-link dropdown-toggle" data-toggle="collapse" data-target="page-{{page.name}}-dropdown" href="{%if page.src %}{{page.name|href}}{%elif page.href%}{{page.href|href}}{%else%}javascript:void(0){%endif%}">
+                          {{ page.navtitle or page.title }}
+                        </a>
+                        <div class="navbar-dropdown" id="page-{{page.name}}-dropdown" data-toggle-class="is-active">
+                          {% for child in page.children %}
+                            {% if not child.hidden and child.level == 1 %}
+                              <a class="navbar-item" href="{{child.name|href}}">{{ child.navtitle or child.title }}</a>
+                            {% endif %}
+                          {% endfor %}
+                        </div>      
+                  </div>
+                {% else %}
+                  <a class="navbar-item" href="{{page.name|href}}">{{ page.navtitle or page.title }}</a>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
 
             <div class="navbar-item has-dropdown">
                 <a class="navbar-link dropdown-toggle" href="#" data-toggle="collapse" data-target="language-dropdown">
@@ -47,28 +69,7 @@
                     {% endfor %}
                   </div>      
             </div>
-    
 
-          {% for page in pages %}
-            {% if not page.hidden and page.level == 0 %}
-              {% if page.children %}
-                <div class="navbar-item has-dropdown">
-                    <a class="navbar-link dropdown-toggle" data-toggle="collapse" data-target="page-{{page.name}}-dropdown" href="{%if page.src %}{{page.name|href}}{%elif page.href%}{{page.href|href}}{%else%}javascript:void(0){%endif%}">
-                        {{ page.navtitle or page.title }}
-                      </a>
-                      <div class="navbar-dropdown" id="page-{{page.name}}-dropdown" data-toggle-class="is-active">
-                        {% for child in page.children %}
-                          {% if not child.hidden and child.level == 1 %}
-                            <a class="navbar-item" href="{{child.name|href}}">{{ child.navtitle or child.title }}</a>
-                          {% endif %}
-                        {% endfor %}
-                      </div>      
-                </div>
-              {% else %}
-                <a class="navbar-item" href="{{page.name|href}}">{{ page.navtitle or page.title }}</a>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
         </div>
       </div>
     </div>

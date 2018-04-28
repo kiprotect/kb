@@ -1,0 +1,6 @@
+$include: site-de.yml
+law:
+  $overwrite: true
+  $include: de/gdpr/main-dev.yml
+  templates:
+    $include: law_templates.yml

@@ -16,6 +16,8 @@ pages:
     slug: imprint
     title: Imprint
     hidden: true
+  - $include: en/gdpr/articles.yml
+    $as-list: true
 law: 
   $include: en/gdpr/main.yml
   templates:

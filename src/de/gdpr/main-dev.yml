@@ -1,0 +1,11 @@
+chapters:
+- $include: chapters/1/main.yml
+dir: de/gdpr
+footnotes:
+- $include: footnotes/1.yml
+- $include: footnotes/2.yml
+index:
+  $include: index.yml
+recitals:
+- $include: recitals/1.yml
+- $include: recitals/2.yml

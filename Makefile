@@ -1,19 +1,14 @@
-all:	html
+SITE = "src/site.yml"
 
-prod:	html-prod
+all:	html
 
 sass:
 	sass themes/docs/assets/scss/main.scss themes/docs/static/css/main.css
 
 html:	beam
 
-html-prod:	beam-prod
-
 beam: sass
-	beam -vv up --site src/site.yml
-
-beam-prod: sass
-	beam -vv up --site src/site-prod.yml
+	beam -vv up --site $(SITE)
 
 docs:	beam
 

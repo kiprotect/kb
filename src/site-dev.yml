@@ -1,0 +1,8 @@
+$include: site.yml
+languages:
+  de:
+    $replace: true
+    $include: site-de-dev.yml
+  en:
+    $replace: true
+    $include: site-en-dev.yml

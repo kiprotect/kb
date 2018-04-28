@@ -16,6 +16,8 @@ pages:
     slug: impressum
     title: Impressum
     hidden: true
+  - $include: de/gdpr/articles.yml
+    $as-list: true
 law:
   $include: de/gdpr/main.yml
   templates:

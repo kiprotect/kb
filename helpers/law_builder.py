@@ -121,11 +121,10 @@ class LawBuilder(BaseBuilder):
                         'article' : article['number']
                     }
                     cd.update(c)
+                    name = 'gdpr-article-{article}'.format(**cd)
                     if section['number'] == 0:
-                        name = 'gdpr-article-{article}'.format(**cd)
                         slug = '{gdpr_name}/{chapter_name}-{chapter}/{article_name}-{article}'.format(**cd).lower()
                     else:
-                        name = 'gdpr-article-{article}'.format(**cd)
                         slug = '{gdpr_name}/{chapter_name}-{chapter}/{section_name}-{section}/{article_name}-{article}'.format(**cd).lower()
 
                     wiki_name = name + '-wiki'

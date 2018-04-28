@@ -1,0 +1,12 @@
+- src: en/gdpr/articles/index.html
+  name: gdpr-articles
+  in_menu: true
+  slug: articles
+  title: Articles
+- src: en/gdpr/articles/first-steps.md
+  template: common/templates/gdpr_article.html
+  name: gdpr-first-steps
+  slug: gdpr/first-steps
+  title: First Steps with the GDPR
+  in_menu: false
+  hidden: true
