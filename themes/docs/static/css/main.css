@@ -141,6 +141,10 @@
 body {
   font-family: IBM Plex Sans;
   font-size: 1.1em;
+  position: relative;
+  padding-bottom: 60px;
+  /*room for footer*/
+  min-height: 100vh;
   line-height: 150%;
   font-weight: 400;
   min-height: 100vh; }
@@ -214,7 +218,11 @@ h2.subtitle {
   margin-bottom: 0 !important; }
 
 footer.footer {
-  padding: 20px; }
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  min-height: 60px; }
   footer.footer ul.links {
     list-style: none;
     margin-left: 0;
