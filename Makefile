@@ -1,3 +1,6 @@
+SITE = "src/site.yml"
+
+
 all:	html
 
 setup: virtualenv requirements
@@ -20,10 +23,7 @@ html:	beam
 html-prod:	beam-prod
 
 beam: sass
-	beam -vv up --site src/site.yml
-
-beam-prod: sass
-	beam -vv up --site src/site-prod.yml
+	venv/bin/beam -vv up --site $(SITE)
 
 docs:	beam
 
