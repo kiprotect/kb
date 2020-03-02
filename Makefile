@@ -1,9 +1,19 @@
 all:	html
 
+setup: virtualenv requirements
+
+virtualenv:
+	virtualenv --python python3 venv
+
+requirements:
+	venv/bin/pip install -r requirements.txt
+	npm ci
+
+
 prod:	html-prod
 
 sass:
-	sass themes/docs/assets/scss/main.scss themes/docs/static/css/main.css
+	node_modules/.bin/node-sass themes/docs/assets/scss/main.scss themes/docs/static/css/main.css
 
 html:	beam
 
@@ -18,8 +28,10 @@ beam-prod: sass
 docs:	beam
 
 law-texts: law-texts-de law-texts-en
+
 law-texts-de:
 	 python3 helpers/parse_law.py src/de/gdpr/txt/articles.txt src/de/gdpr/txt/recitals.txt src/de/gdpr/txt/footnotes.txt src/de/gdpr de
+
 law-texts-en:
 	 python3 helpers/parse_law.py src/en/gdpr/txt/articles.txt src/en/gdpr/txt/recitals.txt src/en/gdpr/txt/footnotes.txt src/en/gdpr en
 

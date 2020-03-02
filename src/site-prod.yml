@@ -2,6 +2,6 @@ $include: site.yml
 languages:
   en: #we remove the prefix for the English version (as we will solve it  with nginx)
     link-prefix: ''
-    url: https://gdpr.dpkit.com
+    url: https://kiprotect.com/knowledge/gdpr
   de:
-    url: https://dsgvo.dpkit.com
+    url: https://kiprotect.com/de/wissen/dsgvo
