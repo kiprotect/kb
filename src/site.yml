@@ -1,7 +1,7 @@
 name: gdpr-portal
 static-path: kb/static
 blog-path: blog
-theme-path: themes/docs
+theme-path: src/themes/docs
 url: http://localhost:8000
 context:
   author: 7scientists GmbH
