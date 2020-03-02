@@ -21,4 +21,4 @@ translations:
 builders:
   - name: law-portal
     builder: helpers.law_builder.LawBuilder
-repo-url: 'https://github.com/DPKit/gdpr-portal'
+repo-url: 'https://github.com/kiprotect/gdpr-portal'
