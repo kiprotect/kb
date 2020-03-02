@@ -20,6 +20,7 @@ deploy:
     - export LANG=en_US.UTF-8
     - export LANGUAGE=en_US:en
     - export LC_ALL=en_US.UTF-8
+    - export PYTHONPATH=$PYTHONPATH:.
   script:
     - if [ ! -n "$SERVER_SSH_KEY" ]; then exit 0; fi
     - mkdir ~/.ssh
