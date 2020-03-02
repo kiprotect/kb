@@ -20,8 +20,6 @@ sass:
 
 html:	beam
 
-html-prod:	beam-prod
-
 beam: sass
 	venv/bin/beam -vv up --site $(SITE)
 
