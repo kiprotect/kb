@@ -1075,7 +1075,7 @@ ul {
 @page :first {
   padding-top: 40px;
   @top-right {
-    content: "DP-Kit / Kurzinformationen";
+    content: "KIProtect / Kurzinformationen";
     font-family: "IBM Plex Sans";
     height: 40px;
     display: block;
