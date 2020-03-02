@@ -1,6 +1,6 @@
 title: GDPR - Community Portal
 language: English
-prefix: knowledge/gdpr
+prefix: kb/gdpr
 context:
   keywords: [GDPR, General Data Protection Regulation, Data Protection, Portal, Open Source, Creative Commons, DP-Kit, DPKit, 7scientists]
 date-format: '%Y-%m-%d'

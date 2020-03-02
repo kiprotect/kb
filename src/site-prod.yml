@@ -1,7 +1,3 @@
 $include: site.yml
-languages:
-  en: #we remove the prefix for the English version (as we will solve it  with nginx)
-    link-prefix: ''
-    url: https://kiprotect.com/knowledge/gdpr
-  de:
-    url: https://kiprotect.com/de/wissen/dsgvo
+hide-href-extensions: ['/index.html', 'index.html', '.html']
+url: https://kiprotect.com

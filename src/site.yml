@@ -1,4 +1,5 @@
 name: gdpr-portal
+static-path: kb/static
 blog-path: blog
 theme-path: themes/docs
 url: http://localhost:8000
