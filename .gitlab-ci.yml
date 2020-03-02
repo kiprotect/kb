@@ -1,4 +1,10 @@
 image: ubuntu:18.04
+cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - node_modules/
+      - venv/
+    policy: pull-push
 stages:
   - deploy
 deploy:
