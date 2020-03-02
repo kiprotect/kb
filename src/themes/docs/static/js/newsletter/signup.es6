@@ -50,7 +50,7 @@ class Form extends Component {
         var encodedData = this.encodeData(data)
         $.ajax({
             type: 'POST',
-            url: "https://auth.dpkit.com/api/newsletter/v1/subscribe/newsletter",
+            url: "https://auth.kiprotect.com/api/newsletter/v1/subscribe/newsletter",
             crossDomain: true,
             data: encodedData,
         }).done(function(data){
@@ -147,7 +147,7 @@ class Form extends Component {
         if (status == 'failed'){
             failureNotice = <p class="alert alert-warning">
                 Beim Versenden Ihrer Daten ist leider etwas schiefgegangen. Sie können uns alternativ
-                auch eine E-Mail an <a href="mailto:newsletter@dpkit.com">newsletter@dpkit.com</a> schicken.
+                auch eine E-Mail an <a href="mailto:newsletter@kiprotect.com">newsletter@kiprotect.com</a> schicken.
                 Wir bitten die Unannehmlichkeiten zu entschuldigen.
             </p>
         }

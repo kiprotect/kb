@@ -91,7 +91,7 @@ class Form extends Component {
         var encodedData = this.encodeData(data)
         $.ajax({
             type: 'POST',
-            url: "https://auth.dpkit.com/api/newsletter/v1/subscribe/beta",
+            url: "https://auth.kiprotect.com/api/newsletter/v1/subscribe/beta",
             crossDomain: true,
             data: encodedData,
         }).done(function(data){
