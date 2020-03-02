@@ -16,7 +16,7 @@ requirements:
 prod:	html-prod
 
 sass:
-	node_modules/.bin/node-sass themes/docs/assets/scss/main.scss themes/docs/static/css/main.css
+	node_modules/.bin/node-sass src/themes/docs/assets/scss/main.scss src/themes/docs/static/css/main.css
 
 html:	beam
 
@@ -39,13 +39,13 @@ clean:
 watch-html: html
 	@which inotifywait || (echo "Please install inotifywait";exit 2)
 	@while true ; do \
-		inotifywait -r helpers src themes -e create,delete,move,modify || break; \
+		inotifywait -r helpers src -e create,delete,move,modify || break; \
 		$(MAKE) html || break; \
 	done
 
 watch-docs: docs
 	@which inotifywait || (echo "Please install inotifywait";exit 2)
 	@while true ; do \
-		inotifywait -r helpers src themes -e create,delete,move,modify || break; \
+		inotifywait -r helpers src -e create,delete,move,modify || break; \
 		$(MAKE) docs || break; \
 	done
