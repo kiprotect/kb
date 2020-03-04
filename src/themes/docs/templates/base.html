@@ -12,103 +12,77 @@
 </head>
 <body>
 
-  <nav class="navbar">
-    <div class="container">
-      <div class="navbar-brand">
-        <a class="navbar-item" href="{{''|href}}">
-          {{'site-title'|translate}}
-        </a>
-        <span class="navbar-burger burger" data-target="side-menu" data-toggle="collapse">
-          <span></span>
-          <span></span>
-          <span></span>
-        </span>
-      </div>
+  <nav class="navbar is-dark">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{''|href}}">
+        {{'site-title'|translate}}
+      </a>
+      <span class="navbar-burger burger" data-target="side-menu" data-toggle="collapse">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    </div>
 
-      <div id="navbar-menu" class="navbar-menu">
-        <div class="navbar-end">
-            <a class="navbar-item" href="{{'gdpr-articles-overview'|href}}">{{'articles-overview'|translate}}</a>
-            <a class="navbar-item" href="{{'gdpr-index-overview'|href}}">{{'index-overview'|translate}}</a>
+    <div id="navbar-menu" class="navbar-menu">
+      <div class="navbar-end">
 
-            <div class="navbar-item has-dropdown">
-                <a class="navbar-link dropdown-toggle" href="#" data-toggle="collapse" data-target="language-dropdown">
-                  <img class="country" src="{{'images/icons/countries/%s.png'|format(lang)|file}}" alt="{{lang}}"/>
-                  </a>
-                  <div class="navbar-dropdown" id="language-dropdown" data-toggle-class="is-active">
-                    {% for language in languages %}
-                      {% if language != lang %}
-                        {% if params.name in site.links[language] %}
-                          {% set href=params.name %}
-                        {% else %}
-                          {% set href='' %}
-                        {% endif %}
-                        <a class="navbar-item" href="{{href|full_href(language=language)}}"><img class="country" src="{{'images/icons/countries/%s.png'|format(language)|file}}" alt="{{language}}"/> &nbsp; {{language}}</a>
+          <div class="navbar-item has-dropdown">
+              <a class="navbar-link dropdown-toggle" href="#" data-toggle="collapse" data-target="language-dropdown">
+                {{lang}}
+                </a>
+                <div class="navbar-dropdown is-right" id="language-dropdown" data-toggle-class="is-active">
+                  {% for language in languages %}
+                    {% if language != lang %}
+                      {% if params.name in site.links[language] %}
+                        {% set href=params.name %}
+                      {% else %}
+                        {% set href='' %}
                       {% endif %}
-                    {% endfor %}
-                  </div>      
-            </div>
-    
+                      <a class="navbar-item" href="{{href|full_href(language=language)}}">{{languages[language].language}}</a>
+                    {% endif %}
+                  {% endfor %}
+                </div>      
+          </div>
+  
 
-          {% for page in pages %}
-            {% if not page.hidden and page.level == 0 %}
-              {% if page.children %}
-                <div class="navbar-item has-dropdown">
-                    <a class="navbar-link dropdown-toggle" data-toggle="collapse" data-target="page-{{page.name}}-dropdown" href="{%if page.src %}{{page.name|href}}{%elif page.href%}{{page.href|href}}{%else%}javascript:void(0){%endif%}">
-                        {{ page.navtitle or page.title }}
-                      </a>
-                      <div class="navbar-dropdown" id="page-{{page.name}}-dropdown" data-toggle-class="is-active">
-                        {% for child in page.children %}
-                          {% if not child.hidden and child.level == 1 %}
-                            <a class="navbar-item" href="{{child.name|href}}">{{ child.navtitle or child.title }}</a>
-                          {% endif %}
-                        {% endfor %}
-                      </div>      
-                </div>
-              {% else %}
-                <a class="navbar-item" href="{{page.name|href}}">{{ page.navtitle or page.title }}</a>
-              {% endif %}
+        {% for page in pages %}
+          {% if not page.hidden and page.level == 0 %}
+            {% if page.children %}
+              <div class="navbar-item has-dropdown">
+                  <a class="navbar-link dropdown-toggle" data-toggle="collapse" data-target="page-{{page.name}}-dropdown" href="{%if page.src %}{{page.name|href}}{%elif page.href%}{{page.href|href}}{%else%}javascript:void(0){%endif%}">
+                      {{ page.navtitle or page.title }}
+                    </a>
+                    <div class="navbar-dropdown" id="page-{{page.name}}-dropdown" data-toggle-class="is-active">
+                      {% for child in page.children %}
+                        {% if not child.hidden and child.level == 1 %}
+                          <a class="navbar-item" href="{{child.name|href}}">{{ child.navtitle or child.title }}</a>
+                        {% endif %}
+                      {% endfor %}
+                    </div>      
+              </div>
+            {% else %}
+              <a class="navbar-item" href="{{page.name|href}}">{{ page.navtitle or page.title }}</a>
             {% endif %}
-          {% endfor %}
-        </div>
+          {% endif %}
+        {% endfor %}
       </div>
     </div>
   </nav>
 
-  {% block mobile_side_menu %}
-  <div class="side-menu mobile-only" id="side-menu" data-toggle-class="is-active">
-      {% block extra_nav %}{% endblock %}
-      {% include "_side_menu.html" %}
-  </div>
-  {% endblock %}
-  {% block main %}
-    <section class="section">
-      <div class="container main">
-          {% block content %}{% endblock %}
-      </div>
-    </section>
-  {% endblock %}
-
-  <footer class="footer">
-    <div class="container">
-      <div class="content has-text-centered">
-        <ul class="links">
-          <li>
-              {{'curated-by'|translate}} <a href="https://kiprotect.com">KIProtect</a>
-          </li>
-          <li>
-              <a href="https://github.com/kiprotect/gdpr-portal">
-                Github
-              </a>
-          </li>
-          <li>
-              <a href="{{'imprint'|href}}">
-                {{'imprint'|translate}}
-              </a>
-          </li>
-        </ul>
-      </div>
+  <div class="main">
+    {% block mobile_side_menu %}    
+    <div class="side-menu" id="side-menu" data-toggle-class="is-active">
+        {% block extra_nav %}{% endblock %}
+        {% include "_side_menu.html" %}
     </div>
-  </footer>
+    {% endblock %}
+    {% block main %}
+      <section class="section content">
+        {% block content %}{% endblock %}
+      </section>
+    {% endblock %}
+  </div>
   <script defer type="text/javascript" src="{{'js/bulma.js'|file}}"></script>
   {% include "analytics.html" %}
   {% include "cookie-notice.html" %}

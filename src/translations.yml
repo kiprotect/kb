@@ -14,8 +14,8 @@ quick-access:
   de: Schnellzugriff
   en: Quick Access
 articles-overview:
-  de: § DSGVO
-  en: § GDPR
+  de: DSGVO
+  en: GDPR
 index-overview:
   de: Glossar
   en: Glossary 
@@ -186,8 +186,8 @@ index:
   de: glossar
   en: glossary
 gdpr:
-  en: law
-  de: Gesetz
+  en: GDPR
+  de: DSGVO
 entry:
   de: Eintrag
   en: Entry
