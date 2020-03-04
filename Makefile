@@ -1,7 +1,9 @@
 SITE = "src/site.yml"
+SHELL := /bin/bash
 
+all:	site
 
-all:	html
+export PATH := $(PATH):$(HOME)/.local/bin
 
 setup: virtualenv requirements
 
@@ -12,40 +14,22 @@ requirements:
 	venv/bin/pip install -r requirements.txt
 	npm ci
 
-
-prod:	html-prod
-
 sass:
 	node_modules/.bin/node-sass src/themes/docs/assets/scss/main.scss src/themes/docs/static/css/main.css
 
-html:	beam
+babel:
+	node_modules/.bin/babel src/**/*.es6 --out-dir "."
 
-beam: sass
+site: sass #babel
 	venv/bin/beam -vv up --site $(SITE)
-
-docs:	beam
-
-law-texts: law-texts-de law-texts-en
-
-law-texts-de:
-	 python3 helpers/parse_law.py src/de/gdpr/txt/articles.txt src/de/gdpr/txt/recitals.txt src/de/gdpr/txt/footnotes.txt src/de/gdpr de
-
-law-texts-en:
-	 python3 helpers/parse_law.py src/en/gdpr/txt/articles.txt src/en/gdpr/txt/recitals.txt src/en/gdpr/txt/footnotes.txt src/en/gdpr en
 
 clean:
 	rm -rf build/*
 
-watch-html: html
-	@which inotifywait || (echo "Please install inotifywait";exit 2)
-	@while true ; do \
-		inotifywait -r helpers src -e create,delete,move,modify || break; \
-		$(MAKE) html || break; \
-	done
+serve:
+	python3 -m http.server -d build 8111
 
-watch-docs: docs
-	@which inotifywait || (echo "Please install inotifywait";exit 2)
-	@while true ; do \
-		inotifywait -r helpers src -e create,delete,move,modify || break; \
-		$(MAKE) docs || break; \
-	done
+watch: site
+	./watch.sh
+
+
