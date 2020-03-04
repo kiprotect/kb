@@ -40,7 +40,7 @@
                       {% else %}
                         {% set href='' %}
                       {% endif %}
-                      <a class="navbar-item" href="{{href|full_href(language=language)}}">{{languages[language].title}}</a>
+                      <a class="navbar-item" href="{{href|full_href(language=language)}}">{{languages[language].language}}</a>
                     {% endif %}
                   {% endfor %}
                 </div>      
