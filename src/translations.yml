@@ -188,6 +188,9 @@ index:
 gdpr:
   en: GDPR
   de: DSGVO
+law:
+  en: law
+  de: Gesetz
 entry:
   de: Eintrag
   en: Entry

@@ -10,12 +10,12 @@ pages:
     index: true
     title: Welcome
     hidden: true
+  - title: Law Text
+    name: gdpr-articles-overview
   - src: en/imprint.html
     name: imprint
-    in_menu: true
     slug: imprint
     title: Imprint
-    hidden: true
 law: 
   $include: en/gdpr/main.yml
   templates:

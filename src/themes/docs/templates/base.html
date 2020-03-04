@@ -9,13 +9,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{'site-title'|translate}}{% if title is defined %} | {{title}}{%endif%}</title>
   <link rel="stylesheet" type="text/css" href="{{'css/main.css'|file}}">
+  {%filter highlight_styles%}{%endfilter%}
 </head>
 <body>
 
   <nav class="navbar is-dark">
     <div class="navbar-brand">
       <a class="navbar-item" href="{{''|href}}">
-        {{'site-title'|translate}}
+        {{title}}
       </a>
       <span class="navbar-burger burger" data-target="side-menu" data-toggle="collapse">
         <span></span>
@@ -39,7 +40,7 @@
                       {% else %}
                         {% set href='' %}
                       {% endif %}
-                      <a class="navbar-item" href="{{href|full_href(language=language)}}">{{languages[language].language}}</a>
+                      <a class="navbar-item" href="{{href|full_href(language=language)}}">{{languages[language].title}}</a>
                     {% endif %}
                   {% endfor %}
                 </div>      
@@ -73,12 +74,23 @@
   <div class="main">
     {% block mobile_side_menu %}    
     <div class="side-menu" id="side-menu" data-toggle-class="is-active">
+      <aside class="menu">
+        <p class="menu-label">
+            <a href="{{''|href}}">
+                <img src="{{'images/logos/kip-logo-white.png'|file}}" />
+            </a>
+            <br />
+            <a href="{{''|href}}">
+                {{'site-title'|translate}}
+            </a>
+        </p>
         {% block extra_nav %}{% endblock %}
         {% include "_side_menu.html" %}
+      </aside>
     </div>
     {% endblock %}
     {% block main %}
-      <section class="section content">
+      <section class="section first">
         {% block content %}{% endblock %}
       </section>
     {% endblock %}

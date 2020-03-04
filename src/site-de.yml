@@ -10,12 +10,12 @@ pages:
     index: true
     title: Willkommen
     hidden: true
+  - title: Gesetzestext
+    name: gdpr-articles-overview
   - src: de/impressum.html
     name: imprint
-    in_menu: true
     slug: impressum
     title: Impressum
-    hidden: true
 law:
   $include: de/gdpr/main.yml
   templates:

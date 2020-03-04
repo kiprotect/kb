@@ -8,8 +8,15 @@ body {
     font-family: "Nunito", sans-serif;
     font-weight: 400;
     min-height: 100vh;
+    color: $kip-medium-gray;
     @media(max-width: 767px){
         font-size: 0.8em;
+    }
+}
+
+.content {
+    h1, h2, h3, h4, h5, h6 {
+        color: $kip-medium-gray;
     }
 }
 
@@ -18,8 +25,11 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+h2.title,
+h2.subtitle {
     font-family: "Muli", sans-serif;
+    color: $kip-medium-gray;
 }
 
 .articles-overview, .index-overview {
@@ -195,8 +205,12 @@ img.country {
 
     z-index: auto;
 
+    @media(min-width: 1088px){
+        display: none;
+    }
+
     .navbar-brand, .navbar-menu {
-        background: $kip-medium-blue;
+        background: $kip-medium-gray;
     }
 
     .navbar-dropdown.is-active {
@@ -218,22 +232,73 @@ img.country {
 }
 
 section.section, .hero .hero-body {
+    max-width: 1000px;
     @media(max-width: 767px){
         padding: 1rem;
     }
 }
 
+section.section.first {
+    padding-top: 20px;
+}
+
+pre {
+    font-size:0.7rem;
+    background:inherit;
+}
+
+.with-comments {
+    @media(min-width: 1088px){
+        position: relative;
+        padding-right: calc(40% + 20px);
+        min-height: 100vh;
+    }
+
+    .comments {
+        @media(min-width: 1088px){
+            background: $kip-medium-blue;
+            position: absolute;
+            right: 0;
+            height: 100%;
+            width: 40%;
+        }
+    }
+
+    .comment {
+        padding: 10px;
+        background: $kip-medium-gray;
+        margin-bottom: 20px;
+        border-radius: 8px;
+        color: #fff;
+
+        @media(min-width: 1088px){
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+            position: absolute;
+            right: 0;
+            width: calc(40% + 20px);
+            margin-top: -20px;
+        }
+    }
+
+}
+
 .main {
 
-    min-height: calc(100vh - 120px);
 
     @media(min-width: 1088px){
+        min-height: 100vh;
         padding-left: 300px;
         position: relative;    
     }
 
+    @media(max-height: 1087px){
+        min-height: calc(100vh - 80px);
+    }
+
     .side-menu {
 
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2), 20px 20px 20px rgba(0, 0, 0, 0.001);
         padding: 0;
         margin: 0;
         background: $kip-medium-gray;
@@ -241,6 +306,7 @@ section.section, .hero .hero-body {
 
         a, .menu-label {
             color: #fff;
+            border-left: 10px solid rgba(0,0,0,0);
         }
 
         a.is-active {
@@ -266,7 +332,7 @@ section.section, .hero .hero-body {
             display: block;
             position: absolute;
             left: 0;
-            padding: 10px;
+            padding: 20px;
             top: 0;
             min-height: 100%;
             width: 300px;
@@ -311,7 +377,6 @@ section.section, .hero .hero-body {
         }
     }    
 }
-
 
 .hero.is-info .content {
     h1, h2, h3, h4, h5, h6 {
