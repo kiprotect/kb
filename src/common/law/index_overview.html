@@ -22,7 +22,7 @@
             {% for name, definition in definitions %}
             <tr>
                 <td>
-                    <a href="{{'gdpr-index-%s'|format(name)|href}}">{{definition.title}}</a>
+                    <a href="{{(law.name+'-index-%s')|format(name)|href}}">{{definition.title}}</a>
                 </td>
                 <td>
                     {% set index_values = index[name] %}

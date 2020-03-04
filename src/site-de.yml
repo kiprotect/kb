@@ -1,6 +1,6 @@
-title: GDPR - Community Portal
+title: Wissensportal
 language: Deutsch
-prefix: de/wissen/dsgvo
+prefix: de/wissen
 date-format: '%d.%m.%Y'
 context:
   keywords: [DSGVO, Datenschutzgrundvervordnung, Datenschutz, Portal, Open Source, Creative Commons, KIProtect]
@@ -10,7 +10,7 @@ pages:
     index: true
     title: Willkommen
     hidden: true
-  - title: Gesetzestext
+  - title: DSGVO
     name: gdpr-articles-overview
   - src: de/impressum.html
     name: imprint

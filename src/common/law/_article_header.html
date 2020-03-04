@@ -6,8 +6,8 @@
 </p>
 <div class="tabs">
     <ul>
-        <li{% if tab == 'article' %} class="is-active"{%endif%}><a href="{{'gdpr-article-%d'|format(article.number)|href}}">{{'article'|translate}}</a></li>
-        <li{% if tab == 'summary' %} class="is-active"{%endif%}><a href="{{'gdpr-article-%d-summary'|format(article.number)|href}}">{{'summary'|translate}}</a></li>
-        <li{% if tab == 'wiki' %} class="is-active"{%endif%}><a href="{{'gdpr-article-%d-wiki'|format(article.number)|href}}">{{'wiki'|translate}}</a></li>
+        <li{% if tab == 'article' %} class="is-active"{%endif%}><a href="{{(law.name+'-article-%d')|format(article.number)|href}}">{{'article'|translate}}</a></li>
+        <li{% if tab == 'summary' %} class="is-active"{%endif%}><a href="{{(law.name+'-article-%d-summary')|format(article.number)|href}}">{{'summary'|translate}}</a></li>
+        <li{% if tab == 'wiki' %} class="is-active"{%endif%}><a href="{{(law.name+'-article-%d-wiki')|format(article.number)|href}}">{{'wiki'|translate}}</a></li>
     </ul>
 </div>

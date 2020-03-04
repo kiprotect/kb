@@ -92,7 +92,7 @@ class LawBuilder(BaseBuilder):
         self.index_by_language[language] = {}
         index = defaultdict(set)
         c = {
-            'law_name' : self.site.translate(language, 'law').lower(),
+            'law_slug' : law['slug'],
             'chapter_name' : self.site.translate(language, 'chapter').lower(),
             'article_name' : self.site.translate(language, 'article').lower(),
             'section_name' : self.site.translate(language, 'section').lower(),
@@ -103,8 +103,8 @@ class LawBuilder(BaseBuilder):
         }
 
         self.slugs_by_language[language] = {
-            'articles-overview' : '{law_name}/index'.format(**c),
-            'index-overview' : '{law_name}/{index_overview}'.format(**c)
+            'articles-overview' : '{law_slug}/index'.format(**c),
+            'index-overview' : '{law_slug}/{index_overview}'.format(**c)
         }
 
         links = {
@@ -123,10 +123,10 @@ class LawBuilder(BaseBuilder):
                     cd.update(c)
                     if section['number'] == 0:
                         name = 'gdpr-article-{article}'.format(**cd)
-                        slug = '{law_name}/{chapter_name}-{chapter}/{article_name}-{article}'.format(**cd).lower()
+                        slug = '{law_slug}/{chapter_name}-{chapter}/{article_name}-{article}'.format(**cd).lower()
                     else:
                         name = 'gdpr-article-{article}'.format(**cd)
-                        slug = '{law_name}/{chapter_name}-{chapter}/{section_name}-{section}/{article_name}-{article}'.format(**cd).lower()
+                        slug = '{law_slug}/{chapter_name}-{chapter}/{section_name}-{section}/{article_name}-{article}'.format(**cd).lower()
 
                     wiki_name = name + '-wiki'
                     wiki_slug = slug + '/{wiki_name}'.format(**c)
@@ -161,7 +161,7 @@ class LawBuilder(BaseBuilder):
             return 'gdpr-index-{}'.format(value)
 
         def get_index_slug(value):
-            return '{law_name}/{index_name}/{value}'.format(index_name=index_name, value=value, law_name=c['law_name'])
+            return '{law_slug}/{index_name}/{value}'.format(index_name=index_name, value=value, law_slug=c['law_slug'])
 
         for key, values in index.items():
             for value in values:

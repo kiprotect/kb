@@ -6,7 +6,7 @@
                 {{'article'|translate}} {{art.number}}
             </td>
             <td>
-                <a href="{{'gdpr-article-%d'|format(art.number)|href}}">{{art.title|law_markup(lang, remove=True)|safe}}</a>
+                <a href="{{(law.name+'-article-%d')|format(art.number)|href}}">{{art.title|law_markup(lang, remove=True)|safe}}</a>
             </td>
         </tr>
     {% endfor %}

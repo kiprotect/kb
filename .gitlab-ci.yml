@@ -33,4 +33,4 @@ deploy:
     - if [ "$CI_COMMIT_REF_NAME" = "master" ]; then export DIRECTORY=master; fi;
     - if [ "$CI_COMMIT_REF_NAME" = "staging" ]; then export DIRECTORY=staging; fi;
     # we deploy the site
-    - if [ -n "$CI_COMMIT_REF_NAME" ]; then rsync --progress -r -e "ssh -o StrictHostKeyChecking=no -o identityFile=~/.ssh/id_rsa" build/* $USER@$HOST:$BASE_DIRECTORY/$DIRECTORY; fi;
+    - if [ -n "$CI_COMMIT_REF_NAME" ]; then rsync --progress --delete -r -e "ssh -o StrictHostKeyChecking=no -o identityFile=~/.ssh/id_rsa" build/* $USER@$HOST:$BASE_DIRECTORY/$DIRECTORY; fi;

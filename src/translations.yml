@@ -70,29 +70,25 @@ no-wiki-content:
     can create a new Wiki yourself, follow <a href="{new_url}">this link</a>
     for instructions.
 site-title:
-  de: DSGVO - Community-Portal
-  en: GDPR - Community Portal
+  de: Wissensdatenbank
+  en: Knowledge Base
 site-subtitle:
   de: >
     Willkommen! Dies ist ein gemeinschaftlich gepflegtes Informationsportal zur
+    Datenschutz und Datensicherheit. Es enthält u.a. Informationen zur
     europäischen Datenschutz-Grundverordnung (DSGVO). Ziel des Projekts ist,
     eine freie, umfangreiche und relevante Dokumentation zur Umsetzung der
     DS-GVO in Unternehmen und Organisationen zu schaffen.
   en: >
-    Welcome! This is a community-organized information portal about the
+    Welcome! This is a community-organized information portal about
+    data security and data protection. Among other things it contains information
+    about the
     European Data Protection Regulation (GDPR). Our aim is to provide free,
     high-quality and extensive documentation that helps you to make the GDPR
     work for your business or organization.
 new:
   de: Neu
   en: New
-main-news:
-  de: >
-    Annotierter Gesamttext der DSGVO mit Querverweisen als übersichtliche
-    HTML-Version oder downloadbares E-Book (PDF).
-  en: >
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-    ut aliquip ex ea commodo consequat.
 by:
   de: von
   en: by

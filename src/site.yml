@@ -1,4 +1,4 @@
-name: gdpr-portal
+name: knowledge-base
 static-path: kb/static
 blog-path: blog
 theme-path: src/themes/docs
@@ -21,4 +21,4 @@ translations:
 builders:
   - name: law-portal
     builder: helpers.law_builder.LawBuilder
-repo-url: 'https://github.com/kiprotect/gdpr-portal'
+repo-url: 'https://github.com/kiprotect/kb'

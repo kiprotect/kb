@@ -6,7 +6,7 @@
 
 <div class="articles-overview">
 
-    <h2 class="title">{{'gdpr'|translate}} - {{'quick-access'|translate}}</h2>
+    <h2 class="title">{{(law.name+'')|translate}} - {{'quick-access'|translate}}</h2>
 
     <table class="table is-striped is-hoverable is-fullwidth">
         <tbody>
@@ -18,7 +18,7 @@
                 <td>
                     {% for section in chapter.sections %}
                         {% for art in section.articles %}
-                            <a href="{{'gdpr-article-%d'|format(art.number)|href}}">{{art.number}}</a>
+                            <a href="{{(law.name+'-article-%d')|format(art.number)|href}}">{{art.number}}</a>
                         {% endfor %}
                     {% endfor %}
                 </td>

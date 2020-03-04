@@ -1,3 +1,5 @@
+name: gdpr
+slug: dsgvo
 chapters:
 - $include: chapters/1/main.yml
 - $include: chapters/2/main.yml

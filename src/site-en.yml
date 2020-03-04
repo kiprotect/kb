@@ -1,6 +1,6 @@
-title: GDPR - Community Portal
+title: Knowledge Base
 language: English
-prefix: kb/gdpr
+prefix: kb
 context:
   keywords: [GDPR, General Data Protection Regulation, Data Protection, Portal, Open Source, Creative Commons]
 date-format: '%Y-%m-%d'
@@ -10,7 +10,7 @@ pages:
     index: true
     title: Welcome
     hidden: true
-  - title: Law Text
+  - title: GDPR
     name: gdpr-articles-overview
   - src: en/imprint.html
     name: imprint
