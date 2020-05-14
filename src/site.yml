@@ -1,8 +1,7 @@
 name: knowledge-base
 static-path: kb/static
 blog-path: blog
-theme-path: src/themes/docs
-url: http://localhost:8000
+url: http://localhost:8111
 context:
   author: KIProtect GmbH
 path: /
@@ -17,7 +16,7 @@ languages:
   de:
     $include: site-de.yml
 translations:
-  $include: translations.yml
+  $include: translations/index.yml
 builders:
   - name: law-portal
     builder: helpers.law_builder.LawBuilder

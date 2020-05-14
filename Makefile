@@ -15,7 +15,7 @@ requirements:
 	npm ci
 
 sass:
-	node_modules/.bin/node-sass src/themes/docs/assets/scss/main.scss src/themes/docs/static/css/main.css
+	node_modules/.bin/node-sass src/assets/scss/main.scss src/static/css/main.css
 
 babel:
 	node_modules/.bin/babel src/**/*.es6 --out-dir "."
