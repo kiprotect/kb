@@ -12,7 +12,7 @@ pages:
     hidden: true
   - title: DSGVO
     name: gdpr-articles-overview
-  - link: https://kiprotect.com/de/impressum
+  - link: https://kiprotect.com/de/unternehmen/impressum
     name: imprint
     title: Impressum
 law:
