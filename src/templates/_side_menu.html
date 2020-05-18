@@ -31,7 +31,7 @@
                 {% set href='' %}
             {% endif %}
             <li>
-                <a class="{% if lang == language %}is-open is-active{%endif%}" href="{{href|full_href(language=language)}}">
+                <a class="{% if lang == language %}is-open is-active{%endif%}" href="{{href|href(language=language)}}">
                     {{languages[language].language}}
                 </a>
             </li>
