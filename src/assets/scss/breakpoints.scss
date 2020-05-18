@@ -1,4 +1,5 @@
-$mobile: 768px;
-$tablet: 1024px;
-$desktop: 1216px;
-$widescreen: 1408px;
+$gap: 64px;
+$mobile: 767px + $gap;
+$tablet: 1023px + $gap;
+$desktop: 1215px + $gap;
+$widescreen: 1407px + $gap;

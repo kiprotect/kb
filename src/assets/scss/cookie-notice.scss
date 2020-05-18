@@ -1,13 +1,13 @@
 
 .message.cookie-notice {
     display: none;
-    @media(min-width: 768px){
+    @media(min-width: $mobile + 1px){
         position: fixed;
         bottom: 20px;
         right: 20px;
         max-width: 300px;
     }
-    @media(max-width:767px){
+    @media(max-width:$mobile){
         border: none;
         border-radius: 0;
         width: 100%;

@@ -87,13 +87,13 @@
 
 .message.cookie-notice {
   display: none; }
-  @media (min-width: 768px) {
+  @media (min-width: 832px) {
     .message.cookie-notice {
       position: fixed;
       bottom: 20px;
       right: 20px;
       max-width: 300px; } }
-  @media (max-width: 767px) {
+  @media (max-width: 831px) {
     .message.cookie-notice {
       border: none;
       border-radius: 0;
@@ -107,14 +107,14 @@
 
 body {
   font-family: "Nunito", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 20px;
   line-height: 1.6;
   min-height: 100vh;
   color: #222; }
-  @media (max-width: 767px) {
+  @media (max-width: 831px) {
     body {
-      font-size: 0.8em; } }
+      font-size: 16px; } }
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
   font-weight: 300; }
@@ -148,30 +148,30 @@ h2.subtitle {
 .articles-overview table.table a, .index-overview table.table a {
   padding-right: 1rem; }
 
-@media (max-width: 767px) {
+@media (max-width: 831px) {
   .articles-overview table.table thead, .index-overview table.table thead {
     display: none; } }
 
-@media (min-width: 768px) {
+@media (min-width: 832px) {
   .articles-overview table.table thead tr th:first-child, .index-overview table.table thead tr th:first-child {
     text-align: right; } }
 
-@media (max-width: 767px) {
+@media (max-width: 831px) {
   .articles-overview table.table tbody tr td:nth-child(2n+1), .index-overview table.table tbody tr td:nth-child(2n+1) {
     border-bottom: none; } }
 
-@media (min-width: 768px) {
+@media (min-width: 832px) {
   .articles-overview table.table tbody tr td:first-child, .index-overview table.table tbody tr td:first-child {
     text-align: right;
     width: 200px; }
     .articles-overview table.table tbody tr td:first-child a, .index-overview table.table tbody tr td:first-child a {
       padding-right: 0; } }
 
-@media (max-width: 767px) {
+@media (max-width: 831px) {
   .articles-overview table.table tbody tr td, .index-overview table.table tbody tr td {
     display: block; } }
 
-@media (min-width: 768px) {
+@media (min-width: 832px) {
   .index-overview table.table tbody tr td:first-child {
     width: 300px; }
     .index-overview table.table tbody tr td:first-child a {
@@ -191,7 +191,7 @@ h2.subtitle {
 h1.title {
   font-weight: 300;
   text-align: left; }
-  @media (min-width: 1200px) {
+  @media (min-width: 1280px) {
     h1.title {
       font-size: 4em;
       margin-bottom: 1em !important; } }
@@ -218,7 +218,7 @@ footer.footer {
   height: 64px;
   width: auto; }
 
-@media (min-width: 768px) {
+@media (min-width: 832px) {
   .message p.with-img {
     padding-left: 120px;
     position: relative;
@@ -227,7 +227,7 @@ footer.footer {
       position: absolute;
       left: 0; } }
 
-@media (max-width: 767px) {
+@media (max-width: 831px) {
   .message p.with-img img {
     display: block;
     margin: 0 auto;
@@ -246,7 +246,7 @@ img.country {
     max-width: 80%;
     max-height: 40px;
     margin: 10px; }
-    @media (min-width: 768px) {
+    @media (min-width: 832px) {
       .card .card-image img.teaser-img {
         margin: 40px;
         height: 60px; } }
@@ -271,13 +271,13 @@ img.country {
 
 section.section, .hero .hero-body {
   max-width: 1000px; }
-  @media (max-width: 767px) {
+  @media (max-width: 831px) {
     section.section, .hero .hero-body {
       padding: 1rem; } }
 
 section.section.first {
   padding-top: 34px; }
-  @media (max-width: 1024px) {
+  @media (max-width: 1087px) {
     section.section.first {
       padding-top: 20px; } }
 
@@ -319,10 +319,6 @@ pre {
     min-height: 100vh;
     padding-left: 340px;
     position: relative; } }
-
-@media (max-height: 1087px) {
-  .main {
-    min-height: calc(100vh - 80px); } }
 
 .main .side-menu {
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2), 20px 20px 20px rgba(0, 0, 0, 0.001);
@@ -377,6 +373,9 @@ pre {
       padding-left: 10px;
       padding-right: 10px;
       padding-top: 60px; } }
+  @media (max-width: 831px) {
+    .main .side-menu.is-active {
+      width: 100%; } }
 
 .hero.is-info .content h1, .hero.is-info .content h2, .hero.is-info .content h3, .hero.is-info .content h4, .hero.is-info .content h5, .hero.is-info .content h6 {
   color: #fff; }
