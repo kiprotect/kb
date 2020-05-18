@@ -12,9 +12,8 @@ pages:
     hidden: true
   - title: GDPR
     name: gdpr-articles-overview
-  - src: en/imprint.html
+  - link: https://kiprotect.com/imprint
     name: imprint
-    slug: imprint
     title: Imprint
 law: 
   $include: en/gdpr/main.yml

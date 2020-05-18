@@ -12,9 +12,8 @@ pages:
     hidden: true
   - title: DSGVO
     name: gdpr-articles-overview
-  - src: de/impressum.html
+  - link: https://kiprotect.com/de/impressum
     name: imprint
-    slug: impressum
     title: Impressum
 law:
   $include: de/gdpr/main.yml
