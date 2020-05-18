@@ -1,0 +1,11 @@
+name: gdpr
+slug: dsgvo
+chapters:
+- $include: chapters/1/main.yml
+dir: de/gdpr
+footnotes:
+- $include: footnotes/1.yml
+index:
+  $include: index.yml
+recitals:
+- $include: recitals/1.yml

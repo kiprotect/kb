@@ -1,4 +1,4 @@
-SITE = "src/site.yml"
+SITE = "src/site-dev.yml"
 SHELL := /bin/bash
 
 all:	site

@@ -1,0 +1,27 @@
+name: knowledge-base
+static-path: kb/static
+blog-path: blog
+url: http://localhost:8111
+context:
+  author: KIProtect GmbH
+path: /
+languages:
+  #these pages will be copied to all languages
+  $all:
+    pages: []
+  #english pages
+  en:
+    $include:
+      - site-en.yml
+      - site-en-dev.yml
+  #german pages
+  de:
+    $include:
+      - site-de.yml
+      - site-de-dev.yml
+translations:
+  $include: translations/index.yml
+builders:
+  - name: law-portal
+    builder: helpers.law_builder.LawBuilder
+repo-url: 'https://github.com/kiprotect/kb'
