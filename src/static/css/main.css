@@ -107,7 +107,7 @@
 
 body {
   font-family: "Nunito", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 20px;
   line-height: 1.6;
   min-height: 100vh;
@@ -276,7 +276,7 @@ section.section, .hero .hero-body {
       padding: 1rem; } }
 
 section.section.first {
-  padding-top: 40px; }
+  padding-top: 34px; }
   @media (max-width: 1024px) {
     section.section.first {
       padding-top: 20px; } }
