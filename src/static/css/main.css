@@ -105,15 +105,17 @@
 
 body {
   font-family: "Nunito", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.6;
   min-height: 100vh;
-  color: #525f7f; }
+  color: 222; }
   @media (max-width: 767px) {
     body {
       font-size: 0.8em; } }
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
-  color: #525f7f; }
+  font-weight: 300; }
 
 h1,
 h2,
@@ -123,8 +125,8 @@ h5,
 h6,
 h2.title,
 h2.subtitle {
-  font-family: "Muli", sans-serif;
-  color: #525f7f; }
+  font-weight: 300;
+  font-family: "Muli", sans-serif; }
 
 .articles-overview .subtitle, .index-overview .subtitle {
   font-size: 1.6rem;
@@ -185,7 +187,7 @@ h2.subtitle {
   background: #193E70; }
 
 h1.title {
-  font-weight: 600;
+  font-weight: 300;
   text-align: left; }
   @media (min-width: 1200px) {
     h1.title {
@@ -193,6 +195,7 @@ h1.title {
       margin-bottom: 1em !important; } }
 
 h2.subtitle {
+  font-weight: 300;
   text-align: left; }
 
 .box {
@@ -252,7 +255,7 @@ img.country {
     .navbar {
       display: none; } }
   .navbar .navbar-brand, .navbar .navbar-menu {
-    background: #525f7f; }
+    background: #2581c4; }
   .navbar .navbar-dropdown.is-active {
     display: block; }
   .navbar .navbar-menu {
@@ -271,7 +274,10 @@ section.section, .hero .hero-body {
       padding: 1rem; } }
 
 section.section.first {
-  padding-top: 20px; }
+  padding-top: 40px; }
+  @media (max-width: 1024px) {
+    section.section.first {
+      padding-top: 20px; } }
 
 pre {
   font-size: 0.7rem;
@@ -309,7 +315,7 @@ pre {
 @media (min-width: 1088px) {
   .main {
     min-height: 100vh;
-    padding-left: 300px;
+    padding-left: 340px;
     position: relative; } }
 
 @media (max-height: 1087px) {
@@ -320,7 +326,7 @@ pre {
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2), 20px 20px 20px rgba(0, 0, 0, 0.001);
   padding: 0;
   margin: 0;
-  background: #525f7f;
+  background: #2581c4;
   color: #fff; }
   .main .side-menu a, .main .side-menu .menu-label {
     color: #fff;
@@ -341,7 +347,8 @@ pre {
       display: block;
       position: absolute;
       left: 0;
-      padding: 20px;
+      padding-left: 10px;
+      padding-top: 40px;
       top: 0;
       min-height: 100%;
       width: 300px; } }
