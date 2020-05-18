@@ -59,29 +59,31 @@
   font-style: normal;
   src: url("../fonts/Nunito-Light.woff") format("woff"); }
 
-.article {
-  font-size: 1.2em;
-  line-height: 150%; }
-  .article h1.title {
+.article h1.title {
+  margin-bottom: 1em; }
+
+.article h2.subtitle {
+  margin-bottom: 0.5em; }
+
+.article a.index {
+  color: inherit;
+  border-bottom: 1px dashed #95C11F; }
+
+.article ul.paragraphs, .article ul.points {
+  margin-left: 0;
+  margin-top: 1em;
+  position: relative;
+  list-style: none; }
+  .article ul.paragraphs li, .article ul.points li {
     margin-bottom: 1em; }
-  .article h2.subtitle {
-    margin-bottom: 0.5em; }
-  .article a.index {
-    color: inherit;
-    border-bottom: 1px dashed #95C11F; }
-  .article ul.paragraphs, .article ul.points {
-    margin-left: 0;
-    margin-top: 1em;
-    position: relative;
-    list-style: none; }
-    .article ul.paragraphs li, .article ul.points li {
-      margin-bottom: 1em; }
-  .article ul.paragraphs li {
-    margin-left: 2.2em; }
-  .article ul.paragraphs li > span.art-number {
-    font-weight: 600;
-    position: absolute;
-    left: 0; }
+
+.article ul.paragraphs li {
+  margin-left: 2.2em; }
+
+.article ul.paragraphs li > span.art-number {
+  font-weight: 400;
+  position: absolute;
+  left: 0; }
 
 .message.cookie-notice {
   display: none; }

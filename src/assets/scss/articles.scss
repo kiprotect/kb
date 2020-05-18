@@ -8,9 +8,6 @@
         margin-bottom : 0.5em;
     }
 
-    font-size: 1.2em;
-    line-height: 150%;
-
     a.index {
         color: inherit;
         border-bottom: 1px dashed $ss-green;
@@ -31,7 +28,7 @@
             margin-left: 2.2em;
         }
         li > span.art-number {
-            font-weight: 600;
+            font-weight: 400;
             position: absolute;
             left: 0;
         }
