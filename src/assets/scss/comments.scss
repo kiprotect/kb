@@ -1,0 +1,35 @@
+
+.with-comments {
+    @media(min-width: 1088px){
+        position: relative;
+        padding-right: calc(40% + 80px);
+        min-height: 100vh;
+    }
+
+    .comments {
+        @media(min-width: 1088px){
+            background: #eee;
+            position: absolute;
+            right: 0;
+            height: 100%;
+            width: 40%;
+        }
+    }
+
+    .comment {
+        padding: 0;
+        box-shadow: $box-shadow;
+        margin-bottom: 20px;
+
+        @media(min-width: 1088px){
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+            position: absolute;
+            padding-right: 0;
+            right: 0;
+            width: calc(40% + 40px);
+            margin-top: -20px;
+        }
+    }
+
+}

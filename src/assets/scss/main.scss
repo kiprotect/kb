@@ -1,5 +1,7 @@
 @import 'colors.scss';
+@import 'variables.scss';
 @import 'fonts.scss';
+@import 'comments.scss';
 @import 'breakpoints.scss';
 @import 'articles.scss';
 @import 'cookie-notice.scss';
@@ -250,44 +252,9 @@ section.section.first {
 }
 
 pre {
-    font-size:0.7rem;
+    font-family: Source Code Pro, monospace;
     background:inherit;
-}
-
-.with-comments {
-    @media(min-width: $tablet + 1px){
-        position: relative;
-        padding-right: calc(40% + 20px);
-        min-height: 100vh;
-    }
-
-    .comments {
-        @media(min-width: $tablet + 1px){
-            background: $kip-medium-blue;
-            position: absolute;
-            right: 0;
-            height: 100%;
-            width: 40%;
-        }
-    }
-
-    .comment {
-        padding: 10px;
-        background: $kip-medium-gray;
-        margin-bottom: 20px;
-        border-radius: 8px;
-        color: #fff;
-
-        @media(min-width: $tablet + 1px){
-            border-top-right-radius: 0;
-            border-bottom-right-radius: 0;
-            position: absolute;
-            right: 0;
-            width: calc(40% + 20px);
-            margin-top: -20px;
-        }
-    }
-
+    font-size: 0.9rem;
 }
 
 .main {
@@ -301,7 +268,7 @@ pre {
 
     .side-menu {
 
-        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2), 20px 20px 20px rgba(0, 0, 0, 0.001);
+        box-shadow: $box-shadow;
         padding: 0;
         margin: 0;
         background: $kip-medium-blue;

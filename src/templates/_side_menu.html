@@ -3,8 +3,8 @@
         {% if not pg.hidden and pg.level == 0 %}
             <li>
             {% if pg.children %}
-                <a class="{%if page.slug.startswith(pg.slug)%}is-active{%endif%}" href="{%if pg.link %}{{link}}{%elif pg.href%}{{pg.href|href}}{%elif pg.name %}{{pg.name|href}}{%else%}#{%endif%}" data-toggle="collapse" data-target="page-{{pg.name}}-nav">{{pg.title or pg.navtitle}}</a>
-                <ul class="{%if not page.slug.startswith(pg.slug)%}is-hidden{%endif%}" id="page-{{pg.name}}-nav">
+                <a class="{%if page and page.slug.startswith(pg.slug)%}is-active{%endif%}" href="{%if pg.link %}{{link}}{%elif pg.href%}{{pg.href|href}}{%elif pg.name %}{{pg.name|href}}{%else%}#{%endif%}" data-toggle="collapse" data-target="page-{{pg.name}}-nav">{{pg.title or pg.navtitle}}</a>
+                <ul class="{%if page and not page.slug.startswith(pg.slug)%}is-hidden{%endif%}" id="page-{{pg.name}}-nav">
                     {% for child in pg.children %}
                         {% if not child.hidden and child.level == 1 %}
                             <li>

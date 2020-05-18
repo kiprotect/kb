@@ -12,6 +12,14 @@ pages:
     hidden: true
   - title: GDPR
     name: gdpr-articles-overview
+  - title: Privacy Engineering
+    name: privacy-engineering
+    slug: privacy-engineering
+    children:
+      - src: en/privacy engineering/index.md
+        name: index
+        navtitle: Overview
+        title: Privacy Engeering Handbook
   - link: https://kiprotect.com/company/imprint
     name: imprint
     title: Imprint

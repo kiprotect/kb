@@ -1,6 +1,8 @@
 name: knowledge-base
 static-path: kb/static
 blog-path: blog
+#markdown:
+#  template: markdown.html
 url: http://localhost:8111
 context:
   author: KIProtect GmbH
