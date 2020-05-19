@@ -26,15 +26,12 @@
         <ul id="menu-language-dropdown" class="is-hidden">
         {% for language in languages %}
             {% if params.name in site.links[language] %}
-                {% set href=params.name %}
-            {% else %}
-                {% set href='' %}
+                <li>
+                    <a class="{% if lang == language %}is-open is-active{%endif%}" href="{{params.name|href(language=language)}}">
+                        {{languages[language].language}}
+                    </a>
+                </li>
             {% endif %}
-            <li>
-                <a class="{% if lang == language %}is-open is-active{%endif%}" href="{{href|href(language=language)}}">
-                    {{languages[language].language}}
-                </a>
-            </li>
         {% endfor %}
         </ul>      
     </li>
