@@ -1,4 +1,4 @@
-beam-up>=1.0.6
+beam-up>=1.0.7
 pygments
 roman
 pyyaml
