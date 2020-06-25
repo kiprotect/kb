@@ -40,7 +40,7 @@ h2.subtitle {
     font-family: "Muli", sans-serif;
 }
 
-.articles-overview, .index-overview {
+.articles-overview, .index-overview, .recitals-overview {
 
     .subtitle {
         font-size: 1.6rem;
@@ -103,6 +103,15 @@ h2.subtitle {
     }
     
 }
+
+.recitals-overview {
+    ul {
+        li {
+            margin-bottom: 20px;
+        }
+    }
+}
+
 
 .index-overview table.table tbody tr td:first-child {
     @media(min-width: $mobile + 1px){
@@ -279,21 +288,35 @@ pre {
 
         a, .menu-label {
             color: #fff;
-            border-left: 10px solid rgba(0,0,0,0);
+            border-left: 4px solid rgba(0,0,0,0);
         }
 
         a.is-active {
-            border-left: 10px $kip-medium-blue solid;
+            background-color: $ss-darkblue;
             border-radius: 0;
-            background: inherit;
         }
 
         .menu-list {
+            &.law-menu {
+                background-color: $ss-green;
+
+                a.is-active {
+                    background-color: $ss-green2;
+                }
+
+            }
             li ul {
                 border-left: none;
+                padding-left: 0;
+                margin-left: 0;
+                margin-top: 0;
+                margin-bottom: 0;
+                li a {
+                    padding-left: 20px;
+                }
             }
             a:hover {
-                background: inherit;
+                background: $kip-medium-gray;
             }    
         }
 
@@ -305,7 +328,7 @@ pre {
             display: block;
             position: absolute;
             left: 0;
-            padding-left: 10px;
+            padding-left: 0;
             padding-top: 40px;
             top: 0;
             min-height: 100%;
@@ -325,6 +348,15 @@ pre {
         }
     
         aside.menu {
+
+            a {
+                border-radius: 0;
+            }
+
+            p.menu-label {
+                border-radius: 0;
+            }
+            
             margin-bottom: 15px;
     
             &.mobile-only {

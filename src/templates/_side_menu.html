@@ -3,18 +3,20 @@
         {% if not pg.hidden and pg.level == 0 %}
             <li>
             {% if pg.children %}
-                <a class="{%if page and page.slug.startswith(pg.slug)%}is-active{%endif%}" href="{%if pg.link %}{{link}}{%elif pg.href%}{{pg.href|href}}{%elif pg.name %}{{pg.name|href}}{%else%}#{%endif%}" data-toggle="collapse" data-target="page-{{pg.name}}-nav">{{pg.title or pg.navtitle}}</a>
-                <ul class="{%if page and not page.slug.startswith(pg.slug)%}is-hidden{%endif%}" id="page-{{pg.name}}-nav">
+                <a class="{%if page and page.name.startswith(pg.name)%}is-active{%endif%}" href="{%if pg.link %}{{link}}{%elif pg.href%}{{pg.href|href}}{%elif pg.name %}{{pg.name|href}}{%else%}#{%endif%}" data-toggle="collapse" data-target="page-{{pg.name}}-nav">{{pg.title or pg.navtitle}}</a>
+                <ul class="{%if page and not page.name.startswith(pg.name) or not page%}is-hidden{%endif%}" id="page-{{pg.name}}-nav">
                     {% for child in pg.children %}
                         {% if not child.hidden and child.level == 1 %}
                             <li>
-                                <a href="{{child.name|href}}">{{child.navtitle or child.title}}</a>
+                                <a class="{%if page and page.name.startswith(child.name)%}is-active{%endif%}" href="{{child.name|href}}">{{child.navtitle or child.title}}</a>
                             </li>
                         {% endif %}
                     {% endfor %}
                 </ul>
             {% else %}
-                <a href="{%if pg.link %}{{pg.link}}{%elif pg.href %}{{pg.href|href}}{%elif pg.name%}{{pg.name|href}}{%else%}#{%endif%}">{{pg.navtitle or pg.title}}</a>
+                {% if not pg.hide_if_active or (page and pg.name and not page.name.startswith(pg.name)) %}
+                <a class="{%if page and page.name.startswith(pg.name)%}is-active{%endif%}" href="{%if pg.link %}{{pg.link}}{%elif pg.href %}{{pg.href|href}}{%elif pg.name%}{{pg.name|href}}{%else%}#{%endif%}">{{pg.navtitle or pg.title}}</a>
+                {% endif %}
             {% endif %}
             </li>
         {% endif %}

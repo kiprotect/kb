@@ -12,6 +12,7 @@ pages:
     hidden: true
   - title: GDPR
     name: gdpr-articles-overview
+    hide_if_active: true
   - title: Privacy & Security Engineering
     name: privacy-security-engineering
     slug: privacy-security-engineering

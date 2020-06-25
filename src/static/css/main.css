@@ -257,46 +257,49 @@ h2.subtitle {
   font-weight: 300;
   font-family: "Muli", sans-serif; }
 
-.articles-overview .subtitle, .index-overview .subtitle {
+.articles-overview .subtitle, .index-overview .subtitle, .recitals-overview .subtitle {
   font-size: 1.6rem;
   margin-bottom: 1rem; }
 
-.articles-overview .subsubtitle, .index-overview .subsubtitle {
+.articles-overview .subsubtitle, .index-overview .subsubtitle, .recitals-overview .subsubtitle {
   font-size: 1.4rem;
   margin-bottom: 0.5rem; }
 
-.articles-overview p.description, .index-overview p.description {
+.articles-overview p.description, .index-overview p.description, .recitals-overview p.description {
   padding: 1rem;
   background: #fafafa;
   font-style: italic;
   border-radius: 4px;
   margin-bottom: 1rem; }
 
-.articles-overview table.table a, .index-overview table.table a {
+.articles-overview table.table a, .index-overview table.table a, .recitals-overview table.table a {
   padding-right: 1rem; }
 
 @media (max-width: 831px) {
-  .articles-overview table.table thead, .index-overview table.table thead {
+  .articles-overview table.table thead, .index-overview table.table thead, .recitals-overview table.table thead {
     display: none; } }
 
 @media (min-width: 832px) {
-  .articles-overview table.table thead tr th:first-child, .index-overview table.table thead tr th:first-child {
+  .articles-overview table.table thead tr th:first-child, .index-overview table.table thead tr th:first-child, .recitals-overview table.table thead tr th:first-child {
     text-align: right; } }
 
 @media (max-width: 831px) {
-  .articles-overview table.table tbody tr td:nth-child(2n+1), .index-overview table.table tbody tr td:nth-child(2n+1) {
+  .articles-overview table.table tbody tr td:nth-child(2n+1), .index-overview table.table tbody tr td:nth-child(2n+1), .recitals-overview table.table tbody tr td:nth-child(2n+1) {
     border-bottom: none; } }
 
 @media (min-width: 832px) {
-  .articles-overview table.table tbody tr td:first-child, .index-overview table.table tbody tr td:first-child {
+  .articles-overview table.table tbody tr td:first-child, .index-overview table.table tbody tr td:first-child, .recitals-overview table.table tbody tr td:first-child {
     text-align: right;
     width: 200px; }
-    .articles-overview table.table tbody tr td:first-child a, .index-overview table.table tbody tr td:first-child a {
+    .articles-overview table.table tbody tr td:first-child a, .index-overview table.table tbody tr td:first-child a, .recitals-overview table.table tbody tr td:first-child a {
       padding-right: 0; } }
 
 @media (max-width: 831px) {
-  .articles-overview table.table tbody tr td, .index-overview table.table tbody tr td {
+  .articles-overview table.table tbody tr td, .index-overview table.table tbody tr td, .recitals-overview table.table tbody tr td {
     display: block; } }
+
+.recitals-overview ul li {
+  margin-bottom: 20px; }
 
 @media (min-width: 832px) {
   .index-overview table.table tbody tr td:first-child {
@@ -427,15 +430,24 @@ pre {
   color: #fff; }
   .main .side-menu a, .main .side-menu .menu-label {
     color: #fff;
-    border-left: 10px solid rgba(0, 0, 0, 0); }
+    border-left: 4px solid rgba(0, 0, 0, 0); }
   .main .side-menu a.is-active {
-    border-left: 10px #2581c4 solid;
-    border-radius: 0;
-    background: inherit; }
+    background-color: #193E70;
+    border-radius: 0; }
+  .main .side-menu .menu-list.law-menu {
+    background-color: #95C11F; }
+    .main .side-menu .menu-list.law-menu a.is-active {
+      background-color: #6E9600; }
   .main .side-menu .menu-list li ul {
-    border-left: none; }
+    border-left: none;
+    padding-left: 0;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0; }
+    .main .side-menu .menu-list li ul li a {
+      padding-left: 20px; }
   .main .side-menu .menu-list a:hover {
-    background: inherit; }
+    background: #525f7f; }
   @media (max-width: 1087px) {
     .main .side-menu {
       display: none; } }
@@ -444,7 +456,7 @@ pre {
       display: block;
       position: absolute;
       left: 0;
-      padding-left: 10px;
+      padding-left: 0;
       padding-top: 40px;
       top: 0;
       min-height: 100%;
@@ -456,6 +468,10 @@ pre {
     margin-right: 0; }
   .main .side-menu aside.menu {
     margin-bottom: 15px; }
+    .main .side-menu aside.menu a {
+      border-radius: 0; }
+    .main .side-menu aside.menu p.menu-label {
+      border-radius: 0; }
     @media (min-width: 1088px) {
       .main .side-menu aside.menu.mobile-only {
         display: none; } }

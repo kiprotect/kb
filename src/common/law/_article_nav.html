@@ -1,37 +1,41 @@
-<aside class="menu">
-    <p class="menu-label">
+{% if article is undefined %}
+    {% set article = {} %}
+{% endif %}
+<ul class="law-menu menu-list">
+    <li>
         <a href="{{(law.name+'-articles-overview')|href}}">{{law.name|translate}}</a>
-    </p>
-    <ul class="menu-list">
-    {% for chapter in law.chapters %}
-        <li>
-            <a class="{% if article.chapter == chapter.number %}is-open is-active{%endif%}" data-toggle="collapse" data-target="chapter-{{chapter.number}}-nav">{{'chapter'|translate}} {{chapter.roman_number}}</a>
-            {% if chapter.sections|length > 1 %}
-                <ul class="{% if article.chapter != chapter.number %}is-hidden{%endif%}" id="chapter-{{chapter.number}}-nav">
-                {% for section in chapter.sections %}
-                    <li>
-                        <a class="{% if article.section == section.number and article.chapter == chapter.number %}is-open is-active{%endif%}" data-toggle="collapse" data-target="chapter-{{chapter.number}}-section-{{section.number}}-nav">{{'section'|translate}} {{section.number}}</a>
-                        <ul class="{% if article.chapter != chapter.number or article.section != section.number %}is-hidden{%endif%}" id="chapter-{{chapter.number}}-section-{{section.number}}-nav">
-                            {% for art in section.articles %}
-                                <li>
-                                    <a class="{% if article.number == art.number %}is-open is-active{%endif%}" href="{{(law.name+'-article-%d')|format(art.number)|href}}">{{'article'|translate}} {{art.number}}</a>
-                                </li>
-                            {% endfor %}
-                        </ul>
-                    </li>
-                {% endfor %}
-                </ul>
-            {% else %}
-                {% set section = chapter.sections[0] %}
-                <ul class="{% if article.chapter != chapter.number %}is-hidden{%endif%}" id="chapter-{{chapter.number}}-nav">
-                {% for art in section.articles %}
-                    <li>
-                        <a class="{% if article.number == art.number %}is-open is-active{%endif%}" href="{{(law.name+'-article-%d')|format(art.number)|href}}">{{'article'|translate}} {{art.number}}</a>
-                    </li>
-                {% endfor %}
-                </ul>
-            {% endif %}
-        </li>
-    {% endfor %}
-    </ul>
-</aside>                
+    </li>
+    <li>
+        <a href="{{'gdpr-recitals'|href}}">{{'recitals'|translate}}</a>
+    </li>
+{% for chapter in law.chapters %}
+    <li>
+        <a class="{% if article.chapter == chapter.number %}is-open is-active{%endif%}" data-toggle="collapse" data-target="chapter-{{chapter.number}}-nav">{{'chapter'|translate}} {{chapter.roman_number}}</a>
+        {% if chapter.sections|length > 1 %}
+            <ul class="{% if article.chapter != chapter.number %}is-hidden{%endif%}" id="chapter-{{chapter.number}}-nav">
+            {% for section in chapter.sections %}
+                <li>
+                    <a class="{% if article.section == section.number and article.chapter == chapter.number %}is-open is-active{%endif%}" data-toggle="collapse" data-target="chapter-{{chapter.number}}-section-{{section.number}}-nav">{{'section'|translate}} {{section.number}}</a>
+                    <ul class="{% if article.chapter != chapter.number or article.section != section.number %}is-hidden{%endif%}" id="chapter-{{chapter.number}}-section-{{section.number}}-nav">
+                        {% for art in section.articles %}
+                            <li>
+                                <a class="{% if article.number == art.number %}is-open is-active{%endif%}" href="{{(law.name+'-article-%d')|format(art.number)|href}}">{{'article'|translate}} {{art.number}}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% endfor %}
+            </ul>
+        {% else %}
+            {% set section = chapter.sections[0] %}
+            <ul class="{% if article.chapter != chapter.number %}is-hidden{%endif%}" id="chapter-{{chapter.number}}-nav">
+            {% for art in section.articles %}
+                <li>
+                    <a class="{% if article.number == art.number %}is-open is-active{%endif%}" href="{{(law.name+'-article-%d')|format(art.number)|href}}">{{'article'|translate}} {{art.number}}</a>
+                </li>
+            {% endfor %}
+            </ul>
+        {% endif %}
+    </li>
+{% endfor %}
+</ul>
