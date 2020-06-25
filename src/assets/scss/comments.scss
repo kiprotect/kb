@@ -1,13 +1,13 @@
 
 .with-comments {
-    @media(min-width: 1088px){
+    @media(min-width: $tablet + 1px){
         position: relative;
         padding-right: calc(40% + 80px);
         min-height: 100vh;
     }
 
     .comments {
-        @media(min-width: 1088px){
+        @media(min-width: $tablet + 1px){
             background: #eee;
             position: absolute;
             right: 0;
@@ -21,7 +21,7 @@
         box-shadow: $box-shadow;
         margin-bottom: 20px;
 
-        @media(min-width: 1088px){
+        @media(min-width: $tablet + 1px){
             border-top-right-radius: 0;
             border-bottom-right-radius: 0;
             position: absolute;

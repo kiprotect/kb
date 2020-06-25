@@ -1,8 +1,11 @@
-@import 'colors.scss';
+// always include these first
 @import 'variables.scss';
+@import 'colors.scss';
+@import 'breakpoints.scss';
+
+
 @import 'fonts.scss';
 @import 'comments.scss';
-@import 'breakpoints.scss';
 @import 'articles.scss';
 @import 'cookie-notice.scss';
 @import '../css/bulma.min.css';
