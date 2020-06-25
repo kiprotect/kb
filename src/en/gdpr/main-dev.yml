@@ -8,5 +8,4 @@ footnotes:
 index:
   $include: index.yml
 recitals:
-  1:
-    $include: recitals/1.yml
+  - $include: recitals/1.yml

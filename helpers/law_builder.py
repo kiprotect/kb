@@ -116,9 +116,9 @@ class LawBuilder(BaseBuilder):
             'gdpr-recitals' : self.site.get_link_dst(self.slugs_by_language[language]['recitals'], language),
             'gdpr-index-overview' : self.site.get_link_dst(self.slugs_by_language[language]['index-overview'], language)
         }
-        for recital, data in law['recitals'].items():
-            name = f'gdpr-recital-{recital}'
-            self.recitals_by_language[language][recital] = data
+        for recital in law['recitals']:
+            name = f'gdpr-recital-{recital["number"]}'
+            self.recitals_by_language[language][recital['number']] = recital
 
         for chapter in law['chapters']:
             for section in chapter['sections']:
@@ -244,7 +244,6 @@ class LawBuilder(BaseBuilder):
     def build_recitals_overview(self, language, recitals):
         law = self.get_law(language)
         input = self.site.load(law['templates']['recitals'])
-        print(input)
         vars = {
             'recitals' : recitals,
             'article' : {}, #we need a dummy object otherwise Jinja complains
@@ -271,7 +270,7 @@ class LawBuilder(BaseBuilder):
     def build_recitals(self):
         for language, recitals in self.recitals_by_language.items():
             self.build_recitals_overview(language, recitals)
-            for name, recital in recitals.items():
+            for recital in recitals:
                 self.build_recital(recital, language)
 
     def build_articles(self):

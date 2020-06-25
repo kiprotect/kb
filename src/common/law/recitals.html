@@ -9,7 +9,7 @@
     <h2 class="title">{{(law.name+'')|translate}} - {{'recitals'|translate}}</h2>
 
     <ul>
-    {% for i, recital in law.recitals.items() %}
+    {% for recital in law.recitals %}
         <li id="{{'recital'|translate}}-{{recital.number}}">
             <strong>{{recital.number}})</strong>
             {{recital.content|law_markup(lang)|safe}}
