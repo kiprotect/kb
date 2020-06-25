@@ -9,7 +9,7 @@ which fswatch
 FSWATCH_AVAILABLE=$!
 if which inotifywait; then
     while true ; do \
-        inotifywait -r src -e create,delete,move,modify || break; \
+        inotifywait -r src helpers -e create,delete,move,modify || break; \
         make site || break; \
     done
 elif which fswatch; then

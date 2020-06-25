@@ -4,3 +4,4 @@ wiki: file://common/law/article_wiki.html
 index_page: file://common/law/index_page.html
 index_overview: file://common/law/index_overview.html
 articles_overview: file://common/law/articles_overview.html
+recitals: file://common/law/recitals.html

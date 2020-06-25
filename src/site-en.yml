@@ -12,14 +12,18 @@ pages:
     hidden: true
   - title: GDPR
     name: gdpr-articles-overview
-  - title: Privacy Engineering
-    name: privacy-engineering
-    slug: privacy-engineering
+  - title: Privacy & Security Engineering
+    name: privacy-security-engineering
+    slug: privacy-security-engineering
     children:
-      - src: en/privacy engineering/index.md
+      - src: en/privacy-security-engineering/index.md
         name: index
         navtitle: Overview
-        title: Privacy Engeering Handbook
+        title: Privacy & Security Engeering Handbook
+      - src: en/privacy-security-engineering/framework.md
+        name: framework
+        navtitle: Framework
+        title: Privacy & Security Engeering Framework
   - link: https://kiprotect.com/company/imprint
     name: imprint
     title: Imprint

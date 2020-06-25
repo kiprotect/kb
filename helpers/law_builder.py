@@ -68,6 +68,7 @@ class LawBuilder(BaseBuilder):
     def __init__(self, site):
         super().__init__(site)
         self.articles_by_language = {}
+        self.recitals_by_language = {}
         self.index_by_language = {}
         self.chapters_by_language = {}
         self.sections_by_language = {}
@@ -89,6 +90,7 @@ class LawBuilder(BaseBuilder):
 
     def create_links(self, law, language):
         self.articles_by_language[language] = {}
+        self.recitals_by_language[language] = {}
         self.index_by_language[language] = {}
         index = defaultdict(set)
         c = {
@@ -99,18 +101,24 @@ class LawBuilder(BaseBuilder):
             'wiki_name' : self.site.translate(language, 'wiki').lower(),
             'summary_name' : self.site.translate(language, 'summary').lower(),
             'q_and_a_name' : self.site.translate(language, 'q-and-a').lower(),
+            'recitals': self.site.translate(language, 'recitals').lower(),
             'index_overview' : self.site.translate(language, 'index-overview').lower()
         }
 
         self.slugs_by_language[language] = {
             'articles-overview' : '{law_slug}/index'.format(**c),
+            'recitals': '{law_slug}/{recitals}'.format(**c),
             'index-overview' : '{law_slug}/{index_overview}'.format(**c)
         }
 
         links = {
             'gdpr-articles-overview' : self.site.get_link_dst(self.slugs_by_language[language]['articles-overview'], language),
+            'gdpr-recitals' : self.site.get_link_dst(self.slugs_by_language[language]['recitals'], language),
             'gdpr-index-overview' : self.site.get_link_dst(self.slugs_by_language[language]['index-overview'], language)
         }
+        for recital, data in law['recitals'].items():
+            name = f'gdpr-recital-{recital}'
+            self.recitals_by_language[language][recital] = data
 
         for chapter in law['chapters']:
             for section in chapter['sections']:
@@ -230,6 +238,23 @@ class LawBuilder(BaseBuilder):
             return match.group(0)
         return regex.sub(sub, c)
 
+    def build_recital(self, language, recital):
+        pass
+
+    def build_recitals_overview(self, language, recitals):
+        law = self.get_law(language)
+        input = self.site.load(law['templates']['recitals'])
+        print(input)
+        vars = {
+            'recitals' : recitals,
+            'article' : {}, #we need a dummy object otherwise Jinja complains
+            'law' : law,
+            'title' : self.site.translate(language, 'recitals')
+        }
+        output = self.site.process(input, {'type' : 'html', 'name' : 'gdpr-recitals'}, vars, language)
+        filename = self.site.get_dst(self.slugs_by_language[language]['recitals'], language)
+        self.site.write(output, filename)
+
     def build_articles_overview(self, language, articles):
         law = self.get_law(language)
         input = self.site.load(law['templates']['articles_overview'])
@@ -242,6 +267,12 @@ class LawBuilder(BaseBuilder):
         output = self.site.process(input, {'type' : 'html', 'name' : 'gdpr-articles-overview'}, vars, language)
         filename = self.site.get_dst(self.slugs_by_language[language]['articles-overview'], language)
         self.site.write(output, filename)
+
+    def build_recitals(self):
+        for language, recitals in self.recitals_by_language.items():
+            self.build_recitals_overview(language, recitals)
+            for name, recital in recitals.items():
+                self.build_recital(recital, language)
 
     def build_articles(self):
         for language, articles in self.articles_by_language.items():
@@ -303,6 +334,7 @@ class LawBuilder(BaseBuilder):
 
     def build(self):
         self.build_articles()
+        self.build_recitals()
         self.build_index()
 
     def build_article(self, article, language):

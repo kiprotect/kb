@@ -1,0 +1,24 @@
+{% extends("base.html") %}
+{% block extra_nav %}
+    {% include "common/law/_article_nav.html" %}
+{% endblock %}
+{%block content%}
+
+<div class="articles-overview">
+
+    <h2 class="title">{{(law.name+'')|translate}} - {{'recitals'|translate}}</h2>
+
+    <ul>
+    {% for i, recital in law.recitals.items() %}
+        <li id="{{'recital'|translate}}-{{recital.number}}">
+            <strong>{{recital.number}})</strong>
+            {{recital.content|law_markup(lang)|safe}}
+        </li>
+    {% endfor %}
+    </ul>
+
+
+</div>
+
+
+{%endblock%}
