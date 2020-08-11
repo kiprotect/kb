@@ -1,6 +1,6 @@
 {
-  "name": "gdpr-portal",
-  "version": "1.0.0",
+  "name": "kiprotect-kb",
+  "version": "0.0.1",
   "description": "[Deutsche Version](README-DE.md)",
   "main": "index.js",
   "dependencies": {},
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiprotect/gdpr-portal.git"
+    "url": "git+https://github.com/kiprotect/kb.git"
   },
   "author": "KIProtect GmbH",
-  "license": "UNLICENSED",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
   "bugs": {
-    "url": "https://github.com/kiprotect/gdpr-portal/issues"
+    "url": "https://github.com/kiprotect/kb/issues"
   },
-  "homepage": "https://github.com/kiprotect/gdpr-portal#readme"
+  "homepage": "https://github.com/kiprotect/kb#readme"
 }
