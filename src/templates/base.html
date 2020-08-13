@@ -9,6 +9,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{'site-title'|translate}}{% if title is defined %} | {{title}}{%endif%}</title>
   <link rel="stylesheet" type="text/css" href="{{'css/main.css'|file}}">
+  {% block klaro %}
+  {% block klaro_config %}
+  <script defer type="application/javascript" src="{{'js/klaro-config.js'|file}}"></script>
+  {% endblock klaro_config %}
+  <script defer type="application/javascript" src="https://cdn.kiprotect.com/klaro/latest/klaro.js" data-config="klaroConfig" data-style-prefix="klaro"></script>
+  {% endblock klaro %}
   {%filter highlight_styles%}{%endfilter%}
 </head>
 <body>
